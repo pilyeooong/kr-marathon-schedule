@@ -74,10 +74,15 @@ def save_json(data):
 
     save_folder = "marathon_data"
     os.makedirs(save_folder, exist_ok=True)
+
     filepath = os.path.join(save_folder, filename)
+    latest_filepath = os.path.join(save_folder, "latest-marathon-schedule.json")
 
     with open(filepath, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
+    
+    with open(latest_filepath, "w", encoding="utf-8") as latest_file:
+        json.dump(data, latest_file, ensure_ascii=False, indent=4)
 
 def main():
     url = "http://www.roadrun.co.kr/schedule/list.php"
