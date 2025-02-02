@@ -5,11 +5,17 @@ import os
 from bs4 import BeautifulSoup
 from datetime import datetime
 
+BASE_YEAR = datetime.now().strftime("%Y")
+
+
 def fetch_html(url):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
-    response = requests.get(url, headers=headers)
+    form_data = {
+        "syear_key": BASE_YEAR,
+    }
+    response = requests.post(url, headers=headers, data=form_data)
     response.encoding = response.apparent_encoding
     return BeautifulSoup(response.text, "html.parser")
 
@@ -34,7 +40,10 @@ def extract_marathon_data(rows):
         if not fonts:
             continue
         date = fonts[0].text.strip() if len(fonts) > 0 else None
-        day = fonts[1].text.strip("()") if len(fonts) > 1 else None
+        parts = date.split("/")
+        month = int(parts[0]) if len(parts) > 0 else None
+        day = int(parts[1]) if len(parts) > 1 else None
+        day_of_week = fonts[1].text.strip("()") if len(fonts) > 1 else None
 
         event_name = cols[1].find("a").text.strip() if cols[1].find("a") else None
         if not event_name:
@@ -57,8 +66,11 @@ def extract_marathon_data(rows):
         organizer = [org.strip() for org in organizer_text.split(",")] if organizer_text else []
 
         marathon_data.append({
+            "year": BASE_YEAR,
             "date": date,
+            "month": month,
             "day": day,
+            "day_of_week": day_of_week,
             "event_name": event_name,
             "tags": tags,
             "location": location,
