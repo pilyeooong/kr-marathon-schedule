@@ -1,0 +1,3 @@
+[console_scripts]
+kr-marathon-schedule = kr_marathon_schedule.cli:main
+marathon-scraper = kr_marathon_schedule.cli:main

@@ -1,0 +1,75 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kr-marathon-schedule"
+version = "0.1.0"
+description = "A Python package for scraping marathon and running event schedules in Korea"
+readme = "README.md"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+license = {text = "MIT"}
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+]
+keywords = ["marathon", "running", "korea", "scraping", "schedule"]
+requires-python = ">=3.8"
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "requests>=2.25.0",
+    "certifi>=2021.10.8",
+    "charset-normalizer>=2.0.0",
+    "idna>=3.0",
+    "soupsieve>=2.0",
+    "urllib3>=1.26.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=6.0",
+    "pytest-cov>=2.0",
+    "black>=22.0",
+    "flake8>=4.0",
+    "mypy>=0.910",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/kr-marathon-schedule"
+Repository = "https://github.com/yourusername/kr-marathon-schedule"
+Issues = "https://github.com/yourusername/kr-marathon-schedule/issues"
+
+[project.scripts]
+kr-marathon-schedule = "kr_marathon_schedule.cli:main"
+marathon-scraper = "kr_marathon_schedule.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["kr_marathon_schedule*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "--cov=kr_marathon_schedule --cov-report=term-missing"
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+
+[tool.mypy]
+python_version = "3.8"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
