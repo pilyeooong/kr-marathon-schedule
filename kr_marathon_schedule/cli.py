@@ -51,13 +51,20 @@ def main():
         help="Verbose output"
     )
     
+    parser.add_argument(
+        "--no-details",
+        action="store_true",
+        help="Skip fetching detailed information from individual event pages"
+    )
+    
     args = parser.parse_args()
     
     try:
         if args.verbose:
             print(f"Scraping marathon data for year: {args.year or 'current'}")
         
-        scraper = MarathonScraper(args.year)
+        fetch_details = not args.no_details
+        scraper = MarathonScraper(args.year, fetch_details)
         data = scraper.scrape()
         
         if args.verbose:
