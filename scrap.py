@@ -5,15 +5,15 @@ import os
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-BASE_YEAR = datetime.now().strftime("%Y")
+TARGET_YEARS = ["2025", "2026"]
 
 
-def fetch_html(url):
+def fetch_html(url, year):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
     form_data = {
-        "syear_key": BASE_YEAR,
+        "syear_key": year,
     }
     response = requests.post(url, headers=headers, data=form_data)
     response.encoding = response.apparent_encoding
@@ -30,7 +30,7 @@ def parse_table(soup):
     
     return tables[1] if len(tables) > 1 else None
 
-def extract_marathon_data(rows):
+def extract_marathon_data(rows, year):
     marathon_data = []
 
     for row in rows:
@@ -48,7 +48,7 @@ def extract_marathon_data(rows):
         event_name = cols[1].find("a").text.strip() if cols[1].find("a") else None
         if not event_name:
             continue
-        
+
         tags_text = cols[1].find_all("font")[1].text.strip()
 
         tags = [tag.strip() for tag in tags_text.split(",")] if tags_text else []
@@ -66,7 +66,7 @@ def extract_marathon_data(rows):
         organizer = [org.strip() for org in organizer_text.split(",")] if organizer_text else []
 
         marathon_data.append({
-            "year": BASE_YEAR,
+            "year": year,
             "date": date,
             "month": month,
             "day": day,
@@ -98,17 +98,25 @@ def save_json(data):
 
 def main():
     url = "http://www.roadrun.co.kr/schedule/list.php"
+    all_marathon_data = []
 
-    soup = fetch_html(url)
-    table = parse_table(soup)
-    
-    if not table:
-        print("테이블을 찾을 수 없습니다.")
-        return
+    for year in TARGET_YEARS:
+        soup = fetch_html(url, year)
+        table = parse_table(soup)
 
-    rows = table.find_all("tr")
-    marathon_json = extract_marathon_data(rows)
-    save_json(marathon_json)
+        if not table:
+            print(f"{year}년 테이블을 찾을 수 없습니다.")
+            continue
+
+        rows = table.find_all("tr")
+        year_data = extract_marathon_data(rows, year)
+        all_marathon_data.extend(year_data)
+        print(f"{year}년: {len(year_data)}개 대회 수집")
+
+    if all_marathon_data:
+        all_marathon_data.sort(key=lambda x: (x["year"], x["month"], x["day"]))
+        save_json(all_marathon_data)
+        print(f"총 {len(all_marathon_data)}개 대회 저장 완료")
 
 if __name__ == "__main__":
     main()
