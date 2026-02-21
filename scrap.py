@@ -125,6 +125,29 @@ def fetch_detail_data(event_id, headers):
 
         detail = {}
 
+        # 테이블에서 상세 정보 추출
+        for table in soup.find_all("table"):
+            for row in table.find_all("tr"):
+                cells = row.find_all("td")
+                if len(cells) >= 2:
+                    header = cells[0].get_text(strip=True)
+                    value = cells[1].get_text(strip=True)
+                    if "대표자" in header:
+                        detail["representative"] = value
+                    elif "대회일시" in header:
+                        time_match = re.search(r"출발시간[:\s]*([\d:]+)", value)
+                        if time_match:
+                            detail["start_time"] = time_match.group(1)
+                    elif "접수기간" in header:
+                        detail["registration_period"] = value
+                    elif "대회지역" in header:
+                        detail["region"] = value
+                    elif "대회장" in header and "대회장소" not in header:
+                        detail["venue_detail"] = value
+                    elif "기타소개" in header:
+                        detail["description"] = value
+
+        # GPS 좌표 및 지도 주소 추출 (Naver Maps JS)
         scripts = soup.find_all("script")
         for script in scripts:
             text = script.string or ""
@@ -138,14 +161,6 @@ def fetch_detail_data(event_id, headers):
                 addr_text = re.sub(r"<[^>]+>", "", "".join(parts)).strip()
                 if addr_text:
                     detail["map_address"] = addr_text
-
-        for table in soup.find_all("table"):
-            for row in table.find_all("tr"):
-                cells = row.find_all("td")
-                if len(cells) >= 2:
-                    header = cells[0].get_text(strip=True)
-                    if "대회지역" in header:
-                        detail["region"] = cells[1].get_text(strip=True)
 
         return detail
     except Exception as e:
@@ -171,8 +186,8 @@ def save_json(data):
 
 def main():
     parser = argparse.ArgumentParser(description="마라톤 대회 일정 크롤러")
-    parser.add_argument("--detail", action="store_true",
-                        help="상세 페이지에서 GPS 좌표, 지도주소, 지역 정보 추가 수집")
+    parser.add_argument("--no-detail", action="store_true",
+                        help="상세 페이지 크롤링을 건너뛰고 리스트 페이지만 수집")
     args = parser.parse_args()
 
     url = "http://www.roadrun.co.kr/schedule/list.php"
@@ -194,7 +209,7 @@ def main():
         all_marathon_data.extend(year_data)
         print(f"{year}년: {len(year_data)}개 대회 수집")
 
-    if args.detail:
+    if not args.no_detail:
         print("상세 페이지 크롤링 시작...")
         for i, event in enumerate(all_marathon_data):
             event_id = event.get("event_id")

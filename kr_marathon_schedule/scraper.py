@@ -180,8 +180,10 @@ class MarathonScraper:
                             detail_data["representative"] = value
                         elif "E-mail" in header:
                             detail_data["email"] = value
-                        elif "출발시간" in header:
-                            detail_data["start_time"] = value
+                        elif "대회일시" in header:
+                            time_match = re.search(r"출발시간[:\s]*([\d:]+)", value)
+                            if time_match:
+                                detail_data["start_time"] = time_match.group(1)
                         elif "접수기간" in header:
                             detail_data["registration_period"] = value
                         elif "홈페이지" in header:
