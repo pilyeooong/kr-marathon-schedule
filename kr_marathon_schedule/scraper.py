@@ -83,13 +83,15 @@ class MarathonScraper:
                 continue
             
             detail_url = None
+            event_id = None
             if event_name_link and event_name_link.get("href"):
                 href = event_name_link.get("href")
                 if href.startswith("javascript:open_window"):
                     match = re.search(r"'view\.php\?no=(\d+)'", href)
                     if match:
-                        detail_url = f"schedule/view.php?no={match.group(1)}"
-            
+                        event_id = match.group(1)
+                        detail_url = f"schedule/view.php?no={event_id}"
+
             tags_text = cols[1].find_all("font")[1].text.strip() if len(cols[1].find_all("font")) > 1 else ""
             tags = [tag.strip() for tag in tags_text.split(",")] if tags_text else []
             
@@ -105,7 +107,22 @@ class MarathonScraper:
                 phone = None
             
             organizer = [org.strip() for org in organizer_text.split(",")] if organizer_text else []
-            
+
+            homepage = None
+            home_img = cols[3].find("img", src=lambda s: s and "home.gif" in s)
+            if home_img and home_img.parent and home_img.parent.name == "a":
+                h = home_img.parent.get("href", "")
+                if h and not h.startswith("javascript:"):
+                    homepage = h
+
+            list_email = None
+            email_img = cols[3].find("img", src=lambda s: s and "email.gif" in s)
+            if email_img and email_img.parent and email_img.parent.name == "a":
+                h = email_img.parent.get("href", "")
+                mail_match = re.search(r"mail_url=([^'\"&]+)", h)
+                if mail_match:
+                    list_email = mail_match.group(1)
+
             base_data = {
                 "year": self.base_year,
                 "date": date,
@@ -118,6 +135,12 @@ class MarathonScraper:
                 "organizer": organizer,
                 "phone": phone
             }
+            if event_id:
+                base_data["event_id"] = event_id
+            if homepage:
+                base_data["homepage"] = homepage
+            if list_email:
+                base_data["email"] = list_email
             
             if detail_url and self.fetch_details:
                 detail_data = self.fetch_detail_data(detail_url)
@@ -167,7 +190,28 @@ class MarathonScraper:
                             detail_data["description"] = value
                         elif "대회장" in header and "대회장소" not in header:
                             detail_data["venue_detail"] = value
-            
+                        elif "대회지역" in header:
+                            detail_data["region"] = value
+
+            # GPS 좌표 및 지도 주소 추출 (Naver Maps JS)
+            scripts = soup.find_all("script")
+            for script in scripts:
+                text = script.string or ""
+                coord_match = re.search(
+                    r"naver\.maps\.LatLng\(\s*([\d.]+)\s*,\s*([\d.]+)\s*\)", text
+                )
+                if coord_match:
+                    detail_data["latitude"] = float(coord_match.group(1))
+                    detail_data["longitude"] = float(coord_match.group(2))
+
+                if "contentString" in text:
+                    cs_start = text.index("contentString")
+                    cs_end = text.index(".join", cs_start) if ".join" in text[cs_start:] else len(text)
+                    parts = re.findall(r"'([^']*)'", text[cs_start:cs_end])
+                    addr_text = re.sub(r"<[^>]+>", "", "".join(parts)).strip()
+                    if addr_text:
+                        detail_data["map_address"] = addr_text
+
             return detail_data
             
         except Exception as e:
