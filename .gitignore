@@ -68,3 +68,4 @@ test_output/
 *.bak
 *.swp
 *~.nib
+.omc/

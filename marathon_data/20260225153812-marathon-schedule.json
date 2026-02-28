@@ -17188,8 +17188,8 @@
         "representative": "장영기",
         "start_time": ":",
         "region": "충남",
-        "registration_period": "2026년1월24일~2026년3월3일",
-        "description": "많은 관심과 참여 바랍니다.감사합니다."
+        "registration_period": "2026년1월24일~2026년2월28일",
+        "description": "선착순 3000명 접수 및 입금순 마감됩니다.조기마감될 수 있으므로 신청을 서둘러주세요.많은 관심과 참여 바랍니다. 감사합니다."
     },
     {
         "year": "2026",
@@ -17527,7 +17527,7 @@
             "10km",
             "5km"
         ],
-        "location": "여의도한강공원 물빛무대 앞 광장",
+        "location": "여의도공원 문화의 마당",
         "organizer": [
             "(사)한국생활체육연맹"
         ],
@@ -17606,6 +17606,35 @@
         "latitude": 37.4352191,
         "longitude": 126.6907208,
         "map_address": "인천광역시 미추홀구 매소홀로 618"
+    },
+    {
+        "year": "2026",
+        "date": "3/22",
+        "month": 3,
+        "day": 22,
+        "day_of_week": "일",
+        "event_name": "2026 서울 K-마라톤",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "광화문광장",
+        "organizer": [
+            "K마라톤 조직위"
+        ],
+        "phone": "02-2135-1232",
+        "event_id": "41215",
+        "homepage": "http://seoulmarathon.org/main.php",
+        "email": "kstma0320@naver.com",
+        "representative": "송재진",
+        "start_time": "08:00",
+        "region": "서울",
+        "registration_period": "2025년11월4일~2025년11월23일",
+        "venue_detail": "",
+        "description": "서울 K-마라톤3/22 08:00광화문광장2025년 11월 04일 (화) ~ 11월 23일 (일)",
+        "latitude": 37.5709799,
+        "longitude": 126.9761884,
+        "map_address": "서울특별시 종로구 세종대로 163"
     },
     {
         "year": "2026",
@@ -17695,62 +17724,6 @@
         "latitude": 36.4835615,
         "longitude": 127.2887819,
         "map_address": "세종 세종동 29-111"
-    },
-    {
-        "year": "2026",
-        "date": "3/28",
-        "month": 3,
-        "day": 28,
-        "day_of_week": "토",
-        "event_name": "제3회 Night Run&Walk in 밀양",
-        "tags": [
-            "5km"
-        ],
-        "location": "밀양시 삼문동 밀양강둔치 일원",
-        "organizer": [
-            "밀양문화관광재단"
-        ],
-        "phone": "055-359-4582",
-        "event_id": "41429",
-        "homepage": "http://www.mywalk.kr",
-        "email": "satrend@mycf.or.kr",
-        "representative": "이치우",
-        "start_time": "18:30",
-        "region": "경남",
-        "registration_period": "2026년2월25일~2026년3월22일",
-        "venue_detail": "",
-        "description": "벚꽃빛 강변에 펼쳐지는 Hot한 밤의 질주!'제3회 Night Run&Walk in 밀양은 봄밤 밀양강변을 따라 달리고 걷는5km 야간 러닝 페스티벌입니다.기록에 도전하는 러너는 선두 출발 후 논스톱으로 완주 가능하며, 체험형 참가자는 코스 곳곳에 준비된 '매운맛' 시식과 함께 자유롭게 걷고 달릴 수 있습니다.벚꽃야경, 강변코스, 그리고 밀양만의 Hot한 매력까지기록과 음식을 동시에 즐길 수 있는 이색 나이트 이벤트봄밤 가장 뜨거운 5km를 경험해보세요.<행사개요>진행일시: 2026. 3. 28.(토) 16:00~진행장소: 밀양시 삼문동 밀양강둔치 일원모집기간: 2026. 2. 25.(수)~3. 22.(일)운영코스: 5km참가비: 20,000원(참가 신청 후 현장 등록 시 밀양사랑상품권 10,000원 페이백)문의: 밀양문화관광재단 관광팀 055-359-4582",
-        "latitude": 35.4898841,
-        "longitude": 128.7568099,
-        "map_address": "경남 밀양시 삼문동1-1"
-    },
-    {
-        "year": "2026",
-        "date": "3/28",
-        "month": 3,
-        "day": 28,
-        "day_of_week": "토",
-        "event_name": "2026 유아차 런",
-        "tags": [
-            "8km"
-        ],
-        "location": "광화문광장",
-        "organizer": [
-            "서울특별시"
-        ],
-        "phone": "02-338-0344",
-        "event_id": "41428",
-        "homepage": "http://seoulstrollerrun.co.kr/",
-        "email": "jsk@naver.com",
-        "representative": "주상은",
-        "start_time": "8",
-        "region": "서울",
-        "registration_period": "2026년3월5일~2026년3월6일",
-        "venue_detail": "",
-        "description": "2026 서울 유아차 런일정\t2026년 3월 28일(토) 07:30 ~ 12:00 / 출발 오전 8시 30분접수일정\t2026년 3월 5일(목) 오전 10시 ~ 선착순 접수 마감*신청자를 기준으로 5,000가족 선착순 접수를 진행합니다.결제 마감 기간 : 2026년 3월 6일(금) 17시까지*마감 기한 내 결제가 완료되지 않을 경우, 참가 신청은 자동 취소 및 삭제됩니다.추가접수 : 2026년 3월 9일(월) 오전 10시 ~ 결제자 기준 선착순 마감*잔여석에 한해 추가 접수를 진행하며, 결제자 기준 선착순 마감됩니다.참가자격\t영유아, 초등학생 이하 아동 동반 가족(유아차 동반 : 달리는 토끼반, 걷는 거북이반 / 유아차 미동반 : 유아차 졸업반 신청)참가인원\t5,000 가족 ((토끼반 1,000가족 / 거북이반 3,000 가족 / 유아차 졸업반 1,000 가족))장소\t광화문 광장(출발) / 여의도공원 문화의마당(도착)코스\t광화문 광장(출발) → 세종대로 사거리 → 숭례문 오거리 → 중림동 삼거리→ 충정로 사거리→ 애오개역 → 공덕역 → 마포역 → 여의도공원 문화의마당(도착)*코스는 운영상황에 따라 변경될 수 있습니다.프로그램\t출발지 행사 / 유아차 런 / 도착지 행사참가비\t50,000원 * 불참시 참가비 환불은 불가합니다.주최서울특별시메인후원우리은행",
-        "latitude": 37.5718479,
-        "longitude": 126.9761683,
-        "map_address": "서울특별시 종로구 세종대로 175"
     },
     {
         "year": "2026",
@@ -18189,35 +18162,6 @@
         "latitude": 35.1883802,
         "longitude": 128.5646913,
         "map_address": "경상남도 창원시 마산합포구 해안대로 148"
-    },
-    {
-        "year": "2026",
-        "date": "3/29",
-        "month": 3,
-        "day": 29,
-        "day_of_week": "일",
-        "event_name": "2026 서울 K-마라톤",
-        "tags": [
-            "하프",
-            "10km"
-        ],
-        "location": "광화문광장",
-        "organizer": [
-            "K마라톤 조직위"
-        ],
-        "phone": "02-2135-1232",
-        "event_id": "41215",
-        "homepage": "http://seoulmarathon.org/main.php",
-        "email": "kstma0320@naver.com",
-        "representative": "송재진",
-        "start_time": "07:30",
-        "region": "서울",
-        "registration_period": "2025년11월4일~2026년3월8일",
-        "venue_detail": "",
-        "description": "서울 K-마라톤3/22 08:00광화문광장2025년 11월 04일 (화) ~ 11월 23일 (일)",
-        "latitude": 37.5709799,
-        "longitude": 126.9761884,
-        "map_address": "서울특별시 종로구 세종대로 163"
     },
     {
         "year": "2026",
@@ -18965,35 +18909,6 @@
         "latitude": 37.5183647,
         "longitude": 126.8776954,
         "map_address": "서울특별시 양천구 안양천로 812"
-    },
-    {
-        "year": "2026",
-        "date": "4/12",
-        "month": 4,
-        "day": 12,
-        "day_of_week": "일",
-        "event_name": "산이정원패밀리ESG RECE STEP1",
-        "tags": [
-            "10km",
-            "2km 걷기"
-        ],
-        "location": "산이정원",
-        "organizer": [
-            "산이정원"
-        ],
-        "phone": "061-375-1201",
-        "event_id": "41427",
-        "homepage": "http://xn--zl2bt5ac3ce9g95id2ah6ab60d.kr/",
-        "email": "ds4bjt@hanmail.net",
-        "representative": "안종옥",
-        "start_time": "09:30",
-        "region": "전남",
-        "registration_period": "2026년3월3일~2026년2월27일",
-        "venue_detail": "",
-        "description": "정원을 품은 솔라시도 마라톤에 달림이 여러분들을 초대합니다.많은 관심과 접수 부탁드립니다.",
-        "latitude": 34.7088535,
-        "longitude": 126.3871113,
-        "map_address": "전남 해남군 산이면 구성리 664"
     },
     {
         "year": "2026",
@@ -20070,36 +19985,6 @@
         "month": 5,
         "day": 2,
         "day_of_week": "토",
-        "event_name": "제26회 여성마라톤",
-        "tags": [
-            "10km",
-            "5km",
-            "3km걷기"
-        ],
-        "location": "서울 상암동 월드컵공원 평화광",
-        "organizer": [
-            "(주)여성신문사"
-        ],
-        "phone": "02-2036-9274",
-        "event_id": "41425",
-        "homepage": "http://www.womenmarathon.co.kr",
-        "email": "wincb@womennews.co.kr",
-        "representative": "김효선",
-        "start_time": "7:30",
-        "region": "서울",
-        "registration_period": "2026년1월15일~2026년3월31일",
-        "venue_detail": "",
-        "description": "여성마라톤은 여성과 가족,시민 모두의 건강한 삶과 평등한 일상을 응원하는 시민 참여형 스포츠 문화 축제입니다.2026 여성마라톤 2001년부터 달리기를 통해 건강의 가치를 나누고, 일상 속에서 실천할 수 있는 성평등과 연대의 메시지를 사회 전반에 확산해 왔습니다.우리는 기록과 경쟁을 넘어 각자의 속도로 함께 달리는 경험을 소중히 여깁니다. 남녀노소 누구나 참여할 수 있는 열린 축제로, 가족과 친구, 동료가 함께 어울리며 건강한 사회적 연결을 만들어갑니다.여성마라톤은 여성의 건강권과 인권에 대한 사회적 인식을 높이고, 스포츠를 통해 지속 가능한 건강 실천 문화를 확산하는 것을 목표로 합니다.시민과 지자체, 시민사회, 기업이 함께 만드는 공공의 축제로서 앞으로도 더 건강하고 활기찬 일상을 향한 발걸음을 응원하겠습니다.Purpose of the Women’s MarathonThe Women’s Marathon is a citizen-participatory sports and cultural festival that promotes healthy, equal, and active lives for women, families, and all members of society.Since 2001, the event has shared the value of health through running and has promoted gender equality and social solidarity in everyday life.This marathon goes beyond records and competition. It focuses on running at your own pace and enjoying the experience together, welcoming people of all ages and genders.The Women’s Marathon also aims to raise awareness of women’s health and human rights and to encourage sustainable, everyday health practices through sport.Created through the collaboration of citizens, local governments, civic organizations, and corporate partners, the event continues to support healthier and more vibrant daily lives for all.",
-        "latitude": 37.5659053,
-        "longitude": 126.8964648,
-        "map_address": "서울특별시 마포구 월드컵로 251"
-    },
-    {
-        "year": "2026",
-        "date": "5/2",
-        "month": 5,
-        "day": 2,
-        "day_of_week": "토",
         "event_name": "제26회 5.18마라톤대회",
         "tags": [
             "10km",
@@ -20715,7 +20600,7 @@
         "month": 5,
         "day": 23,
         "day_of_week": "토",
-        "event_name": "2026 안양천 장미꽃 축제 마라톤",
+        "event_name": "2026 안양천 장미 마라톤",
         "tags": [
             "하프",
             "10km",
@@ -21363,7 +21248,7 @@
         "representative": "영덕육상",
         "start_time": "08:30",
         "region": "경북",
-        "registration_period": "2026년1월1일~2026년2월27일",
+        "registration_period": "2025년9월15일~2026년4월1일",
         "venue_detail": "",
         "description": "",
         "latitude": 36.5987672,
