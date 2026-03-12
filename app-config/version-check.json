@@ -1,0 +1,10 @@
+{
+  "minVersion": "1.7.0",
+  "latestVersion": "1.7.0",
+  "forceUpdate": true,
+  "storeUrl": {
+    "ios": "https://apps.apple.com/app/id6751476692",
+    "android": "https://play.google.com/store/apps/details?id=com.pilyeooong.krrunningscheduleapp"
+  },
+  "message": "새로운 기능이 추가되었습니다. 최신 버전으로 업데이트해 주세요."
+}
