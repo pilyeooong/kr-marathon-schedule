@@ -180,9 +180,22 @@ def save_json(data):
 
     with open(filepath, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
-    
+
     with open(latest_filepath, "w", encoding="utf-8") as latest_file:
         json.dump(data, latest_file, ensure_ascii=False, indent=4)
+
+    # 연도별 latest 파일 저장
+    year_groups = {}
+    for event in data:
+        year = event.get("year")
+        if year not in year_groups:
+            year_groups[year] = []
+        year_groups[year].append(event)
+
+    for year, year_data in year_groups.items():
+        year_filepath = os.path.join(save_folder, f"{year}_latest-marathon-schedule.json")
+        with open(year_filepath, "w", encoding="utf-8") as f:
+            json.dump(year_data, f, ensure_ascii=False, indent=4)
 
 def main():
     parser = argparse.ArgumentParser(description="마라톤 대회 일정 크롤러")
