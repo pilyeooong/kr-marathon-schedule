@@ -2062,31 +2062,6 @@
     },
     {
         "year": "2026",
-        "date": "3/22",
-        "month": 3,
-        "day": 22,
-        "day_of_week": "일",
-        "event_name": "전주 모악산8자트레일런",
-        "tags": [
-            "20km",
-            "10km"
-        ],
-        "location": "모악산관광단지/표지석",
-        "organizer": [
-            "명품트레일"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "40317",
-        "homepage": "http://www.mtrailrun.kr",
-        "email": "etetgo@hanmail.net",
-        "representative": "이태재",
-        "start_time": "08:00",
-        "region": "전북",
-        "registration_period": "2025년11월11일~2026년3월21일",
-        "description": "전주의 진산인 모악산을 8자로 도는 코스입니다"
-    },
-    {
-        "year": "2026",
         "date": "3/28",
         "month": 3,
         "day": 28,
@@ -2736,6 +2711,36 @@
         "month": 4,
         "day": 4,
         "day_of_week": "토",
+        "event_name": "2026 글로컬 건양대학교 K-국방 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "건양대학교 글로컬캠퍼스 대운동",
+        "organizer": [
+            "건양대학교"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41469",
+        "homepage": "http://kyrun.co.kr/",
+        "email": "road42195@naver.com",
+        "representative": "김동균",
+        "start_time": ":",
+        "region": "충남",
+        "registration_period": "2026년3월13일~2026년3월18일",
+        "venue_detail": "",
+        "description": "국인, 건양대학생, 계룡시민 무료 참가그 외 타지역 및 일반 참가 유료",
+        "latitude": 36.1827999,
+        "longitude": 127.1114387,
+        "map_address": "충청남도 논산시 대학로 121"
+    },
+    {
+        "year": "2026",
+        "date": "4/4",
+        "month": 4,
+        "day": 4,
+        "day_of_week": "토",
         "event_name": "오크밸리 힐스 나이트 레이스",
         "tags": [
             "10km"
@@ -2875,6 +2880,31 @@
         "latitude": 35.8346987,
         "longitude": 129.2874434,
         "map_address": "경상북도 경주시 경감로 593"
+    },
+    {
+        "year": "2026",
+        "date": "4/4",
+        "month": 4,
+        "day": 4,
+        "day_of_week": "토",
+        "event_name": "수원 광교산트레일런",
+        "tags": [
+            "16km",
+            "10km"
+        ],
+        "location": "하광교동 반딧불이화장실 아래",
+        "organizer": [
+            "명품트레일"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "40317",
+        "homepage": "http://www.mtrailrun.kr",
+        "email": "etetgo@hanmail.net",
+        "representative": "이태재",
+        "start_time": "08:00",
+        "region": "경기",
+        "registration_period": "2025년11월11일~2026년4월3일",
+        "description": "수원의 명산 광교산을 오르는 아름다운 코스입니다"
     },
     {
         "year": "2026",
@@ -3137,7 +3167,7 @@
         "representative": "최란",
         "start_time": "09:00",
         "region": "서울",
-        "registration_period": "2026년1월21일~2026년3월16일",
+        "registration_period": "2026년1월21일~2026년3월25일",
         "venue_detail": "",
         "description": "행사명2026 튼튼이마라톤행사일시2026년 4월 5일 일요일신청기간2026년 1월 21일 수요일 ~ 선착순 마감행사장소뚝섬한강공원 수변무대코스10km, 5km, 성인3km, 어린이3km기념품필립스 소닉케어",
         "latitude": 37.5659053,
@@ -3358,32 +3388,6 @@
         "month": 4,
         "day": 11,
         "day_of_week": "토",
-        "event_name": "2026 성남마라톤",
-        "tags": [
-            "하프",
-            "10km",
-            "5km"
-        ],
-        "location": "성남 탄천종합운동장",
-        "organizer": [
-            "(사)대한트레일런협회"
-        ],
-        "phone": "031-747-8886",
-        "event_id": "41298",
-        "homepage": "http://ktra.kr",
-        "email": "ktra2000@naver.com",
-        "representative": "박길수",
-        "start_time": "08:00",
-        "region": "경기",
-        "registration_period": "2026년2월2일~2026년2월9일",
-        "description": "2026년 개나리  벛꽃이 아름다운 성남 탄천에서 개최됩니다."
-    },
-    {
-        "year": "2026",
-        "date": "4/11",
-        "month": 4,
-        "day": 11,
-        "day_of_week": "토",
         "event_name": "2026 MBN 선셋마라톤 영종",
         "tags": [
             "하프",
@@ -3581,7 +3585,7 @@
         "representative": "강일효",
         "start_time": ":",
         "region": "서울",
-        "registration_period": "2026년1월23일~2026년3월20일",
+        "registration_period": "2026년1월23일~2026년3월25일",
         "venue_detail": "",
         "description": "2026년 4월 12일(일) 제3회 가든파이브 라이프 레이스 마라톤대회를 가든파이브 라이프 중앙광장에서 개최하오니 달림이 및 동호회 여러분의 많은 성원과 참여 바랍니다.",
         "latitude": 37.4776148,
@@ -4446,12 +4450,43 @@
         "month": 4,
         "day": 26,
         "day_of_week": "일",
+        "event_name": "패밀리 런  페스타",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "마니아"
+        ],
+        "location": "서울 뚝섬한강공원 수변광장",
+        "organizer": [
+            "컬처런"
+        ],
+        "phone": "02-3210-1666",
+        "event_id": "41478",
+        "homepage": "http://www.irunman.kr",
+        "email": "runct@naver.com",
+        "representative": "강동엽",
+        "start_time": ":",
+        "region": "서울",
+        "registration_period": "2026년3월16일~2026년4월9일",
+        "venue_detail": "",
+        "description": "오는 4월26일 일요일 뚝섬 수변광장에 개최하는 패일리 런 페스타대회에 참가자 여러분의 많은 성원과 참여 바랍니다",
+        "latitude": 37.5308776,
+        "longitude": 127.0659833,
+        "map_address": "서울특별시 광진구 강변북로 2202"
+    },
+    {
+        "year": "2026",
+        "date": "4/26",
+        "month": 4,
+        "day": 26,
+        "day_of_week": "일",
         "event_name": "2026 송도 WALK & RUN",
         "tags": [
             "하프",
             "10km",
             "5km",
-            "트레일런15km",
+            "트레일런18km",
             "WALK5",
             "10",
             "20km댕댕런3km"
@@ -4462,14 +4497,14 @@
         ],
         "phone": "070-4098-1114",
         "event_id": "41423",
-        "homepage": "http://https://blog.naver.com/npa2023/224157041339",
+        "homepage": "http://blog.naver.com/npa2023/224157041339",
         "email": "kwpark93@hanmail.net",
         "representative": "박광원",
         "start_time": ":",
         "region": "인천",
         "registration_period": "2026년2월25일~2026년3월31일",
         "venue_detail": "",
-        "description": "송도 이음교 개통일 관계로 행사 일정이2026년4월18일(토)~19일(일)에서 4월25일(토)~4월26일(일)로 연기됨을 알려드립니다.2026 SONGDO GLOBAL HEALTH FESTAWALK&RUN2026 SONGDO GLOBAL HEALTH FESTA와 함께 하게 됨을 감사드립니다.이번 대회는 25일~26일 2틀간 운영되며걷기,달리기,트레일런,캠핑,나이트걷기 등각종 참여 운동종목 운영각종 걷기, 달리기, 체험 프로그램, 펫 운동회,먹거리 까지스포츠 용품,헬스 용품,아웃도어 용품,펫 용품,캠핑용품 전시 등각종 공연 및 스포츠이벤트 운영으로건강하고 익사이팅한 순간들을 함께 하실 수 있습니다.​대회일시 : 2026.4.25(토)~26(일) 오전09시00분대회장소 : 인천광역시 송도달빛축제공원대회종목 :*WALK - 5km ㆍ10km 25일(토요일) 09시 집결/ 10시 출발 (달빛공원일원)*트레킹 - 20km 25일(토요일) 09시 집결 /10시 출발 (봉재산,청량산,문학산 일원)*댕댕트레킹 - 3km(토요일) 09시 집결 /10시 출발*나이트워크- 8km 18일(토요일) 18시 집결 /19시 출발*RUN - 5kmㆍ10kmㆍ하프  26일(일요일) 09시 집결/ 10시 출발*트레일런(청량산 일원) - 18km 19일(일요일) 09시 집결/ 10시 출발​*부대행사 - EXPO HEALTH / OUTDOOR / CAMPING / SPORTS  / FREE MARKET​",
+        "description": "2026 SONGDO GLOBAL HEALTH FESTAWALK&RUN2026 SONGDO GLOBAL HEALTH FESTA와 함께 하게 됨을 감사드립니다.이번 대회는 25일~26일 2틀간 운영되며걷기,달리기,트레일런,캠핑,나이트걷기 등각종 참여 운동종목 운영각종 걷기, 달리기, 체험 프로그램, 펫 운동회,먹거리 까지스포츠 용품,헬스 용품,아웃도어 용품,펫 용품,캠핑용품 전시 등각종 공연 및 스포츠이벤트 운영으로건강하고 익사이팅한 순간들을 함께 하실 수 있습니다.​대회일시 : 2026.4.25(토)~26(일) 오전09시00분대회장소 : 인천광역시 송도달빛축제공원대회종목 :*WALK - 5km ㆍ10km 25일(토요일) 09시 집결/ 10시 출발 (달빛공원일원)*트레킹 - 20km 25일(토요일) 09시 집결 /10시 출발 (봉재산,청량산,문학산 일원)*댕댕트레킹 - 3km(토요일) 09시 집결 /10시 출발*나이트워크- 8km 18일(토요일) 18시 집결 /19시 출발*RUN - 5kmㆍ10kmㆍ하프  26일(일요일) 09시 집결/ 10시 출발*트레일런(청량산 일원) - 18km 19일(일요일) 09시 집결/ 10시 출발​*부대행사 - EXPO HEALTH / OUTDOOR / CAMPING / SPORTS  / FREE MARKET​",
         "latitude": 37.4078934,
         "longitude": 126.6324652,
         "map_address": "인천광역시 연수구 센트럴로 350"
@@ -4648,7 +4683,7 @@
         "representative": "박충규",
         "start_time": "10:00",
         "region": "충북",
-        "registration_period": "2025년10월5일~2026년3월30일",
+        "registration_period": "2025년10월5일~2026년4월25일",
         "venue_detail": "",
         "description": "안가본 속리산 문장대 트레일러닝가장 아름답습니다.",
         "latitude": 36.5350291,
@@ -4691,7 +4726,7 @@
         "month": 5,
         "day": 2,
         "day_of_week": "토",
-        "event_name": "2026 저스트런텐 남양주",
+        "event_name": "2026 JUST RUN10 남양주",
         "tags": [
             "10km",
             "5km"
@@ -4886,8 +4921,8 @@
         "representative": "장영기",
         "start_time": ":",
         "region": "전남",
-        "registration_period": "2026년1월30일~2026년3월30일",
-        "description": "접수기가 : 2026년 3월 30일까지 선착순 10,000명(신청 및 입금완료자 선착순 마감되므로 조기마감될 수 있습니다.)많은 관심과 성원바랍니다. 감사합니다!"
+        "registration_period": "2026년1월30일~2026년3월18일",
+        "description": "접수기간 : 선착순 10,000명~ 3/18(수)까지 접수 받습니다.(신청 및 입금완료자 선착순 마감되므로 조기마감될 수 있습니다.)많은 관심과 성원바랍니다. 감사합니다!"
     },
     {
         "year": "2026",
@@ -5041,7 +5076,7 @@
         "month": 5,
         "day": 3,
         "day_of_week": "일",
-        "event_name": "제24회 불.수.사.도.북 Trail Run",
+        "event_name": "제24회 불.수.사.도.북 UTMB",
         "tags": [
             "풀",
             "13km"
@@ -5066,7 +5101,7 @@
         "month": 5,
         "day": 9,
         "day_of_week": "토",
-        "event_name": "2026 솔로런",
+        "event_name": "2026 나는 솔로런",
         "tags": [
             "10km"
         ],
@@ -5076,12 +5111,12 @@
         ],
         "phone": "00-1566-1936",
         "event_id": "41461",
-        "homepage": "http://ktena.co.kr/",
+        "homepage": "http://www.solorun.kr",
         "email": "emara@daum.net",
         "representative": "김연수",
-        "start_time": "08:30",
+        "start_time": "07:30",
         "region": "서울",
-        "registration_period": "2026년3월20일~2026년4월15일",
+        "registration_period": "2026년3월18일~2026년4월15일",
         "venue_detail": "",
         "description": "함께 있어도 인생은 혼자입니다.솔로런을 통해 자아를 확인하고 또 함께하는즐거움을 나누려고 합니다.개인 및 가족이 참가하는 솔로런을 준비합니다.",
         "latitude": 37.5257581,
@@ -5334,6 +5369,95 @@
         "month": 5,
         "day": 16,
         "day_of_week": "토",
+        "event_name": "2026 JUST RUN10 양산 10k 러닝",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "양산 가산수변공원 일원",
+        "organizer": [
+            "(주)러닝브레이커",
+            "전국러닝협회"
+        ],
+        "phone": "042-710-2058",
+        "event_id": "41488",
+        "homepage": "http://runten.co.kr",
+        "email": "runningbreaker@naver.com",
+        "representative": "윤세준",
+        "start_time": "09:00",
+        "region": "경남",
+        "registration_period": "2026년3월19일~2026년4월30일",
+        "venue_detail": "",
+        "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
+        "latitude": 35.3009188,
+        "longitude": 129.0206134,
+        "map_address": "경상남도 양산시 동면 금산리 1104"
+    },
+    {
+        "year": "2026",
+        "date": "5/16",
+        "month": 5,
+        "day": 16,
+        "day_of_week": "토",
+        "event_name": "2026 서천한산모시마라톤",
+        "tags": [
+            "10km",
+            "5km",
+            "5km 가족런"
+        ],
+        "location": "한산모시체육관",
+        "organizer": [
+            "서천군육상연맹"
+        ],
+        "phone": "070-8224-6363",
+        "event_id": "41470",
+        "homepage": "http://mosirun.co.kr",
+        "email": "bskrun@naver.com",
+        "representative": "노정빈",
+        "start_time": "09:00",
+        "region": "충남",
+        "registration_period": "2026년3월13일~2026년5월1일",
+        "venue_detail": "",
+        "description": "한산모시의 고장 서천에서 펼쳐지는 특별한 레이스!푸른 자연과 함께 달리는 서천한산모시마라톤대회에 여러분을 초대합니다.전국 마라톤 동호인들과 함께 건강과 즐거움을 나누는 축제의 현장을 경험하세요!",
+        "latitude": 36.0812962,
+        "longitude": 126.8073022,
+        "map_address": "충청남도 서천군 한산면 충절로1174번길 22"
+    },
+    {
+        "year": "2026",
+        "date": "5/16",
+        "month": 5,
+        "day": 16,
+        "day_of_week": "토",
+        "event_name": "2026 철강마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "하남미사경정공원",
+        "organizer": [
+            "한국철강협회"
+        ],
+        "phone": "02-559-3539",
+        "event_id": "41489",
+        "homepage": "http://www.kosa.or.kr",
+        "email": "dongbin.kim@ekosa.or.kr",
+        "representative": "장인화",
+        "start_time": "09:00",
+        "region": "경기",
+        "registration_period": "2026년3월8일~2026년3월27일",
+        "venue_detail": "",
+        "description": "한국철강협회 회원사 임직원 및 가족, 관련업계 등 한정 접수가능접수는 이메일로만 가능",
+        "latitude": 37.5536142,
+        "longitude": 127.2132338,
+        "map_address": "경기도 하남시 미사대로 505"
+    },
+    {
+        "year": "2026",
+        "date": "5/16",
+        "month": 5,
+        "day": 16,
+        "day_of_week": "토",
         "event_name": "2026 제 1회 경기신문 씨사이드 마라톤대회",
         "tags": [
             "하프",
@@ -5571,6 +5695,34 @@
         "month": 5,
         "day": 23,
         "day_of_week": "토",
+        "event_name": "제1회 회동호 트레일런",
+        "tags": [
+            "25km"
+        ],
+        "location": "스포원",
+        "organizer": [
+            "korearun 조직위"
+        ],
+        "phone": "010-3878-1159",
+        "event_id": "41483",
+        "homepage": "http://korearun01.imweb.me/",
+        "email": "kughwanim@hanmail.net",
+        "representative": "정화국",
+        "start_time": "08",
+        "region": "부산",
+        "registration_period": "2026년4월1일~2026년4월30일",
+        "venue_detail": "",
+        "description": "달리기를 즐기는 사람들의 모임",
+        "latitude": 35.2918295,
+        "longitude": 129.1051659,
+        "map_address": "부산광역시 금정구 체육공원로399번길 324"
+    },
+    {
+        "year": "2026",
+        "date": "5/23",
+        "month": 5,
+        "day": 23,
+        "day_of_week": "토",
         "event_name": "제31회 바다의 날 마라톤",
         "tags": [
             "하프",
@@ -5589,7 +5741,7 @@
         "representative": "이철원",
         "start_time": "08:30",
         "region": "서울",
-        "registration_period": "2026년2월25일~2026년3월31일",
+        "registration_period": "2026년2월25일~2026년3월27일",
         "venue_detail": "",
         "description": "바다의 날 마라톤 대회는 2002년 해양수산부가 여수세계박람회를 유치하기 위해 개최한 마라톤 대회로 시작이 됐으며 전문신문인 한국해운신문이 1회 대회부터 참가하여 우리나라 민관 협력 마라톤 대회의 효시가 되었으며 한강변에서 개최되는 매우 모범적인 명문 마라톤 대회로 손꼽히고 있음. 현재는 해양수산부의 공식 후원하에  한국해양산업총연합회가 공동주최사로 참여하고 한국해운협회, 해양환경공단, 한국해운협회 등이 주협력사로 함께 대회를 운영함으로써 산업계 민관협력의 모범 사례로 손꼽히고 있음..",
         "latitude": 37.5659053,
@@ -5631,7 +5783,7 @@
         "month": 5,
         "day": 24,
         "day_of_week": "일",
-        "event_name": "제37회 지리산 화대종주",
+        "event_name": "제37회 지리산 화대종주UTMB",
         "tags": [
             "48km",
             "40km",
@@ -5693,6 +5845,61 @@
         "month": 5,
         "day": 30,
         "day_of_week": "토",
+        "event_name": "제2회 한밭 런앤워크",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "대전 엑스포 시민광장",
+        "organizer": [
+            "레거시바통"
+        ],
+        "phone": "042-540-1750",
+        "event_id": "41482",
+        "homepage": "http://hrun.co.kr",
+        "email": "legacybaton365@gmail.com",
+        "representative": "이상민",
+        "start_time": "08:30",
+        "region": "대전",
+        "registration_period": "2026년3월17일~2026년4월29일",
+        "description": "본 행사는 시민과 온 세대가 함께 걷고 달리며건강한 지역 문화를 통해 선한 영향력을 행사하는 공익 스포츠 페스티벌입니다.지난 1회 대회 때 많은 분들의 기적과 같은 참여로 대전 거주 내 17명의 자립준비청년을 후원하였습니다.그리고 더 큰 꿈을 품었습니다.자립준비청년들의 지속 가능한 지원체계를 만들기 위해 인재개발센터를 건립하는 씨앗기금을 만들고자 합니다.쉽지 않은 도전이지만, 선한 일을 위해 다시 한 번 달려보고자 합니다.여러분도 함께 달려주세요!여러분들의 참여와 후원이 사회안전망 밖에 놓인 청년들의 꿈을 응원합니다."
+    },
+    {
+        "year": "2026",
+        "date": "5/30",
+        "month": 5,
+        "day": 30,
+        "day_of_week": "토",
+        "event_name": "2026 JUST RUN10 대구 10k 러닝",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "노원체육공원 축구장",
+        "organizer": [
+            "주)러닝브레이커",
+            "전국러닝협회"
+        ],
+        "phone": "042-710-2058",
+        "event_id": "41486",
+        "homepage": "http://runten.co.kr",
+        "email": "runningbreaker@naver.com",
+        "representative": "윤세준",
+        "start_time": "09:00",
+        "region": "대구",
+        "registration_period": "2026년4월1일~2026년4월31일",
+        "venue_detail": "",
+        "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
+        "latitude": 35.9007628,
+        "longitude": 128.5645438,
+        "map_address": "대구 북구 노곡동 876"
+    },
+    {
+        "year": "2026",
+        "date": "5/30",
+        "month": 5,
+        "day": 30,
+        "day_of_week": "토",
         "event_name": "2026 지구런 : 더 아시안 하이웨이",
         "tags": [
             "10km",
@@ -5736,7 +5943,7 @@
         "phone": "02-3210-1666",
         "event_id": "41358",
         "homepage": "http://www.dawnmarathon.com",
-        "email": "sportainrun@naver.com",
+        "email": "runct@naver.com",
         "representative": "강일효",
         "start_time": "09:00",
         "region": "서울",
@@ -5809,11 +6016,69 @@
     },
     {
         "year": "2026",
+        "date": "5/30",
+        "month": 5,
+        "day": 30,
+        "day_of_week": "토",
+        "event_name": "제주 김녕 빵빵런 2026",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "제주 구좌체육공원",
+        "organizer": [
+            "1986 프로덕션"
+        ],
+        "phone": "02-364-1986",
+        "event_id": "41471",
+        "homepage": "http://jejubbangrun.com/",
+        "email": "1986@1986.co.kr",
+        "representative": "윤명호",
+        "start_time": "8",
+        "region": "제주",
+        "registration_period": "2026년3월13일~2026년5월29일",
+        "venue_detail": "",
+        "description": "\"살은 찌기 싫은디~ 빵은 먹고싶수다!\"반짝이는 바다와 설렘이 있는 제주로 가는 빵빵런!제주바람 느끼며 달리면, 달콤한 빵이 기다려요!예쁜 풍경 앞에서 먹는 빵은 괜히 더 맛있잖아요~",
+        "latitude": 33.5551689,
+        "longitude": 126.7627563,
+        "map_address": "제주특별자치도 제주시 구좌읍 김녕로 209"
+    },
+    {
+        "year": "2026",
         "date": "5/31",
         "month": 5,
         "day": 31,
         "day_of_week": "일",
-        "event_name": "제4회 여의도 밤섬 마라톤",
+        "event_name": "제22회 영등포구연맹회장배 육상대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "신정교하부육상트랙구장",
+        "organizer": [
+            "서울특별시영등포구체육회"
+        ],
+        "phone": "010-3794-7297",
+        "event_id": "41490",
+        "homepage": "http://cafe.naver.com/ydprun1/614",
+        "email": "s900918@naver.com",
+        "representative": "윤정용",
+        "start_time": "08",
+        "region": "서울",
+        "registration_period": "2026년3월20일~2026년5월16일",
+        "venue_detail": "",
+        "description": "제22회 영등포구연맹회장배대회를 개최합니다.참가신청서https://cafe.naver.com/ydprun1/614",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2026",
+        "date": "5/31",
+        "month": 5,
+        "day": 31,
+        "day_of_week": "일",
+        "event_name": "제4회 밤섬 마라톤",
         "tags": [
             "하프",
             "10km",
@@ -6020,6 +6285,36 @@
         "month": 6,
         "day": 6,
         "day_of_week": "토",
+        "event_name": "2026 춘천봄내마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "춘천시청 호반광장 일원",
+        "organizer": [
+            "강원도민일보"
+        ],
+        "phone": "010-6328-4600",
+        "event_id": "41476",
+        "homepage": "http://ccpmarathon.kr/math/index.php",
+        "email": "yunsw@kado.net",
+        "representative": "김중석",
+        "start_time": ":",
+        "region": "강원",
+        "registration_period": "2026년3월12일~2026년5월22일",
+        "venue_detail": "",
+        "description": "·강원특별자치도 출범 3주년 기념 및 지역경제 활성화·강원도민 및 전국 마라톤 동호인들의 건강증진 및 화합도모·내륙의 섬 중도를 기반으로 하는 특색있는 마라톤코스 운영 및 정착",
+        "latitude": 37.8813738,
+        "longitude": 127.7300033,
+        "map_address": "강원특별자치도 춘천시 시청길 11"
+    },
+    {
+        "year": "2026",
+        "date": "6/6",
+        "month": 6,
+        "day": 6,
+        "day_of_week": "토",
         "event_name": "2026 푸른하늘런",
         "tags": [
             "하프",
@@ -6079,7 +6374,7 @@
         "month": 6,
         "day": 7,
         "day_of_week": "일",
-        "event_name": "2026 코리아 오픈 마라톤",
+        "event_name": "2026 im뱅크 코리아 오픈 마라톤",
         "tags": [
             "하프",
             "10km",
@@ -6087,16 +6382,16 @@
         ],
         "location": "여의도공원 문화의마당",
         "organizer": [
-            "런코리아"
+            "런코리아/im뱅크"
         ],
         "phone": "00-1566-1936",
         "event_id": "41460",
-        "homepage": "http://www.runko.kr",
+        "homepage": "http://www.imrun.kr",
         "email": "emara@daum.net",
         "representative": "김연수",
         "start_time": "07:30",
         "region": "서울",
-        "registration_period": "2026년4월15일~2026년5월10일",
+        "registration_period": "2026년3월23일~2026년5월10일",
         "venue_detail": "",
         "description": "여의도에서 한국 러닝 시즌을 여는 도심형 오픈 페스티벌로2026년을 여는 '가장 도시다운 시즌 개막 레이스'가 펼쳐집니다.",
         "latitude": 37.5257581,
@@ -6152,9 +6447,9 @@
         "homepage": "http://www.강릉헌화로11k.com",
         "email": "kkang7705@naver.com",
         "representative": "김중석, 경민현",
-        "start_time": "08",
+        "start_time": "09:00",
         "region": "강원",
-        "registration_period": "2026년3월3일~2026년3월24일",
+        "registration_period": "2026년3월3일~2026년3월31일",
         "venue_detail": "",
         "description": "바다와 가장 가까운 해안도로를 달리며 특별한 추억을 만들어 보세요~",
         "latitude": 37.6267323,
@@ -6260,6 +6555,32 @@
         "month": 6,
         "day": 13,
         "day_of_week": "토",
+        "event_name": "2026 성남마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "성남 탄천종합운동장",
+        "organizer": [
+            "(사)대한트레일런협회"
+        ],
+        "phone": "031-747-8886",
+        "event_id": "41298",
+        "homepage": "http://ktra.kr",
+        "email": "ktra2000@naver.com",
+        "representative": "박길수",
+        "start_time": "07:00",
+        "region": "경기",
+        "registration_period": "2026년3월20일~2026년3월25일",
+        "description": "아름다운 성남 탄천에서 개최됩니다."
+    },
+    {
+        "year": "2026",
+        "date": "6/13",
+        "month": 6,
+        "day": 13,
+        "day_of_week": "토",
         "event_name": "제12회 시각장애인과 함께하는 어울림 마라톤",
         "tags": [
             "하프",
@@ -6312,6 +6633,93 @@
         "latitude": 35.2957855,
         "longitude": 129.2603212,
         "map_address": "부산광역시 기장군 일광읍 문오성길 429"
+    },
+    {
+        "year": "2026",
+        "date": "6/13",
+        "month": 6,
+        "day": 13,
+        "day_of_week": "토",
+        "event_name": "2026 JUST RUN10 대전 대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "대전 엑스포 시민광장",
+        "organizer": [
+            "(주)러닝브레이커",
+            "전국러닝협회"
+        ],
+        "phone": "042-710-2058",
+        "event_id": "41485",
+        "homepage": "http://runten.co.kr",
+        "email": "runningbreaker@naver.com",
+        "representative": "윤세준",
+        "start_time": "09:00",
+        "region": "대전",
+        "registration_period": "2026년4월1일~2026년4월30일",
+        "venue_detail": "",
+        "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
+        "latitude": 36.3688239,
+        "longitude": 127.3879822,
+        "map_address": "대전광역시 서구 둔산대로 169"
+    },
+    {
+        "year": "2026",
+        "date": "6/14",
+        "month": 6,
+        "day": 14,
+        "day_of_week": "일",
+        "event_name": "전마협창단25주년 2026 대전월드런마라톤축제",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "대전엑스포시민광장",
+        "organizer": [
+            "전국마라톤협회",
+            "월드런"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41481",
+        "homepage": "http://mara1080.com/event/cc73d8d1-a3d1-410c-9246-5d2eb76dd95e",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "대전",
+        "registration_period": "2026년3월17일~2026년5월31일",
+        "description": "월드런 스카이 카본 마라톤화 (한정판) + 싱글렛 (2가지 모두 증정)▶ 일 시 : 2026. 06. 14. (일) 오전 7시 30분 출발▶ 장 소 : 대전엑스포시민광장▶ 주 최 : 전국마라톤협회, 월드런▶ 협 력 : 전사모 페이싱팀▶ 종 목 : 5km, 10km, Half많은 관심과 참여 바랍니다!"
+    },
+    {
+        "year": "2026",
+        "date": "6/14",
+        "month": 6,
+        "day": 14,
+        "day_of_week": "일",
+        "event_name": "2026 김해숲길마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "김해종합운동장 및 숲길 일원",
+        "organizer": [
+            "김해시육상연맹"
+        ],
+        "phone": "055-762-1793",
+        "event_id": "41480",
+        "homepage": "http://www.supgil.com",
+        "email": "sf8844@naver.com",
+        "representative": "신형식",
+        "start_time": "08:30",
+        "region": "경남",
+        "registration_period": "2026년3월18일~2026년5월20일",
+        "venue_detail": "",
+        "description": "아름다운 도시, 역사의 도시 김해의 아름다운 숲길을 달리는 2026 김해숲길마라톤대회는 하프코스부문, 10km코스부문 그리고 5km코스부문이 있습니다.자연 속을 달리며 힐링하는 김해숲길마라톤대회로 달림이 여러분을 초대합니다.",
+        "latitude": 35.257721,
+        "longitude": 128.8754652,
+        "map_address": "경상남도 김해시 가야로 243"
     },
     {
         "year": "2026",
@@ -6454,8 +6862,8 @@
         "phone": "02-3210-1666",
         "event_id": "41406",
         "homepage": "http://www.irunman.kr",
-        "email": "sportainrun@naver.com",
-        "representative": "강일효",
+        "email": "runct@naver.com",
+        "representative": "전제봉",
         "start_time": ":",
         "region": "서울",
         "registration_period": "2026년2월5일~2026년5월22일",
@@ -6644,6 +7052,36 @@
     },
     {
         "year": "2026",
+        "date": "6/28",
+        "month": 6,
+        "day": 28,
+        "day_of_week": "일",
+        "event_name": "2026 서울런",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "여의도공원 문화의마당",
+        "organizer": [
+            "서울런(주)"
+        ],
+        "phone": "02-2636-6543",
+        "event_id": "41487",
+        "homepage": "http://seoulrun.kr/",
+        "email": "start@seoulrun.kr",
+        "representative": "김혜진",
+        "start_time": "08:00",
+        "region": "서울",
+        "registration_period": "2026년3월18일~2026년6월17일",
+        "venue_detail": "",
+        "description": "저희는 서울런이 단순히 달리고 돌아가는 하루가 아니라, 다시 힘을 낼 수 있는 기억으로 오래 남는 대회가 되기를 바라는 마음으로 준비했습니다. 참가해주신 여러분 모두가 안전하게, 그리고 기분 좋게 오늘을 마무리하시길 바랍니다.",
+        "latitude": 37.5268088,
+        "longitude": 126.9222841,
+        "map_address": "서울특별시 영등포구 여의공원로 68"
+    },
+    {
+        "year": "2026",
         "date": "7/5",
         "month": 7,
         "day": 5,
@@ -6792,7 +7230,7 @@
         "month": 8,
         "day": 15,
         "day_of_week": "토",
-        "event_name": "제38회 지리산화대종주 Trail Run",
+        "event_name": "제38회 지리산화대종주 UTMB",
         "tags": [
             "48km",
             "40km",
@@ -6888,23 +7326,20 @@
             "4km",
             "8km"
         ],
-        "location": "영덕 고래불해수욕장 일대",
+        "location": "영덕 대진해수욕장",
         "organizer": [
-            "(주)메이드인피플"
+            "(주)메이드인피플",
+            "LG HelloVision"
         ],
         "phone": "010-2584-0474",
         "event_id": "41402",
         "homepage": "http://sandrun.co.kr",
         "email": "madeinpeople20@gmail.com",
-        "representative": "설동원",
+        "representative": "(주)메이드인피플,",
         "start_time": "10:00",
         "region": "경북",
-        "registration_period": "2026년3월3일~2026년5월3일",
-        "venue_detail": "",
-        "description": "...",
-        "latitude": 36.5715172,
-        "longitude": 129.4190152,
-        "map_address": "경상북도 영덕군 병곡면 고래불로 68"
+        "registration_period": "2026년3월16일~2026년7월6일",
+        "description": "..."
     },
     {
         "year": "2026",
@@ -6976,9 +7411,10 @@
         "tags": [
             "하프",
             "10km",
-            "5km"
+            "5km",
+            "3km가족런"
         ],
-        "location": "여의도 물빛광장（예정）",
+        "location": "(양천구)목동운동장",
         "organizer": [
             "(사)한국마라톤협회"
         ],
@@ -7059,7 +7495,7 @@
         "month": 9,
         "day": 13,
         "day_of_week": "일",
-        "event_name": "제14회설악산공룡능선CLIMBATHON",
+        "event_name": "제14회설악산공룡능선UTMB",
         "tags": [
             "27km",
             "22km"
@@ -7075,7 +7511,7 @@
         "representative": "박충규",
         "start_time": "03:00",
         "region": "강원",
-        "registration_period": "2025년11월13일~2026년8월25일",
+        "registration_period": "2025년11월13일~2026년8월31일",
         "venue_detail": "",
         "description": "가장 힘든 설악산에서 여러분과 함께 합니다.",
         "latitude": 38.097354,
@@ -7204,6 +7640,32 @@
         "latitude": 36.772703,
         "longitude": 126.9840748,
         "map_address": "아산시 신정로 616"
+    },
+    {
+        "year": "2026",
+        "date": "10/3",
+        "month": 10,
+        "day": 3,
+        "day_of_week": "토",
+        "event_name": "2026 서산 코스모스 황금들녘 마라톤 대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "서산스포츠테마파크",
+        "organizer": [
+            "서산시체육회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41491",
+        "homepage": "http://mara1080.com/event/fcaa0bc8-1489-47c3-8fec-8e5a5c17284e",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "충남",
+        "registration_period": "2026년3월20일~2026년9월3일",
+        "description": "선착순 7000명 마감됩니다.조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요!감사합니다."
     },
     {
         "year": "2026",
@@ -7446,6 +7908,37 @@
         "region": "서울",
         "registration_period": "2026년4월21일~2026년5월18일",
         "description": "-대한민국의 심장 광화문에서 마라톤가족 여러분을 모십니다-불굴의 오뚜기 마라톤너 \"보스턴마라톤의 영웅\" 이봉주선수와 함께 달립니다- \"맨발의 사나이 조승환의 60번째 세계 신기록의 순간을 함께 달리세요-\"개그맨 상호 & 상민 특별게스트"
+    },
+    {
+        "year": "2026",
+        "date": "10/25",
+        "month": 10,
+        "day": 25,
+        "day_of_week": "일",
+        "event_name": "2026 청송사과트레일런",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "청송군민운동장",
+        "organizer": [
+            "청송군",
+            "매일신문"
+        ],
+        "phone": "031-575-7243",
+        "event_id": "41477",
+        "homepage": "http://csmarathon.co.kr/csmarathon/",
+        "email": "ceo@blueimg.co.kr",
+        "representative": "조환석",
+        "start_time": "10",
+        "region": "경북",
+        "registration_period": "2026년3월16일~2026년8월30일",
+        "venue_detail": "",
+        "description": "많은 관심과 참여 부탁드립니다.",
+        "latitude": 36.4323352,
+        "longitude": 129.0615982,
+        "map_address": "경상북도 청송군 청송읍 중앙로 306-39"
     },
     {
         "year": "2026",
