@@ -5272,6 +5272,37 @@
         "month": 5,
         "day": 10,
         "day_of_week": "일",
+        "event_name": "제22회 3대하천마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "가족코스(5km)"
+        ],
+        "location": "대전엑스포시민광장",
+        "organizer": [
+            "대전일보/대전광역시체육회"
+        ],
+        "phone": "042-251-3801",
+        "event_id": "41515",
+        "homepage": "http://www.tjrace.net",
+        "email": "djib1111@hanmail.net",
+        "representative": "김재철",
+        "start_time": "09:00",
+        "region": "대전",
+        "registration_period": "2026년4월6일~2026년4월10일",
+        "venue_detail": "",
+        "description": "올해로 22회를 맞는 •3대하천마라톤•은 명실상부 충청권 대표 마라톤 대회 입니다.",
+        "latitude": 36.3688239,
+        "longitude": 127.3879822,
+        "map_address": "대전 서구 둔산대로 169"
+    },
+    {
+        "year": "2026",
+        "date": "5/10",
+        "month": 5,
+        "day": 10,
+        "day_of_week": "일",
         "event_name": "2026 용인마라톤",
         "tags": [
             "10km",
@@ -5319,7 +5350,7 @@
         "representative": "이규운",
         "start_time": "09:00",
         "region": "서울",
-        "registration_period": "2026년2월2일~2026년4월8일",
+        "registration_period": "2026년2월2일~2026년4월12일",
         "venue_detail": "",
         "description": "2026 가정의달 하하호호마라톤대회 개최됩니다.많은 참여 바랍니다!!",
         "latitude": 37.5178604,
@@ -6484,6 +6515,68 @@
         "month": 6,
         "day": 6,
         "day_of_week": "토",
+        "event_name": "제28회 양평이봉주마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "4km",
+            "10km 커플런"
+        ],
+        "location": "양평강상체육공원",
+        "organizer": [
+            "경인일"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41517",
+        "homepage": "http://www.hangangmarathon.net",
+        "email": "road42195@naver.com",
+        "representative": "김동균",
+        "start_time": ":",
+        "region": "경기",
+        "registration_period": "2026년4월15일~2026년5월4일",
+        "venue_detail": "",
+        "description": "제 28 회 양평이봉주마라톤 겸 경인일보남한강마라톤대회",
+        "latitude": 37.4825477,
+        "longitude": 127.4896181,
+        "map_address": "경기도 양평군 강상면 양평대교길 77-48"
+    },
+    {
+        "year": "2026",
+        "date": "6/6",
+        "month": 6,
+        "day": 6,
+        "day_of_week": "토",
+        "event_name": "2026 도시가스 트레일 온 런 강원",
+        "tags": [
+            "트레일러닝(4.4K",
+            "12K",
+            "24K)"
+        ],
+        "location": "강릉경포호수광장",
+        "organizer": [
+            "한국도시가스협회",
+            "동아일보"
+        ],
+        "phone": "02-3012-0187",
+        "event_id": "41519",
+        "homepage": "http://citygasonrun.com",
+        "email": "jens@brmt.kr",
+        "representative": "박정웅",
+        "start_time": "09:00",
+        "region": "강원",
+        "registration_period": "2026년4월6일~2026년5월31일",
+        "venue_detail": "",
+        "description": "강릉의 아름다운 자연을 온전히 느낄 수 있도록 설계된 코스를 통해, 트레일 러닝만의 특별한 매력과 즐거움을 경험할 수 있습니다.초보 러너부터 트레일 경험자까지 누구나 참여 가능하며, 완만한 구간부터 도전적인 코스까지 구성되어 각자의 페이스에 맞는 러닝을 즐길 수 있습니다.단순한 기록 경쟁을 넘어, 자연 속에서 달리는 ‘경험 중심 러닝’의 가치를 느낄 수 있는 대회입니다.",
+        "latitude": 37.7979344,
+        "longitude": 128.9086628,
+        "map_address": "강원도 강릉시 초당동 459-28"
+    },
+    {
+        "year": "2026",
+        "date": "6/6",
+        "month": 6,
+        "day": 6,
+        "day_of_week": "토",
         "event_name": "2026 춘천봄내마라톤",
         "tags": [
             "하프",
@@ -6696,6 +6789,36 @@
         "month": 6,
         "day": 13,
         "day_of_week": "토",
+        "event_name": "2026 지중해마을 라이트런",
+        "tags": [
+            "10km",
+            "5km",
+            "1.2KM"
+        ],
+        "location": "아산시 지중해 마을 광장",
+        "organizer": [
+            "주식회사 오소컴퍼니"
+        ],
+        "phone": "010-7604-5878",
+        "event_id": "41520",
+        "homepage": "http://lightrun2026.imweb.me",
+        "email": "doc333@naver.com",
+        "representative": "변현주",
+        "start_time": "20:00",
+        "region": "충남",
+        "registration_period": "2026년5월1일~2026년6월5일",
+        "venue_detail": "",
+        "description": "ARE YOU READY?아름다운 야경과 함께 달리는 '지중해 마을 라이트런'의 참가 접수 일정을 안내합니다.✅ RACE INFO일시: 2026. 6. 13종목: 1.2k장소: 충남 아산시 지중해 마을 광장참가접수: 2026. 5. 1 OPEN참가 신청 및 상세 정보는 공식 홈페이지를 확인해 주시기 바랍니다.빛나는 밤, 여러분의 뜨거운 도전을 기다립니다.See you on the trail!",
+        "latitude": 36.7969473,
+        "longitude": 127.061654,
+        "map_address": "충남 아산시 탕정면 탕정면로8번길 55-7"
+    },
+    {
+        "year": "2026",
+        "date": "6/13",
+        "month": 6,
+        "day": 13,
+        "day_of_week": "토",
         "event_name": "2026 강릉옥계헌화로11K Run",
         "tags": [
             "11km"
@@ -6873,35 +6996,6 @@
         "month": 6,
         "day": 13,
         "day_of_week": "토",
-        "event_name": "제1회 일광문오성 바다 마라톤",
-        "tags": [
-            "10km",
-            "5km"
-        ],
-        "location": "일광읍신평리 신평물장",
-        "organizer": [
-            "(사)국가유산생활인구중앙협회"
-        ],
-        "phone": "010-6391-1626",
-        "event_id": "41464",
-        "homepage": "http://www.nhlp.or.kr",
-        "email": "seac112@naver.com",
-        "representative": "김대형",
-        "start_time": "08:00",
-        "region": "부산",
-        "registration_period": "2026년3월13일~2026년5월20일",
-        "venue_detail": "",
-        "description": "기장 일광 신평 공룡발자국 국가유산 등재를 기원하는 마라톤대회 입니다.",
-        "latitude": 35.2957855,
-        "longitude": 129.2603212,
-        "map_address": "부산광역시 기장군 일광읍 문오성길 429"
-    },
-    {
-        "year": "2026",
-        "date": "6/13",
-        "month": 6,
-        "day": 13,
-        "day_of_week": "토",
         "event_name": "2026 JUST RUN10 대전 대회",
         "tags": [
             "10km",
@@ -6957,6 +7051,35 @@
         "latitude": 37.4884529,
         "longitude": 126.5768416,
         "map_address": "인천광역시 중구 구읍로 75"
+    },
+    {
+        "year": "2026",
+        "date": "6/14",
+        "month": 6,
+        "day": 14,
+        "day_of_week": "일",
+        "event_name": "제21회 광진구연맹회장배 육상대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "중곡동 중랑천 물놀이장 옆",
+        "organizer": [
+            "광진구체육회(광진구육상연맹)"
+        ],
+        "phone": "02-457-0121",
+        "event_id": "41518",
+        "homepage": "http://ksgaaf.co.kr/",
+        "email": "wowrunning@naver.com",
+        "representative": "유현경",
+        "start_time": "08:30",
+        "region": "서울",
+        "registration_period": "2026년4월6일~2026년5월29일",
+        "venue_detail": "",
+        "description": "안녕하세요!! 광진구육상연맹입니다!!",
+        "latitude": 37.5671125,
+        "longitude": 127.0768041,
+        "map_address": "서울 광진구 중곡동 485-7"
     },
     {
         "year": "2026",
@@ -7553,6 +7676,36 @@
         "month": 7,
         "day": 19,
         "day_of_week": "일",
+        "event_name": "제16회 태종대혹서기전국마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "7km"
+        ],
+        "location": "태종대공원",
+        "organizer": [
+            "(사)부산아마추어마라톤클럽연맹"
+        ],
+        "phone": "010-6710-2023",
+        "event_id": "41521",
+        "homepage": "http://www.bsama.co.kr/index.asp",
+        "email": "kughwanim@hanmail.net",
+        "representative": "서명수",
+        "start_time": "06",
+        "region": "부산",
+        "registration_period": "2026년4월20일~2026년6월14일",
+        "venue_detail": "",
+        "description": "태종대혹서기 전국마라톤",
+        "latitude": 35.0608354,
+        "longitude": 129.0785437,
+        "map_address": "부산광역시 영도구 태종로836번길 55"
+    },
+    {
+        "year": "2026",
+        "date": "7/19",
+        "month": 7,
+        "day": 19,
+        "day_of_week": "일",
         "event_name": "2026 청계산.인릉산TrailRunn",
         "tags": [
             "하프",
@@ -8130,6 +8283,38 @@
         "region": "충남",
         "registration_period": "2026년3월20일~2026년9월3일",
         "description": "선착순 7000명 마감됩니다.조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요!감사합니다."
+    },
+    {
+        "year": "2026",
+        "date": "10/4",
+        "month": 10,
+        "day": 4,
+        "day_of_week": "일",
+        "event_name": "2026 안동마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "안동시민운동장",
+        "organizer": [
+            "안동시",
+            "매일신문사"
+        ],
+        "phone": "031-575-7243",
+        "event_id": "41516",
+        "homepage": "http://www.admarathon.kr",
+        "email": "help@blueimg.co.kr",
+        "representative": "조환석",
+        "start_time": "8",
+        "region": "경북",
+        "registration_period": "2026년4월13일~2026년5월31일",
+        "venue_detail": "",
+        "description": "2026 안동마라톤대회",
+        "latitude": 36.5474626,
+        "longitude": 128.7244227,
+        "map_address": "경상북도 안동시 운동장길 53"
     },
     {
         "year": "2026",
