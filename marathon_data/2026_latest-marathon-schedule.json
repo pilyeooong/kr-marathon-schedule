@@ -4932,7 +4932,7 @@
         "organizer": [
             "채널 A"
         ],
-        "phone": "010-7302-5824",
+        "phone": "010-6213-6207",
         "event_id": "41449",
         "homepage": "http://heartsignalrunfesta.com",
         "email": "heartsignalrunningfesta@gmail.com",
@@ -5290,7 +5290,7 @@
         "representative": "김재철",
         "start_time": "09:00",
         "region": "대전",
-        "registration_period": "2026년4월6일~2026년4월10일",
+        "registration_period": "2026년4월6일~2026년4월15일",
         "venue_detail": "",
         "description": "올해로 22회를 맞는 •3대하천마라톤•은 명실상부 충청권 대표 마라톤 대회 입니다.",
         "latitude": 36.3688239,
@@ -5949,6 +5949,35 @@
     },
     {
         "year": "2026",
+        "date": "5/23",
+        "month": 5,
+        "day": 23,
+        "day_of_week": "토",
+        "event_name": "2026 분노의질주런 용인스피드웨이",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "에버랜드 스피드웨이",
+        "organizer": [
+            "블루모라"
+        ],
+        "phone": "031-778-6960",
+        "event_id": "41525",
+        "homepage": "http://thefast.co.kr",
+        "email": "schong@bloomora.kr",
+        "representative": "정보영",
+        "start_time": "09:00",
+        "region": "경기",
+        "registration_period": "2026년4월21일~2026년4월23일",
+        "venue_detail": "",
+        "description": "행사명: 분노의질주 런 (25주년 이벤트)일시: 2025년 5월 23일개요: 레포츠, 축제기간: 2026.05.23. (토) ~ 2026.05.23. (토)사전등록기간: 2026.04.21. (목) ~ 2026.04.23. (수)장소: 에버랜드 스피드웨이 (경기 용인시 처인구 포곡읍 에버랜드로 199)요금: 10km 85,000원 / 5km 75,000원 / 입장권 30,000정보: 홈페이지 (thefast.co.kr)주최: 블루모라",
+        "latitude": 37.2933272,
+        "longitude": 127.2013221,
+        "map_address": "경기도 용인시 처인구 포곡읍 에버랜드로 199"
+    },
+    {
+        "year": "2026",
         "date": "5/24",
         "month": 5,
         "day": 24,
@@ -6008,6 +6037,34 @@
         "latitude": 37.5263362,
         "longitude": 126.9336402,
         "map_address": "서울특별시 영등포구 여의동로 330"
+    },
+    {
+        "year": "2026",
+        "date": "5/30",
+        "month": 5,
+        "day": 30,
+        "day_of_week": "토",
+        "event_name": "2026 야반도주 in Busan",
+        "tags": [
+            "10km"
+        ],
+        "location": "북항 친수공원 잔디마당",
+        "organizer": [
+            "부산일보"
+        ],
+        "phone": "031-821-9949",
+        "event_id": "41526",
+        "homepage": "http://nightrun.busan.com",
+        "email": "busannightrun@gmail.com",
+        "representative": "손영신",
+        "start_time": ":",
+        "region": "부산",
+        "registration_period": "2026년4월9일~2026년4월20일",
+        "venue_detail": "",
+        "description": "많은 참여바랍니다야반道[도]주우리의 밤은 당신의 낮보다 아름답다.부산의 바다가 잠들지 않는 시간, 북항의 불빛을 따라 달리는 로맨틱한 질주. 낮보다 뜨거운 부산의 밤을 가장 활기차게 즐기는 방법, 지금 우리와 함께 밤을 달리세요.답답한 일상에서 벗어나 부산 북항의 밤거리로 도망치세요. 길(道) 위를 달리는 즐거움, 북항의 야경이 주는 보너스까지. 당신의 밤을 낮보다 눈부시게 만들 기회입니다.",
+        "latitude": 35.1148099,
+        "longitude": 129.0464837,
+        "map_address": "부산광역시 동구 이순신대로 164"
     },
     {
         "year": "2026",
@@ -6533,7 +6590,7 @@
         "representative": "김동균",
         "start_time": ":",
         "region": "경기",
-        "registration_period": "2026년4월15일~2026년5월4일",
+        "registration_period": "2026년4월10일~2026년5월4일",
         "venue_detail": "",
         "description": "제 28 회 양평이봉주마라톤 겸 경인일보남한강마라톤대회",
         "latitude": 37.4825477,
@@ -7473,6 +7530,35 @@
         "month": 6,
         "day": 28,
         "day_of_week": "일",
+        "event_name": "제1회 송도 이봉주 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "인천대학교 송도캠퍼스",
+        "organizer": [
+            "인천광역시육상연맹"
+        ],
+        "phone": "00-1866-1718",
+        "event_id": "41527",
+        "homepage": "http://runsongdo.co.kr",
+        "email": "isang102@naver.com",
+        "representative": "정일종",
+        "start_time": "08:30",
+        "region": "인천",
+        "registration_period": "2026년4월20일~2026년5월15일",
+        "venue_detail": "",
+        "description": "※홈페이지 준비중입니다.4/20일(월) 14:00 접수예정!참가비 : 50,000원10km, 5km 모두 기록칩 제공 / 시상2026년의 상반기 마지막 대회는송도이봉주마라톤대회와 함께하세요!",
+        "latitude": 37.3754977,
+        "longitude": 126.6332532,
+        "map_address": "인천광역시 연수구 아카데미로 119"
+    },
+    {
+        "year": "2026",
+        "date": "6/28",
+        "month": 6,
+        "day": 28,
+        "day_of_week": "일",
         "event_name": "2026 서울런",
         "tags": [
             "하프",
@@ -7496,6 +7582,38 @@
         "latitude": 37.5268088,
         "longitude": 126.9222841,
         "map_address": "서울특별시 영등포구 여의공원로 68"
+    },
+    {
+        "year": "2026",
+        "date": "6/28",
+        "month": 6,
+        "day": 28,
+        "day_of_week": "일",
+        "event_name": "2026 전국블루베리마라톤축제",
+        "tags": [
+            "10km",
+            "5km",
+            "5km가족부(2인1조)",
+            "10km 단체전(3인1조)"
+        ],
+        "location": "정읍 대흥무지개센터",
+        "organizer": [
+            "대흥리마을공동체",
+            "정읍시육상연"
+        ],
+        "phone": "010-4654-0495",
+        "event_id": "41523",
+        "homepage": "http://dhrun.kr",
+        "email": "stk-1007@hanmail.net",
+        "representative": "김상기",
+        "start_time": "08:30",
+        "region": "전북",
+        "registration_period": "2026년4월10일~2026년6월10일",
+        "venue_detail": "",
+        "description": "농촌 작은 마을에서 생산한 블루베리로 진행하는 마라톤축제입니다.10회 이상 진행해오고 있습니다.",
+        "latitude": 35.5249727,
+        "longitude": 126.810454,
+        "map_address": "전북특별자치도 정읍시 입암면 접지중앙길 55"
     },
     {
         "year": "2026",
@@ -7595,7 +7713,7 @@
             "11km",
             "11km"
         ],
-        "location": "연세대학교",
+        "location": "연세대학교 정문",
         "organizer": [
             "(사)한국산악마라톤연맹"
         ],
@@ -8652,5 +8770,33 @@
         "latitude": 37.5659053,
         "longitude": 126.8964648,
         "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "제24회 대모산,구룡산 트레일런",
+        "tags": [
+            "10km"
+        ],
+        "location": "수서역 7번출구광장",
+        "organizer": [
+            "(사)한국산악마라톤연맹"
+        ],
+        "phone": "02-424-2195",
+        "event_id": "41522",
+        "homepage": "http://koreatrail.net",
+        "email": "trail1127@daum.net",
+        "representative": "최원희.이소진",
+        "start_time": "09:00",
+        "region": "서울",
+        "registration_period": "2026년4월1일~2026년10월30일",
+        "venue_detail": "",
+        "description": "가을철 산불조심을 대모산 구룡산에서 합니다.많은 참여를 당부합니다.",
+        "latitude": 37.4886878,
+        "longitude": 127.1066592,
+        "map_address": "서울특별시 강남구 광평로 318 (수서동) [지번] 서울특별시 강남구 수서동 99"
     }
 ]
