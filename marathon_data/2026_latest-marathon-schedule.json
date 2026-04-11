@@ -3299,36 +3299,6 @@
         "month": 4,
         "day": 11,
         "day_of_week": "토",
-        "event_name": "소외계층돕기 제15회 행복한가게 마라톤",
-        "tags": [
-            "하프",
-            "10km",
-            "5km"
-        ],
-        "location": "상암 월드컵공원 평화광장",
-        "organizer": [
-            "(사)행복한가게"
-        ],
-        "phone": "02-888-8875",
-        "event_id": "41370",
-        "homepage": "http://www.kksports.kr/",
-        "email": "happyshop@kksports.kr",
-        "representative": "임서현",
-        "start_time": "09:00",
-        "region": "서울",
-        "registration_period": "2026년2월12일~2026년4월2일",
-        "venue_detail": "",
-        "description": "여러분의 참여가 모여 건강과 행복, 나눔이 공존하는 더 큰 울림을 만들어 갈 것이라 확신합니다. 여러분의 소중한 발걸음이 행복한가게 마라톤을 더욱 빛내주기를 기대합니다 감사합니다.",
-        "latitude": 37.5659053,
-        "longitude": 126.8964648,
-        "map_address": "서울특별시 마포구 월드컵로 251"
-    },
-    {
-        "year": "2026",
-        "date": "4/11",
-        "month": 4,
-        "day": 11,
-        "day_of_week": "토",
         "event_name": "2026 서울클린뷰티런",
         "tags": [
             "10km",
@@ -8615,7 +8585,7 @@
         "representative": "윤병태",
         "start_time": "08:00",
         "region": "전남",
-        "registration_period": "2026년4월20일~2026년7월19일",
+        "registration_period": "2026년4월30일~2026년7월19일",
         "venue_detail": "",
         "description": "10,000여명의 마라토너와 함께 영산강 꽃밭과 쭉 뻗은 주로를 달려요!시즌 베스트와 개인 베스트를 세울 수 있는 초보자들도 쉽게 도전할 수 있는대회를 같이 즐겨요",
         "latitude": 35.0123142,
@@ -8770,6 +8740,36 @@
         "latitude": 37.5659053,
         "longitude": 126.8964648,
         "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
+        "event_name": "2026 포항마라톤챔피언십",
+        "tags": [
+            "10km",
+            "5km",
+            "장애인5km"
+        ],
+        "location": "영일대해상누각",
+        "organizer": [
+            "kthcn"
+        ],
+        "phone": "054-1600-4525",
+        "event_id": "41528",
+        "homepage": "http://pohangmarathon.com/",
+        "email": "hgplan@naver.com",
+        "representative": "박광열",
+        "start_time": "09:00",
+        "region": "경북",
+        "registration_period": "2026년4월13일~2026년6월31일",
+        "venue_detail": "",
+        "description": "포항마라톤챔피언십은 스피드 위주의 마라톤대회입니다.전국최강자들이 모여 가장빠른 10km챔피언을 가리는 대회입니다.전국 최고의 대회가 될수 있도록 준비하겠습니다",
+        "latitude": 36.0631023,
+        "longitude": 129.3826726,
+        "map_address": "경상북도 포항시 북구 해안로 173"
     },
     {
         "year": "2026",
