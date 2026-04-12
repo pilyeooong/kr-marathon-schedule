@@ -6785,6 +6785,36 @@
         "month": 6,
         "day": 7,
         "day_of_week": "일",
+        "event_name": "2026 마인드 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "서울광장",
+        "organizer": [
+            "한국수력원자력"
+        ],
+        "phone": "02-2031-1935",
+        "event_id": "41529",
+        "homepage": "http://mindmarathon.kr",
+        "email": "marathon@thebutter.org",
+        "representative": "최영오",
+        "start_time": "07:30",
+        "region": "서울",
+        "registration_period": "2026년4월9일~2026년4월30일",
+        "venue_detail": "",
+        "description": "선착순 모십",
+        "latitude": 37.5666103,
+        "longitude": 126.9783882,
+        "map_address": "서울특별시 중구 세종대로 110"
+    },
+    {
+        "year": "2026",
+        "date": "6/7",
+        "month": 6,
+        "day": 7,
+        "day_of_week": "일",
         "event_name": "제11회 너릿재마라톤",
         "tags": [
             "8km",
@@ -8750,8 +8780,7 @@
         "event_name": "2026 포항마라톤챔피언십",
         "tags": [
             "10km",
-            "5km",
-            "장애인5km"
+            "5km"
         ],
         "location": "영일대해상누각",
         "organizer": [
