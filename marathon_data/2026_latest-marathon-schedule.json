@@ -5607,7 +5607,7 @@
             "100km",
             "50km"
         ],
-        "location": "석관동 우이천 다목적광장",
+        "location": "장안1수변공원",
         "organizer": [
             "서울한강울트라마라톤대회조직위"
         ],
@@ -5618,12 +5618,8 @@
         "representative": "이도희",
         "start_time": "17:00",
         "region": "서울",
-        "registration_period": "2025년12월1일~2026년4월30일",
-        "venue_detail": "",
-        "description": "서울한강울트라마라톤대회는 안전한 주로코스에서참가선수여러분을 위하여 달리는데 전념할수있도록 최선을 다 하겠습니다.",
-        "latitude": 37.6134184,
-        "longitude": 127.0700391,
-        "map_address": "서울 성북구 석관동6-1"
+        "registration_period": "2025년12월1일~2026년3월31일",
+        "description": "서울한강울트라마라톤대회는 안전한 주로코스에서참가선수여러분을 위하여 달리는데 전념할수있도록 최선을 다 하겠습니다."
     },
     {
         "year": "2026",
@@ -5894,6 +5890,35 @@
         "month": 5,
         "day": 23,
         "day_of_week": "토",
+        "event_name": "달려용,인 RUN FESTA",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "(구)용인종합운동장",
+        "organizer": [
+            "한국외대 글로벌스포츠산업학부"
+        ],
+        "phone": "010-4623-0845",
+        "event_id": "41530",
+        "homepage": "http://yonginrunfesta.com/",
+        "email": "yonginrunfesta@gmail.com",
+        "representative": "노은담",
+        "start_time": "09:30",
+        "region": "경기",
+        "registration_period": "2026년3월25일~2026년4월25일",
+        "venue_detail": "",
+        "description": "안녕하세요! 한국외국어대학교 글로벌스포츠산업학부에서 주관하는 '달려용,인 RUN FESTA'입니다! 저희 대회는 지역상생형 미식 마라톤으로 치열한 기록 경쟁에 집중했던 기존 마라톤의 틀을 깨고, 트렌드와 바이럴에 민감한 MZ세대를 주 타깃으로 삼아 참가자의 흥미를 극대화하는 ‘펀런(Fun-Run)’ 문화를 지향합니다.대회의 가장 큰 차별점은 ‘지역 상생’과 ‘미식(로컬푸드)’의 결합이다. 용인시 골목상권 활성화라는 시정 방향과 발맞춰 기획된 이번 대회에서 2,000명의 참가자들은 코스 내 급수대와 현장 이벤트 부스를 통해 용인 지역의 로컬푸드와 다채로운 먹거리를 직접 맛보며 달리는 이색적인 경험을 하게 됩니다.선착순 500명을 대상으로 아이스크림런을 할 수 있도록 키트를 제공할 예정이며, 참가비 50% 이상을 승일희망재단에 기부될 예정입니다.",
+        "latitude": 37.2385807,
+        "longitude": 127.2125152,
+        "map_address": "경기도 용인시 처인구 경안천로 76"
+    },
+    {
+        "year": "2026",
+        "date": "5/23",
+        "month": 5,
+        "day": 23,
+        "day_of_week": "토",
         "event_name": "hy하루야채와 함께하는 하루런 마라톤",
         "tags": [
             "10km",
@@ -6001,7 +6026,7 @@
         "representative": "최란",
         "start_time": "09:00",
         "region": "서울",
-        "registration_period": "2026년1월15일~2026년4월29일",
+        "registration_period": "2026년1월15일~2026년4월12일",
         "venue_detail": "",
         "description": "대회명:버닝런2026대회일시:2026년5월25일(월)대체공휴일대회장소:한강여의도 물빛광장대회코스: 5km , 7km , 10km출발시각: 8시30분(집결8시)",
         "latitude": 37.5263362,
@@ -6725,6 +6750,36 @@
         "month": 6,
         "day": 7,
         "day_of_week": "일",
+        "event_name": "2026 마인드마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "서울광장",
+        "organizer": [
+            "한국수력원자력(주) 더버터"
+        ],
+        "phone": "02-3789-7861",
+        "event_id": "41533",
+        "homepage": "http://mindmarathon.kr",
+        "email": "marathon@thebutter.org",
+        "representative": "김시원",
+        "start_time": "07:30",
+        "region": "서울",
+        "registration_period": "2026년4월13일~2026년4월30일",
+        "venue_detail": "",
+        "description": "마인드마라톤은 아동·청소년의 마음건강을 응원하는 1만 명 규모의 ‘기부 마라톤’으로 참가비 전액은 마음건강을 위해 활동하는 NGO에 기부됩니다.함께 달리는 것만으로도 아이들의 마음건강을 응원하고 지원할 수 있습니다.",
+        "latitude": 37.5666103,
+        "longitude": 126.9783882,
+        "map_address": "서울특별시 중구 세종대로 110"
+    },
+    {
+        "year": "2026",
+        "date": "6/7",
+        "month": 6,
+        "day": 7,
+        "day_of_week": "일",
         "event_name": "2026 im뱅크 코리아 오픈 마라톤",
         "tags": [
             "하프",
@@ -6778,36 +6833,6 @@
         "latitude": 33.5551689,
         "longitude": 126.7627563,
         "map_address": "제주특별자치도 제주시 구좌읍 김녕로 209"
-    },
-    {
-        "year": "2026",
-        "date": "6/7",
-        "month": 6,
-        "day": 7,
-        "day_of_week": "일",
-        "event_name": "2026 마인드 마라톤",
-        "tags": [
-            "하프",
-            "10km",
-            "5km"
-        ],
-        "location": "서울광장",
-        "organizer": [
-            "한국수력원자력"
-        ],
-        "phone": "02-2031-1935",
-        "event_id": "41529",
-        "homepage": "http://mindmarathon.kr",
-        "email": "marathon@thebutter.org",
-        "representative": "최영오",
-        "start_time": "07:30",
-        "region": "서울",
-        "registration_period": "2026년4월9일~2026년4월30일",
-        "venue_detail": "",
-        "description": "선착순 모십",
-        "latitude": 37.5666103,
-        "longitude": 126.9783882,
-        "map_address": "서울특별시 중구 세종대로 110"
     },
     {
         "year": "2026",
@@ -8162,6 +8187,38 @@
         "region": "서울",
         "registration_period": "2026년5월12일~2026년6월30일",
         "description": "-수익금중 일부를 소아암환우등 소외계층에 기부하는 자선행사입니다"
+    },
+    {
+        "year": "2026",
+        "date": "9/12",
+        "month": 9,
+        "day": 12,
+        "day_of_week": "토",
+        "event_name": "제2회 초록우산 런웨이 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "3km 걷기",
+            "3km 걷기(어린이)"
+        ],
+        "location": "대전엑스포시민광장",
+        "organizer": [
+            "초록우산 대전세종지역본부"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41532",
+        "homepage": "http://mara1080.com/event/9443583f-6577-466c-ab2f-43d1dbd820d4",
+        "email": " jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "대전",
+        "registration_period": "2026년4월13일~2026년8월1일",
+        "venue_detail": "",
+        "description": "＃ 행사명             제2회 초록우산 런웨이 마라톤＃ 행사일시          2026년 9월 12일 토요일＃ 신청기간          2026년 4월 13일 월요일 ~ 선착순 마감＃ 행사 장소         대전엑스포시민광장＃ 코스                 3km 걷기, 3km(어린이), 5km, 10km, Half＃ 기념품             기능성 반팔 티셔츠선착순 5000명 접수 및 입금순 마감됩니다.조기 마감될 수 있으니 신청을 서둘러 주세요",
+        "latitude": 36.3688239,
+        "longitude": 127.3879822,
+        "map_address": "대전광역시 서구 둔산대로 169"
     },
     {
         "year": "2026",
