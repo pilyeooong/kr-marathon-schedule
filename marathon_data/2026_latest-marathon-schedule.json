@@ -3914,6 +3914,37 @@
         "month": 4,
         "day": 19,
         "day_of_week": "일",
+        "event_name": "제24회 경기마라톤대회",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "수원종합운동장",
+        "organizer": [
+            "경기일보"
+        ],
+        "phone": "00-1577-3998",
+        "event_id": "41536",
+        "homepage": "http://www.kgmarathon.co.kr/",
+        "email": "kgibmaster@naver.com",
+        "representative": "신항철",
+        "start_time": "08:30",
+        "region": "경기",
+        "registration_period": "2026년1월26일~2026년2월15일",
+        "venue_detail": "",
+        "description": "경기마라톤",
+        "latitude": 37.2977747,
+        "longitude": 127.0113659,
+        "map_address": "경기도 수원시 장안구 경수대로 893"
+    },
+    {
+        "year": "2026",
+        "date": "4/19",
+        "month": 4,
+        "day": 19,
+        "day_of_week": "일",
         "event_name": "2026 SKYRUN",
         "tags": [
             "123층",
@@ -5304,6 +5335,34 @@
         "month": 5,
         "day": 10,
         "day_of_week": "일",
+        "event_name": "2026 선양마사이 마라톤",
+        "tags": [
+            "13km"
+        ],
+        "location": "장동산림욕장 계족산황톳길 일원",
+        "organizer": [
+            "(주)선양소주"
+        ],
+        "phone": "042-580-1827",
+        "event_id": "41535",
+        "homepage": "http://www.barefootfesta.com/",
+        "email": "mackisspr@daum.net",
+        "representative": "조웅래",
+        "start_time": "10",
+        "region": "대전",
+        "registration_period": "2026년4월6일~2026년4월30일",
+        "venue_detail": "",
+        "description": "세계 유일 맨발로 즐기는 이색 축제!㈜선양소주, 7년 만에 ‘선양계족산맨발축제’ 재개2006년 첫걸음을 뗀 이후 매년 수만 명의 발길을 이끌었던 ‘선양계족산맨발축제’는 다가오는 5월 9일부터 10일까지 양일간계족산 황톳길 일원에서 성대하게 펼쳐진다.자연과 호흡하며 붉은 황토 위를 맨발로 걷고 달리는 선양계족산맨발축제는, 답답했던 일상을 털어내고 새로운 에너지를 충전하는 완벽한 재충전의 장이 된다.맨발로 체험하며 즐길 수 있는 '맨발체험존과 힐링공간'으로 남녀노소, 가족, 연인, 친구, 반려동물 모두 행복하게 즐길 수 있는 축제이다.맨발체험존, 힐링존, 황토그림그리기, 바디페인팅, 삐에로 공연, 버블공연, 풍선쇼 등으로 다양한 즐길거리가 함께한다.축제 둘째 날인 5월 10일에는 이번 행사의 하이라이트이자 세계 유일의 맨발 달리기 대회인 ‘선양마사이마라톤’이 열린다.아프리카 초원을 맨발로 거침없이 누비는 마사이족의 걸음에서 착안해 이름 붙여진 이 대회는, 신발을 벗어 던지고 붉은 황톳길을 달리며자신의 한계를 극복하는 짜릿한 이벤트도 진행된다.축제의 재개와 함께 계족산 주말의 심장 박동을 높여줄 ‘뻔뻔한(Fun Fun) 클래식 숲속음악회’ 역시 새단장을 마쳤다. 4월 11일부터 10월 25일까지 장장 6개월간 매주 주말(토·일) 오후 2시 30분, 계족산황톳길 숲속음악회장에서 흥겨운 무대가 펼쳐진다. 딱딱한 클래식의 틀을 깨고 숲 속에 울려 퍼지는 유쾌한 하모니는 맨발 걷기에 나선 3대 가족 모두에게 잊지 못할 주말의 활력을 더할 예정이다.다시 깨어난 자연 속에서 벅찬 생동감을 만끽할 수 있는 ‘제15회 선양계족산맨발축제’와 ‘선양마사이마라톤’ 세부 일정 및 참가 신청은 공식 홈페이지(www.barefootfesta.com)를 통해 확인할 수 있다.1. 메인프로그램 : 선양계족산맨발축제(맨발체험존, 힐링존, 황토그림그리기, 바디페인팅, 삐에로 공연, 버블공연, 풍선쇼 등)2. 부대프로그램 : 선양마사이마라톤(맨발로 13km를 달리는 마라톤, 참가비 성인 3만원, 미성년자 2만원, 4월 30일(목)까지 홈페이지 신청)3. 부대프로그램 : 뻔뻔한 클래식 숲속음악회 4월 11일~10월 25일까지 매주 주말 (토,일) 오후 2시 30분 계족산황톳길 숲속음악회장 (무료상설공연)",
+        "latitude": 36.4055244,
+        "longitude": 127.4425136,
+        "map_address": "대전광역시 대덕구 산디로 79-70"
+    },
+    {
+        "year": "2026",
+        "date": "5/10",
+        "month": 5,
+        "day": 10,
+        "day_of_week": "일",
         "event_name": "2026 가정의달 하하호호마라톤",
         "tags": [
             "10km",
@@ -5764,6 +5823,34 @@
         "latitude": 37.5536142,
         "longitude": 127.2132338,
         "map_address": "경기도 하남시 미사대로 505"
+    },
+    {
+        "year": "2026",
+        "date": "5/23",
+        "month": 5,
+        "day": 23,
+        "day_of_week": "토",
+        "event_name": "2026 세이브더칠드런 국제어린이마라톤(나주)",
+        "tags": [
+            "약 4km"
+        ],
+        "location": "나주 빛가람호수공원",
+        "organizer": [
+            "세이브더칠드런"
+        ],
+        "phone": "02-6900-4400",
+        "event_id": "41534",
+        "homepage": "http://www.sc.or.kr/marathon/",
+        "email": "marathon@sc.or.kr",
+        "representative": "오준",
+        "start_time": "10:30",
+        "region": "전남",
+        "registration_period": "2026년4월8일~2026년4월24일",
+        "venue_detail": "",
+        "description": "세이브더칠드런 국제어린이마라톤은 약 4km 미니코스로 짜여진 기부마라톤으로 2011년부터 시작되어 16년째 달리고 있습니다. 전국 11개 도시에서 개최되며 5월 2일 서울, 인천, 대산, 익산, 부산/ 9일 안산, 창원/ 16일 대구/ 23일 나주, 포항/ 10월 중 아산으로 지역별 일정이 상이합니다. 검색창에 세이브더칠드런 어린이마라톤을 검색해주세요!",
+        "latitude": 35.0168177,
+        "longitude": 126.7904391,
+        "map_address": "전라남도 나주시 호수로 77"
     },
     {
         "year": "2026",
@@ -6780,7 +6867,7 @@
         "month": 6,
         "day": 7,
         "day_of_week": "일",
-        "event_name": "2026 im뱅크 코리아 오픈 마라톤",
+        "event_name": "2026 iM뱅크 코리아 오픈 마라톤",
         "tags": [
             "하프",
             "10km",
@@ -6788,16 +6875,16 @@
         ],
         "location": "여의도공원 문화의마당",
         "organizer": [
-            "런코리아/im뱅크"
+            "런코리아/iM뱅크"
         ],
         "phone": "00-1566-1936",
         "event_id": "41460",
         "homepage": "http://www.imrun.kr",
         "email": "emara@daum.net",
         "representative": "김연수",
-        "start_time": "07:30",
+        "start_time": "08:00",
         "region": "서울",
-        "registration_period": "2026년4월14일~2026년5월10일",
+        "registration_period": "2026년4월14일~2026년5월3일",
         "venue_detail": "",
         "description": "여의도에서 한국 러닝 시즌을 여는 도심형 오픈 페스티벌로2026년을 여는 '가장 도시다운 시즌 개막 레이스'가 펼쳐집니다.",
         "latitude": 37.5257581,
@@ -7836,7 +7923,7 @@
         "representative": "서명수",
         "start_time": "06",
         "region": "부산",
-        "registration_period": "2026년4월20일~2026년6월14일",
+        "registration_period": "2026년4월15일~2026년6월14일",
         "venue_detail": "",
         "description": "태종대혹서기 전국마라톤",
         "latitude": 35.0608354,
@@ -8704,7 +8791,7 @@
         "representative": "김동호",
         "start_time": "08:00",
         "region": "서울",
-        "registration_period": "2026년2월23일~2026년9월15일",
+        "registration_period": "2026년2월23일~2026년9월10일",
         "venue_detail": "",
         "description": "대형 산불을 방지하기 위해 산불 방지 활동으로 대회를 비영리로 합니다.산불 제로가 될 때까지 지속적으로 합니다.사진대금,칩. 메달50% 인상으로 어렵습니다.학생 자원봉사를 모집합니다.",
         "latitude": 37.4873504,
@@ -8873,7 +8960,7 @@
         ],
         "phone": "02-424-2195",
         "event_id": "41522",
-        "homepage": "http://koreatrail.net",
+        "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20241014202801&csno=20200702232740#baseline",
         "email": "trail1127@daum.net",
         "representative": "최원희.이소진",
         "start_time": "09:00",
