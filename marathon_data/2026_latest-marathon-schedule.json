@@ -5335,6 +5335,35 @@
         "month": 5,
         "day": 10,
         "day_of_week": "일",
+        "event_name": "윙스 포 라이프 월드런 2026",
+        "tags": [
+            "기부 마라톤",
+            "추격 레이스"
+        ],
+        "location": "부천종합운동장",
+        "organizer": [
+            "레드불"
+        ],
+        "phone": "02-3670-7000",
+        "event_id": "41537",
+        "homepage": "http://www.redbull.com/kr-ko/events/wings-for-life-world-run-2026",
+        "email": "info.kr@request.redbull.com",
+        "representative": "유주현",
+        "start_time": "20:00",
+        "region": "경기",
+        "registration_period": "2026년1월1일~2026년5월10일",
+        "venue_detail": "",
+        "description": "5월 10일에 달릴 수 없는 이들을 위해 함께 뛰는 윙스 포 라이프 월드 런(Wings for Life World Run) 러닝 행사를 합니다!- 윙스 포 라이프 월드런이란?: 달릴 수 없는 척수 장애인을 위해 전 세계에서 동시에 뛰는 글로벌 러닝 행사입니다. 참가비($21) 및 기부금은 전액 척수 장애인 연구 및 치료를 위해 쓰입니다.-일정: 5월 10일(일) 오후 8시~-신청 방법:1) World Run 앱 다운로드2) 회원가입 후 Register Now3) 앱 하단 Team 클릭 또는 Explore Teams에서 Korea 검색 후  RED BULL SOUTH KOREA 에 조인4) 어플 하단 Locations 에서 Seoul 검색 후 Switch Location 클릭-장소: 온라인 - World Run 앱만 있다면 어디든지 가능 / 오프라인 - 부천종합운동장-참가방식:1) 2026.5.10(일) 오후 8시 부천종합운동장/원하는 장소 어디나(온라인)에서 World Run 앱을 켜고 하단의 RUN 들어가서 START 버튼 클릭 후 다함께 출발2) 출발 후 30분 후에 Catcher Car(캐쳐카) 추격 시작3) 결승선 없이 캐쳐카에게 잡히는 순간까지 러닝*Catcher Car(캐쳐카): 어플리케이션 상의 가상 자동차",
+        "latitude": 37.5025948,
+        "longitude": 126.7989797,
+        "map_address": "경기 부천시 원미구 소사로 482"
+    },
+    {
+        "year": "2026",
+        "date": "5/10",
+        "month": 5,
+        "day": 10,
+        "day_of_week": "일",
         "event_name": "2026 선양마사이 마라톤",
         "tags": [
             "13km"
@@ -6960,7 +6989,6 @@
         "day_of_week": "토",
         "event_name": "2026 지중해마을 라이트런",
         "tags": [
-            "10km",
             "5km",
             "1.2KM"
         ],
@@ -7491,6 +7519,38 @@
     },
     {
         "year": "2026",
+        "date": "6/20",
+        "month": 6,
+        "day": 20,
+        "day_of_week": "토",
+        "event_name": "2026 웰메이드런",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "하프 7인1조 단체전",
+            "10k 커플런"
+        ],
+        "location": "남양주한강공원 삼패지구",
+        "organizer": [
+            "유러닝페스타 운영위원회"
+        ],
+        "phone": "010-8017-1833",
+        "event_id": "41538",
+        "homepage": "http://wellmaderun.com",
+        "email": "urfesta@naver.com",
+        "representative": "정운채",
+        "start_time": "07",
+        "region": "경기",
+        "registration_period": "2026년4월18일~2026년5월31일",
+        "venue_detail": "",
+        "description": "러너의 진심으로 완성된 단 하나의 레이스역대급 상금과 상품이 함께하는 월메이드런에 여러분을 초대합니다.",
+        "latitude": 37.5933809,
+        "longitude": 127.1944399,
+        "map_address": "경기도 남양주시 고산로 254-2"
+    },
+    {
+        "year": "2026",
         "date": "6/21",
         "month": 6,
         "day": 21,
@@ -7642,7 +7702,7 @@
         "month": 6,
         "day": 28,
         "day_of_week": "일",
-        "event_name": "제1회 송도 이봉주 마라톤",
+        "event_name": "송도 이봉주 마라톤",
         "tags": [
             "10km",
             "5km"
@@ -7656,7 +7716,7 @@
         "homepage": "http://runsongdo.co.kr",
         "email": "isang102@naver.com",
         "representative": "정일종",
-        "start_time": "08:30",
+        "start_time": "08:00",
         "region": "인천",
         "registration_period": "2026년4월20일~2026년5월15일",
         "venue_detail": "",
@@ -8272,7 +8332,7 @@
         "representative": "윤찬기",
         "start_time": "07:30",
         "region": "서울",
-        "registration_period": "2026년5월12일~2026년6월30일",
+        "registration_period": "2026년4월13일~2026년6월30일",
         "description": "-수익금중 일부를 소아암환우등 소외계층에 기부하는 자선행사입니다"
     },
     {
@@ -8633,7 +8693,7 @@
         "representative": "윤찬기",
         "start_time": "08:00",
         "region": "충남",
-        "registration_period": "2026년3월25일~2026년7월31일",
+        "registration_period": "2026년3월25일~2026년4월14일",
         "venue_detail": "",
         "description": "-이봉주 보스턴마라톤 제패기념 마라톤대회입니다-부상에서 완쾌되는 이봉주 선수와 함께하는 마라톤행사입니다-전국 제일의 먹거리를 준비합니다",
         "latitude": 36.6066597,
@@ -8838,8 +8898,7 @@
         "event_name": "2026 아시아 오픈 마라톤",
         "tags": [
             "하프",
-            "10km",
-            "엘리트선수10km"
+            "10km"
         ],
         "location": "광화문 광장(예정)",
         "organizer": [
@@ -8852,7 +8911,7 @@
         "representative": "윤찬기",
         "start_time": "08:00",
         "region": "서울",
-        "registration_period": "2026년4월21일~2026년5월18일",
+        "registration_period": "2026년4월14일~2026년5월18일",
         "description": "-대한민국의 심장 광화문에서 마라톤가족 여러분을 모십니다-불굴의 오뚜기 마라톤너 \"보스턴마라톤의 영웅\" 이봉주선수와 함께 달립니다- \"맨발의 사나이 조승환의 60번째 세계 신기록의 순간을 함께 달리세요-\"개그맨 상호 & 상민 특별게스트"
     },
     {
@@ -8914,6 +8973,37 @@
         "latitude": 37.5659053,
         "longitude": 126.8964648,
         "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
+        "event_name": "2026 영천댐 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "영천댐 하류공원",
+        "organizer": [
+            "영천시육상연맹",
+            "채널경북"
+        ],
+        "phone": "054-331-6029",
+        "event_id": "41539",
+        "homepage": "http://runyc.kr",
+        "email": "ycinews@nate.com",
+        "representative": "양보운",
+        "start_time": "09:40",
+        "region": "경북",
+        "registration_period": "2026년9월1일~2026년9월30일",
+        "venue_detail": "",
+        "description": "영천댐의 수려한 경관을 배경으로 달리는 환상적인 레이스에 여러분을 초대합니다.",
+        "latitude": 36.0565053,
+        "longitude": 129.0112647,
+        "map_address": "경상북도 영천시 임고면 신방로 19"
     },
     {
         "year": "2026",
