@@ -3886,30 +3886,6 @@
     },
     {
         "year": "2026",
-        "date": "4/18",
-        "month": 4,
-        "day": 18,
-        "day_of_week": "토",
-        "event_name": "부산 이기대트레일런",
-        "tags": [
-            "10km"
-        ],
-        "location": "이기대수변공원입구",
-        "organizer": [
-            "명품트레일"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "40317",
-        "homepage": "http://www.mtrailrun.kr",
-        "email": "etetgo@hanmail.net",
-        "representative": "이태재",
-        "start_time": "08:00",
-        "region": "부산",
-        "registration_period": "2025년11월11일~2026년4월17일",
-        "description": "부산에서  제일 아름다운 이기대해안길 코스입니다"
-    },
-    {
-        "year": "2026",
         "date": "4/19",
         "month": 4,
         "day": 19,
@@ -5089,6 +5065,31 @@
         "region": "서울",
         "registration_period": "2025년10월5일~2026년4월25일",
         "description": "2026은 UTMB 가입을 준비하 있습니다."
+    },
+    {
+        "year": "2026",
+        "date": "5/3",
+        "month": 5,
+        "day": 3,
+        "day_of_week": "일",
+        "event_name": "남한산성 트레일런",
+        "tags": [
+            "20km",
+            "10km"
+        ],
+        "location": "산성로타리(남한산성로792번길7)",
+        "organizer": [
+            "명품트레일"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "40317",
+        "homepage": "http://www.mtrailrun.kr",
+        "email": "etetgo@hanmail.net",
+        "representative": "이태재",
+        "start_time": "08:00",
+        "region": "서울",
+        "registration_period": "2025년11월11일~2026년5월2일",
+        "description": "역사의 현장 남한산성 성과길을 따라 한바퀴 달리는 코스입니다"
     },
     {
         "year": "2026",
@@ -6904,7 +6905,7 @@
         ],
         "location": "여의도공원 문화의마당",
         "organizer": [
-            "런코리아/iM뱅크"
+            "iM뱅크/런코리아"
         ],
         "phone": "00-1566-1936",
         "event_id": "41460",
@@ -7173,14 +7174,14 @@
         "organizer": [
             "서울시각장애인스포츠연맹"
         ],
-        "phone": "02-2092-0011",
+        "phone": "02-780-0432",
         "event_id": "41305",
         "homepage": "http://www.sbsa.or.kr",
         "email": "kbu0011@kbuseoul.org",
         "representative": "조형석",
         "start_time": "08:00",
         "region": "서울",
-        "registration_period": "2026년2월19일~2026년3월20일",
+        "registration_period": "2026년2월19일~2026년4월31일",
         "venue_detail": "",
         "description": "장애인과 비장애인이 함께하는 '제12회 시각장애인과 함께하는 어울림 마라톤 대회'에 여러분을 초대합니다.푸른 여름의 시작과 함께 모두 하나 되어 즐길 수 있는 마라톤 축제를 준비했습니다.도심 속 자연을 가슴에 담고 호흡하는 코스에서 건강을 다지는힐링 마라톤 축제의 주인공이 되어 보세요.○대회명: 제12회 시각장애인과 함께하는 어울림 마라톤 대회○대회일: 2025년 06월 13일 (토) 08시○장소: 상암월드컵경기장 평화의공원○기념품: 완주메달, 르꼬끄스포르티브 티셔츠, 포카리스웨트, 본도시락 컵밥 등",
         "latitude": 37.5682885,
