@@ -5483,6 +5483,63 @@
         "month": 5,
         "day": 16,
         "day_of_week": "토",
+        "event_name": "RUN 518 도청가는길",
+        "tags": [
+            "5.18km"
+        ],
+        "location": "전남대 대운동장",
+        "organizer": [
+            "광주광역시 외"
+        ],
+        "phone": "010-4071-0518",
+        "event_id": "41544",
+        "homepage": "http://www.run518.com",
+        "email": "0728shinemkt@naver.com",
+        "representative": "김주영",
+        "start_time": ":",
+        "region": "광주",
+        "registration_period": "2026년4월19일~2026년4월24일",
+        "venue_detail": "",
+        "description": "도청가는 길",
+        "latitude": 35.1778193,
+        "longitude": 126.9080453,
+        "map_address": "광주광역시 북구 용봉로 77"
+    },
+    {
+        "year": "2026",
+        "date": "5/16",
+        "month": 5,
+        "day": 16,
+        "day_of_week": "토",
+        "event_name": "시골스런 - 양주 꿀런",
+        "tags": [
+            "5km",
+            "3km"
+        ],
+        "location": "경기도 양주 나리농원",
+        "organizer": [
+            "스파인더"
+        ],
+        "phone": "070-8637-6173",
+        "event_id": "41540",
+        "homepage": "http://www.sfinder.co.kr/contest/contest_info/390",
+        "email": "hsdespacio@gmail.com",
+        "representative": "박보창",
+        "start_time": "10",
+        "region": "경기",
+        "registration_period": "2026년4월2일~2026년5월8일",
+        "venue_detail": "",
+        "description": "양주 나리농원 꽃길 3km / 5km 코스를 즐겨보세요!참가자 전원 양주 천연 아카시아 벌꿀 500g + 농산물 1종 증정양주 꿀런만의 유니크 완주증 발행지금 농가와 러너가 함께 웃는 상생 레이스에 합류하세요",
+        "latitude": 37.7885253,
+        "longitude": 127.0838513,
+        "map_address": "경기도 양주시 고읍남로 172"
+    },
+    {
+        "year": "2026",
+        "date": "5/16",
+        "month": 5,
+        "day": 16,
+        "day_of_week": "토",
         "event_name": "2026 JUST RUN10 양산 10k 러닝",
         "tags": [
             "10km",
@@ -5618,7 +5675,7 @@
         "representative": "박동현",
         "start_time": ":",
         "region": "인천",
-        "registration_period": "2026년2월23일~2026년4월20일",
+        "registration_period": "2026년2월23일~2026년5월6일",
         "venue_detail": "",
         "description": "대회일시 : 2026.5.16(토) 오전 9시 출발 / 인천 중구 씨사이드파크 일원 (하늘구름광장)참가부문 : 하프코스, 10km코스, 5km코스 / 전종목 참가비 50,000원접수기간 : 2026.2.23(월) 오후 2시부터 선착순 5000명 (입금완료 기준)",
         "latitude": 37.4884529,
@@ -6684,6 +6741,36 @@
         "month": 6,
         "day": 6,
         "day_of_week": "토",
+        "event_name": "2026 백산수 심심런",
+        "tags": [
+            "10km",
+            "5km",
+            "3km코스"
+        ],
+        "location": "여의도한강공원 물빛무대앞광장",
+        "organizer": [
+            "사단법인 한국백혈병소아암협회"
+        ],
+        "phone": "070-4350-5663",
+        "event_id": "41543",
+        "homepage": "http://simsimrun.com",
+        "email": "soaam@soaam.or.kr",
+        "representative": "이중명",
+        "start_time": "09:00",
+        "region": "서울",
+        "registration_period": "2026년4월20일~2026년5월22일",
+        "venue_detail": "",
+        "description": "2026 백산수 심심런은 소아암 환아 치료비 지원을 위해 함께 달리는 기부 마라톤입니다. 마음과 마음을 잇는 한 걸음이 아이들의 내일을 응원하는 힘이 되며, 누구나 부담 없이 참여할 수 있는 따뜻한 나눔의 러닝 축제입니다.",
+        "latitude": 37.5308485,
+        "longitude": 126.9277457,
+        "map_address": "서울특별시 영등포구 한강남자전거길 1451"
+    },
+    {
+        "year": "2026",
+        "date": "6/6",
+        "month": 6,
+        "day": 6,
+        "day_of_week": "토",
         "event_name": "제28회 양평이봉주마라톤",
         "tags": [
             "하프",
@@ -7349,7 +7436,7 @@
             "10km",
             "5km"
         ],
-        "location": "사동항 여객터미널 주차장",
+        "location": "울릉예술문화체험장",
         "organizer": [
             "세계일보"
         ],
@@ -7696,6 +7783,35 @@
         "latitude": 37.5659053,
         "longitude": 126.8964648,
         "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "6/28",
+        "month": 6,
+        "day": 28,
+        "day_of_week": "일",
+        "event_name": "제20회 강북구청장배 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "강북구 도봉로 102길21",
+        "organizer": [
+            "강북구육상연맹"
+        ],
+        "phone": "010-5449-1676",
+        "event_id": "41542",
+        "homepage": "http://cafe.daum.net/Kangmaclub/IZkA",
+        "email": "hansungsat@naver.com",
+        "representative": "마행복",
+        "start_time": "08:30",
+        "region": "서울",
+        "registration_period": "2026년4월20일~2026년5월31일",
+        "venue_detail": "",
+        "description": "- 생활체육 활성화로 건강과 체력증진을 통한 명랑한 사회조성과마라톤 동호인 상호간의 친목도모와 화합을 다지는 계기를 마련하고,- 특히, 생활마라톤을 범국민적 스포츠로 정착시켜 국민체위 향상과 건강증진에 기여함으로써 삶의 질 향상에 이바지 한다",
+        "latitude": 37.6420051,
+        "longitude": 127.0317618,
+        "map_address": "강북구 도봉로 102길21"
     },
     {
         "year": "2026",
@@ -8496,6 +8612,36 @@
         "month": 9,
         "day": 19,
         "day_of_week": "토",
+        "event_name": "2026 금산인삼축제 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "4km"
+        ],
+        "location": "금산세계인삼엑스포주차장",
+        "organizer": [
+            "전마협"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41541",
+        "homepage": "http://mara1080.com/event/2044eb82-fcdb-4e56-b79b-f3543a6a360d",
+        "email": " jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "충남",
+        "registration_period": "2026년4월17일~2026년8월19일",
+        "venue_detail": "",
+        "description": "2026 금산인삼축제 마라톤대회▶종  목 : 4km / 10km / Half▶기념품 : 월드런 반팔티 증정!▶주  최 : 전국마라톤협회▶후  원 : 금산군, 금산군의회, 금산군체육회▶협  찬 : 농협중앙회 금산군지부, 금산농협 협동조합, 금산인삼농협 협동조합▶협  력 : 금산마라톤클럽, 금산사랑마라톤클럽, 월드런, 전사모 페이싱팀선착순 3,000명 접수 및 입금자순 마감됩니다.많은 관심과 참여 바랍니다.감사합니다.😊",
+        "latitude": 36.0995774,
+        "longitude": 127.5021549,
+        "map_address": "충청남도 금산군 금산읍 인삼광장로 20"
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
         "event_name": "2026 장수트레일레이스 Fall",
         "tags": [
             "100km",
@@ -8820,7 +8966,7 @@
         "representative": "윤병태",
         "start_time": "08:00",
         "region": "전남",
-        "registration_period": "2026년4월30일~2026년7월19일",
+        "registration_period": "2026년5월15일~2026년7월19일",
         "venue_detail": "",
         "description": "10,000여명의 마라토너와 함께 영산강 꽃밭과 쭉 뻗은 주로를 달려요!시즌 베스트와 개인 베스트를 세울 수 있는 초보자들도 쉽게 도전할 수 있는대회를 같이 즐겨요",
         "latitude": 35.0123142,
