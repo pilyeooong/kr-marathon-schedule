@@ -5945,6 +5945,34 @@
         "month": 5,
         "day": 23,
         "day_of_week": "토",
+        "event_name": "2026 한화생명 시그니처 63 RUN",
+        "tags": [
+            "63빌딩"
+        ],
+        "location": "63빌딩",
+        "organizer": [
+            "한화생명"
+        ],
+        "phone": "070-5154-0390",
+        "event_id": "41547",
+        "homepage": "http://www.ticketlink.co.kr/product/62816",
+        "email": "2026.63run@gmail.com",
+        "representative": "한화생명",
+        "start_time": "08:00",
+        "region": "서울",
+        "registration_period": "2026년5월6일~2026년5월7일",
+        "venue_detail": "",
+        "description": "63빌딩 오르기",
+        "latitude": 37.5196568,
+        "longitude": 126.9399392,
+        "map_address": "서울특별시 영등포구 63로 50"
+    },
+    {
+        "year": "2026",
+        "date": "5/23",
+        "month": 5,
+        "day": 23,
+        "day_of_week": "토",
         "event_name": "2026 안양천 장미꽃 축제 마라톤",
         "tags": [
             "하프",
@@ -6734,6 +6762,35 @@
         "latitude": 35.1088383,
         "longitude": 128.9484556,
         "map_address": "부산광역시 사하구 낙동남로1233번길 92"
+    },
+    {
+        "year": "2026",
+        "date": "6/6",
+        "month": 6,
+        "day": 6,
+        "day_of_week": "토",
+        "event_name": "NAMHAE 250K - RUN TO SEA",
+        "tags": [
+            "10km",
+            "20km"
+        ],
+        "location": "남해 송정 송바람해수욕장",
+        "organizer": [
+            "팜프라(FARMFRA)"
+        ],
+        "phone": "070-7755-5532",
+        "event_id": "41545",
+        "homepage": "http://namhae250k.com",
+        "email": "namhae250k@gmail.com",
+        "representative": "유지황",
+        "start_time": "6:00",
+        "region": "경남",
+        "registration_period": "2026년4월6일~2026년5월6일",
+        "venue_detail": "",
+        "description": "RUN TO SEA는 NAMHAE 250K 시리즈의 여름 트레일레이스 입니다.남해 송정솔바람해수욕장에서 출발해 마을 길과 편백 숲의 그늘을 가로지르며 달리고, 남해의 바다를 조망하는 산 능선을 넘어 다시 바다로 돌아옵니다.피니시 이후 해변에 몸을 담그고, 소나무 그늘에서 시원한 냉면으로 더위를 식힙니다.깊어가는 남해의 풍경을 따라 달리며 여름을 온전히 경험할 수 있는 스테이지입니다.",
+        "latitude": 34.7224819,
+        "longitude": 128.0249022,
+        "map_address": "경상남도 남해군 미조면 미송로483번길 4-1"
     },
     {
         "year": "2026",
@@ -8939,6 +8996,35 @@
         "latitude": 36.783812,
         "longitude": 127.1657743,
         "map_address": "천안시 동남구 천안대로 400"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
+        "event_name": "2026 서울레이스",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "서울광장",
+        "organizer": [
+            "동아일보"
+        ],
+        "phone": "02-312-1998",
+        "event_id": "41546",
+        "homepage": "http://www.seoul-race.co.kr",
+        "email": "marathon@donga.com",
+        "representative": "김재호",
+        "start_time": "07:30",
+        "region": "서울",
+        "registration_period": "2026년5월11일~2026년5월27일",
+        "venue_detail": "",
+        "description": "서울달리기",
+        "latitude": 37.5695439,
+        "longitude": 126.9780017,
+        "map_address": "서울특별시 종로구 청계천로 1"
     },
     {
         "year": "2026",
