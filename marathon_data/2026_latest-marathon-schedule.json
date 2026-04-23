@@ -7056,7 +7056,7 @@
         "homepage": "http://www.imrun.kr",
         "email": "emara@daum.net",
         "representative": "김연수",
-        "start_time": "08:00",
+        "start_time": "07:30",
         "region": "서울",
         "registration_period": "2026년4월14일~2026년5월3일",
         "venue_detail": "",
@@ -9121,6 +9121,36 @@
         "latitude": 36.515472,
         "longitude": 127.4998197,
         "map_address": "충청북도 청주시 상당구 문의면 대청호반로 820"
+    },
+    {
+        "year": "2026",
+        "date": "10/18",
+        "month": 10,
+        "day": 18,
+        "day_of_week": "일",
+        "event_name": "그린스텝 2026",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "전라남도 해남군 솔라시도",
+        "organizer": [
+            "목포MBC / 마라톤세상"
+        ],
+        "phone": "061-270-9212",
+        "event_id": "41548",
+        "homepage": "http://www.greenstep.co.kr/",
+        "email": "jmkim@mokpombc.co.kr",
+        "representative": "김순규",
+        "start_time": "09:00",
+        "region": "전남",
+        "registration_period": "2026년7월1일~2026년7월24일",
+        "venue_detail": "",
+        "description": "제 2회 그린스텝 2026 이 26년 10월 18일 일요일날 전라남도 해남군 솔라시도 일원에서 개최됩니다.현재 접수 일정은 7월 1일부터로 예정하고 있습니다.많은 관심 바랍니다.",
+        "latitude": 34.7070401,
+        "longitude": 126.38743,
+        "map_address": "전라남도 해남군 산이면 산이로 2254"
     },
     {
         "year": "2026",
