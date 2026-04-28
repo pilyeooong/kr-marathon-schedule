@@ -6213,6 +6213,35 @@
         "month": 5,
         "day": 30,
         "day_of_week": "토",
+        "event_name": "제1회 광주대학교 수직마라톤",
+        "tags": [
+            "2.1km+21floors"
+        ],
+        "location": "광주대학교 운동장",
+        "organizer": [
+            "광주대학교",
+            "RISE사업단"
+        ],
+        "phone": "062-670-2902",
+        "event_id": "41550",
+        "homepage": "http://forms.gle/g4tCvGWSMtg7CSZF8",
+        "email": "onemoreshot116@gmail.com",
+        "representative": "김여일",
+        "start_time": "08:00",
+        "region": "광주",
+        "registration_period": "2026년4월23일~2026년5월20일",
+        "venue_detail": "",
+        "description": "광주대학교를 배경으로 하는 광주 최초 2.1km+21층 수직 마라톤",
+        "latitude": 35.1072019,
+        "longitude": 126.8960122,
+        "map_address": "광주광역시 남구 효덕로 277"
+    },
+    {
+        "year": "2026",
+        "date": "5/30",
+        "month": 5,
+        "day": 30,
+        "day_of_week": "토",
         "event_name": "2026 야반도주 in Busan",
         "tags": [
             "10km"
@@ -6505,7 +6534,7 @@
         "month": 5,
         "day": 31,
         "day_of_week": "일",
-        "event_name": "제22회 영등포구연맹회장배 육상대회",
+        "event_name": "제22회 영등포구연맹회장배 육상대회 (마감)",
         "tags": [
             "10km",
             "5km"
@@ -6523,7 +6552,7 @@
         "region": "서울",
         "registration_period": "2026년3월20일~2026년5월16일",
         "venue_detail": "",
-        "description": "제22회 영등포구연맹회장배대회를 개최합니다.참가신청서https://cafe.naver.com/ydprun1/614",
+        "description": "제22회 영등포구연맹회장배대회를 개최합니다.(참가신청, 접수 마감했습니다.)",
         "latitude": 37.5178604,
         "longitude": 126.8819583,
         "map_address": "서울특별시 영등포구 영등포로2길 62"
@@ -6551,7 +6580,7 @@
         "representative": "김제오",
         "start_time": "08:00",
         "region": "서울",
-        "registration_period": "2026년3월9일~2026년5월20일",
+        "registration_period": "2026년3월9일~2026년4월19일",
         "venue_detail": "",
         "description": "한강의 물결과 도심의 풍경 사이에서자연이 살아 숨 쉬는 밤섬을 배경으로 펼쳐지는 이 마라톤은단순한 달리기를 넘어 자연과 사람, 그리고 도시가 함께 어우러지는 축제입니다",
         "latitude": 37.5268088,
@@ -7429,6 +7458,34 @@
         "month": 6,
         "day": 14,
         "day_of_week": "일",
+        "event_name": "제22회 인천광역시장기 건강달리기",
+        "tags": [
+            "10km"
+        ],
+        "location": "인천대공원 문화마당",
+        "organizer": [
+            "인천광역시육상연맹"
+        ],
+        "phone": "00-1866-1718",
+        "event_id": "41553",
+        "homepage": "http://healthyrun.co.kr/",
+        "email": "isang102@naver.com",
+        "representative": "정일종",
+        "start_time": "08:00",
+        "region": "인천",
+        "registration_period": "2026년4월29일~2026년5월31일",
+        "venue_detail": "",
+        "description": "10km 단일종목!인천광역시장기 건강달리기대회",
+        "latitude": 37.4573965,
+        "longitude": 126.7609822,
+        "map_address": "인천광역시 남동구 무네미로 238"
+    },
+    {
+        "year": "2026",
+        "date": "6/14",
+        "month": 6,
+        "day": 14,
+        "day_of_week": "일",
         "event_name": "전마협창단25주년 2026 대전월드런마라톤축제",
         "tags": [
             "하프",
@@ -7547,7 +7604,7 @@
         "month": 6,
         "day": 14,
         "day_of_week": "일",
-        "event_name": "제22회 영덕해변전국마라톤",
+        "event_name": "제22회 영덕해변전국마라톤(조기마감)",
         "tags": [
             "하프",
             "10km",
@@ -8170,6 +8227,34 @@
         "month": 7,
         "day": 19,
         "day_of_week": "일",
+        "event_name": "2026 쿨밸리트레일레이스",
+        "tags": [
+            "18K"
+        ],
+        "location": "장수종합경기장, 방화동휴양림",
+        "organizer": [
+            "(주)락앤런"
+        ],
+        "phone": "063-353-2025",
+        "event_id": "41554",
+        "homepage": "http://rocknrun.kr",
+        "email": "info@rocknrun.kr",
+        "representative": "김영록",
+        "start_time": "8:00",
+        "region": "전북",
+        "registration_period": "2026년4월27일~2026년5월31일",
+        "venue_detail": "",
+        "description": "💦 COOL VALLEY TRAIL RACE 2026뜨겁고도 시원한 여름 레이스,제3회 쿨밸리트레일레이스가 장수에서 열립니다.📅 7.18(토)–7.19(일)🏃 토/일 중 원하는 날짜 선택🌐 접수: 4.27(월) 14:00🔗 rocknrun.kr계곡과 숲길을 달리고,완주 후엔 시원한 계곡 축제까지!#쿨밸리트레일레이스",
+        "latitude": 35.6402366,
+        "longitude": 127.5198191,
+        "map_address": "전북특별자치도 장수군 장수읍 한누리로 378"
+    },
+    {
+        "year": "2026",
+        "date": "7/19",
+        "month": 7,
+        "day": 19,
+        "day_of_week": "일",
         "event_name": "2026 청계산.인릉산TrailRunn",
         "tags": [
             "하프",
@@ -8508,6 +8593,37 @@
         "region": "서울",
         "registration_period": "2026년4월13일~2026년6월30일",
         "description": "-수익금중 일부를 소아암환우등 소외계층에 기부하는 자선행사입니다"
+    },
+    {
+        "year": "2026",
+        "date": "9/12",
+        "month": 9,
+        "day": 12,
+        "day_of_week": "토",
+        "event_name": "제2회 화이트런 생리대 기부마라톤",
+        "tags": [
+            "10km",
+            "5km",
+            "걷기"
+        ],
+        "location": "영등포구 신정교하부 육상트랙구",
+        "organizer": [
+            "청년일보",
+            "(주)소풍"
+        ],
+        "phone": "02-556-8879",
+        "event_id": "41549",
+        "homepage": "http://whiterun.kr",
+        "email": "k-sopung@naver.com",
+        "representative": "최종화",
+        "start_time": "09:00",
+        "region": "서울",
+        "registration_period": "2026년4월27일~2026년8월14일",
+        "venue_detail": "",
+        "description": "기부런, 생리대 기부마라톤대회",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
     },
     {
         "year": "2026",
@@ -8875,6 +8991,31 @@
     },
     {
         "year": "2026",
+        "date": "10/5",
+        "month": 10,
+        "day": 5,
+        "day_of_week": "월",
+        "event_name": "2026서울오픈마라톤",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "광화문광장(예정)",
+        "organizer": [
+            "(사)한국체육개발원 등"
+        ],
+        "phone": "070-7766-1238",
+        "event_id": "41551",
+        "homepage": "http://seoulopen.or.kr",
+        "email": "somarathon@naver.com",
+        "representative": "위길숙",
+        "start_time": "07:30",
+        "region": "서울",
+        "registration_period": "2026년4월24일~2026년5월10일",
+        "description": "지속 가능한 러닝 문화 만들기 일환으로 개최되는 대회"
+    },
+    {
+        "year": "2026",
         "date": "10/9",
         "month": 10,
         "day": 9,
@@ -9207,6 +9348,36 @@
         "latitude": 36.4323352,
         "longitude": 129.0615982,
         "map_address": "경상북도 청송군 청송읍 중앙로 306-39"
+    },
+    {
+        "year": "2026",
+        "date": "11/1",
+        "month": 11,
+        "day": 1,
+        "day_of_week": "일",
+        "event_name": "제21회 울산인권마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "태화강 둔치",
+        "organizer": [
+            "울산인권마라톤대회 조직위원회"
+        ],
+        "phone": "052-242-1119",
+        "event_id": "41552",
+        "homepage": "http://www.humanrun.org",
+        "email": "8711128@hanmail.net",
+        "representative": "박영철",
+        "start_time": "09:30",
+        "region": "울산",
+        "registration_period": "2026년8월18일~2026년9월18일",
+        "venue_detail": "",
+        "description": "다르지만 차별없는 세상을 위해 달리는 울산인권마라톤대회는이날 하루만이라도 모든 차별에 반대하며 인권의 가치를 존중하는 날이 되길 기대합니다.",
+        "latitude": 35.5508353,
+        "longitude": 129.3067947,
+        "map_address": "울산 남구 신정동 1476"
     },
     {
         "year": "2026",
