@@ -5040,31 +5040,6 @@
     },
     {
         "year": "2026",
-        "date": "5/3",
-        "month": 5,
-        "day": 3,
-        "day_of_week": "일",
-        "event_name": "남한산성 트레일런",
-        "tags": [
-            "20km",
-            "10km"
-        ],
-        "location": "산성로타리(남한산성로792번길7)",
-        "organizer": [
-            "명품트레일"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "40317",
-        "homepage": "http://www.mtrailrun.kr",
-        "email": "etetgo@hanmail.net",
-        "representative": "이태재",
-        "start_time": "08:00",
-        "region": "서울",
-        "registration_period": "2025년11월11일~2026년5월2일",
-        "description": "역사의 현장 남한산성 성과길을 따라 한바퀴 달리는 코스입니다"
-    },
-    {
-        "year": "2026",
         "date": "5/5",
         "month": 5,
         "day": 5,
@@ -5882,6 +5857,31 @@
         "latitude": 37.5536142,
         "longitude": 127.2132338,
         "map_address": "경기도 하남시 미사대로 505"
+    },
+    {
+        "year": "2026",
+        "date": "5/17",
+        "month": 5,
+        "day": 17,
+        "day_of_week": "일",
+        "event_name": "밀양아리랑트레일런",
+        "tags": [
+            "20km",
+            "10km"
+        ],
+        "location": "밀양보트장",
+        "organizer": [
+            "명품트레일"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "40317",
+        "homepage": "http://www.mtrailrun.kr",
+        "email": "etetgo@hanmail.net",
+        "representative": "이태재",
+        "start_time": "08:00",
+        "region": "경남",
+        "registration_period": "2026년3월11일~2026년5월16일",
+        "description": "밀양 아리랑코스와 산악, 임도코스로 이루어진 아름다운 주로입니다"
     },
     {
         "year": "2026",
@@ -6728,7 +6728,7 @@
         "representative": "이대원",
         "start_time": "09:00",
         "region": "경북",
-        "registration_period": "2026년1월12일~2026년5월6일",
+        "registration_period": "2026년1월12일~2026년4월21일",
         "venue_detail": "",
         "description": "하프코스, 10km, 28릴레이(주자4명,7km씩)재미있는대회 작지만 알찬 대회 , 를 만들겠습니다.   우리 달림이들이 합심하여, 늘 가까이 있는대회가 되도록 노력하겠습니다.  많은 참여 부탁드립니다.",
         "latitude": 35.8421242,
