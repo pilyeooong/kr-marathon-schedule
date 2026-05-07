@@ -4639,7 +4639,7 @@
         "month": 4,
         "day": 26,
         "day_of_week": "일",
-        "event_name": "속리산 문장대Trail running",
+        "event_name": "속리산 문장대 Trail running",
         "tags": [
             "12km"
         ],
@@ -6311,7 +6311,7 @@
         "representative": "박종억",
         "start_time": "8:20",
         "region": "서울",
-        "registration_period": "2026년3월30일~2026년5월19일",
+        "registration_period": "2026년3월30일~2026년5월5일",
         "venue_detail": "",
         "description": "초여름 시원한 바람과 함께! 도심 속 푸른 양재천 러닝 페스티벌",
         "latitude": 37.5046701,
@@ -7756,6 +7756,35 @@
         "month": 6,
         "day": 21,
         "day_of_week": "일",
+        "event_name": "THE PACER SERIES",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "대전 대덕구 미호동 57-1",
+        "organizer": [
+            "런코드 코리아"
+        ],
+        "phone": "010-7734-1481",
+        "event_id": "41561",
+        "homepage": "http://thepacerseries.com",
+        "email": "runcode.kr@gmail.com",
+        "representative": "민진홍",
+        "start_time": "08:00",
+        "region": "대전",
+        "registration_period": "2026년5월4일~2026년6월7일",
+        "venue_detail": "",
+        "description": "2026 THE PACER SERIES는 런코드코리아가 주최하는 전국 마라톤 대회로, 2026년 6월 21일(일) 오전 8시 대전 대청댐 일원에서 개최됩니다. 슬로건은 \"Run With The Queen — Mary Keitany\"이며, 기록 경쟁보다 함께 달리는 경험을 강조하는 대회입니다. 참가 규모는 3,500명 이상이며, 종목은 10K(65,000원)와 건강달리기 5K(60,000원) 두 가지로 운영됩니다. 참가자 전원에게 기념 티셔츠, 완주 메달, 기념품이 제공되며 종목별 시상도 진행됩니다. 접수 기간은 5월 4일부터 6월 7일까지이며, 문의는 7734-1481  또는 runcode.kr@gmail.com로 가능합니다.",
+        "latitude": 36.4730996,
+        "longitude": 127.4738887,
+        "map_address": "대전 대덕구 미호동 57-1"
+    },
+    {
+        "year": "2026",
+        "date": "6/21",
+        "month": 6,
+        "day": 21,
+        "day_of_week": "일",
         "event_name": "2026 보은 속리산 말티재 힐링 알몸 마라톤",
         "tags": [
             "10km",
@@ -8487,6 +8516,34 @@
         "month": 9,
         "day": 5,
         "day_of_week": "토",
+        "event_name": "제20회 순천만울트라마라톤대회",
+        "tags": [
+            "100km"
+        ],
+        "location": "순천동천천변공원",
+        "organizer": [
+            "순천만울트라조직위"
+        ],
+        "phone": "010-9887-0071",
+        "event_id": "41559",
+        "homepage": "http://www.scultra100.net",
+        "email": "parkjey1@hanmail.net",
+        "representative": "강숙자",
+        "start_time": "17",
+        "region": "전남",
+        "registration_period": "2026년4월1일~2026년8월24일",
+        "venue_detail": "",
+        "description": "우리 대회는 올해로 20회 대회를 운영하고 있는 울트라마라톤대회 내실있는 대회입니다 순천만을 배경으로 남도 100km을 달려 보세요",
+        "latitude": 34.9628704,
+        "longitude": 127.4886347,
+        "map_address": "전라남도 순천시 동천서쪽자전거길 272"
+    },
+    {
+        "year": "2026",
+        "date": "9/5",
+        "month": 9,
+        "day": 5,
+        "day_of_week": "토",
         "event_name": "제23회 철원DMZ국제평화마라톤",
         "tags": [
             "풀",
@@ -8512,6 +8569,39 @@
         "latitude": 38.1854214,
         "longitude": 127.2874038,
         "map_address": "강원특별자치도 철원군 동송읍 태봉로 1825"
+    },
+    {
+        "year": "2026",
+        "date": "9/5",
+        "month": 9,
+        "day": 5,
+        "day_of_week": "토",
+        "event_name": "2026 다이나핏 태백 트레일",
+        "tags": [
+            "50k",
+            "32k-T",
+            "32k-U",
+            "24k",
+            "15k"
+        ],
+        "location": "태백 소원지 오토캠핑장",
+        "organizer": [
+            "태백시",
+            "태백시 철인3종 협회"
+        ],
+        "phone": "010-5605-9059",
+        "event_id": "41564",
+        "homepage": "http://taebaektrail.com/",
+        "email": "jeongst25@naver.com",
+        "representative": "장재훈",
+        "start_time": "6:00",
+        "region": "강원",
+        "registration_period": "2026년5월11일~2026년5월11일",
+        "venue_detail": "",
+        "description": "2026 다이나핏 태백 트레일대한민국을 대표하는 트레일 러닝 대회, 2026 다이나핏 태백 트레일이 돌아옵니다! 해발 1,567m의 태백산을 중심으로 펼쳐지는 이번 대회는 아름다운 자연 속에서 극한의 도전과 짜릿한 성취감을 경험할 수 있는 기회입니다.2026년 9월 5일 토요일, 강원도 태백시 및 태백산 국립공원 일대에서 개최되며, 50K, 32K-T, 32K-U, 24K, 15K 코스로 구성됩니다. 50K, 32K-T, 32K-U, 24K 코스는 UTMB 및 ITRA INDEX 포인트를 획득할 수 있습니다.트레일 러닝을 처음 접하는 입문자부터 경험 많은 러너까지 모두가 즐길 수 있도록 다양한 코스를 준비했습니다.태백산 국립공원의 수려한 자연경관을 배경으로 펼쳐지는 이번 대회는 계절의 변화와 함께 자연이 선사하는 최고의 트레일을 경험할 수 있는 기회입니다.자연과 하나 되어 도전하는 순간, 당신의 한계를 뛰어넘을 준비가 되셨나요? 2026 다이나핏 태백 트레일에서 만나 뵙겠습니다!",
+        "latitude": 37.1337299,
+        "longitude": 128.9614633,
+        "map_address": "강원특별자치도 태백시 태백산로 4767"
     },
     {
         "year": "2026",
@@ -8958,6 +9048,36 @@
         "region": "충남",
         "registration_period": "2026년3월20일~2026년9월3일",
         "description": "선착순 7000명 마감됩니다.조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요!감사합니다."
+    },
+    {
+        "year": "2026",
+        "date": "10/4",
+        "month": 10,
+        "day": 4,
+        "day_of_week": "일",
+        "event_name": "2026 파주북시티마라톤",
+        "tags": [
+            "10km",
+            "5km",
+            "3Km(거북이마라톤)"
+        ],
+        "location": "파주출판도시",
+        "organizer": [
+            "(사)파주출판도시입주기업체협의"
+        ],
+        "phone": "031-955-0025",
+        "event_id": "41560",
+        "homepage": "http://runbookcity.com",
+        "email": "runbookcity@bookcity.or.kr",
+        "representative": "정병철",
+        "start_time": "08:40",
+        "region": "경기",
+        "registration_period": "2026년5월4일~2026년8월10일",
+        "venue_detail": "",
+        "description": "완벽한 평지 코스와 드넓고 매끄러운 도로 위에서 자연과 현대 건축물이 어우러진 문화예술 도시 파주북시티를 달려보세요.파주출판도시의 아름다운 건축과 자연으로 구성된 10 KM 코스는 넓은 대로의 완전한 평지로, 기록도전을 위한 최적의 코스입니다.출판도시의 주로를 왕복하는 5 KM 코스는 모던 건축물부터 한옥까지 출판도시의 정취를 느껴볼 수 있는 코스입니다.출판도시의 가장 아름다운 길로 가을의 정취를 만끽하며 뛸 수 있는 코스입니다. 아름다운 건축물과 자연 생태환경을 감상하며 달려보세요.",
+        "latitude": 37.7206182,
+        "longitude": 126.6928692,
+        "map_address": "경기도 파주시 문발로 312"
     },
     {
         "year": "2026",
@@ -9528,6 +9648,62 @@
         "latitude": 36.0631023,
         "longitude": 129.3826726,
         "map_address": "경상북도 포항시 북구 해안로 173"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "제24회 상주 곶감 마라톤 대회",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "4.4km"
+        ],
+        "location": "상주시민운동장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41563",
+        "homepage": "http://www.mara1080.com/event/c8dc2c22-a83a-4743-9e34-c884e9809dbb",
+        "email": " jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "경북",
+        "registration_period": "2026년5월6일~2026년10월15일",
+        "description": "종목별 접수 인원4.4km 2,000명 / 10km 3,000명 /Half 2,500명 / Full 2,500명총 10,000명 신청 및 입금자순 마감됩니다.*조기 마감될 수 있으므로 신청 및 입금을 서둘러주시기 바랍니다*"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "제3회 무등산더블하트국제트레일런대회",
+        "tags": [
+            "16km/36km",
+            "51.8km"
+        ],
+        "location": "조선대학교",
+        "organizer": [
+            "한국백혈병소아암협회/시유케이컴"
+        ],
+        "phone": "00-1899-8610",
+        "event_id": "41558",
+        "homepage": "http://www.cuk-sports.com/",
+        "email": "smileman4u@naver.com",
+        "representative": "안라순",
+        "start_time": "07:00",
+        "region": "광주",
+        "registration_period": "2026년5월4일~2026년10월15일",
+        "venue_detail": "",
+        "description": "5.1~5.30 까지 얼리버드 (20%) 할인행사 /단 300명 선착순*얼리버스 신청사 소정의 사은품 증정(현장배부)'2026 무등산 더블하트 국제 트레일런'은 대한민국 광주 도심에 위치한 세계유네스코 무등산 지질공원(UNESCO Global Geopark)을 무대로 펼쳐지는 공익 목적의 국제 트레일 러닝 대회입니다.본 대회는 단순한 스포츠 경기를 넘어, 자연을 존중하는 책임 있는 달리기와 한국백혈병소아암협회 광주전남지회 와의 공동 주최를 통해 백혈병·소아암 환아들을 응원하는 나눔의 가치를 실현하고자 합니다.참가자들은 무등산의 수려한 자연환경을 달리며 자신의 한계에 도전함과 동시에, 그 도전이 곧 아픈 어린이들에 게 희망이 되는 사회공헌형 스포츠 모델을 지향합니다. 스포츠를 통해 생명 존중, 사회적 연대, 그리고 희망의 메 시지를 확산하는 것이 본 대회의 핵심 목표입니다.",
+        "latitude": 35.1380945,
+        "longitude": 126.9304633,
+        "map_address": "광주광역시 동구 조선대2길 79"
     },
     {
         "year": "2026",
