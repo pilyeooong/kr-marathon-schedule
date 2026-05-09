@@ -5074,6 +5074,35 @@
         "month": 5,
         "day": 9,
         "day_of_week": "토",
+        "event_name": "제23회 전기사랑마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "하남 미사리경정공원",
+        "organizer": [
+            "전기신문"
+        ],
+        "phone": "02-338-0344",
+        "event_id": "41568",
+        "homepage": "http://www.e-powermarathon.com",
+        "email": "jeongisarangmarathon@gmail.com",
+        "representative": "장덕근",
+        "start_time": "10:00",
+        "region": "서울",
+        "registration_period": "2026년2월9일~2026년3월20일",
+        "venue_detail": "",
+        "description": "미사리 경정공원",
+        "latitude": 37.5536142,
+        "longitude": 127.2132338,
+        "map_address": "경기도 하남시 미사대로 505"
+    },
+    {
+        "year": "2026",
+        "date": "5/9",
+        "month": 5,
+        "day": 9,
+        "day_of_week": "토",
         "event_name": "2026 나는 솔로런",
         "tags": [
             "10km"
@@ -9232,6 +9261,37 @@
         "month": 10,
         "day": 10,
         "day_of_week": "토",
+        "event_name": "제9회 거제시장배 섬꽃 전국 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "4km"
+        ],
+        "location": "거제스포츠파크",
+        "organizer": [
+            "거제시",
+            "거제시체육회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41567",
+        "homepage": "http://mara1080.com/event/b43655f0-60be-4c97-ad62-d377f6586ae0",
+        "email": " jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "경남",
+        "registration_period": "2026년5월8일~2026년9월10일",
+        "venue_detail": "",
+        "description": "● 일시 : 2026년 10월 10일(토)  출발: 오전 8시 30분 (집결: 오전 7시 30분)● 장소 : 거제스포츠파크● 주최 : 거제시, 거제시체육회● 주관 : 거제시육상연맹, 전국마라톤협회● 후원 : 거제시의회, 거제경찰서, 거제소방서, 거제보건소● 협력 : 월드런(world run), 전사모 페이싱팀4km :1500명10km : 2500명Half : 2000명선착순 6000명 접수 및 입금 완료순 마감됩니다.위 기간보다 조기 마감될 수 있습니다.신청 및 입금을 서둘러 주시기 바랍니다 감사합니다!",
+        "latitude": 34.8530848,
+        "longitude": 128.580731,
+        "map_address": "경상남도 거제시 거제면 거제남서로 3485-17"
+    },
+    {
+        "year": "2026",
+        "date": "10/10",
+        "month": 10,
+        "day": 10,
+        "day_of_week": "토",
         "event_name": "제5회 무등산지오마라톤",
         "tags": [
             "하프",
@@ -9367,11 +9427,11 @@
             "MBN",
             "매일경제"
         ],
-        "phone": "010-2426-1070",
+        "phone": "031-821-9949",
         "event_id": "41434",
-        "homepage": "http://najumbnmarathon.com/home/main.ubs",
-        "email": "susumani@korea.kr",
-        "representative": "윤병태",
+        "homepage": "http://najumarathon.com",
+        "email": "najumarathon@gmail.com",
+        "representative": "이관수",
         "start_time": "08:00",
         "region": "전남",
         "registration_period": "2026년5월15일~2026년7월19일",
@@ -9496,8 +9556,8 @@
         "representative": "윤찬기",
         "start_time": "07:30",
         "region": "서울",
-        "registration_period": "2026년4월14일~2026년5월18일",
-        "description": "-대한민국의 심장 광화문에서 마라톤가족 여러분을 모십니다-불굴의 오뚜기 마라톤너 \"보스턴마라톤의 영웅\" 이봉주선수와 함께 달립니다- \"맨발의 사나이 조승환의 60번째 세계 신기록의 순간을 함께 달리세요-\"개그맨 상호 & 상민 특별게스트"
+        "registration_period": "2026년4월14일~2026년5월19일",
+        "description": "-대한민국의 심장 광화문에서 마라톤가족 여러분을 모십니다-불굴의 오뚜기 마라톤너 \"보스턴마라톤의 영웅\" 이봉주선수와-86년 아시안게임 육상 3관왕 임춘애선수와 함께 달립니다- \"맨발의 사나이 조승환의 60번째 세계 신기록의 순간을 함께 달리세요-\"개그맨 상호 & 상민 특별게스트"
     },
     {
         "year": "2026",
@@ -9648,6 +9708,36 @@
         "latitude": 36.0631023,
         "longitude": 129.3826726,
         "map_address": "경상북도 포항시 북구 해안로 173"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "제4회 영남알프스 전국 하프마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "울주군 영남알프스 일원",
+        "organizer": [
+            "울산광역시 울주군육상연맹"
+        ],
+        "phone": "010-4741-5959",
+        "event_id": "41565",
+        "homepage": "http://영남알프스마라톤.kr",
+        "email": "cbh1976@daum.net",
+        "representative": "최부환",
+        "start_time": "09:00",
+        "region": "울산",
+        "registration_period": "2026년9월1일~2026년9월31일",
+        "venue_detail": "",
+        "description": "울산광역시 울주군 영남알프스의 풍경을 전국에 홍보하기 위해 울주군과 협조하여 대회를 개최 합니다.",
+        "latitude": 35.5940817,
+        "longitude": 129.0809768,
+        "map_address": "울산광역시 울주군 상북면 길천산업1길 17"
     },
     {
         "year": "2026",
