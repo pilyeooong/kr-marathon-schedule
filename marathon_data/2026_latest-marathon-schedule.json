@@ -7961,6 +7961,35 @@
         "month": 6,
         "day": 28,
         "day_of_week": "일",
+        "event_name": "2026 울산남구청장배 육상대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "태화강둔치 (태화다리 밑)",
+        "organizer": [
+            "울산광역시 남구체육회"
+        ],
+        "phone": "010-9360-0113",
+        "event_id": "41569",
+        "homepage": "http://modern-infinity-9e6.notion.site/2026-359918810cc280958531fd2261f990d6",
+        "email": "mimo981019@gmail.com",
+        "representative": "배달식",
+        "start_time": "08:30",
+        "region": "울산",
+        "registration_period": "2026년5월11일~2026년5월20일",
+        "venue_detail": "",
+        "description": "태화강의 아른다운 풍경을 함께해요",
+        "latitude": 35.5508353,
+        "longitude": 129.3067947,
+        "map_address": "울산 남구 신정동 1476"
+    },
+    {
+        "year": "2026",
+        "date": "6/28",
+        "month": 6,
+        "day": 28,
+        "day_of_week": "일",
         "event_name": "제20회 강북구청장배 마라톤",
         "tags": [
             "10km",
@@ -9194,7 +9223,7 @@
         "region": "대구",
         "registration_period": "2026년5월20일~2026년6월30일",
         "venue_detail": "",
-        "description": "-접수기간 : 5월20일~  선착순 -공인된 성서 산업단지 내 넓은 아스팔트 코스를 달리며, 풍성한 먹거리와 함께 마라톤 동호인들이 화합하고 소통할 수 있는 자리를 준비했습니다. 많은 관심과 참여 바랍니다.",
+        "description": "종목 별 접수일정 다릅니다.홈페이지 공지사항 확인 니다.5월20일 : 단체 및 개인 10km5월21일 : 단체 및 개인 하프, 5km",
         "latitude": 35.8328017,
         "longitude": 128.4872577,
         "map_address": "대구광역시 달서구 성서공단로 40"
