@@ -7088,7 +7088,7 @@
         "representative": "김연수",
         "start_time": "07:30",
         "region": "서울",
-        "registration_period": "2026년4월14일~2026년5월3일",
+        "registration_period": "2026년4월14일~2026년5월22일",
         "venue_detail": "",
         "description": "여의도에서 한국 러닝 시즌을 여는 도심형 오픈 페스티벌로2026년을 여는 '가장 도시다운 시즌 개막 레이스'가 펼쳐집니다.",
         "latitude": 37.5257581,
@@ -8674,8 +8674,7 @@
         ],
         "location": "영덕 대진해수욕장",
         "organizer": [
-            "(주)메이드인피플",
-            "LG HelloVision"
+            "(주)메이드인피플"
         ],
         "phone": "010-2584-0474",
         "event_id": "41402",
@@ -9031,7 +9030,7 @@
             "10km",
             "5km",
             "10Km커플런",
-            "4.2Km 패미리런"
+            "4.2Km 가족런"
         ],
         "location": "가평종합운동장(경기)",
         "organizer": [
