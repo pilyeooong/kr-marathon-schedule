@@ -5889,31 +5889,6 @@
     },
     {
         "year": "2026",
-        "date": "5/17",
-        "month": 5,
-        "day": 17,
-        "day_of_week": "일",
-        "event_name": "밀양아리랑트레일런",
-        "tags": [
-            "20km",
-            "10km"
-        ],
-        "location": "밀양보트장",
-        "organizer": [
-            "명품트레일"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "40317",
-        "homepage": "http://www.mtrailrun.kr",
-        "email": "etetgo@hanmail.net",
-        "representative": "이태재",
-        "start_time": "08:00",
-        "region": "경남",
-        "registration_period": "2026년3월11일~2026년5월16일",
-        "description": "밀양 아리랑코스와 산악, 임도코스로 이루어진 아름다운 주로입니다"
-    },
-    {
-        "year": "2026",
         "date": "5/23",
         "month": 5,
         "day": 23,
@@ -7533,6 +7508,30 @@
     },
     {
         "year": "2026",
+        "date": "6/13",
+        "month": 6,
+        "day": 13,
+        "day_of_week": "토",
+        "event_name": "부산 송도해안트레일런",
+        "tags": [
+            "13km"
+        ],
+        "location": "남항대교 수변야외공연장",
+        "organizer": [
+            "명품트레일"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "40317",
+        "homepage": "http://www.mtrailrun.kr",
+        "email": "etetgo@hanmail.net",
+        "representative": "이태재",
+        "start_time": "08:00",
+        "region": "부산",
+        "registration_period": "2026년3월11일~2026년6월12일",
+        "description": "부산의 남항대교에 올라 바다를 가로 지르고 송도새수욕장 암남공원의 해안길을 달리는 환상의 주로입니다"
+    },
+    {
+        "year": "2026",
         "date": "6/14",
         "month": 6,
         "day": 14,
@@ -7894,35 +7893,6 @@
         "month": 6,
         "day": 21,
         "day_of_week": "일",
-        "event_name": "THE PACER SERIES",
-        "tags": [
-            "10km",
-            "5km"
-        ],
-        "location": "대전 대덕구 미호동 57-1",
-        "organizer": [
-            "런코드 코리아"
-        ],
-        "phone": "010-7734-1481",
-        "event_id": "41561",
-        "homepage": "http://thepacerseries.com",
-        "email": "runcode.kr@gmail.com",
-        "representative": "민진홍",
-        "start_time": "08:00",
-        "region": "대전",
-        "registration_period": "2026년5월4일~2026년6월7일",
-        "venue_detail": "",
-        "description": "2026 THE PACER SERIES는 런코드코리아가 주최하는 전국 마라톤 대회로, 2026년 6월 21일(일) 오전 8시 대전 대청댐 일원에서 개최됩니다. 슬로건은 \"Run With The Queen — Mary Keitany\"이며, 기록 경쟁보다 함께 달리는 경험을 강조하는 대회입니다. 참가 규모는 3,500명 이상이며, 종목은 10K(65,000원)와 건강달리기 5K(60,000원) 두 가지로 운영됩니다. 참가자 전원에게 기념 티셔츠, 완주 메달, 기념품이 제공되며 종목별 시상도 진행됩니다. 접수 기간은 5월 4일부터 6월 7일까지이며, 문의는 7734-1481  또는 runcode.kr@gmail.com로 가능합니다.",
-        "latitude": 36.4730996,
-        "longitude": 127.4738887,
-        "map_address": "대전 대덕구 미호동 57-1"
-    },
-    {
-        "year": "2026",
-        "date": "6/21",
-        "month": 6,
-        "day": 21,
-        "day_of_week": "일",
         "event_name": "2026 보은 속리산 말티재 힐링 알몸 마라톤",
         "tags": [
             "10km",
@@ -8150,6 +8120,31 @@
         "latitude": 35.5508353,
         "longitude": 129.3067947,
         "map_address": "울산 남구 신정동 1476"
+    },
+    {
+        "year": "2026",
+        "date": "6/28",
+        "month": 6,
+        "day": 28,
+        "day_of_week": "일",
+        "event_name": "THE PACER SERIES",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "충청북도 청주시 상당구 문의면 청남대길 646",
+        "organizer": [
+            "런코드 코리아"
+        ],
+        "phone": "010-7734-1481",
+        "event_id": "41561",
+        "homepage": "http://thepacerseries.com",
+        "email": "runcode.kr@gmail.com",
+        "representative": "민진홍",
+        "start_time": "08:00",
+        "region": "충북",
+        "registration_period": "2026년5월4일~2026년6월7일",
+        "description": "2026 THE PACER SERIES는 런코드코리아가 주최하는 전국 마라톤 대회로, 2026년 6월 28일(일) 오전 8시 청주 대청호 일원(청남대)에서 개최됩니다. 슬로건은 \"Run With The Queen — Mary Keitany\"이며, 기록 경쟁보다 함께 달리는 경험을 강조하는 대회입니다. 참가 규모는 5,000명 이상이며, 종목은 10K(65,000원)와 건강달리기 5K(60,000원) 두 가지로 운영됩니다. 참가자 전원에게 기념 티셔츠, 완주 메달, 기념품이 제공되며 종목별 시상도 진행됩니다. 접수 기간은 5월 4일부터 6월 7일까지이며, 문의는 010-7734-1481  또는 runcode.kr@gmail.com로 가능합니다."
     },
     {
         "year": "2026",
