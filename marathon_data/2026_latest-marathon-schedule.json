@@ -6217,6 +6217,34 @@
         "month": 5,
         "day": 30,
         "day_of_week": "토",
+        "event_name": "6.10만세운동 메모리얼로드(무료)",
+        "tags": [
+            "6.1km내외"
+        ],
+        "location": "청계광장",
+        "organizer": [
+            "서울북부보훈지청"
+        ],
+        "phone": "010-3554-2391",
+        "event_id": "41592",
+        "homepage": "http://s2s2.co.kr/sites/610manse",
+        "email": "imqop2338@naver.com",
+        "representative": "손주현",
+        "start_time": "15:30",
+        "region": "서울",
+        "registration_period": "2026년5월18일~2026년5월30일",
+        "venue_detail": "",
+        "description": "6.10 만 세운동 100주년 기념 걷기대회입니다.4시 ~ 6시 10분까지 자유롭게 6.1km 걷는 대회입니다.스팟 3곳 셀카 인증 미션 수행, 완주자 기념품 제공선착순 610명이니 많은 참여 부탁드립니다.",
+        "latitude": 37.5695439,
+        "longitude": 126.9780017,
+        "map_address": "서울특별시 종로구 청계천로 1"
+    },
+    {
+        "year": "2026",
+        "date": "5/30",
+        "month": 5,
+        "day": 30,
+        "day_of_week": "토",
         "event_name": "2026 부천의장배 20km릴레이마라톤",
         "tags": [
             "20km"
@@ -7241,6 +7269,34 @@
         "month": 6,
         "day": 13,
         "day_of_week": "토",
+        "event_name": "DC SUPER HERO RUN(대회취소)",
+        "tags": [
+            "10km"
+        ],
+        "location": "여의도공원 문화의마당",
+        "organizer": [
+            "MBN"
+        ],
+        "phone": "070-7727-1754",
+        "event_id": "41589",
+        "homepage": "http://kko.to/ZKJ0jsV6GV",
+        "email": "@naver.com",
+        "representative": "이동원",
+        "start_time": "07:30",
+        "region": "서울",
+        "registration_period": "2026년5월16일~2026년5월20일",
+        "venue_detail": "",
+        "description": "",
+        "latitude": 37.5268088,
+        "longitude": 126.9222841,
+        "map_address": "서울특별시 영등포구 여의공원로 68"
+    },
+    {
+        "year": "2026",
+        "date": "6/13",
+        "month": 6,
+        "day": 13,
+        "day_of_week": "토",
         "event_name": "2026 지중해마을 마라톤",
         "tags": [
             "5km"
@@ -7501,30 +7557,6 @@
         "latitude": 37.4884529,
         "longitude": 126.5768416,
         "map_address": "인천광역시 중구 구읍로 75"
-    },
-    {
-        "year": "2026",
-        "date": "6/13",
-        "month": 6,
-        "day": 13,
-        "day_of_week": "토",
-        "event_name": "부산 송도해안트레일런",
-        "tags": [
-            "13km"
-        ],
-        "location": "남항대교 수변야외공연장",
-        "organizer": [
-            "명품트레일"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "40317",
-        "homepage": "http://www.mtrailrun.kr",
-        "email": "etetgo@hanmail.net",
-        "representative": "이태재",
-        "start_time": "08:00",
-        "region": "부산",
-        "registration_period": "2026년3월11일~2026년6월12일",
-        "description": "부산의 남항대교에 올라 바다를 가로 지르고 송도새수욕장 암남공원의 해안길을 달리는 환상의 주로입니다"
     },
     {
         "year": "2026",
@@ -7853,6 +7885,31 @@
         "latitude": 37.5933809,
         "longitude": 127.1944399,
         "map_address": "경기도 남양주시 고산로 254-2"
+    },
+    {
+        "year": "2026",
+        "date": "6/20",
+        "month": 6,
+        "day": 20,
+        "day_of_week": "토",
+        "event_name": "경주 남산트레일런",
+        "tags": [
+            "15km",
+            "10km"
+        ],
+        "location": "서남산주차장 삼릉입구",
+        "organizer": [
+            "명품트레일"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "40317",
+        "homepage": "http://www.mtrailrun.kr",
+        "email": "etetgo@hanmail.net",
+        "representative": "이태재",
+        "start_time": "08:00",
+        "region": "경북",
+        "registration_period": "2026년3월11일~2026년6월19일",
+        "description": "경주의 남산 금오봉과 고의봉을 일주하는 천불천탑의 주로입니다"
     },
     {
         "year": "2026",
@@ -8441,6 +8498,37 @@
         "month": 7,
         "day": 18,
         "day_of_week": "토",
+        "event_name": "2026 코리아 나이트 런 태백",
+        "tags": [
+            "28K",
+            "17K",
+            "7K"
+        ],
+        "location": "O2 리조트",
+        "organizer": [
+            "태백시",
+            "태백시 철인3종 협회"
+        ],
+        "phone": "010-5605-9059",
+        "event_id": "41593",
+        "homepage": "http://koreanightrun.imweb.me/main",
+        "email": "jeongst25@naver.com",
+        "representative": "장재훈",
+        "start_time": "17:00",
+        "region": "강원",
+        "registration_period": "2026년5월22일~2026년5월22일",
+        "venue_detail": "",
+        "description": "대한민국 역사의 산실인 백두대간을 은하수 아래에서 달리는 절호의 기회KOREA NIGHT RUN 2026은어둠이 내린 태백에서 나만의 빛을 밝히며 한계를 시험하는 나이트 트레일 러닝입니다.한여름 밤 빛의 향연, 어둠을 가르는 트레일러너들의 축제에 여러분을 초대합니다.",
+        "latitude": 37.1775918,
+        "longitude": 128.9479026,
+        "map_address": "강원특별자치도 태백시 오투로 266"
+    },
+    {
+        "year": "2026",
+        "date": "7/18",
+        "month": 7,
+        "day": 18,
+        "day_of_week": "토",
         "event_name": "2026 쿨밸리트레일레이스",
         "tags": [
             "18K"
@@ -8791,6 +8879,37 @@
         "month": 8,
         "day": 30,
         "day_of_week": "일",
+        "event_name": "제3회 GO대관령 국제 트레일런",
+        "tags": [
+            "10km",
+            "20.18km",
+            "44km"
+        ],
+        "location": "평창동계올림픽기념공원",
+        "organizer": [
+            "국대레포츠",
+            "대관령면체육회"
+        ],
+        "phone": "010-2828-9226",
+        "event_id": "41590",
+        "homepage": "http://daegwallyeongrun.com",
+        "email": "team@peakffice.com",
+        "representative": "박병주",
+        "start_time": "07:30",
+        "region": "강원",
+        "registration_period": "2026년5월22일~2026년7월31일",
+        "venue_detail": "",
+        "description": "제3회 GO대관령 국제 트레일런 대회 참가자 모집제3회 GO대관령 국제 트레일런평창의 아름다운 대자연을 달리는 특별한 경험에 여러분을 초대합니다!대회 개요대회명제3회 GO대관령 국제 트레일런 대회대회일시2026년 8월 30일 (일) 07:30 출발대회장소2018평창동계올림픽대회 및 동계패럴림픽 대회 기념관(강원특별자치도 평창군 대관령면 올림픽로 200)접수기간2026년 5월 22일 ~ 7월 31일 (선착순 마감)홈페이지daegwallyeongrun.com실시간 공지인스타그램 보기바로가기문의처team@peakffice.com카카오채널 문의참가 종목 및 참가비44K125,000원20.18K100,000원10K75,000원대회 홈페이지 바로가기 및 접수주최국대레포츠  |주관대관령면체육회후원한국수력원자력(주), 삼양라운드힐협력(사)대관령면번영회, 도어투아웃, 픽피스",
+        "latitude": 37.6668576,
+        "longitude": 128.7067312,
+        "map_address": "강원특별자치도 평창군 대관령면 올림픽로 220"
+    },
+    {
+        "year": "2026",
+        "date": "8/30",
+        "month": 8,
+        "day": 30,
+        "day_of_week": "일",
         "event_name": "2026대구세계마스터즈 하프마라톤대회",
         "tags": [
             "하프",
@@ -8959,6 +9078,35 @@
         "region": "경북",
         "registration_period": "2026년3월16일~2026년7월6일",
         "description": "..."
+    },
+    {
+        "year": "2026",
+        "date": "9/6",
+        "month": 9,
+        "day": 6,
+        "day_of_week": "일",
+        "event_name": "2026 YTN 서울투어마라톤",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "서울광장 (예정)",
+        "organizer": [
+            "YTN"
+        ],
+        "phone": "070-7725-6258",
+        "event_id": "41556",
+        "homepage": "http://run.ytn.co.kr",
+        "email": "run.ytn@gmail.com",
+        "representative": "사무국",
+        "start_time": "07:30",
+        "region": "서울",
+        "registration_period": "2026년4월30일~2026년4월30일",
+        "venue_detail": "",
+        "description": "2026 YTN 서울투어마라톤2026년 10월 4일 서울광장에서 개최 예정입니다.접수 일정등 정확한 일정은 추후 공개 하겠습니다.",
+        "latitude": 37.5666103,
+        "longitude": 126.9783882,
+        "map_address": "서울특별시 중구 세종대로 110"
     },
     {
         "year": "2026",
@@ -9177,6 +9325,37 @@
         "month": 9,
         "day": 13,
         "day_of_week": "일",
+        "event_name": "제 16회 스마일 런 페스티벌(예정)",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "걷기"
+        ],
+        "location": "상암동 평화의공원 평화광장",
+        "organizer": [
+            "(사)대한치과의사협회"
+        ],
+        "phone": "02-2632-0912",
+        "event_id": "41591",
+        "homepage": "http://www.smilerun.co.kr",
+        "email": "smilerun15@naver.com",
+        "representative": "박태근",
+        "start_time": "08:30",
+        "region": "서울",
+        "registration_period": "2026년7월1일~2026년8월1일",
+        "venue_detail": "",
+        "description": "제 16회 스마일 런 페스티벌",
+        "latitude": 37.5632736,
+        "longitude": 126.8979047,
+        "map_address": "서울특별시 마포구 월드컵로 243-48"
+    },
+    {
+        "year": "2026",
+        "date": "9/13",
+        "month": 9,
+        "day": 13,
+        "day_of_week": "일",
         "event_name": "제14회설악산공룡능선UTMB",
         "tags": [
             "27km",
@@ -9291,6 +9470,37 @@
         "latitude": 35.6402366,
         "longitude": 127.5198191,
         "map_address": "전북특별자치도 장수군 장수읍 한누리로 378"
+    },
+    {
+        "year": "2026",
+        "date": "9/20",
+        "month": 9,
+        "day": 20,
+        "day_of_week": "일",
+        "event_name": "2026(20회) 선사마라톤 축제",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "5km 걷기"
+        ],
+        "location": "서울 암사동 유적앞 특설무대",
+        "organizer": [
+            "강동구 육상연맹"
+        ],
+        "phone": "02-476-7330",
+        "event_id": "41594",
+        "homepage": "http://www.gomarathon.co.kr/",
+        "email": "daiju74@naver.com",
+        "representative": "박주훈",
+        "start_time": "09:00",
+        "region": "서울",
+        "registration_period": "2026년6월8일~2026년6월11일",
+        "venue_detail": "",
+        "description": "인터넷 접수강동구민 6윌8일 선착순 1,000명강동구민,일반인 6월11일 선착순 1,800명",
+        "latitude": 37.5602181,
+        "longitude": 127.1299269,
+        "map_address": "강동구 암사동 158  암사동 선사유적지"
     },
     {
         "year": "2026",
@@ -9509,35 +9719,6 @@
         "month": 10,
         "day": 4,
         "day_of_week": "일",
-        "event_name": "2026 YTN 서울투어마라톤",
-        "tags": [
-            "하프",
-            "10km"
-        ],
-        "location": "서울광장 (예정)",
-        "organizer": [
-            "YTN"
-        ],
-        "phone": "070-7725-6258",
-        "event_id": "41556",
-        "homepage": "http://run.ytn.co.kr",
-        "email": "run.ytn@gmail.com",
-        "representative": "사무국",
-        "start_time": "07:30",
-        "region": "서울",
-        "registration_period": "2026년4월30일~2026년4월30일",
-        "venue_detail": "",
-        "description": "2026 YTN 서울투어마라톤2026년 10월 4일 서울광장에서 개최 예정입니다.접수 일정등 정확한 일정은 추후 공개 하겠습니다.",
-        "latitude": 37.5666103,
-        "longitude": 126.9783882,
-        "map_address": "서울특별시 중구 세종대로 110"
-    },
-    {
-        "year": "2026",
-        "date": "10/4",
-        "month": 10,
-        "day": 4,
-        "day_of_week": "일",
         "event_name": "제20회 달서하프마라톤",
         "tags": [
             "하프",
@@ -9615,7 +9796,7 @@
         "representative": "위길숙",
         "start_time": "07:30",
         "region": "서울",
-        "registration_period": "2026년4월24일~2026년5월10일",
+        "registration_period": "2026년5월26일~2026년5월10일",
         "description": "지속 가능한 러닝 문화 만들기 일환으로 개최되는 대회"
     },
     {
