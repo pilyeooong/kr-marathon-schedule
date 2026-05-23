@@ -7269,34 +7269,6 @@
         "month": 6,
         "day": 13,
         "day_of_week": "토",
-        "event_name": "DC SUPER HERO RUN(대회취소)",
-        "tags": [
-            "10km"
-        ],
-        "location": "여의도공원 문화의마당",
-        "organizer": [
-            "MBN"
-        ],
-        "phone": "070-7727-1754",
-        "event_id": "41589",
-        "homepage": "http://kko.to/ZKJ0jsV6GV",
-        "email": "@naver.com",
-        "representative": "이동원",
-        "start_time": "07:30",
-        "region": "서울",
-        "registration_period": "2026년5월16일~2026년5월20일",
-        "venue_detail": "",
-        "description": "",
-        "latitude": 37.5268088,
-        "longitude": 126.9222841,
-        "map_address": "서울특별시 영등포구 여의공원로 68"
-    },
-    {
-        "year": "2026",
-        "date": "6/13",
-        "month": 6,
-        "day": 13,
-        "day_of_week": "토",
         "event_name": "2026 지중해마을 마라톤",
         "tags": [
             "5km"
