@@ -7889,6 +7889,36 @@
         "month": 6,
         "day": 21,
         "day_of_week": "일",
+        "event_name": "SPINDLE TRAIL RUN 2026",
+        "tags": [
+            "12K",
+            "20K"
+        ],
+        "location": "삼양라운드힐",
+        "organizer": [
+            "스핀들",
+            "프립"
+        ],
+        "phone": "02-512-3662",
+        "event_id": "41597",
+        "homepage": "http://sqnc.global/spindle-trail-run",
+        "email": "spindletrailrun@sqnc.global",
+        "representative": "임수열",
+        "start_time": "09:00",
+        "region": "강원",
+        "registration_period": "2026년5월15일~2026년6월5일",
+        "venue_detail": "",
+        "description": "600만 평의 초원과백두대간 능선을 달리는단 하루의 트레일런.SPINDLE TRAIL RUN 2026이 2026년 6월 21일,평창 삼양라운드힐에서 열립니다.바람이 그린 풍경,끝없이 펼쳐진 초원,그리고 능선 위로 이어지는 길.바람과 초원이 허락한 무대,삼양라운드힐에서 만나요.📅 대회 일정2026년 6월 21일 (일)📍 장소강원도 평창군 삼양라운드힐 일대🏃 종목12K / 20K⏰ 출발 시간09:40 – 12K09:00 – 20K👥 모집 인원총 800명12K 400명 / 20K 400명",
+        "latitude": 37.723936,
+        "longitude": 128.7196692,
+        "map_address": "강원특별자치도 평창군 대관령면 꽃밭양지길 708-9"
+    },
+    {
+        "year": "2026",
+        "date": "6/21",
+        "month": 6,
+        "day": 21,
+        "day_of_week": "일",
         "event_name": "월리를 찾아라런 in 서울 2026",
         "tags": [
             "10km",
@@ -8310,9 +8340,9 @@
         "homepage": "http://dhrun.kr",
         "email": "stk-1007@hanmail.net",
         "representative": "김상기",
-        "start_time": "08:30",
+        "start_time": "08:00",
         "region": "전북",
-        "registration_period": "2026년4월10일~2026년6월10일",
+        "registration_period": "2026년4월10일~2026년5월25일",
         "venue_detail": "",
         "description": "농촌 작은 마을에서 생산한 블루베리로 진행하는 마라톤축제입니다.10회 이상 진행해오고 있습니다.",
         "latitude": 35.5249727,
@@ -10111,6 +10141,35 @@
         "latitude": 36.515472,
         "longitude": 127.4998197,
         "map_address": "충청북도 청주시 상당구 문의면 대청호반로 820"
+    },
+    {
+        "year": "2026",
+        "date": "10/18",
+        "month": 10,
+        "day": 18,
+        "day_of_week": "일",
+        "event_name": "제22회 대구 북구사랑 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "금호강 산격야영장",
+        "organizer": [
+            "대구광역시북구체육회"
+        ],
+        "phone": "053-958-0660",
+        "event_id": "41596",
+        "homepage": "http://maraton.dbsfa365.co.kr/",
+        "email": "jungjjoy@hanmail.net",
+        "representative": "류성진",
+        "start_time": "09:00",
+        "region": "대구",
+        "registration_period": "2026년8월3일~2026년8월24일",
+        "venue_detail": "",
+        "description": "대구광역시북구체육회",
+        "latitude": 35.8994697,
+        "longitude": 128.6030842,
+        "map_address": "대구광역시 북구 연암공원로 112"
     },
     {
         "year": "2026",
