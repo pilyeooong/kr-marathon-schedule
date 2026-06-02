@@ -8500,6 +8500,34 @@
         "month": 7,
         "day": 18,
         "day_of_week": "토",
+        "event_name": "제2회 울릉나이트런",
+        "tags": [
+            "10km"
+        ],
+        "location": "울릉군 현포항",
+        "organizer": [
+            "대저투어"
+        ],
+        "phone": "00-1899-4607",
+        "event_id": "41607",
+        "homepage": "http://forms.gle/wZenaiNwaS7MtRYa6",
+        "email": "kimcj@daezer.com",
+        "representative": "정홍",
+        "start_time": "19:30",
+        "region": "경북",
+        "registration_period": "2026년5월18일~2026년6월21일",
+        "venue_detail": "",
+        "description": "200명대회로 구글폼으로 접수합니다.",
+        "latitude": 37.5265487,
+        "longitude": 130.8221682,
+        "map_address": "경상북도 울릉군 북면 울릉순환로 2596"
+    },
+    {
+        "year": "2026",
+        "date": "7/18",
+        "month": 7,
+        "day": 18,
+        "day_of_week": "토",
         "event_name": "2026 코리아 나이트 런 태백",
         "tags": [
             "28K",
@@ -9356,6 +9384,37 @@
         "month": 9,
         "day": 13,
         "day_of_week": "일",
+        "event_name": "제26회 강화해변마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "강화함상공원",
+        "organizer": [
+            "인천일보",
+            "(사)인천마라톤조직위"
+        ],
+        "phone": "00-1866-1718",
+        "event_id": "41606",
+        "homepage": "http://www.ganghwamarathon.co.kr/",
+        "email": "isang102@naver.com",
+        "representative": "박현수",
+        "start_time": "08:30",
+        "region": "인천",
+        "registration_period": "2026년6월8일~2026년7월31일",
+        "venue_detail": "",
+        "description": "제26회 강화해변마라톤대회6월 8일(월) 접수예정!",
+        "latitude": 37.7001084,
+        "longitude": 126.384037,
+        "map_address": "인천광역시 강화군 내가면 해안서로 855"
+    },
+    {
+        "year": "2026",
+        "date": "9/13",
+        "month": 9,
+        "day": 13,
+        "day_of_week": "일",
         "event_name": "제 16회 스마일 런 페스티벌(예정)",
         "tags": [
             "하프",
@@ -9371,7 +9430,7 @@
         "event_id": "41591",
         "homepage": "http://www.smilerun.co.kr",
         "email": "smilerun15@naver.com",
-        "representative": "박태근",
+        "representative": "회장직무대행 이정우",
         "start_time": "08:30",
         "region": "서울",
         "registration_period": "2026년7월1일~2026년8월1일",
@@ -9539,6 +9598,36 @@
         "month": 9,
         "day": 20,
         "day_of_week": "일",
+        "event_name": "2026 동대문마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "중랑천 제1수변공원",
+        "organizer": [
+            "동대문구육상연맹"
+        ],
+        "phone": "010-4899-8421",
+        "event_id": "41605",
+        "homepage": "http://www.runddm.com",
+        "email": "\t rangi73@nate.com",
+        "representative": "손호석",
+        "start_time": "08:30",
+        "region": "서울",
+        "registration_period": "2026년6월10일~2026년8월10일",
+        "venue_detail": "",
+        "description": "동대문구, 동대문구체육회, 서울시육상연맹에서 후원하고동대문구육상연맹에서 매년 9월에 개최하는 마라톤대회입니다.시상과 함께 다수의 경품이 마련되어 있습니다.아름다운 풍경을 자랑하는 동대문구 중랑천에서달리기를 사랑하는 러너 여러분들의 뜨거운 관심과 참여 부탁드립니다.자세한 사항은 대회 홈페이지를 참고하시고궁금한 점은 홈페이지의 고객센터로 문의하시거나자유게시판에 글을 남겨주시면 성심껏 답변드리도록 하겠습니다.",
+        "latitude": 37.5647608,
+        "longitude": 127.0733196,
+        "map_address": "서울특별시 동대문구 장안벚꽃로 50"
+    },
+    {
+        "year": "2026",
+        "date": "9/20",
+        "month": 9,
+        "day": 20,
+        "day_of_week": "일",
         "event_name": "2026 공주마라톤",
         "tags": [
             "풀",
@@ -9596,6 +9685,36 @@
         "latitude": 37.8253879,
         "longitude": 127.5070499,
         "map_address": "경기도 가평군 가평읍 문화로 131"
+    },
+    {
+        "year": "2026",
+        "date": "10/3",
+        "month": 10,
+        "day": 3,
+        "day_of_week": "토",
+        "event_name": "2026 천사데이기념 동두천천사마라톤",
+        "tags": [
+            "10km",
+            "5km",
+            "걷기 2Km"
+        ],
+        "location": "경기도 동두천시 캠프보산",
+        "organizer": [
+            "(사)희망지킴이 천사운동본부"
+        ],
+        "phone": "031-861-1004",
+        "event_id": "41608",
+        "homepage": "http://hope1004.org",
+        "email": "ddchope1004@naver.com",
+        "representative": "송상곤",
+        "start_time": "9:00",
+        "region": "경기",
+        "registration_period": "2026년6월4일~2026년9월30일",
+        "venue_detail": "",
+        "description": "다시 뛴다~천사마라톤은 단순한 달리기가 아닌, 소외된 이웃에게 희망을 전하는사랑의 발걸음입니다.당신의 한걸음, 한 걸음이 누군가에겐 삶의 전환점이 됩니다.천사마라톤은 도움이 필요한 이웃을 위해 작은 기부와 큰 마음을 모으는마라톤입니다.◦ 기록보다 마음◦ 경쟁보다 나눔◦ 함께여서 더 아름다운 마라톤걷거나 뛰거나, 누구나 참여할 수 있어요.우리 함께  다시 한번 희망을 향해 뛰어볼까요?지금 신청하고 따뜻한 여정을 시작하세요~",
+        "latitude": 37.9143185,
+        "longitude": 127.0572371,
+        "map_address": "경기도 동두천시 평화로 2539 보산역"
     },
     {
         "year": "2026",
