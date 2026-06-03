@@ -8148,6 +8148,34 @@
     },
     {
         "year": "2026",
+        "date": "6/27",
+        "month": 6,
+        "day": 27,
+        "day_of_week": "토",
+        "event_name": "무주 베리 로드 트레일 (덕유산)",
+        "tags": [
+            "19K"
+        ],
+        "location": "덕유산국립공원다목적광장",
+        "organizer": [
+            "(주)락앤런"
+        ],
+        "phone": "063-353-2025",
+        "event_id": "41609",
+        "homepage": "http://rocknrun.kr",
+        "email": "info@rocknrun.kr",
+        "representative": "김영록",
+        "start_time": "8:00",
+        "region": "전북",
+        "registration_period": "2026년6월1일~2026년6월19일",
+        "venue_detail": "",
+        "description": "무진장 트레일레잇의 첫 시작!무주 베리 로드 트레일",
+        "latitude": 35.8952297,
+        "longitude": 127.7762441,
+        "map_address": "전북특별자치도 무주군 설천면 백련사길 21"
+    },
+    {
+        "year": "2026",
         "date": "6/28",
         "month": 6,
         "day": 28,
@@ -8351,6 +8379,35 @@
     },
     {
         "year": "2026",
+        "date": "6/31",
+        "month": 6,
+        "day": 31,
+        "day_of_week": "수",
+        "event_name": "사우나런 in 석촌호수",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "석촌 호수 인근",
+        "organizer": [
+            "사우나런"
+        ],
+        "phone": "070-8723-8122",
+        "event_id": "41611",
+        "homepage": "http://saunarun.com",
+        "email": "26mile.business@gmail.com",
+        "representative": "이상돈",
+        "start_time": ":",
+        "region": "서울",
+        "registration_period": "2026년6월2일~2026년6월31일",
+        "venue_detail": "",
+        "description": "달리고 비우고 비워내는 시간.몸을 단련하고 완벽하게 회복하는 SAUNA RUN(6월 한달동안 진행)",
+        "latitude": 37.5156207,
+        "longitude": 127.1106088,
+        "map_address": "서울특별시 송파구 오금로11길 33"
+    },
+    {
+        "year": "2026",
         "date": "7/4",
         "month": 7,
         "day": 4,
@@ -8464,6 +8521,35 @@
         "latitude": 37.5671131,
         "longitude": 126.9390292,
         "map_address": "서울특별시 서대문구 연세로 50"
+    },
+    {
+        "year": "2026",
+        "date": "7/11",
+        "month": 7,
+        "day": 11,
+        "day_of_week": "토",
+        "event_name": "2026 전마협 무주 풀코스 마라톤",
+        "tags": [
+            "풀",
+            "4km / 8km / 12km / 24km"
+        ],
+        "location": "무주 소이나루 공원",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41612",
+        "homepage": "http://mara1080.com/event/48dc9d78-292d-4851-9cc9-bbebcfad0a45",
+        "email": " jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "전북",
+        "registration_period": "2026년6월2일~2026년6월30일",
+        "venue_detail": "",
+        "description": "4km / 8km / 12km / 24km : 참가금 15,000원Full 코스 : 참가금 20,000원선착순 800명신청 및 입금순 마감됩니다.조기 마감될 수 있으니 신청을 서둘러 주세요.",
+        "latitude": 36.0034252,
+        "longitude": 127.6215414,
+        "map_address": "전북특별자치도 무주군 무주읍 서면강변로 28"
     },
     {
         "year": "2026",
@@ -10416,6 +10502,37 @@
     },
     {
         "year": "2026",
+        "date": "10/18",
+        "month": 10,
+        "day": 18,
+        "day_of_week": "일",
+        "event_name": "제23회 여주 세종대왕 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "4km",
+            "1km(휠체어)"
+        ],
+        "location": "여주 현암지구공원",
+        "organizer": [
+            "여주시육상연맹"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41610",
+        "homepage": "http://mara1080.com/event/edaee6e1-0d92-4248-9927-06ed3b0abfd0",
+        "email": " jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "경기",
+        "registration_period": "2026년6월2일~2026년9월18일",
+        "venue_detail": "",
+        "description": "선착순 5000명(4km 1,000명 / 10km 2,500명 / Half 1,500명)조기 마감될 수 있으므로 신청 및 입금을 서둘러주시기 바랍니다.감사합니다!",
+        "latitude": 37.3097469,
+        "longitude": 127.6290239,
+        "map_address": "경기도 여주시 강변북로 163"
+    },
+    {
+        "year": "2026",
         "date": "10/25",
         "month": 10,
         "day": 25,
@@ -10594,6 +10711,36 @@
         "latitude": 36.5954854,
         "longitude": 127.2875297,
         "map_address": "세종특별자치시 조치원읍 대첩로 76"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "2026 가민런 코리아",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "고양종합운동장",
+        "organizer": [
+            "가민",
+            "러너블"
+        ],
+        "phone": "02-2031-1935",
+        "event_id": "41614",
+        "homepage": "http://runable.me/product/18977?comp=18962",
+        "email": "runable@joins.com",
+        "representative": "최영호",
+        "start_time": "08:00",
+        "region": "경기",
+        "registration_period": "2026년7월1일~2026년7월3일",
+        "venue_detail": "",
+        "description": "오는 7월 1일부터 3일까지 진행된다. 일반 참가자는 추첨 방식으로 모집하며 1111결과는 7월 7일 발표된다. 참가비는 하프코스 8만원, 10㎞ 코스 6만원이다.",
+        "latitude": 37.6764625,
+        "longitude": 126.7430696,
+        "map_address": "경기도 고양시 일산서구 중앙로 1601"
     },
     {
         "year": "2026",
