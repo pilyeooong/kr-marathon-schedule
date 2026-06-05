@@ -8180,14 +8180,14 @@
         "month": 6,
         "day": 28,
         "day_of_week": "일",
-        "event_name": "2026 울산남구청장배 육상대회",
+        "event_name": "2026 울산남구회장배 육상대회",
         "tags": [
             "10km",
             "5km"
         ],
         "location": "태화강둔치 (태화다리 밑)",
         "organizer": [
-            "울산광역시 남구체육회"
+            "울산광역시 남구육상연맹"
         ],
         "phone": "010-9360-0113",
         "event_id": "41569",
@@ -8198,7 +8198,7 @@
         "region": "울산",
         "registration_period": "2026년5월11일~2026년5월20일",
         "venue_detail": "",
-        "description": "태화강의 아른다운 풍경을 함께해요",
+        "description": "태화강의 아름다운 풍경을 함께해요",
         "latitude": 35.5508353,
         "longitude": 129.3067947,
         "map_address": "울산 남구 신정동 1476"
@@ -8392,7 +8392,7 @@
         "organizer": [
             "사우나런"
         ],
-        "phone": "070-8723-8122",
+        "phone": "070-4571-8805",
         "event_id": "41611",
         "homepage": "http://saunarun.com",
         "email": "26mile.business@gmail.com",
