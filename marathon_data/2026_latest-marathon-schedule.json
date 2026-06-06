@@ -8180,7 +8180,7 @@
         "month": 6,
         "day": 28,
         "day_of_week": "일",
-        "event_name": "2026 울산남구회장배 육상대회",
+        "event_name": "2026 울산남구청장배 육상대회",
         "tags": [
             "10km",
             "5km"
@@ -8557,6 +8557,36 @@
         "month": 7,
         "day": 12,
         "day_of_week": "일",
+        "event_name": "2026 광제산 트레일 런",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "홍지소류지(진주 명석면 계원리",
+        "organizer": [
+            "진주시육상연맹"
+        ],
+        "phone": "070-4443-4392",
+        "event_id": "41619",
+        "homepage": "http://www.trailrun.kr",
+        "email": "sf8844@naver.com",
+        "representative": "김광섭",
+        "start_time": "09:10",
+        "region": "경남",
+        "registration_period": "2026년6월8일~2026년6월25일",
+        "venue_detail": "",
+        "description": "진주시 명석면의 아름답고 산세좋은 광제산에서 개최되는 광제산 트레일 런은 하프 / 10km / 5km 코스로 구성되어 있습니다.많은 관심과  참가신청 부탁드립니다.감사합니다.",
+        "latitude": 35.2776366,
+        "longitude": 128.0362228,
+        "map_address": "경상남도 진주시 명석면 계원리 72"
+    },
+    {
+        "year": "2026",
+        "date": "7/12",
+        "month": 7,
+        "day": 12,
+        "day_of_week": "일",
         "event_name": "2026 울릉도 국제 트레일러닝",
         "tags": [
             "40km",
@@ -8809,6 +8839,35 @@
         "latitude": 35.2918295,
         "longitude": 129.1051659,
         "map_address": "부산광역시 금정구 체육공원로399번길 324"
+    },
+    {
+        "year": "2026",
+        "date": "8/15",
+        "month": 8,
+        "day": 15,
+        "day_of_week": "토",
+        "event_name": "2026 안양천 달빛 나이트런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "신정교 하부 영롱이 억새구장",
+        "organizer": [
+            "(사)대한이에스지협회"
+        ],
+        "phone": "02-2606-8187",
+        "event_id": "41617",
+        "homepage": "http://moonnightrun.kr/",
+        "email": "start@moonnightrun.kr",
+        "representative": "김제오",
+        "start_time": "18:30",
+        "region": "서울",
+        "registration_period": "2026년6월5일~2026년8월6일",
+        "venue_detail": "",
+        "description": "밤하늘 아래 빛나는 안양천에서, 달빛과 함께달리며 특별한 여름밤의 추억을 만드는야간 러닝 축제입니다.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
     },
     {
         "year": "2026",
@@ -9490,7 +9549,7 @@
         "region": "인천",
         "registration_period": "2026년6월8일~2026년7월31일",
         "venue_detail": "",
-        "description": "제26회 강화해변마라톤대회6월 8일(월) 접수예정!",
+        "description": "제26회 강화해변마라톤대회6월 10일(수) 접수예정!",
         "latitude": 37.7001084,
         "longitude": 126.384037,
         "map_address": "인천광역시 강화군 내가면 해안서로 855"
@@ -9640,7 +9699,7 @@
         "representative": "김영록",
         "start_time": "07:00",
         "region": "전북",
-        "registration_period": "2026년6월20일~2026년8월20일",
+        "registration_period": "2026년6월10일~2026년8월10일",
         "venue_detail": "",
         "description": "2026 장수트레일레이스 Fall with 노스페이스100M, 100K, 38K-P, 38K-J, 20K",
         "latitude": 35.6402366,
