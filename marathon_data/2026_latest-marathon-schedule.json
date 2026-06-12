@@ -9350,6 +9350,35 @@
         "month": 9,
         "day": 6,
         "day_of_week": "일",
+        "event_name": "2026 전마협회장배 청주마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "청주 무심천 체육공원",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-108",
+        "event_id": "41635",
+        "homepage": "http://mara1080.com/event/a9780087-8fc3-4849-a234-7659978f6792",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "충북",
+        "registration_period": "2026년6월10일~2026년8월6일",
+        "venue_detail": "",
+        "description": "● 일시 : 2026년 9월 6일(일) 출발: 오전 7시 30분 (집결 6시 30분)● 장소 : 청주 무심천체육공원● 주최 : 전국마라톤협회● 후원 : 청주시육상연맹● 협력 : 월드런(world run), 전사모 페이싱팀● 선착순 3,000명(5km : 1,000명, 10km : 2,000명)",
+        "latitude": 36.6401245,
+        "longitude": 127.4828284,
+        "map_address": "충청북도 청주시 서원구 무심천자전거길 550"
+    },
+    {
+        "year": "2026",
+        "date": "9/6",
+        "month": 9,
+        "day": 6,
+        "day_of_week": "일",
         "event_name": "제9회 인천 서구청장배 단축마라톤",
         "tags": [
             "10km",
@@ -10207,7 +10236,7 @@
         "representative": "조환석",
         "start_time": "8",
         "region": "경북",
-        "registration_period": "2026년4월13일~2026년5월31일",
+        "registration_period": "2026년4월13일~2026년7월31일",
         "venue_detail": "",
         "description": "2026 안동마라톤대회",
         "latitude": 36.5474626,
@@ -10833,6 +10862,35 @@
         "month": 10,
         "day": 25,
         "day_of_week": "일",
+        "event_name": "2026 춘천마라톤",
+        "tags": [
+            "풀",
+            "10km"
+        ],
+        "location": "춘천 공지천공원",
+        "organizer": [
+            "조선일보"
+        ],
+        "phone": "02-724-6333",
+        "event_id": "41636",
+        "homepage": "http://www.chuncheonmarathon.com",
+        "email": "marathon@chosun.com",
+        "representative": "박은호",
+        "start_time": "09:00",
+        "region": "강원",
+        "registration_period": "2026년6월16일~2026년7월23일",
+        "venue_detail": "",
+        "description": "3. 일반접수→ 신청 : ‘참가신청’ 메뉴 內 ‘신청하기’ 페이지  /  선착순 마감→ 결제 : ‘참가신청’ 메뉴 內 ‘신청확인/결제’ 페이지◎ Full코스신청 : 7/14(화) 14시결제기간 : 7/20(월) 10시 ~ 7/21(화) 18시◎ 10km신청 : 7/16(목) 14시결제기간 : 7/22(수) 10시 ~ 7/23(목) 18시",
+        "latitude": 37.8741454,
+        "longitude": 127.7113285,
+        "map_address": "강원특별자치도 춘천시 이디오피아길 14"
+    },
+    {
+        "year": "2026",
+        "date": "10/25",
+        "month": 10,
+        "day": 25,
+        "day_of_week": "일",
         "event_name": "2026 청송사과트레일런",
         "tags": [
             "하프",
@@ -10947,6 +11005,35 @@
         "latitude": 36.0565053,
         "longitude": 129.0112647,
         "map_address": "경상북도 영천시 임고면 신방로 19"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "2026 양산 배내골 애플 런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "장선마을 회관 앞 운동장",
+        "organizer": [
+            "배내골 주민자치위원회"
+        ],
+        "phone": "070-7766-1238",
+        "event_id": "41634",
+        "homepage": "http://k-marathon.or.kr/main.php",
+        "email": "kstma0320@naver.com",
+        "representative": "위길숙",
+        "start_time": "09:00",
+        "region": "경남",
+        "registration_period": "2026년6월15일~2026년7월15일",
+        "venue_detail": "",
+        "description": "양산 배내골 사과축제와 함께하는 마라톤 축제입니다.",
+        "latitude": 35.5022391,
+        "longitude": 128.9954727,
+        "map_address": "경상남도 양산시 원동면 배내로 630-17"
     },
     {
         "year": "2026",
