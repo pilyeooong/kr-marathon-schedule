@@ -7681,36 +7681,6 @@
         "month": 6,
         "day": 14,
         "day_of_week": "일",
-        "event_name": "당일 서울시 행사가 있어 변경합니다",
-        "tags": [
-            "하프",
-            "10km",
-            "5km"
-        ],
-        "location": "상암 월드컵공원 평화광장",
-        "organizer": [
-            "서울시 행사가있어 변경"
-        ],
-        "phone": "02-000-0000",
-        "event_id": "41371",
-        "homepage": "http://kdjrun.",
-        "email": " peace@kdjrun.kr",
-        "representative": "이름",
-        "start_time": "09:00",
-        "region": "서울",
-        "registration_period": "2026년1월1일~2026년1월1일",
-        "venue_detail": "",
-        "description": "안녕하세요응원 해주시는 마라토너 여러분 감사합니다당일 6월14일 상암동 평화광장에서 서울시 행사 일정이 있어장소사용이 안되기에 부득이 장소변경을한 이후에 재공지 하겠습니다감사합니다",
-        "latitude": 37.5659053,
-        "longitude": 126.8964648,
-        "map_address": "서울특별시 마포구 월드컵로 251"
-    },
-    {
-        "year": "2026",
-        "date": "6/14",
-        "month": 6,
-        "day": 14,
-        "day_of_week": "일",
         "event_name": "제22회 영덕해변전국마라톤",
         "tags": [
             "하프",
@@ -10820,6 +10790,35 @@
         "latitude": 37.3097469,
         "longitude": 127.6290239,
         "map_address": "경기도 여주시 강변북로 163"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
+        "event_name": "2026 제3회 감성런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "신정교하부육상트랙구장",
+        "organizer": [
+            "(사)대한생활체육마라톤협회"
+        ],
+        "phone": "00-1644-4219",
+        "event_id": "41637",
+        "homepage": "http://xn--439a68tboh.kr/index.asp",
+        "email": "km4219@daum.net",
+        "representative": "이규운",
+        "start_time": "09:00",
+        "region": "서울",
+        "registration_period": "2026년6월18일~2026년9월7일",
+        "venue_detail": "",
+        "description": "🎮 2026 제3회 감성런 개최 안내 🎮추억과 감성이 가득한 2026 제3회 감성런이 개최됩니다.올해는 더욱 업그레이드된 레트로 감성과 다양한 즐길 거리로 참가자 여러분을 찾아갑니다. 오락실 감성을 담은 특별한 러닝 축제를 함께 즐겨보세요.감성 가득한 추억을 만들고 싶다면 지금 바로 신청하세요!※ 참가 접수는 선착순으로 진행되며, 조기 마감될 수 있습니다.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
     },
     {
         "year": "2026",
