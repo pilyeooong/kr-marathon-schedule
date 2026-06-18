@@ -8586,6 +8586,34 @@
         "month": 7,
         "day": 18,
         "day_of_week": "토",
+        "event_name": "2026 전마협 청주 무료 초청 훈련 마라톤",
+        "tags": [
+            "10km"
+        ],
+        "location": "청주 무심천 롤러스케이트장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41645",
+        "homepage": "http://mara1080.com/event/e320ef81-c1ba-4939-bc1d-c398e514e920",
+        "email": " jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "충북",
+        "registration_period": "2026년6월17일~2026년6월31일",
+        "venue_detail": "",
+        "description": "10km 참가비 무료600명 선착순 마감됩니다.칩 사용 (모바일 기록증 증정!)",
+        "latitude": 36.6401245,
+        "longitude": 127.4828284,
+        "map_address": "충청북도 청주시 서원구 무심천자전거길 550"
+    },
+    {
+        "year": "2026",
+        "date": "7/18",
+        "month": 7,
+        "day": 18,
+        "day_of_week": "토",
         "event_name": "제2회 울릉나이트런",
         "tags": [
             "10km"
@@ -8958,6 +8986,35 @@
         "month": 8,
         "day": 15,
         "day_of_week": "토",
+        "event_name": "2026 전마협 광복절 무료 초청 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "대전엑스포다리 밑",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41641",
+        "homepage": "http://mara1080.com/event/9e568eef-64ff-4548-881f-3a420689dece",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "대전",
+        "registration_period": "2026년6월15일~2026년7월31일",
+        "venue_detail": "",
+        "description": "제81주년 광복절을 맞아 뜻깊은 순간을 기념하는 마음으로2026 전마협 광복절 무료 초청 마라톤을 개최합니다.5km / 10km 선착순 600명 신청시 마감됩니다.(참가자 기념품 기능성 티셔츠 증정 )조기 마감될 수 있으므로 신청을 서둘러 주세요~많은 관심과 참여 바랍니다. 감사합니다.",
+        "latitude": 36.3766263,
+        "longitude": 127.3871992,
+        "map_address": "대전광역시 유성구 대덕대로 480"
+    },
+    {
+        "year": "2026",
+        "date": "8/15",
+        "month": 8,
+        "day": 15,
+        "day_of_week": "토",
         "event_name": "제38회 지리산화대종주 UTMB",
         "tags": [
             "48km",
@@ -8982,6 +9039,34 @@
         "latitude": 35.2544265,
         "longitude": 127.4963503,
         "map_address": "전남 구례군 마산면 황전리 12-1"
+    },
+    {
+        "year": "2026",
+        "date": "8/22",
+        "month": 8,
+        "day": 22,
+        "day_of_week": "토",
+        "event_name": "제2회 한양도성길 트레일런",
+        "tags": [
+            "20km"
+        ],
+        "location": "낙산공원중앙광장(낙산길54)",
+        "organizer": [
+            "파브코리아"
+        ],
+        "phone": "070-4507-4474",
+        "event_id": "41642",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "김준형",
+        "start_time": "08:00",
+        "region": "서울",
+        "registration_period": "2026년6월15일~2026년8월20일",
+        "venue_detail": "",
+        "description": "서울의 랜드마크 로드이자자연과 역사가 어우러진 아름다운 한양도성 길을탐방하는 트레일런대회를 개최합니다..",
+        "latitude": 37.5804113,
+        "longitude": 127.0071243,
+        "map_address": "서울특별시 종로구 낙산길 54"
     },
     {
         "year": "2026",
@@ -9194,6 +9279,35 @@
         "month": 9,
         "day": 5,
         "day_of_week": "토",
+        "event_name": "제12회 I LOVE 방송대 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "상암동 평화광장",
+        "organizer": [
+            "한국방송통신대학교 전국 총동문"
+        ],
+        "phone": "02-707-2050",
+        "event_id": "41639",
+        "homepage": "http://runbs.co.kr",
+        "email": "kul27@hanmail.net",
+        "representative": "최종화",
+        "start_time": "08:00",
+        "region": "서울",
+        "registration_period": "2026년6월30일~2026년7월31일",
+        "venue_detail": "",
+        "description": "- 국립한국방송통신대학교와, 총동문회가 주최하며, 전국의 마라톤 가족 모두가 참여하는 행사입니다",
+        "latitude": 37.5640848,
+        "longitude": 126.8924308,
+        "map_address": "서울특별시 마포구 증산로 32"
+    },
+    {
+        "year": "2026",
+        "date": "9/5",
+        "month": 9,
+        "day": 5,
+        "day_of_week": "토",
         "event_name": "제2회 2026 Vrun",
         "tags": [
             "10km",
@@ -9361,7 +9475,7 @@
         "representative": "허시영",
         "start_time": "08",
         "region": "인천",
-        "registration_period": "2026년6월10일~2026년8월10일",
+        "registration_period": "2026년6월10일~2026년6월16일",
         "venue_detail": "",
         "description": "<2026년 제9회 서구청장배 단축마라톤대회 요강>●일 시 : 2026 9. 6.(일) 07:20 집결 (08:30 출발) 개회식 07시30분●장 소 : 청라호수공원 복합문화센터 앞 멀티프라자 트랙●참가신청 : 2026. 8. 10.(금) 18시까지 (6월10일부터~●참가종목 : 10km, 4.3km-참가비 : 25,000원(기념품 : 기념티,  메달, 기록칩 제공)-계좌 : 국민은행 / 658101-01-718700 / 인천시서구육상연맹-접수방법 : 홈페이지 www.sgicaaf.co.kr>단체신청,홈페이지 엑셀자료다운받아 이메일 : mus1787@naver.com 신청●시상계획 / 트로피,상금 지급-.남자1위~5위 / 여자1위 ~ 5위(트로피 시상금)1위 10만원 2위:7만원 3위:5만원 4위:3만원 5위:3만원(4.3km 종목은 시상금 없고 트로피(1위~3위 남녀 지급)-.최다참가 단체상 1팀 상금 10만원●기 타 : 참가자 전원 간식제공, 다량 경품추천●대회코스 :-.10km코스청라멀티프라자[출발(골인)] - 호수공원보행로 1회전 [4.7Km 누적] - 심곡천청라커넬로 로봇랜드방향[7.2km 누적 ]턴지점  - 청라멀티프라자 10km(누적) 골인-.4.3km 코스청라멀티프라자[출발(골인)] - 호수공원보행로 1회전 – 청라멀티프라자(골인)●문 의 : 서구육상연맹 010-4222-1787[주최] 인천광역시 서구체육회[주관] 인천광역시 서구육상연맹[후원] 인천광역시 서구",
         "latitude": 37.5245193,
@@ -9434,7 +9548,7 @@
             "하프",
             "10km"
         ],
-        "location": "서울광장 (예정)",
+        "location": "서울광장",
         "organizer": [
             "YTN"
         ],
@@ -9445,9 +9559,9 @@
         "representative": "사무국",
         "start_time": "07:30",
         "region": "서울",
-        "registration_period": "2026년4월30일~2026년4월30일",
+        "registration_period": "2026년6월17일~2026년7월15일",
         "venue_detail": "",
-        "description": "2026 YTN 서울투어마라톤2026년 9월 6일 서울광장에서 개최 예정입니다.접수 일정등 정확한 일정은 추후 공개 하겠습니다.",
+        "description": "2026 YTN 서울투어마라톤2026년 9월 6일 서울광장에서 개최 예정입니다.",
         "latitude": 37.5666103,
         "longitude": 126.9783882,
         "map_address": "서울특별시 중구 세종대로 110"
@@ -9662,6 +9776,35 @@
         "latitude": 37.2093488,
         "longitude": 128.8273858,
         "map_address": "강원특별자치도 정선군 고한읍 하이원길 265-1"
+    },
+    {
+        "year": "2026",
+        "date": "9/13",
+        "month": 9,
+        "day": 13,
+        "day_of_week": "일",
+        "event_name": "2026 런서울런",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "서울 광장",
+        "organizer": [
+            "일간스포츠"
+        ],
+        "phone": "02-338-0344",
+        "event_id": "41643",
+        "homepage": "http://runseoulrun.com",
+        "email": "jsk@e-world21.co.kr",
+        "representative": "주상은",
+        "start_time": "7",
+        "region": "서울",
+        "registration_period": "2026년6월29일~2026년7월29일",
+        "venue_detail": "",
+        "description": "접수 선착순 마감",
+        "latitude": 37.5659751,
+        "longitude": 126.9793667,
+        "map_address": "서울 중구 을지로1가 50-1"
     },
     {
         "year": "2026",
@@ -10553,6 +10696,37 @@
         "month": 10,
         "day": 11,
         "day_of_week": "일",
+        "event_name": "2026 평택항마라톤[마감]",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "평택항 엠에스로지스틱 일원",
+        "organizer": [
+            "평택시체육회",
+            "경인일보"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41640",
+        "homepage": "http://www.ptportmarathon.com/",
+        "email": "road42195@naver.com",
+        "representative": "평택시체육회",
+        "start_time": "9",
+        "region": "경기",
+        "registration_period": "2026년6월15일~2026년6월13일",
+        "venue_detail": "",
+        "description": "https://www.ptportmarathon.com/new_sub01/page05.php",
+        "latitude": 36.9460877,
+        "longitude": 126.8667401,
+        "map_address": "경기도 평택시 포승읍 서동대로 437-212"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
         "event_name": "제10회 가을철 산불조심마라톤",
         "tags": [
             "풀",
@@ -10917,6 +11091,35 @@
         "month": 11,
         "day": 1,
         "day_of_week": "일",
+        "event_name": "2026 무안 해안 노을길 걷기 및 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "무안낙지공원",
+        "organizer": [
+            "무안군체육회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41638",
+        "homepage": "http://mara1080.com/event/d596615e-cf32-4f20-bdbe-13b633f51c4e",
+        "email": " jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "전남",
+        "registration_period": "2026년6월15일~2026년10월1일",
+        "venue_detail": "",
+        "description": "선착순 2500명 접수 및 입금순 마감됩니다.조기마감 될 수 있으므로 신청을 서둘러주세요.많은 성원과 관심 바랍니다. 감사합니다.",
+        "latitude": 35.0052793,
+        "longitude": 126.3542371,
+        "map_address": "전라남도 무안군 망운면 조금나루길 128-68"
+    },
+    {
+        "year": "2026",
+        "date": "11/1",
+        "month": 11,
+        "day": 1,
+        "day_of_week": "일",
         "event_name": "제21회 울산인권마라톤",
         "tags": [
             "하프",
@@ -11235,6 +11438,36 @@
         "region": "경북",
         "registration_period": "2026년5월6일~2026년10월15일",
         "description": "종목별 접수 인원4.4km 2,000명 / 10km 3,000명 /Half 2,500명 / Full 2,500명총 10,000명 신청 및 입금자순 마감됩니다.*조기 마감될 수 있으므로 신청 및 입금을 서둘러주시기 바랍니다*"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "제24회 고창고인돌마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "고창공설운동장",
+        "organizer": [
+            "고창군체육회"
+        ],
+        "phone": "063-561-5211",
+        "event_id": "41644",
+        "homepage": "http://www.gcrun.com",
+        "email": "tongzero@naver.com",
+        "representative": "오철환",
+        "start_time": "10:00",
+        "region": "전북",
+        "registration_period": "2026년7월1일~2026년8월31일",
+        "venue_detail": "",
+        "description": "“세계유산도시, 고창에서 함께 달려요”○ 대 회 명 : 제24회 고창고인돌마라톤대회○ 대회일시 : 2026. 11. 15(일) 개회식 09:30/ 출발 10:00○ 접수기한 : 2026. 07. 01(수) ∼2026. 8. 31(월) 13:00까지※선착순 4,000명 마감○접수방법 : 홈페이지(www.gcrun.com)○장소 : 고창공설운동장 외 주로○주최/주관 : 고창군체육회/고창군육상연맹○후원 : 전북특별자치도, 고창군 ,고창신협, 전북은행, 고창새마을금고,고창군육계지부, 고창군낙농협의회, 대한한돈협회고창지부고창군장애인복지관, 석정웰파크병원",
+        "latitude": 35.4323306,
+        "longitude": 126.7234919,
+        "map_address": "전북특별자치도 고창군 고창읍 운동장길 36"
     },
     {
         "year": "2026",
