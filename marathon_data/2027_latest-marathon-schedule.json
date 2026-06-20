@@ -1,0 +1,93 @@
+[
+    {
+        "year": "2027",
+        "date": "2/14",
+        "month": 2,
+        "day": 14,
+        "day_of_week": "일",
+        "event_name": "희망드림 제24회 동계마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "32km"
+        ],
+        "location": "여의도 한강 물빛광장",
+        "organizer": [
+            "(사)한국마라톤연맹"
+        ],
+        "phone": "02-2647-4488",
+        "event_id": "41631",
+        "homepage": "http://dkrun.co.kr",
+        "email": "yck0423@hanmail.net",
+        "representative": "윤찬기",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "여의도 한강 물빛광장",
+        "registration_period": "2026년10월12일~2027년1월10일",
+        "description": "-수익금중 일부를 소아암어린이 치료비로 기부하는 \"희망드림\" 행사입니다",
+        "latitude": 37.5308485,
+        "longitude": 126.9277457,
+        "map_address": "서울특별시 영등포구 한강남자전거길 1451"
+    },
+    {
+        "year": "2027",
+        "date": "3/21",
+        "month": 3,
+        "day": 21,
+        "day_of_week": "일",
+        "event_name": "2027 서울마라톤",
+        "tags": [
+            "풀",
+            "10km"
+        ],
+        "location": "광화문광장",
+        "organizer": [
+            "동아일보",
+            "서울시"
+        ],
+        "phone": "02-361-1410",
+        "event_id": "41626",
+        "homepage": "http://seoul-marathon.com",
+        "email": "marathon@donga.com",
+        "representative": "김재호",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "광화문광장",
+        "registration_period": "2026년6월8일~2026년6월18일",
+        "description": "서울국제마라톤",
+        "latitude": 37.5718479,
+        "longitude": 126.9761683,
+        "map_address": "서울특별시 종로구 세종대로 175"
+    },
+    {
+        "year": "2027",
+        "date": "4/18",
+        "month": 4,
+        "day": 18,
+        "day_of_week": "일",
+        "event_name": "제9회 오션뷰 기장바다마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "3km 슬로우조깅"
+        ],
+        "location": "오시리아 동부산관광9로",
+        "organizer": [
+            "기장바다마라톤조직위"
+        ],
+        "phone": "051-723-6686",
+        "event_id": "41627",
+        "homepage": "http://www.badarun.co.kr",
+        "email": "cjw3838@daum.net",
+        "representative": "정수영",
+        "start_time": "07:30",
+        "region": "부산",
+        "venue_detail": "오시리아 동부산관광9로",
+        "registration_period": "2026년11월1일~2026년12월31일",
+        "description": "오션뷰 코스하프 남여 우승자 SC홍콩마라톤 티켓마라톤파크 성명 동판 전시(참가자 전원)",
+        "latitude": 35.1896073,
+        "longitude": 129.2158576,
+        "map_address": "부산광역시 기장군 기장읍 동부산관광9로 22"
+    }
+]
