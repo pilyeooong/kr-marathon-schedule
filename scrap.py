@@ -7,7 +7,9 @@ import argparse
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-TARGET_YEARS = ["2025", "2026"]
+# 현재 연도와 다음 연도를 동적으로 수집 (하드코딩 금지 — 연말/연초에 자동 롤오버)
+_CURRENT_YEAR = datetime.now().year
+TARGET_YEARS = [str(_CURRENT_YEAR), str(_CURRENT_YEAR + 1)]
 
 
 def fetch_html(url, year):
@@ -36,80 +38,92 @@ def extract_marathon_data(rows, year):
     marathon_data = []
 
     for row in rows:
-        cols = row.find_all("td")
+        try:
+            cols = row.find_all("td")
+            if len(cols) < 4:
+                continue
 
-        fonts = cols[0].find_all("font")
-        if not fonts:
+            fonts = cols[0].find_all("font")
+            if not fonts:
+                continue
+            date = fonts[0].text.strip() if len(fonts) > 0 else None
+            if not date:
+                continue
+            parts = date.split("/")
+            month = int(parts[0]) if len(parts) > 0 and parts[0].isdigit() else None
+            day = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else None
+            day_of_week = fonts[1].text.strip("()") if len(fonts) > 1 else None
+
+            event_name_link = cols[1].find("a")
+            event_name = event_name_link.text.strip() if event_name_link else None
+            if not event_name:
+                continue
+
+            event_id = None
+            if event_name_link and event_name_link.get("href"):
+                href = event_name_link.get("href")
+                match = re.search(r"'view\.php\?no=(\d+)'", href)
+                if match:
+                    event_id = match.group(1)
+
+            name_fonts = cols[1].find_all("font")
+            tags_text = name_fonts[1].text.strip() if len(name_fonts) > 1 else ""
+            tags = [tag.strip() for tag in tags_text.split(",")] if tags_text else []
+
+            location_div = cols[2].find("div")
+            location = location_div.text.strip() if location_div else ""
+
+            organizer_el = cols[3].find("div", align="right")
+            organizer_div = organizer_el.text.strip() if organizer_el else ""
+
+            if "☎" in organizer_div:
+                organizer_text, phone = organizer_div.split("☎", 1)
+                phone = phone.strip()
+            else:
+                organizer_text = organizer_div.strip()
+                phone = None
+
+            organizer = [org.strip() for org in organizer_text.split(",")] if organizer_text else []
+
+            homepage = None
+            home_img = cols[3].find("img", src=lambda s: s and "home.gif" in s)
+            if home_img and home_img.parent and home_img.parent.name == "a":
+                href = home_img.parent.get("href", "")
+                if href and not href.startswith("javascript:"):
+                    homepage = href
+
+            email = None
+            email_img = cols[3].find("img", src=lambda s: s and "email.gif" in s)
+            if email_img and email_img.parent and email_img.parent.name == "a":
+                href = email_img.parent.get("href", "")
+                mail_match = re.search(r"mail_url=([^'\"&]+)", href)
+                if mail_match:
+                    email = mail_match.group(1)
+
+            data = {
+                "year": year,
+                "date": date,
+                "month": month,
+                "day": day,
+                "day_of_week": day_of_week,
+                "event_name": event_name,
+                "tags": tags,
+                "location": location,
+                "organizer": organizer,
+                "phone": phone
+            }
+            if event_id:
+                data["event_id"] = event_id
+            if homepage:
+                data["homepage"] = homepage
+            if email:
+                data["email"] = email
+
+            marathon_data.append(data)
+        except Exception as e:
+            # 한 행의 파싱 실패가 해당 연도 전체 수집을 중단시키지 않도록 격리
+            print(f"행 파싱 실패, 건너뜀: {e}")
             continue
-        date = fonts[0].text.strip() if len(fonts) > 0 else None
-        parts = date.split("/")
-        month = int(parts[0]) if len(parts) > 0 else None
-        day = int(parts[1]) if len(parts) > 1 else None
-        day_of_week = fonts[1].text.strip("()") if len(fonts) > 1 else None
-
-        event_name_link = cols[1].find("a")
-        event_name = event_name_link.text.strip() if event_name_link else None
-        if not event_name:
-            continue
-
-        event_id = None
-        if event_name_link and event_name_link.get("href"):
-            href = event_name_link.get("href")
-            match = re.search(r"'view\.php\?no=(\d+)'", href)
-            if match:
-                event_id = match.group(1)
-
-        tags_text = cols[1].find_all("font")[1].text.strip()
-
-        tags = [tag.strip() for tag in tags_text.split(",")] if tags_text else []
-        location = cols[2].find("div").text.strip()
-
-        organizer_div = cols[3].find("div", align="right").text.strip()
-
-        if "☎" in organizer_div:
-            organizer_text, phone = organizer_div.split("☎", 1)
-            phone = phone.strip()
-        else:
-            organizer_text = organizer_div.strip()
-            phone = None
-
-        organizer = [org.strip() for org in organizer_text.split(",")] if organizer_text else []
-
-        homepage = None
-        home_img = cols[3].find("img", src=lambda s: s and "home.gif" in s)
-        if home_img and home_img.parent and home_img.parent.name == "a":
-            href = home_img.parent.get("href", "")
-            if href and not href.startswith("javascript:"):
-                homepage = href
-
-        email = None
-        email_img = cols[3].find("img", src=lambda s: s and "email.gif" in s)
-        if email_img and email_img.parent and email_img.parent.name == "a":
-            href = email_img.parent.get("href", "")
-            mail_match = re.search(r"mail_url=([^'\"&]+)", href)
-            if mail_match:
-                email = mail_match.group(1)
-
-        data = {
-            "year": year,
-            "date": date,
-            "month": month,
-            "day": day,
-            "day_of_week": day_of_week,
-            "event_name": event_name,
-            "tags": tags,
-            "location": location,
-            "organizer": organizer,
-            "phone": phone
-        }
-        if event_id:
-            data["event_id"] = event_id
-        if homepage:
-            data["homepage"] = homepage
-        if email:
-            data["email"] = email
-
-        marathon_data.append(data)
 
     return marathon_data
 
@@ -142,8 +156,10 @@ def fetch_detail_data(event_id, headers):
                         detail["registration_period"] = value
                     elif "대회지역" in header:
                         detail["region"] = value
-                    elif "대회장" in header and "대회장소" not in header:
-                        detail["venue_detail"] = value
+                    elif "대회장소" in header:
+                        # 실제 대회 장소(예: "신정교하부육상트랙구장"). 이전엔 빈 "대회장" 헤더를 읽어 항상 누락됐음
+                        if value:
+                            detail["venue_detail"] = value
                     elif "기타소개" in header:
                         detail["description"] = value
 

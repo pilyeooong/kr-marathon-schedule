@@ -190,8 +190,10 @@ class MarathonScraper:
                             detail_data["homepage"] = value
                         elif "기타소개" in header:
                             detail_data["description"] = value
-                        elif "대회장" in header and "대회장소" not in header:
-                            detail_data["venue_detail"] = value
+                        elif "대회장소" in header:
+                            # 실제 대회 장소. 이전엔 빈 "대회장" 헤더를 읽어 항상 누락됐음
+                            if value:
+                                detail_data["venue_detail"] = value
                         elif "대회지역" in header:
                             detail_data["region"] = value
 
