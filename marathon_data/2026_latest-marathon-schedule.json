@@ -9332,6 +9332,36 @@
         "month": 9,
         "day": 5,
         "day_of_week": "토",
+        "event_name": "2026 JUST RUN10 하반기 세종",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "세종마루공원 밑 금강변",
+        "organizer": [
+            "(주)러닝브레이커",
+            "전국러닝협회"
+        ],
+        "phone": "042-710-2058",
+        "event_id": "41650",
+        "homepage": "http://runten.co.kr",
+        "email": "runningbreaker@naver.com",
+        "representative": "윤세준",
+        "start_time": "08:00",
+        "region": "세종",
+        "venue_detail": "세종마루공원 밑 금강변",
+        "registration_period": "2026년6월19일~2026년7월15일",
+        "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
+        "latitude": 36.4835618,
+        "longitude": 127.2887822,
+        "map_address": "세종 세종동 29-111"
+    },
+    {
+        "year": "2026",
+        "date": "9/5",
+        "month": 9,
+        "day": 5,
+        "day_of_week": "토",
         "event_name": "제2회 2026 Vrun",
         "tags": [
             "10km",
@@ -9809,6 +9839,36 @@
         "month": 9,
         "day": 13,
         "day_of_week": "일",
+        "event_name": "2026 포항 이차전지 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "포항운하",
+        "organizer": [
+            "매일신사"
+        ],
+        "phone": "054-1600-4525",
+        "event_id": "41648",
+        "homepage": "http://energyrun.co.kr/",
+        "email": "psa1233@nate.com",
+        "representative": "박광열",
+        "start_time": "08:00",
+        "region": "경북",
+        "venue_detail": "포항운하",
+        "registration_period": "2026년6월29일~2026년7월20일",
+        "description": "이차전지 선두도시 포항에서 펼쳐지는 전국마라톤대회해안절경을 달리는코스 완벽한 교통통제병목없는 코스설계",
+        "latitude": 36.023785,
+        "longitude": 129.3776273,
+        "map_address": "경상북도 포항시 남구 희망대로 1040"
+    },
+    {
+        "year": "2026",
+        "date": "9/13",
+        "month": 9,
+        "day": 13,
+        "day_of_week": "일",
         "event_name": "2026 런서울런",
         "tags": [
             "하프",
@@ -10200,6 +10260,35 @@
         "latitude": 37.8253879,
         "longitude": 127.5070499,
         "map_address": "경기도 가평군 가평읍 문화로 131"
+    },
+    {
+        "year": "2026",
+        "date": "10/3",
+        "month": 10,
+        "day": 3,
+        "day_of_week": "토",
+        "event_name": "2026 완주트레일런",
+        "tags": [
+            "36K",
+            "22K"
+        ],
+        "location": "완주군 고산자연휴양림",
+        "organizer": [
+            "완주군"
+        ],
+        "phone": "010-2116-0148",
+        "event_id": "41649",
+        "homepage": "http://samsamis.com",
+        "email": "yon0148@gmail.com",
+        "representative": "이소현",
+        "start_time": "07:00",
+        "region": "전북",
+        "venue_detail": "완주군 고산자연휴양림",
+        "registration_period": "2026년6월19일~2026년8월31일",
+        "description": "2026 완주트레일런가을이 가장 아름다운 계절, 완주에서 펼쳐지는 특별한 트레일 러닝 축제!완주트레일런은 아름다운 산과 숲길, 그리고 완주의 자연과 문화를 함께 경험할 수 있는 트레일 러닝 대회입니다. 도심을 벗어나 자연 속을 달리며 도전의 즐거움과 완주의 감동을 느껴보세요.초보 러너부터 숙련된 트레일 러너까지 누구나 자신의 목표에 맞게 참가할 수 있으며, 완주의 수려한 풍경과 다채로운 코스는 참가자들에게 잊지 못할 추억을 선사합니다.함께 달리고, 함께 응원하며, 함께 완주하는 축제.2026 완주트레일런에서 여러분의 새로운 도전을 기다립니다.\"달리는 순간, 완주가 특별해집니다.\"",
+        "latitude": 37.7343236,
+        "longitude": 127.0353913,
+        "map_address": "경기도 의정부시 의정로 18"
     },
     {
         "year": "2026",
@@ -10845,6 +10934,35 @@
     },
     {
         "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
+        "event_name": "2026 대전 Dtrail 레이스",
+        "tags": [
+            "50km",
+            "25km"
+        ],
+        "location": "보문산 숲속공연장, 은행동",
+        "organizer": [
+            "대전광역시 중구체육회"
+        ],
+        "phone": "042-544-3809",
+        "event_id": "41646",
+        "homepage": "http://dtrail.co.kr",
+        "email": "hbspclass@gmail.com",
+        "representative": "전세환",
+        "start_time": "07:00",
+        "region": "지역",
+        "venue_detail": "보문산 숲속공연장, 은행동",
+        "registration_period": "2026년6월17일~2026년9월17일",
+        "description": "대전 보문산과 대전둘레산길성심당과 늑구의 길을 품은 2026 D트레일레이스도심과 자연이 어울어진 중부권 최대 트레일러닝대회에 초대합니다.",
+        "latitude": 36.3064305,
+        "longitude": 127.423119,
+        "map_address": "대전광역시 중구 보문산공원로 426"
+    },
+    {
+        "year": "2026",
         "date": "10/18",
         "month": 10,
         "day": 18,
@@ -11230,6 +11348,35 @@
         "latitude": 36.0565053,
         "longitude": 129.0112647,
         "map_address": "경상북도 영천시 임고면 신방로 19"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "제11회 송파구청장배 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "송파구 여성축구장",
+        "organizer": [
+            "송파구육상연맹"
+        ],
+        "phone": "010-5071-3432",
+        "event_id": "41647",
+        "homepage": "http://www.songparunsportal.com",
+        "email": "Kimyg21@hanmail.net",
+        "representative": "김영걸",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "송파구 여성축구장",
+        "registration_period": "2026년7월1일~2026년10월5일",
+        "description": "송파구육상연맹 회원들이  현재까지 10회 까지  대회를 자체적으로 성공적으로 개최하였음",
+        "latitude": 37.5248303,
+        "longitude": 127.1175557,
+        "map_address": "서울특별시 송파구 올림픽로 474"
     },
     {
         "year": "2026",
