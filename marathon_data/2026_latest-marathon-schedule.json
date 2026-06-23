@@ -939,6 +939,33 @@
     },
     {
         "year": "2026",
+        "date": "2/27",
+        "month": 2,
+        "day": 27,
+        "day_of_week": "금",
+        "event_name": "0",
+        "tags": [
+            "19K"
+        ],
+        "location": "덕유산국립공원다목적광장",
+        "organizer": [
+            "(주)락앤런"
+        ],
+        "phone": "063-353-2025",
+        "event_id": "41609",
+        "homepage": "http://rocknrun.kr",
+        "representative": "0",
+        "start_time": "8:00",
+        "region": "전북",
+        "venue_detail": "덕유산국립공원다목적광장",
+        "registration_period": "2026년11월1일~2026년11월10일",
+        "description": ".",
+        "latitude": 35.8952297,
+        "longitude": 127.7762441,
+        "map_address": "전북특별자치도 무주군 설천면 백련사길 21"
+    },
+    {
+        "year": "2026",
         "date": "2/28",
         "month": 2,
         "day": 28,
@@ -8139,34 +8166,6 @@
     },
     {
         "year": "2026",
-        "date": "6/27",
-        "month": 6,
-        "day": 27,
-        "day_of_week": "토",
-        "event_name": "무주 베리 로드 트레일 (덕유산)",
-        "tags": [
-            "19K"
-        ],
-        "location": "덕유산국립공원다목적광장",
-        "organizer": [
-            "(주)락앤런"
-        ],
-        "phone": "063-353-2025",
-        "event_id": "41609",
-        "homepage": "http://rocknrun.kr",
-        "email": "info@rocknrun.kr",
-        "representative": "김영록",
-        "start_time": "8:00",
-        "region": "전북",
-        "venue_detail": "덕유산국립공원다목적광장",
-        "registration_period": "2026년6월1일~2026년6월19일",
-        "description": "무진장 트레일레잇의 첫 시작!무주 베리 로드 트레일",
-        "latitude": 35.8952297,
-        "longitude": 127.7762441,
-        "map_address": "전북특별자치도 무주군 설천면 백련사길 21"
-    },
-    {
-        "year": "2026",
         "date": "6/28",
         "month": 6,
         "day": 28,
@@ -10085,8 +10084,8 @@
         "event_name": "2026 장수트레일레이스 Fall",
         "tags": [
             "100km",
-            "100Miles",
-            "38K-J"
+            "JTR Miler",
+            "JTR 40J"
         ],
         "location": "장수종합경기장",
         "organizer": [
@@ -10101,7 +10100,7 @@
         "region": "전북",
         "venue_detail": "장수종합경기장",
         "registration_period": "2026년6월10일~2026년8월10일",
-        "description": "2026 장수트레일레이스 Fall with 노스페이스100M, 100K, 38K-P, 38K-J, 20K",
+        "description": "2026 장수트레일레이스 Fall with 노스페이스JTR Miler, JTR 100, JTR 40J, JTR 38P, JTR 20, JTR 5",
         "latitude": 35.6402366,
         "longitude": 127.5198191,
         "map_address": "전북특별자치도 장수군 장수읍 한누리로 378"
