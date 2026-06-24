@@ -8054,7 +8054,7 @@
         "month": 6,
         "day": 21,
         "day_of_week": "일",
-        "event_name": "소백산 죽령TrailRunnig",
+        "event_name": "소백산 죽령 TrailRunnig",
         "tags": [
             "22km"
         ],
@@ -9076,11 +9076,11 @@
         "organizer": [
             "파브코리아"
         ],
-        "phone": "070-4507-4474",
+        "phone": "010-3526-9120",
         "event_id": "41642",
         "homepage": "http://www.mtrailrun.kr/",
         "email": "navido@gmail.com",
-        "representative": "김준형",
+        "representative": "이태재",
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "낙산공원중앙광장(낙산길54)",
@@ -9851,13 +9851,43 @@
         "phone": "054-1600-4525",
         "event_id": "41648",
         "homepage": "http://energyrun.co.kr/",
-        "email": "psa1233@nate.com",
-        "representative": "박광열",
+        "email": "hgplan@naver.com",
+        "representative": "매일신문",
         "start_time": "08:00",
         "region": "경북",
         "venue_detail": "포항운하관주차장",
         "registration_period": "2026년6월29일~2026년7월20일",
-        "description": "이차전지 선두도시 포항에서 펼쳐지는 전국마라톤대회\r\n해안절경을 달리는코스 완벽한 교통통제\r\n병목없는 코스설계",
+        "description": "이차전지 선두도시 포항에서 펼쳐지는 전국마라톤대회해안절경을 달리는코스 완벽한 교통통제병목없는 코스설계",
+        "latitude": 36.023785,
+        "longitude": 129.3776273,
+        "map_address": "경상북도 포항시 남구 희망대로 1040"
+    },
+    {
+        "year": "2026",
+        "date": "9/13",
+        "month": 9,
+        "day": 13,
+        "day_of_week": "일",
+        "event_name": "포항이차전지전국마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "포항운하",
+        "organizer": [
+            "매일신사"
+        ],
+        "phone": "054-1600-4525",
+        "event_id": "41652",
+        "homepage": "http://energyrun.co.kr/",
+        "email": "psa1233@nate.com",
+        "representative": "박광열",
+        "start_time": "08:00",
+        "region": "경북",
+        "venue_detail": "포항운하",
+        "registration_period": "2026년6월29일~2026년7월20일",
+        "description": "포항의 아름다운 해안과 함께 달리는 특별한 축제!",
         "latitude": 36.023785,
         "longitude": 129.3776273,
         "map_address": "경상북도 포항시 남구 희망대로 1040"
@@ -10104,6 +10134,32 @@
         "latitude": 35.6402366,
         "longitude": 127.5198191,
         "map_address": "전북특별자치도 장수군 장수읍 한누리로 378"
+    },
+    {
+        "year": "2026",
+        "date": "9/20",
+        "month": 9,
+        "day": 20,
+        "day_of_week": "일",
+        "event_name": "제2회 마포구청장배 마라톤 대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "평화의 공원 평화광장",
+        "organizer": [
+            "마포구체육회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41657",
+        "homepage": "http://mara1080.com/event/53b338c6-d38a-47b3-9479-080b00c6113a",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "서울",
+        "venue_detail": "평화의 공원 평화광장",
+        "registration_period": "2026년6월23일~2026년8월20일",
+        "description": "■종목 : 5km / 10km■선착순 2,000명 신청 및 입금자순 마감■기념품 : 기능성 티셔츠 + 완주메달 + 모바일 기록증조기 마감될 수 있으므로 접수를 서둘러주시기 바랍니다!"
     },
     {
         "year": "2026",
@@ -10561,6 +10617,36 @@
         "month": 10,
         "day": 9,
         "day_of_week": "금",
+        "event_name": "WYD와 함께하는 생명사랑 마라톤/걷기 대회",
+        "tags": [
+            "10km",
+            "5km",
+            "5km 걷기"
+        ],
+        "location": "안성 미리내 성지",
+        "organizer": [
+            "마라톤선교연합회/천주교수원교구"
+        ],
+        "phone": "031-246-3660",
+        "event_id": "41656",
+        "homepage": "http://cafe.naver.com/browna6seu",
+        "email": "scmc42@casuwon.or.kr",
+        "representative": "이용훈",
+        "start_time": "08:30",
+        "region": "경기",
+        "venue_detail": "안성 미리내 성지",
+        "registration_period": "2026년8월2일~2026년8월23일",
+        "description": "천주교 수원교구에서는 2006년부터 경기도 안성 미리내 성지에서 생명사랑 마라톤/걷기대회를 개최해왔으며, 2026년 17회를 맞이하고있습니다. 2023년 부터는 경기도 종교계 문화에술지원사엄 공모에 매년 선정되어 단축 마라톤 대회 형식을 갖추고 있습니다. 2026년 대회는 아래의 취지로 실시됩니다.○ 생태적 대전환 기후 위기 시대에 탄소 중립과 생명 사랑 나눔의 실천으로마라톤 걷기에 많은 경기도민(천주교 신자, 비신자)이 참여하여 건강한몸과 건전한 여가문화 조성에 기여.○ 2027년 7월 개최될 세계청년대회(WYD :World Youth Day)의 성공적인개최를 위한 홍보활동으로 수원교구 WYD사무국과 협업하여 참여하는경기도민들이 WYD에 대한 이해를 할 수 있고,  WYD행사에 봉사 또는참여할 수 있는 기회를 제공함.- WYD본대회(서울) :  2027년 8월 3일(화)부터 8월 8일(일).- WYD교구대회(수원) : 2027년 7월 29일(목)부터 8월 2일(월).○ 참가자들에게 생명 문화 및 예술 활동, 생태 환경 보호, 탄소중립 등의활동을 경험하고 참여 할 수 있는 기회를 제공함.",
+        "latitude": 37.1484378,
+        "longitude": 127.2591248,
+        "map_address": "경기도 안성시 양성면 미리내성지로 420"
+    },
+    {
+        "year": "2026",
+        "date": "10/9",
+        "month": 10,
+        "day": 9,
+        "day_of_week": "금",
         "event_name": "제26회 홍성마라톤",
         "tags": [
             "하프",
@@ -10872,6 +10958,38 @@
         "month": 10,
         "day": 17,
         "day_of_week": "토",
+        "event_name": "2026 정선동강 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "커플런 5km",
+            "가족런 5km"
+        ],
+        "location": "정선생태체험학습장",
+        "organizer": [
+            "정선군"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41655",
+        "homepage": "http://jsrun.kr",
+        "email": "road42195@naver.com",
+        "representative": "김동균",
+        "start_time": ":",
+        "region": "강원",
+        "venue_detail": "정선생태체험학습장",
+        "registration_period": "2026년6월23일~2026년7월22일",
+        "description": "2026 정선동강 마라톤",
+        "latitude": 37.3602896,
+        "longitude": 128.6234785,
+        "map_address": "강원특별자치도 정선군 정선읍 동강로 2908"
+    },
+    {
+        "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
         "event_name": "2026 경주마라톤",
         "tags": [
             "풀",
@@ -11142,6 +11260,37 @@
         "month": 10,
         "day": 25,
         "day_of_week": "일",
+        "event_name": "K-RUN 챌린지",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "마니아"
+        ],
+        "location": "서울 뚝섬한강공원 수변광장",
+        "organizer": [
+            "(주)스포테인"
+        ],
+        "phone": "02-3210-1666",
+        "event_id": "41653",
+        "homepage": "http://www.irunman.kr",
+        "email": "sportainrun@naver.com",
+        "representative": "강일효",
+        "start_time": ":",
+        "region": "서울",
+        "venue_detail": "서울 뚝섬한강공원 수변광장",
+        "registration_period": "2026년6월22일~2026년9월30일",
+        "description": "2026년 10월 25일(일) K-RUN 챌린지 마라톤대회를 서울 뚝섬한강공원 수변광장에서 개최합니다. 동호인 및 달림이 참가자 여러분의 많은 참여와 성원 부탁드립니다.",
+        "latitude": 37.5284154,
+        "longitude": 127.0678213,
+        "map_address": "서울특별시 광진구 강변북로 2230"
+    },
+    {
+        "year": "2026",
+        "date": "10/25",
+        "month": 10,
+        "day": 25,
+        "day_of_week": "일",
         "event_name": "제19회 청도반시 전국마라톤",
         "tags": [
             "하프",
@@ -11255,6 +11404,37 @@
         "latitude": 35.0052793,
         "longitude": 126.3542371,
         "map_address": "전라남도 무안군 망운면 조금나루길 128-68"
+    },
+    {
+        "year": "2026",
+        "date": "11/1",
+        "month": 11,
+        "day": 1,
+        "day_of_week": "일",
+        "event_name": "2026 김천전국마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "김천종합스포츠타운",
+        "organizer": [
+            "김천시체육회",
+            "매일신문사"
+        ],
+        "phone": "00-1600-3949",
+        "event_id": "41654",
+        "homepage": "http://gcmarathon.co.kr",
+        "email": "m2569109@naver.com",
+        "representative": "사무국",
+        "start_time": "09:30",
+        "region": "경북",
+        "venue_detail": "김천종합스포츠타운",
+        "registration_period": "2026년7월6일~2026년9월18일",
+        "description": "2026 김천전국마라톤대회 많은 관심과 참여를 기다립니다.",
+        "latitude": 36.1398039,
+        "longitude": 128.0864924,
+        "map_address": "경상북도 김천시 운동장길 1"
     },
     {
         "year": "2026",
@@ -11406,6 +11586,35 @@
     },
     {
         "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "제5회 거제시체육회장배 거제앵산트레일레이스",
+        "tags": [
+            "산악28km/17km",
+            "임도숲길 18km/10km"
+        ],
+        "location": "경남 거제시 하청면스포츠타운",
+        "organizer": [
+            "하청면체육회"
+        ],
+        "phone": "010-5636-5708",
+        "event_id": "41658",
+        "homepage": "http://www.거제앵산트레일레이스.com",
+        "email": "k1912a@naver.com",
+        "representative": "강문효",
+        "start_time": "09:00",
+        "region": "경남",
+        "venue_detail": "경남 거제시 하청면스포츠타운",
+        "registration_period": "2026년6월1일~2026년9월30일",
+        "description": "제5회 대회입니다.알차게 준비 하였습니다.",
+        "latitude": 34.9581406,
+        "longitude": 128.6509677,
+        "map_address": "경상남도 거제시 하청면 사환2길 80"
+    },
+    {
+        "year": "2026",
         "date": "11/14",
         "month": 11,
         "day": 14,
@@ -11547,7 +11756,7 @@
         "start_time": "08:30",
         "region": "서울",
         "venue_detail": "수서역 6번출구 광장",
-        "registration_period": "2026년6월8일~2026년8월31일",
+        "registration_period": "2026년7월19일~2026년8월31일",
         "description": "-수익금전액을 소아암환우에게 기부하는 자선 마라톤대회입니다-현재까지 총액 10억 3천 5백만원을 기부하여 왔습니다",
         "latitude": 37.4870968,
         "longitude": 127.1038084,
