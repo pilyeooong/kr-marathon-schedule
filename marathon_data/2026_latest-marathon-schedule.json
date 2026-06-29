@@ -9977,7 +9977,7 @@
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "상암동 평화의공원 평화광장",
-        "registration_period": "2026년7월1일~2026년8월1일",
+        "registration_period": "2026년6월29일~2026년7월31일",
         "description": "제 16회 스마일 런 페스티벌",
         "latitude": 37.5632736,
         "longitude": 126.8979047,
@@ -11435,6 +11435,37 @@
         "latitude": 36.1398039,
         "longitude": 128.0864924,
         "map_address": "경상북도 김천시 운동장길 1"
+    },
+    {
+        "year": "2026",
+        "date": "11/1",
+        "month": 11,
+        "day": 1,
+        "day_of_week": "일",
+        "event_name": "제2회 대전 신채호 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "패밀리런"
+        ],
+        "location": "대전 뿌리공원 잔디광장",
+        "organizer": [
+            "대전시 중구 육상연맹"
+        ],
+        "phone": "042-255-7917",
+        "event_id": "41659",
+        "homepage": "http://www.djmarathon.co.kr",
+        "email": "center98@naver.com",
+        "representative": "김서중",
+        "start_time": "08:30",
+        "region": "대전",
+        "venue_detail": "대전 뿌리공원 잔디광장",
+        "registration_period": "2026년7월10일~2026년7월31일",
+        "description": "역사를 품고 달리는 대전 신채호 마라톤 대회입니다. 대전 중구 육상연맹에서  직접 운영하는 대회로 가을 단풍의 절정인 11월 1일 뿌리공원에서 펼쳐지는 로드 레이스에 달림이 여러분을 초대합니다,기념품은 성심당 빵을 제공 해 드립니다",
+        "latitude": 36.2841242,
+        "longitude": 127.3869844,
+        "map_address": "대전 중구 뿌리공원로 79  뿌리공원"
     },
     {
         "year": "2026",
