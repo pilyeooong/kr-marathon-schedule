@@ -9064,6 +9064,35 @@
     },
     {
         "year": "2026",
+        "date": "8/16",
+        "month": 8,
+        "day": 16,
+        "day_of_week": "일",
+        "event_name": "2026 Happy700 평창대관령전국하프마라",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "2018 평창동계올림픽 기념관",
+        "organizer": [
+            "한국실업육상연맹"
+        ],
+        "phone": "00-1600-3949",
+        "event_id": "41663",
+        "homepage": "http://www.ifunrunkorea.co.kr/sub0102",
+        "email": "m2569109@naver.com",
+        "representative": "사무국",
+        "start_time": "08:00",
+        "region": "강원",
+        "venue_detail": "2018 평창동계올림픽 기념관",
+        "registration_period": "2026년6월10일~2026년7월25일",
+        "description": "2026 Happy700평창 대관령 전국 하프마라톤입니다.엘리트 선수들과 함께 뛰는 코스 입니다.다양한 경품도 준비되어 있으니 많은 관심 부탁 드립니다.",
+        "latitude": 37.6706525,
+        "longitude": 128.703036,
+        "map_address": "강원특별자치도 평창군 대관령면 올림픽로 108-27"
+    },
+    {
+        "year": "2026",
         "date": "8/22",
         "month": 8,
         "day": 22,
@@ -9705,7 +9734,7 @@
         "start_time": "07:30",
         "region": "서울",
         "venue_detail": "(양천구)목동운동장",
-        "registration_period": "2026년4월13일~2026년6월30일",
+        "registration_period": "2026년4월13일~2026년7월22일",
         "description": "-수익금중 일부를 소아암환우등 소외계층에 기부하는 자선행사입니다"
     },
     {
@@ -10458,6 +10487,35 @@
         "venue_detail": "서산스포츠테마파크",
         "registration_period": "2026년3월20일~2026년9월3일",
         "description": "선착순 7000명 마감됩니다.조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요!감사합니다."
+    },
+    {
+        "year": "2026",
+        "date": "10/4",
+        "month": 10,
+        "day": 4,
+        "day_of_week": "일",
+        "event_name": "제23회 경남마라톤",
+        "tags": [
+            "10km",
+            "3km"
+        ],
+        "location": "창원종합운동장 보조경기장",
+        "organizer": [
+            "(주)경남신문사"
+        ],
+        "phone": "055-210-6104",
+        "event_id": "41660",
+        "homepage": "http://www.knmarathon.co.kr",
+        "email": "cyd1971@knnews.co.kr",
+        "representative": "이종붕",
+        "start_time": "08:30",
+        "region": "경남",
+        "venue_detail": "창원종합운동장 보조경기장",
+        "registration_period": "2026년7월13일~2026년8월29일",
+        "description": "국민 체력 증진과 지역 간 화합을 위한 ‘제23회 경남마라톤대회’가 오는 10월 04일 창원종합운동장 보조경기장에서 펼쳐집니다. 경남신문이 마련한 이번 대회는 지친 심신을 힐링하고 가을의 아름다운 추억을 선사할 것입니다. 아마추어 마라토너 여러분의 많은 성원과 참여 바랍니다.◇일시 : 2026년 10월 04일(일요일) 오전 8시 00분 (출발 오전 8시 30분)◇출발·도착 장소 : 창원스포츠파크(창원종합운동장) 보조경기장◇종목 : 10㎞, 3㎞",
+        "latitude": 35.2339885,
+        "longitude": 128.6647016,
+        "map_address": "창원시 성산구 원이대로450"
     },
     {
         "year": "2026",
@@ -11260,6 +11318,38 @@
         "month": 10,
         "day": 25,
         "day_of_week": "일",
+        "event_name": "2026 광명평화마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "가족런 2~5인",
+            "5km 커플런"
+        ],
+        "location": "광명역 일원",
+        "organizer": [
+            "광명시체육회"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41661",
+        "homepage": "http://gmrun.kr",
+        "email": "road42195@naver.com",
+        "representative": "김동균",
+        "start_time": ":",
+        "region": "경기",
+        "venue_detail": "광명역 일원",
+        "registration_period": "2026년7월1일~2026년7월13일",
+        "description": "2026 광명 평화마라톤",
+        "latitude": 37.4163636,
+        "longitude": 126.8848772,
+        "map_address": "경기도 광명시 광명역로 21"
+    },
+    {
+        "year": "2026",
+        "date": "10/25",
+        "month": 10,
+        "day": 25,
+        "day_of_week": "일",
         "event_name": "K-RUN 챌린지",
         "tags": [
             "하프",
@@ -11525,6 +11615,34 @@
         "latitude": 37.5659053,
         "longitude": 126.8964648,
         "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
+        "event_name": "제15회 부여 굿뜨래 마라톤 대회",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "부여 구드래나루터 선착장",
+        "organizer": [
+            "부여군마라톤연합회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41662",
+        "homepage": "http://mara1080.com/event/ffc023fc-7a54-4610-bdd6-2bb9a1028122",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "충남",
+        "venue_detail": "부여 구드래나루터 선착장",
+        "registration_period": "2026년6월30일~2026년10월7일",
+        "description": "● 일시 : 2026년 11월 7일(토) 출발: 오전 8시 30분 (집결: 오전 7시 30분)● 장소 : 부여 구드래 나루터 선착장 (충남 부여군 부여읍 구교리 4-1)● 종목 : 5km / 10km / Half / Full● 주최 : 부여군마라톤연합회● 주관 : 전국마라톤협회● 후원 : 부여군체육회, 부여군, 부여군의회, 부여군경찰서, 부여군소방서● 협력 : 월드런(world run), 전사모, 전사모 페이싱팀선착순 5000명 접수 및 입금완료순 마감됩니다."
     },
     {
         "year": "2026",
