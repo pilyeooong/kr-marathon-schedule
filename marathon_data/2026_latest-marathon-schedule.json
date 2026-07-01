@@ -9068,7 +9068,7 @@
         "month": 8,
         "day": 16,
         "day_of_week": "일",
-        "event_name": "2026 Happy700 평창대관령전국하프마라",
+        "event_name": "2026Happy700평창대관령전국하프마라톤",
         "tags": [
             "하프",
             "10km"
@@ -10359,7 +10359,7 @@
         ],
         "location": "완주군 고산자연휴양림",
         "organizer": [
-            "완주군"
+            "완주군/삼삼이즈"
         ],
         "phone": "010-7469-1526",
         "event_id": "41649",
@@ -11277,8 +11277,8 @@
         "start_time": ":",
         "region": "경기",
         "venue_detail": "여주 현암지구공원",
-        "registration_period": "2026년6월2일~2026년9월18일",
-        "description": "선착순 5000명(4km 1,000명 / 10km 2,500명 / Half 1,500명)조기 마감될 수 있으므로 신청 및 입금을 서둘러주시기 바랍니다.감사합니다!",
+        "registration_period": "2026년6월2일~2026년6월29일",
+        "description": "선착순 5000명 1차 접수 마감 완료(4km 1,000명 / 10km 2,500명 / Half 1,500명)감사합니다!",
         "latitude": 37.3097469,
         "longitude": 127.6290239,
         "map_address": "경기도 여주시 강변북로 163"
