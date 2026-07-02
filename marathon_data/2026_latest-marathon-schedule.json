@@ -8370,9 +8370,9 @@
     },
     {
         "year": "2026",
-        "date": "6/31",
-        "month": 6,
-        "day": 31,
+        "date": "7/1",
+        "month": 7,
+        "day": 1,
         "day_of_week": "수",
         "event_name": "사우나런 in 석촌호수",
         "tags": [
@@ -10668,6 +10668,35 @@
         "latitude": 37.5718479,
         "longitude": 126.9761683,
         "map_address": "서울특별시 종로구 세종대로 175"
+    },
+    {
+        "year": "2026",
+        "date": "10/9",
+        "month": 10,
+        "day": 9,
+        "day_of_week": "금",
+        "event_name": "2026 한글런",
+        "tags": [
+            "5.15km",
+            "10.9km"
+        ],
+        "location": "세종중앙공원 도시축제마당",
+        "organizer": [
+            "헤럴드경제"
+        ],
+        "phone": "02-338-6564",
+        "event_id": "41664",
+        "homepage": "http://hangeulrun.com/",
+        "email": "hangeulrun109@gmail.com",
+        "representative": "주상은",
+        "start_time": "09",
+        "region": "세종",
+        "venue_detail": "세종중앙공원 도시축제마당",
+        "registration_period": "2026년7월1일~2026년8월30일",
+        "description": "‘2026 한글런’은 한글날을 기념하여 세종시에서 개최됩니다.한글의 의미와 가치를 되새기며 함께 달리고 소통하는 경험을 제공하며,10.9km와 5.15km 코스로 구성되어 누구나 참여할 수 있습니다.10.9km코스는 특별히 수목원 코스가 추가되어 자연 속에서 더욱 특별한 러닝 경험을 즐기실 수 있습니다.",
+        "latitude": 36.4917742,
+        "longitude": 127.2717369,
+        "map_address": "세종특별자치시 중앙공원로 60"
     },
     {
         "year": "2026",
