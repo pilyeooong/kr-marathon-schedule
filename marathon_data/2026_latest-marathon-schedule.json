@@ -10170,6 +10170,36 @@
         "month": 9,
         "day": 20,
         "day_of_week": "일",
+        "event_name": "2026 안산마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "대부향기테마파크",
+        "organizer": [
+            "안산시체육"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41666",
+        "homepage": "http://ansanrun.com",
+        "email": "road42195@naver.com",
+        "representative": "김동균",
+        "start_time": ":",
+        "region": "경기",
+        "venue_detail": "대부향기테마파크",
+        "registration_period": "2026년7월6일~2026년7월20일",
+        "description": "안산마라",
+        "latitude": 37.2872328,
+        "longitude": 126.5751308,
+        "map_address": "경기 안산시 단원구 대부북동 1848-235"
+    },
+    {
+        "year": "2026",
+        "date": "9/20",
+        "month": 9,
+        "day": 20,
+        "day_of_week": "일",
         "event_name": "제2회 마포구청장배 마라톤 대회",
         "tags": [
             "10km",
@@ -10199,7 +10229,7 @@
         "event_name": "2026 한돈런",
         "tags": [
             "10km",
-            "5km"
+            "6km코스"
         ],
         "location": "미사 조정경기장",
         "organizer": [
@@ -10215,7 +10245,7 @@
         "region": "경기",
         "venue_detail": "미사 조정경기장",
         "registration_period": "2026년7월13일~2026년8월30일",
-        "description": "2026 한돈런은 한돈자조금관리위원회가 주최하는 건강과 맛이 함께하는 달리기 축제입니다.기록보다 즐거움,완주보다 함께함을 더 소중하게 생각합니다.5km든 10km든, 내 페이스대로 달리고 난 뒤따뜻한 한돈 한 상이 기다립니다.달리는 순간도, 먹는 순간도,우리 모두 빛나는 한돈 러너가 됩니다.",
+        "description": "2026 한돈런은 한돈자조금관리위원회가 주최하는 건강과 맛이 함께하는 달리기 축제입니다.기록보다 즐거움,완주보다 함께함을 더 소중하게 생각합니다.6km든 10km든, 내 페이스대로 달리고 난 뒤따뜻한 한돈 한 상이 기다립니다.달리는 순간도, 먹는 순간도,우리 모두 빛나는 한돈 러너가 됩니다.",
         "latitude": 37.5536142,
         "longitude": 127.2132338,
         "map_address": "경기도 하남시 미사대로 505"
@@ -10758,6 +10788,35 @@
         "latitude": 36.6066597,
         "longitude": 126.6438432,
         "map_address": "충청남도 홍성군 홍성읍 홍덕서로 78"
+    },
+    {
+        "year": "2026",
+        "date": "10/10",
+        "month": 10,
+        "day": 10,
+        "day_of_week": "토",
+        "event_name": "제3회 성동구연맹회장기 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "살곶이대운동장(축구장)",
+        "organizer": [
+            "성동구체육회 / 성동구육상연맹"
+        ],
+        "phone": "010-7469-1526",
+        "event_id": "41665",
+        "homepage": "http://samsamis.com",
+        "email": "samsamis@naver.com",
+        "representative": "이소현",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "살곶이대운동장(축구장)",
+        "registration_period": "2026년7월10일~2026년8월30일",
+        "description": "성공구 체육회 및 성동구 육상연맹에서 마라톤대회를 개최 합니다.3회 맞이하는 대회 많은 관심 및 참가 부탁드립니다.문의사항 : 삼삼이즈 채널이용 부탁드립니다.",
+        "latitude": 37.5539764,
+        "longitude": 127.0504494,
+        "map_address": "서울특별시 성동구 중랑천서자전거길 209"
     },
     {
         "year": "2026",
@@ -11703,6 +11762,36 @@
         "latitude": 36.0565053,
         "longitude": 129.0112647,
         "map_address": "경상북도 영천시 임고면 신방로 19"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "2026 서울구석구석 국제 트레일런",
+        "tags": [
+            "트레일런 14km",
+            "트레일런 35km"
+        ],
+        "location": "광화문 서울마당(서울신문)",
+        "organizer": [
+            "서울신문",
+            "한국익스트림앤스포츠"
+        ],
+        "phone": "070-7719-5788",
+        "event_id": "41667",
+        "homepage": "http://cafe.naver.com/seoultrailrun/?viewType=pc",
+        "email": "happyworks@naver.com",
+        "representative": "이철호",
+        "start_time": "07:00",
+        "region": "서울",
+        "venue_detail": "광화문 서울마당(서울신문)",
+        "registration_period": "2026년7월2일~2026년9월30일",
+        "description": "2026년 11월 8일(일) 개최되는 서울 구석구석 트레일런대회는 서울신문사와 한국익스트림앤스포츠(KENS)에서 주최하는 대회입니다.최근 개방된 청와대 및 서울에 위치한 안산, 인왕산, 북악산의 잘 알려지지 않은 아름다운 코스를 구석구석 힐링 하면서 뛰는 트레일런 대회입니다.\"서울에도 이런 곳이 있었나?\" 하는 놀라움이 반복되는 대회",
+        "latitude": 37.5674232,
+        "longitude": 126.9778908,
+        "map_address": "서울특별시 중구 세종대로 124"
     },
     {
         "year": "2026",
