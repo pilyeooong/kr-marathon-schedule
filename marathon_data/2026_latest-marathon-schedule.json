@@ -10079,6 +10079,36 @@
         "month": 9,
         "day": 19,
         "day_of_week": "토",
+        "event_name": "2026 JUST RUN10 김해 대동",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "김해 대동생태체육공원 축구장",
+        "organizer": [
+            "(주)러닝브레이커",
+            "전국러닝협회"
+        ],
+        "phone": "042-710-2058",
+        "event_id": "41668",
+        "homepage": "http://runten.co.kr",
+        "email": "runningbreaker@naver.com",
+        "representative": "윤세준",
+        "start_time": "08:00",
+        "region": "경남",
+        "venue_detail": "김해 대동생태체육공원 축구장",
+        "registration_period": "2026년7월3일~2026년7월31일",
+        "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
+        "latitude": 35.2534829,
+        "longitude": 129.0004933,
+        "map_address": "경상남도 김해시 대동면 동남로 234-2"
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
         "event_name": "제18회 사이버 영토 수호 마라톤",
         "tags": [
             "하프",
@@ -11377,6 +11407,35 @@
         "month": 10,
         "day": 24,
         "day_of_week": "토",
+        "event_name": "2026 익산 기부런",
+        "tags": [
+            "10km",
+            "6.4km"
+        ],
+        "location": "익산시종합운동장",
+        "organizer": [
+            "(사)크레파스"
+        ],
+        "phone": "063-832-0033",
+        "event_id": "41669",
+        "homepage": "http://iksangiverun.or.kr",
+        "email": "cbs8652@naver.com",
+        "representative": "박강진",
+        "start_time": "09:00",
+        "region": "전북",
+        "venue_detail": "익산시종합운동장",
+        "registration_period": "2026년7월14일~2026년8월31일",
+        "description": "7월 14일부터 1500명 선착순 접수참가자에게는 기부금 영수증 발급수익금은 어려운 이웃, 육상 꿈나무에게배번호 등은 대회당일 현장에서 지급",
+        "latitude": 35.9680345,
+        "longitude": 127.0089392,
+        "map_address": "전북특별자치도 익산시 무왕로 1397"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
         "event_name": "2026 제3회 감성런",
         "tags": [
             "10km",
@@ -11608,7 +11667,7 @@
         "start_time": "09:30",
         "region": "경북",
         "venue_detail": "김천종합스포츠타운",
-        "registration_period": "2026년7월6일~2026년9월18일",
+        "registration_period": "2026년7월15일~2026년9월18일",
         "description": "2026 김천전국마라톤대회 많은 관심과 참여를 기다립니다.",
         "latitude": 36.1398039,
         "longitude": 128.0864924,
