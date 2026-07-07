@@ -9327,6 +9327,32 @@
     },
     {
         "year": "2026",
+        "date": "8/31",
+        "month": 8,
+        "day": 31,
+        "day_of_week": "월",
+        "event_name": "사우나런 in 뚝섬한강공원",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "뚝섬한강공원 인근",
+        "organizer": [
+            "사우나런"
+        ],
+        "phone": "070-4571-8805",
+        "event_id": "41672",
+        "homepage": "http://saunarun.com",
+        "email": "26mile.business@gmail.com",
+        "representative": "이상돈",
+        "start_time": ":",
+        "region": "서울",
+        "venue_detail": "뚝섬한강공원 인근",
+        "registration_period": "2026년7월6일~2026년8월31일",
+        "description": "※ 참가비·접수기간·코스 등 자세한 모집요강은 해당 대회 홈페이지에서 확인해 주세요."
+    },
+    {
+        "year": "2026",
         "date": "9/5",
         "month": 9,
         "day": 5,
@@ -10200,6 +10226,36 @@
         "month": 9,
         "day": 20,
         "day_of_week": "일",
+        "event_name": "2026 인천송도국제하프마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "송도인천대캠퍼스 정문앞",
+        "organizer": [
+            "(주)경인일보"
+        ],
+        "phone": "00-1866-1718",
+        "event_id": "41670",
+        "homepage": "http://songdorun.net",
+        "email": "isang102@naver.com",
+        "representative": "홍정표",
+        "start_time": "08:00",
+        "region": "인천",
+        "venue_detail": "송도인천대캠퍼스 정문앞",
+        "registration_period": "2026년7월8일~2026년8월7일",
+        "description": "2026.7.8(수) 14:00 접수 오픈.",
+        "latitude": 37.3754977,
+        "longitude": 126.6332532,
+        "map_address": "인천광역시 연수구 아카데미로 119"
+    },
+    {
+        "year": "2026",
+        "date": "9/20",
+        "month": 9,
+        "day": 20,
+        "day_of_week": "일",
         "event_name": "2026 안산마라톤",
         "tags": [
             "하프",
@@ -10266,7 +10322,7 @@
             "한돈자조금위원회",
             "런코리아"
         ],
-        "phone": "070-1566-1936",
+        "phone": "00-1566-1936",
         "event_id": "41630",
         "homepage": "http://handonrun.com/",
         "email": "emara@hanmail.net",
@@ -11851,6 +11907,36 @@
         "latitude": 37.5674232,
         "longitude": 126.9778908,
         "map_address": "서울특별시 중구 세종대로 124"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "2026 과천마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "관문체육공원",
+        "organizer": [
+            "과천시체육회"
+        ],
+        "phone": "031-575-7243",
+        "event_id": "41671",
+        "homepage": "http://gcrun.co.kr",
+        "email": "ceo@blueimg.co.kr",
+        "representative": "조환석",
+        "start_time": "08:00",
+        "region": "경기",
+        "venue_detail": "관문체육공원",
+        "registration_period": "2026년7월20일~2026년7월31일",
+        "description": "2026 과천마라톤대회에 오신 것을 환영합니다.",
+        "latitude": 37.4414931,
+        "longitude": 126.996973,
+        "map_address": "경기 과천시 중앙로 294 관문체육공원"
     },
     {
         "year": "2026",
