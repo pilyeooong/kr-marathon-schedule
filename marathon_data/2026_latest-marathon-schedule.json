@@ -8924,6 +8924,34 @@
         "month": 8,
         "day": 15,
         "day_of_week": "토",
+        "event_name": "2026 INCHEON NIGHT RACE",
+        "tags": [
+            "8.15km"
+        ],
+        "location": "인천 영정구 중산동 1946",
+        "organizer": [
+            "국민건강진흥원"
+        ],
+        "phone": "070-4098-1114",
+        "event_id": "41678",
+        "homepage": "http://icnr.kr",
+        "email": "webbi110120@naver.com",
+        "representative": "이현주",
+        "start_time": "19:30",
+        "region": "인천",
+        "venue_detail": "인천 영정구 중산동 1946",
+        "registration_period": "2026년7월7일~2026년8월8일",
+        "description": "체육활동을 통하여 국민에게 모든   종목운동을 널리 보급하여 국민체력을 향상케 하며, 건전한 여가선용과 명랑한    기풍을 진작하는 한편 동호회를 지원⋅육성하고 체육생활화를 통해 명랑하고 밝은 지역사회 건설에 이바지함을 목적",
+        "latitude": 37.4955774,
+        "longitude": 126.5790838,
+        "map_address": "인천광역시 영종구 영종진광장로 46"
+    },
+    {
+        "year": "2026",
+        "date": "8/15",
+        "month": 8,
+        "day": 15,
+        "day_of_week": "토",
         "event_name": "2026 안양천 달빛 나이트런",
         "tags": [
             "10km",
@@ -10105,6 +10133,36 @@
         "month": 9,
         "day": 19,
         "day_of_week": "토",
+        "event_name": "2026 안양천 하프 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "신정교 하부 영롱이 억새구장",
+        "organizer": [
+            "(사)행복한가게"
+        ],
+        "phone": "02-888-8875",
+        "event_id": "41674",
+        "homepage": "http://aychalf.kr",
+        "email": "run@aychalf.kr",
+        "representative": "임서현",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "신정교 하부 영롱이 억새구장",
+        "registration_period": "2026년7월6일~2026년9월10일",
+        "description": "안양천의 풍경을 충분히 살피며 안전하게 완주하시길 응원하겠습니다.찾아주신 모든 분의 가정에 건강이 함께하길 기원합니다.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
         "event_name": "2026 JUST RUN10 김해 대동",
         "tags": [
             "10km",
@@ -10219,6 +10277,35 @@
         "latitude": 35.6402366,
         "longitude": 127.5198191,
         "map_address": "전북특별자치도 장수군 장수읍 한누리로 378"
+    },
+    {
+        "year": "2026",
+        "date": "9/20",
+        "month": 9,
+        "day": 20,
+        "day_of_week": "일",
+        "event_name": "2026 울산남구육상연맹 회장배 단축마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "태화강국가정원 내 왕버들 공연",
+        "organizer": [
+            "울산광역시 남구 육상연맹"
+        ],
+        "phone": "010-9360-0113",
+        "event_id": "41684",
+        "homepage": "http://modern-infinity-9e6.notion.site/2026-395918810cc28075b602c0e076d8d3ea",
+        "email": "mimo981019@gmail.com",
+        "representative": "배달식",
+        "start_time": "08:00",
+        "region": "울산",
+        "venue_detail": "태화강국가정원 내 왕버들 공연",
+        "registration_period": "2026년7월15일~2026년7월30일",
+        "description": "태화강 국가정원이 더욱 아름다워 지고 있습니다. 향기로운 꽃을 보며 함께, 건강하고 따뜻한 시간 만들어 볼까요?",
+        "latitude": 35.5495901,
+        "longitude": 129.2985015,
+        "map_address": "중구 느티나무길 10 만남의광장 안쪽"
     },
     {
         "year": "2026",
@@ -10460,6 +10547,36 @@
         "latitude": 37.8253879,
         "longitude": 127.5070499,
         "map_address": "경기도 가평군 가평읍 문화로 131"
+    },
+    {
+        "year": "2026",
+        "date": "10/3",
+        "month": 10,
+        "day": 3,
+        "day_of_week": "토",
+        "event_name": "2026 마스터즈 하프 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "상암 월드컵공원 평화광장",
+        "organizer": [
+            "(사)사회안전예방중앙회"
+        ],
+        "phone": "02-2636-6543",
+        "event_id": "41680",
+        "homepage": "http://mastershalf.kr/",
+        "email": "start@mastershalf.kr",
+        "representative": "전상제",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "상암 월드컵공원 평화광장",
+        "registration_period": "2026년7월7일~2026년9월21일",
+        "description": "저희는 2026 마스터즈 하프 마라톤이 참가자 여러분께 안전하고 즐거운 대회, 그리고 다시 도전할 힘을 얻는 뜻깊은 시간이 되기를 바라는 마음으로 준비했습니다. 오늘의 모든 순간이 여러분에게 오래 기억될 좋은 추억이 되기를 바랍니다.",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
     },
     {
         "year": "2026",
@@ -10755,6 +10872,35 @@
         "latitude": 37.707886,
         "longitude": 127.9048087,
         "map_address": "강원특별자치도 홍천군 홍천읍 태학여내길 27"
+    },
+    {
+        "year": "2026",
+        "date": "10/5",
+        "month": 10,
+        "day": 5,
+        "day_of_week": "월",
+        "event_name": "런센스 2026",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "상암동 평화의공원 평화광장",
+        "organizer": [
+            "(주)일요신문사 (주)비즈한국"
+        ],
+        "phone": "070-7706-1011",
+        "event_id": "41677",
+        "homepage": "http://www.runsense.co.kr",
+        "email": "run@runandrun3.com",
+        "representative": "최란",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "상암동 평화의공원 평화광장",
+        "registration_period": "2026년7월8일~2026년8월27일",
+        "description": "일시:2026년 10월5일(월) 대체공휴일시각:8시종목:5km / 10km금액:45,000원 /50,000원사전접수(얼리버드):40,000원 /45,000원주최:(주)일요신문사, (주)비즈한국주관: 런앤런",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
     },
     {
         "year": "2026",
@@ -11065,6 +11211,36 @@
         "month": 10,
         "day": 11,
         "day_of_week": "일",
+        "event_name": "2026 문경 오미자 하프마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "문경시민운동장",
+        "organizer": [
+            "영남일보"
+        ],
+        "phone": "00-1600-3949",
+        "event_id": "41683",
+        "homepage": "http://mgmarathon.kr",
+        "email": "m2569109@naver.com",
+        "representative": "사무국",
+        "start_time": "09:00",
+        "region": "경북",
+        "venue_detail": "문경시민운동장",
+        "registration_period": "2026년7월10일~2026년8월28일",
+        "description": "2026 문경 오미자 하프마라톤대회 많은 참여 부탁 드립니다.",
+        "latitude": 36.5932148,
+        "longitude": 128.187405,
+        "map_address": "경상북도 문경시 점고길 15"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
         "event_name": "2026 서울레이스",
         "tags": [
             "하프",
@@ -11183,6 +11359,67 @@
         "latitude": 37.4873504,
         "longitude": 127.1023689,
         "map_address": "서울특별시 강남구 광평로 276-2 (수서동) [지번] 서울특별시 강남구 수서동 719-2"
+    },
+    {
+        "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
+        "event_name": "2026 경청마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "신정교 하부 영롱이 억새구장",
+        "organizer": [
+            "(사)행복한동행"
+        ],
+        "phone": "02-2636-7775",
+        "event_id": "41681",
+        "homepage": "http://storyrun.kr/",
+        "email": "run@storyrun.kr",
+        "representative": "김기완",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "신정교 하부 영롱이 억새구장",
+        "registration_period": "2026년7월7일~2026년10월7일",
+        "description": "경청마라톤은 달리기를 통해서로를 응원하고, 마음을 나누며,작은 실천이 모여 더 큰 나눔으로 이어지기를 바라는 뜻에서 마련된 행사입니다.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
+        "event_name": "제7회 충청남도 태안 전국어울림마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "장애인부"
+        ],
+        "location": "태안군 안면읍 꽃지해수욕장 일",
+        "organizer": [
+            "충청남도장애인체육회"
+        ],
+        "phone": "02-785-1915",
+        "event_id": "41679",
+        "homepage": "http://www.충남전국어울림마라톤.kr",
+        "email": "help@sportlink.co.kr",
+        "representative": "허종수",
+        "start_time": "09:00",
+        "region": "충남",
+        "venue_detail": "태안군 안면읍 꽃지해수욕장 일",
+        "registration_period": "2026년7월22일~2026년9월17일",
+        "description": "장애인과 비장애인이 함께하는 충청남도 태안 전국어울림마라톤대회가 2026년 10월17일(토) 태안 꽃지해수욕장에서 개최됩니다!함께 달리는 즐거움과 감동을 나누는 뜻깊은 자리에 많은 관심과 참여바랍니다. 감사합니다.",
+        "latitude": 36.50071,
+        "longitude": 126.3368026,
+        "map_address": "충청남도 태안군 안면읍 꽃지해안로 400"
     },
     {
         "year": "2026",
@@ -11456,6 +11693,35 @@
         "latitude": 37.3097469,
         "longitude": 127.6290239,
         "map_address": "경기도 여주시 강변북로 163"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
+        "event_name": "2026 하남 어텀 패밀리 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "하남 미사 경정 공원",
+        "organizer": [
+            "청운의꿈(주)"
+        ],
+        "phone": "02-2606-8187",
+        "event_id": "41682",
+        "homepage": "http://hnrun.kr",
+        "email": "start@hnrun.kr",
+        "representative": "이오덕",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "하남 미사 경정 공원",
+        "registration_period": "2026년7월7일~2026년10월14일",
+        "description": "높고 푸른 하늘 아래 가을빛으로 물든 하남에서, 소중한 사람과 함께 달리는 뜻깊은 자리를 마련했습니다. 오늘의 출발선에는 저마다 다른 목표가 있겠지만, 서로의 보폭을 살피고 응원하며 나누는 시간만큼은 우리 모두에게 특별한 기억이 될 것입니다.",
+        "latitude": 37.5536142,
+        "longitude": 127.2132338,
+        "map_address": "경기도 하남시 미사대로 505"
     },
     {
         "year": "2026",
@@ -12318,5 +12584,119 @@
         "latitude": 37.4886878,
         "longitude": 127.1066592,
         "map_address": "서울특별시 강남구 광평로 318 (수서동) [지번] 서울특별시 강남구 수서동 99"
+    },
+    {
+        "year": "2026",
+        "date": "11/21",
+        "month": 11,
+        "day": 21,
+        "day_of_week": "토",
+        "event_name": "2026 세정 가을바람 유러닝페스타",
+        "tags": [
+            "10km",
+            "5km",
+            "10k 커플런",
+            "10k 단체전(5인1조)"
+        ],
+        "location": "하남 미사리 조정경기장",
+        "organizer": [
+            "주식회사 세정"
+        ],
+        "phone": "010-8017-1833",
+        "event_id": "41673",
+        "homepage": "http://urfesta.com",
+        "email": "urfesta@naver.com",
+        "representative": "정운채",
+        "start_time": "08:30",
+        "region": "경기",
+        "venue_detail": "하남 미사리 조정경기장",
+        "registration_period": "2026년7월8일~2026년11월7일",
+        "description": "러너의 마음에서 출발하여, 러너의 시선에서 바라보는진짜 러너가 만듭니다.",
+        "latitude": 37.5536142,
+        "longitude": 127.2132338,
+        "map_address": "경기도 하남시 미사대로 505"
+    },
+    {
+        "year": "2026",
+        "date": "11/28",
+        "month": 11,
+        "day": 28,
+        "day_of_week": "토",
+        "event_name": "2026 남원 춘향 전국 마라톤대회",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "남원 종합스포츠타운 운동장",
+        "organizer": [
+            "남원시체육회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41675",
+        "homepage": "http://mara1080.com/event/c2cec79b-c38a-4832-bf4f-7ecb499cdcd5/guide/overview",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "전북",
+        "venue_detail": "남원 종합스포츠타운 운동장",
+        "registration_period": "2026년7월7일~2026년10월28일",
+        "description": "아름다운 가을, 남원의 감성과 함께 달리는 최고의 순간!춘향의 고장 남원에서 펼쳐지는 특별한 레이스에러너 여러분들을 초대합니다.선착순 6000명 접수 및 입금자순 마감되므로 조기 마감될 수 있으니신청 및 입금을 서둘러 주시기 바랍니다!"
+    },
+    {
+        "year": "2026",
+        "date": "11/28",
+        "month": 11,
+        "day": 28,
+        "day_of_week": "토",
+        "event_name": "목욕런 2026",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "월드컵공원 평화의 광장",
+        "organizer": [
+            "사우나 민족"
+        ],
+        "phone": "070-4571-8805",
+        "event_id": "41685",
+        "homepage": "http://mokyokrun.shop",
+        "email": "26mile.business@gmail.com",
+        "representative": "이상돈",
+        "start_time": "7:30",
+        "region": "서울",
+        "venue_detail": "월드컵공원 평화의 광장",
+        "registration_period": "2026년8월10일~2026년8월30일",
+        "description": "행사명목욕런 2026행사일2026. 11. 28(토) 오전 8시 00분신청기간1차 신청 기간: 2026.8.10(월) ~ 2026.8.16(일)2차 신청 기간: 2026.8.24(월) ~ 2026.8.30(일)행사장소상암 월드컵공원(평화광장 집결)코스10km(10킬로미터), 5km(5킬로미터)참가비50,000원(5km), 60,000원(10km)참가자 지급품콜드플런지, 피니시팩(기념품), 기록칩, 메달, 음료, 간식 등* 지급품 목록은 변경될 수 있습니다.",
+        "latitude": 37.5546896,
+        "longitude": 126.9080164,
+        "map_address": "서울특별시 마포구 월드컵로15길 53"
+    },
+    {
+        "year": "2026",
+        "date": "12/5",
+        "month": 12,
+        "day": 5,
+        "day_of_week": "토",
+        "event_name": "2026 전국마라톤협회 금산 골드런 마라톤",
+        "tags": [
+            "5km",
+            "12km"
+        ],
+        "location": "금산",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41676",
+        "homepage": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb",
+        "email": "jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "9",
+        "region": "충남",
+        "venue_detail": "금산",
+        "registration_period": "2026년7월2일~2026년9월1일",
+        "description": "2026 전국마라톤협회 금산 골드런 마라톤대회"
     }
 ]
