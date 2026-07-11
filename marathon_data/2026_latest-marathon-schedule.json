@@ -8805,6 +8805,34 @@
     },
     {
         "year": "2026",
+        "date": "7/25",
+        "month": 7,
+        "day": 25,
+        "day_of_week": "토",
+        "event_name": "순천만국가정원 챌린지가든런",
+        "tags": [
+            "10km"
+        ],
+        "location": "순천만국가정원 동문",
+        "organizer": [
+            "순천만국가정원"
+        ],
+        "phone": "070-5088-1180",
+        "event_id": "41692",
+        "homepage": "http://projectruntrip.com/",
+        "email": "o2notion@gmail.com",
+        "representative": "최현욱",
+        "start_time": "07:30",
+        "region": "전남",
+        "venue_detail": "순천만국가정원 동문",
+        "registration_period": "2026년7월9일~2026년7월17일",
+        "description": "총 상금 : 200만원이번 대회는 순천의 심장이자 세계가 주목하는 순천만국가정원에서 개최됩니다. 푸른 잔디와 정교한 정원 언덕을 배경으로 달리는 이번 코스는,발걸음마다 자연의 생동감을 온전히 느낄 수 있는 특별한 순간을 선사합니다.대한민국에서 가장 아름다운 정원에서 당신의 최고 기록을 갱신해 보세요.",
+        "latitude": 34.9289358,
+        "longitude": 127.4962644,
+        "map_address": "전남광주통합특별시 순천시 국가정원1호길 7"
+    },
+    {
+        "year": "2026",
         "date": "7/31",
         "month": 7,
         "day": 31,
@@ -8820,7 +8848,7 @@
         ],
         "phone": "070-4571-8805",
         "event_id": "41625",
-        "homepage": "http://saunarun.com/category/?idx=119",
+        "homepage": "http://saunarun.com",
         "email": "26mile.business@gmail.com",
         "representative": "이상돈",
         "start_time": ":",
@@ -9015,7 +9043,7 @@
             "9봉 87k",
             "5봉 45k"
         ],
-        "location": "청운산장",
+        "location": "가늘산장",
         "organizer": [
             "JYD자연을달린다"
         ],
@@ -9026,7 +9054,7 @@
         "representative": "이춘호",
         "start_time": "9",
         "region": "경남",
-        "venue_detail": "청운산장",
+        "venue_detail": "가늘산장",
         "registration_period": "2026년4월1일~2026년7월15일",
         "description": "영남알프스에 당신의 도전과 열정을 응원합니다9봉 87k 14:00 출발5봉 45k 20:00 출발"
     },
@@ -10041,7 +10069,7 @@
         "month": 9,
         "day": 13,
         "day_of_week": "일",
-        "event_name": "제 16회 스마일 런 페스티벌",
+        "event_name": "제16회 스마일 런 페스티벌",
         "tags": [
             "하프",
             "10km",
@@ -10061,7 +10089,7 @@
         "region": "서울",
         "venue_detail": "상암동 평화의공원 평화광장",
         "registration_period": "2026년6월29일~2026년7월31일",
-        "description": "제 16회 스마일 런 페스티벌",
+        "description": "제16회 스마일 런 페스티벌",
         "latitude": 37.5632736,
         "longitude": 126.8979047,
         "map_address": "서울특별시 마포구 월드컵로 243-48"
@@ -10879,6 +10907,37 @@
         "month": 10,
         "day": 5,
         "day_of_week": "월",
+        "event_name": "제12회 시흥시 전국하프마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "한국공학대학교 제2캠퍼스",
+        "organizer": [
+            "경기일보",
+            "시흥시체육회"
+        ],
+        "phone": "031-575-7243",
+        "event_id": "41690",
+        "homepage": "http://shmarathon.kr",
+        "email": "ceo@blueimg.co.kr",
+        "representative": "조환석",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "한국공학대학교 제2캠퍼스",
+        "registration_period": "2026년7월22일~2026년7월22일",
+        "description": "안녕하세요. 시흥시전국하프마라톤대회에 오신 것을 환영합니다.",
+        "latitude": 37.3282519,
+        "longitude": 126.6893303,
+        "map_address": "경기도 시흥시 엠티브이북로 65"
+    },
+    {
+        "year": "2026",
+        "date": "10/5",
+        "month": 10,
+        "day": 5,
+        "day_of_week": "월",
         "event_name": "런센스 2026",
         "tags": [
             "10km",
@@ -11020,6 +11079,36 @@
         "latitude": 36.6066597,
         "longitude": 126.6438432,
         "map_address": "충청남도 홍성군 홍성읍 홍덕서로 78"
+    },
+    {
+        "year": "2026",
+        "date": "10/10",
+        "month": 10,
+        "day": 10,
+        "day_of_week": "토",
+        "event_name": "제4회 강서허준런(RUN)",
+        "tags": [
+            "10km",
+            "5km",
+            "3km 패밀리런"
+        ],
+        "location": "서울식물원 초지원",
+        "organizer": [
+            "강서구"
+        ],
+        "phone": "02-2600-6795",
+        "event_id": "41689",
+        "homepage": "http://강서허준런.com",
+        "email": "heojunrun@gmail.com",
+        "representative": "이관수",
+        "start_time": ":",
+        "region": "서울",
+        "venue_detail": "서울식물원 초지원",
+        "registration_period": "2026년7월9일~2026년7월17일",
+        "description": "\"아름다운 강서의 자연을 만끽하는 달리기 축제\"강서허준런(RUN)\"강서허준런(RUN)\"은 강서구에서 태어나고 돌아가신 우리나라를 대표하는 의학자의성 허준 선생님의 업적을 기리는 강서구의 대표 축제 \"허준축제\"의 힘찬 시작을 알리는 행사로남녀노소 누구나 즐길 수 있는 \"런 페스티벌\"입니다.녹색도시 강서, 정원도시 서울의 대표 랜드마크인 서울식물원을 달리는 유일한 달리기 축제허준런(RUN)에서 우리 함께 달려요~",
+        "latitude": 37.5682071,
+        "longitude": 126.8327466,
+        "map_address": "서울특별시 강서구 마곡동로 161"
     },
     {
         "year": "2026",
@@ -11234,6 +11323,32 @@
         "latitude": 36.5932148,
         "longitude": 128.187405,
         "map_address": "경상북도 문경시 점고길 15"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
+        "event_name": "2026 핑크런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "상암월드컵공원 평화광장",
+        "organizer": [
+            "한국유방건강재단"
+        ],
+        "phone": "070-4633-1233",
+        "event_id": "41687",
+        "homepage": "http://www.pinkrun.kr",
+        "email": "2025pinkrun@gmail.com",
+        "representative": "한국유방건강재단",
+        "start_time": "08",
+        "region": "서울",
+        "venue_detail": "상암월드컵공원 평화광장",
+        "registration_period": "2026년7월27일~2026년8월7일",
+        "description": "여성들의 소중한 유방건강을 위한 핑크리본 캠페인의 일환으로 진행 되는 캠페인 러닝행사.참가비 전액이 저소득층 유방암 환우 수술 치료비지원을 위해 기부되는 여성건강 대표 러닝행사.2001년부터 시작하여 올해 26회째를 맞이하는 국내 최대 핑크리본 캠페인"
     },
     {
         "year": "2026",
@@ -11729,6 +11844,35 @@
         "month": 10,
         "day": 24,
         "day_of_week": "토",
+        "event_name": "2026 경기옛길 함께RUN",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "도농체육공원",
+        "organizer": [
+            "경기도"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41688",
+        "homepage": "http://ggcrun.kr/",
+        "email": "road42195@naver.com",
+        "representative": "경기옛길센터",
+        "start_time": "9",
+        "region": "경기",
+        "venue_detail": "도농체육공원",
+        "registration_period": "2026년7월9일~2026년8월8일",
+        "description": "참가자 기념품 준비중",
+        "latitude": 37.6070428,
+        "longitude": 127.1504755,
+        "map_address": "경기도 남양주시 미금로57번길 22"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
         "event_name": "2026 익산 기부런",
         "tags": [
             "10km",
@@ -11934,6 +12078,35 @@
         "latitude": 36.4323352,
         "longitude": 129.0615982,
         "map_address": "경상북도 청송군 청송읍 중앙로 306-39"
+    },
+    {
+        "year": "2026",
+        "date": "11/1",
+        "month": 11,
+        "day": 1,
+        "day_of_week": "일",
+        "event_name": "2026 DMZ OPEN 평화마라톤",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "파주 임진각 평화누리 일원",
+        "organizer": [
+            "경기도"
+        ],
+        "phone": "031-575-7243",
+        "event_id": "41691",
+        "homepage": "http://dmzopenrun.kr",
+        "email": "ceo@blueimg.co.kr",
+        "representative": "조환석",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "파주 임진각 평화누리 일원",
+        "registration_period": "2026년8월1일~2026년8월1일",
+        "description": "안녕하세요?",
+        "latitude": 37.8920435,
+        "longitude": 126.7447929,
+        "map_address": "경기도 파주시 문산읍 임진각로 148-40"
     },
     {
         "year": "2026",
@@ -12504,6 +12677,35 @@
         "month": 11,
         "day": 15,
         "day_of_week": "일",
+        "event_name": "2026 9회 서울평화마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "신정교하부육상트랙구장",
+        "organizer": [
+            "서울자주통일평화연대"
+        ],
+        "phone": "010-3408-8150",
+        "event_id": "41686",
+        "homepage": "http://seoultongilrun.org",
+        "email": "seoul.tongilrun@gmail.com",
+        "representative": "이장희",
+        "start_time": "9",
+        "region": "서울",
+        "venue_detail": "신정교하부육상트랙구장",
+        "registration_period": "2026년7월8일~2026년10월16일",
+        "description": "9회째 개최되는 서울평화마라톤입니다.가족, 연인, 친구와 함께 편한 마음으로 함께 해 주세요",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
         "event_name": "제24회 고창고인돌마라톤",
         "tags": [
             "하프",
@@ -12522,7 +12724,7 @@
         "start_time": "10:00",
         "region": "전북",
         "venue_detail": "고창공설운동장",
-        "registration_period": "2026년7월1일~2026년8월31일",
+        "registration_period": "2026년7월1일~2026년7월9일",
         "description": "“세계유산도시, 고창에서 함께 달려요”○ 대 회 명 : 제24회 고창고인돌마라톤대회○ 대회일시 : 2026. 11. 15(일) 개회식 09:30/ 출발 10:00○ 접수기한 : 2026. 07. 01(수) ∼2026. 8. 31(월) 13:00까지※선착순 4,000명 마감○접수방법 : 홈페이지(www.gcrun.com)○장소 : 고창공설운동장 외 주로○주최/주관 : 고창군체육회/고창군육상연맹○후원 : 전북특별자치도, 고창군 ,고창신협, 전북은행, 고창새마을금고,고창군육계지부, 고창군낙농협의회, 대한한돈협회고창지부고창군장애인복지관, 석정웰파크병원",
         "latitude": 35.4323306,
         "longitude": 126.7234919,
