@@ -10161,6 +10161,36 @@
         "month": 9,
         "day": 19,
         "day_of_week": "토",
+        "event_name": "제4회 문경 오미자런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "문경종합온천",
+        "organizer": [
+            "문경시",
+            "문경시 청년센터"
+        ],
+        "phone": "010-2805-9016",
+        "event_id": "41694",
+        "homepage": "http://www.omijarun.com",
+        "email": "planda@planda.kr",
+        "representative": "이설",
+        "start_time": "17",
+        "region": "경북",
+        "venue_detail": "문경종합온천",
+        "registration_period": "2026년7월13일~2026년8월3일",
+        "description": "제1회 문경 오미자런다섯 가지 맛, 하나의 에너지로 달리다여러분의 많은 참여를 기다립니다.",
+        "latitude": 36.7300003,
+        "longitude": 128.1091112,
+        "map_address": "경상북도 문경시 문경읍 온천2길 24"
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
         "event_name": "2026 안양천 하프 마라톤",
         "tags": [
             "하프",
@@ -10214,6 +10244,36 @@
         "latitude": 35.2534829,
         "longitude": 129.0004933,
         "map_address": "경상남도 김해시 대동면 동남로 234-2"
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
+        "event_name": "제2회 경기신문 씨사이드 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "영종구 씨사이드파크 일원",
+        "organizer": [
+            "경기신문"
+        ],
+        "phone": "00-1588-2341",
+        "event_id": "41693",
+        "homepage": "http://kgseasiderun.co.kr/",
+        "email": "enticket@daum.net",
+        "representative": "박동현",
+        "start_time": ":",
+        "region": "인천",
+        "venue_detail": "영종구 씨사이드파크 일원",
+        "registration_period": "2026년7월13일~2026년8월31일",
+        "description": "대회일시 : 2026년 09월 19일(토) 오전 08시 30분 출발, 7시 30분 집결 (예정)대회장소 : 인천 영종구 씨사이드 파크 일원참가인원 : 5,000명 선착순 마감참가부문 : 하프, 10km, 5km지급물품 : 기념품, 배번호, 기록칩, 완주메달, 간식, 온라인기록증시상안내 : 본 대회는 기록 경쟁 중심의 대회가 아닌 건강과 즐거운 러닝 문화를 위한 행사로, 별도의 시상은 진행하지 않습니다.",
+        "latitude": 37.481753,
+        "longitude": 126.5658118,
+        "map_address": "인천광역시 영종구 하늘달빛로2번길 6"
     },
     {
         "year": "2026",
@@ -11342,7 +11402,7 @@
         "phone": "070-4633-1233",
         "event_id": "41687",
         "homepage": "http://www.pinkrun.kr",
-        "email": "2025pinkrun@gmail.com",
+        "email": "pinkrun.kbcf@gmail.com",
         "representative": "한국유방건강재단",
         "start_time": "08",
         "region": "서울",
@@ -12492,6 +12552,36 @@
         "latitude": 36.0631023,
         "longitude": 129.3826726,
         "map_address": "경상북도 포항시 북구 해안로 173"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "2026 제주감귤마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km"
+        ],
+        "location": "조천운동장",
+        "organizer": [
+            "한라일보"
+        ],
+        "phone": "064-750-2291",
+        "event_id": "41695",
+        "homepage": "http://marathon.ihalla.com",
+        "email": "ljs1006@hallailbo.co.kr",
+        "representative": "김한욱",
+        "start_time": "09:00",
+        "region": "제주",
+        "venue_detail": "조천운동장",
+        "registration_period": "2026년7월6일~2026년9월11일",
+        "description": "제주감귤마라톤",
+        "latitude": 33.5395361,
+        "longitude": 126.6437192,
+        "map_address": "제주특별자치도 제주시 조천읍 조천18길 11-1"
     },
     {
         "year": "2026",
