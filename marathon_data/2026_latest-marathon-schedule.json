@@ -9949,6 +9949,61 @@
         "month": 9,
         "day": 13,
         "day_of_week": "일",
+        "event_name": "달리는 세상 10km 런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "대전엑스포시민광장",
+        "organizer": [
+            "월드런"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41702",
+        "homepage": "http://mara1080.com/event/0674df45-473c-4182-bed4-d15582fb8c73/guide/overview",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "대전",
+        "venue_detail": "대전엑스포시민광장",
+        "registration_period": "2026년7월15일~2026년8월31일",
+        "description": "5km / 10km /  10km(매니아)선착순 3,000명 신청 및 입금 달성 시 접수 마감참가 기념품 월드런 러닝 쇼츠 증정! (블랙/민트)많은 관심과 참여바랍니다!"
+    },
+    {
+        "year": "2026",
+        "date": "9/13",
+        "month": 9,
+        "day": 13,
+        "day_of_week": "일",
+        "event_name": "2026 히어로레이스",
+        "tags": [
+            "15km",
+            "7.5km"
+        ],
+        "location": "여의도공원 문화의마당",
+        "organizer": [
+            "MBN"
+        ],
+        "phone": "070-7727-1751",
+        "event_id": "41697",
+        "homepage": "http://web.runit.co.kr/races/1120",
+        "email": "spomaxkor@spomaxkor.com",
+        "representative": "박경식",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "여의도공원 문화의마당",
+        "registration_period": "2026년7월14일~2026년8월14일",
+        "description": "10km는 아쉽고, 21km는 부담되는 러너들을 위한 15km 레이스!2026 히어로레이스2026-09-13(일) 여의도공원 문화의마당",
+        "latitude": 37.5263394,
+        "longitude": 126.9222524,
+        "map_address": "서울특별시 영등포구 여의공원로 68-1"
+    },
+    {
+        "year": "2026",
+        "date": "9/13",
+        "month": 9,
+        "day": 13,
+        "day_of_week": "일",
         "event_name": "2026포항이차전지전국마라톤",
         "tags": [
             "하프",
@@ -10642,6 +10697,36 @@
         "month": 10,
         "day": 3,
         "day_of_week": "토",
+        "event_name": "2026 JUST RUN10 청주",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "무심천체육공원",
+        "organizer": [
+            "(주)러닝브레이커",
+            "전국러닝협"
+        ],
+        "phone": "042-710-2058",
+        "event_id": "41700",
+        "homepage": "http://runten.co.kr",
+        "email": "runningbreaker@naver.com",
+        "representative": "윤세준",
+        "start_time": "08:30",
+        "region": "충북",
+        "venue_detail": "무심천체육공원",
+        "registration_period": "2026년7월14일~2026년8월14일",
+        "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
+        "latitude": 36.6398666,
+        "longitude": 127.4832224,
+        "map_address": "충북 청주시 서원구 사직동 78-2"
+    },
+    {
+        "year": "2026",
+        "date": "10/3",
+        "month": 10,
+        "day": 3,
+        "day_of_week": "토",
         "event_name": "2026 마스터즈 하프 마라톤",
         "tags": [
             "하프",
@@ -11027,6 +11112,36 @@
         "month": 10,
         "day": 5,
         "day_of_week": "월",
+        "event_name": "2026 한경서울마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "여의도 문화의공원 일원",
+        "organizer": [
+            "한경닷컴/런코리아"
+        ],
+        "phone": "00-1566-1936",
+        "event_id": "41698",
+        "homepage": "http://www.hk-marathon.com/",
+        "email": "emara@hanmail.net",
+        "representative": "김연수",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "여의도 문화의공원 일원",
+        "registration_period": "2026년7월14일~2026년9월14일",
+        "description": "달려라 한국경제 !숨 가쁘게 달려온 우리들의 노력이푸른지구를 만드는 실질적인 변화로이어지는 순간.2026 한경서울마라톤이건강한 미래를 함께 달립니다.",
+        "latitude": 37.5257581,
+        "longitude": 126.9187147,
+        "map_address": "서울특별시 영등포구 의사당대로 38"
+    },
+    {
+        "year": "2026",
+        "date": "10/5",
+        "month": 10,
+        "day": 5,
+        "day_of_week": "월",
         "event_name": "2026 서울오픈마라톤",
         "tags": [
             "하프",
@@ -11146,6 +11261,32 @@
         "month": 10,
         "day": 10,
         "day_of_week": "토",
+        "event_name": "충주 앙성 비내길 마라톤 대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "충주앙성온천광장",
+        "organizer": [
+            "앙성면체육회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41701",
+        "homepage": "http://mara1080.com/event/380079d2-ab1c-4351-b1f2-d21ccaba5cdd/guide/overview",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "충북",
+        "venue_detail": "충주앙성온천광장",
+        "registration_period": "2026년7월15일~2026년9월10일",
+        "description": "선착순 1,500명 접수 및 입금순 마갑됩니다.조기 마감 될 수 있으므로 신청을 서둘러주세요."
+    },
+    {
+        "year": "2026",
+        "date": "10/10",
+        "month": 10,
+        "day": 10,
+        "day_of_week": "토",
         "event_name": "제4회 강서허준런(RUN)",
         "tags": [
             "10km",
@@ -11229,37 +11370,6 @@
         "latitude": 36.1199787,
         "longitude": 128.3209147,
         "map_address": "경상북도 구미시 금오산로 218"
-    },
-    {
-        "year": "2026",
-        "date": "10/10",
-        "month": 10,
-        "day": 10,
-        "day_of_week": "토",
-        "event_name": "제9회 거제시장배 섬꽃 전국 마라톤",
-        "tags": [
-            "하프",
-            "10km",
-            "4km"
-        ],
-        "location": "거제스포츠파크",
-        "organizer": [
-            "거제시",
-            "거제시체육회"
-        ],
-        "phone": "042-638-1080",
-        "event_id": "41567",
-        "homepage": "http://mara1080.com/event/b43655f0-60be-4c97-ad62-d377f6586ae0",
-        "email": " jangmd@naver.com",
-        "representative": "장영기",
-        "start_time": ":",
-        "region": "경남",
-        "venue_detail": "거제스포츠파크",
-        "registration_period": "2026년5월8일~2026년9월10일",
-        "description": "● 일시 : 2026년 10월 10일(토)  출발: 오전 8시 30분 (집결: 오전 7시 30분)● 장소 : 거제스포츠파크● 주최 : 거제시, 거제시체육회● 주관 : 거제시육상연맹, 전국마라톤협회● 후원 : 거제시의회, 거제경찰서, 거제소방서, 거제보건소● 협력 : 월드런(world run), 전사모 페이싱팀4km :1500명10km : 2500명Half : 2000명선착순 6000명 접수 및 입금 완료순 마감됩니다.위 기간보다 조기 마감될 수 있습니다.신청 및 입금을 서둘러 주시기 바랍니다 감사합니다!",
-        "latitude": 34.8530848,
-        "longitude": 128.580731,
-        "map_address": "경상남도 거제시 거제면 거제남서로 3485-17"
     },
     {
         "year": "2026",
@@ -12443,6 +12553,35 @@
         "month": 11,
         "day": 8,
         "day_of_week": "일",
+        "event_name": "2026 부산 헤리티지 런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "다대포 해수욕장",
+        "organizer": [
+            "아시아경제"
+        ],
+        "phone": "02-338-6564",
+        "event_id": "41696",
+        "homepage": "http://heritage.co.kr",
+        "email": "busan.heritage.run@gmail.com",
+        "representative": "주상은",
+        "start_time": "8",
+        "region": "부산",
+        "venue_detail": "다대포 해수욕장",
+        "registration_period": "2026년8월11일~2026년8월31일",
+        "description": "2026 BUSAN HERITAGE RUN은 피란수도 부산 유산의 유네스코 세계유산 등재를 응원하는 문화유산 러닝 페스티벌입니다.달리기를 통해 부산의 역사와 문화를 경험하고, 문화유산의 가치를 함께 만들어가는 특별한 여정에 함께하세요.",
+        "latitude": 35.0498003,
+        "longitude": 128.9614035,
+        "map_address": "부산광역시 사하구 다대로 734"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
         "event_name": "제11회 송파구청장배 마라톤",
         "tags": [
             "10km",
@@ -12552,6 +12691,36 @@
         "latitude": 36.0631023,
         "longitude": 129.3826726,
         "map_address": "경상북도 포항시 북구 해안로 173"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "제28회 부산국제마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "부산시 사하구 다대포해수욕장",
+        "organizer": [
+            "국제신문"
+        ],
+        "phone": "00-1522-4897",
+        "event_id": "41699",
+        "homepage": "http://kjmarathon.com",
+        "email": "help@sportlink.co.kr",
+        "representative": "황문성",
+        "start_time": "09:00",
+        "region": "부산",
+        "venue_detail": "부산시 사하구 다대포해수욕장",
+        "registration_period": "2026년7월20일~2026년9월15일",
+        "description": "부산,울산,경남을 대표하는 마라톤 축제! 제28회 부산국제마라톤대회가 11월15일(일)오전9시, 부산 사하구 다대포해수욕장 일대에서 열립니다. 참가자들을 위한 개인시상, 최다참가상, 국제신문 창간 79주년기념상,행운상 등 풍성한 시상과 함께 경품이 마련되어 있습니다. 시원하게 펼쳐진 다대포 해수욕장을 출발해 낙동강 하구를 달리는 즐거움과 함께 잊지 못할 추억을 함께 하시길 바랍니다.",
+        "latitude": 35.0498003,
+        "longitude": 128.9614035,
+        "map_address": "부산광역시 사하구 다대로 734"
     },
     {
         "year": "2026",
