@@ -9328,6 +9328,35 @@
         "month": 8,
         "day": 30,
         "day_of_week": "일",
+        "event_name": "제16회 성북구청장배육상대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "성북구 중랑천 체육공원",
+        "organizer": [
+            "성북구육상연맹"
+        ],
+        "phone": "010-8784-2199",
+        "event_id": "41705",
+        "homepage": "http://cafe.naver.com/sblovemarathon/?viewType=pc",
+        "email": "cheol527@hanmail.net",
+        "representative": "곽철근",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "성북구 중랑천 체육공원",
+        "registration_period": "2026년7월15일~2026년8월10일",
+        "description": "아름다운 성북에서 제16회 성북구청장배육상(마라톤) 대회를 개최합니다. 풍족한 먹거리를 준비했습니다.기념-기능성 츄리닝 바지, 기록칩, 온라인 기록증 제공",
+        "latitude": 37.6130498,
+        "longitude": 127.0685314,
+        "map_address": "서울특별시 성북구 화랑로48길 16"
+    },
+    {
+        "year": "2026",
+        "date": "8/30",
+        "month": 8,
+        "day": 30,
+        "day_of_week": "일",
         "event_name": "제3회 GO대관령 국제 트레일런",
         "tags": [
             "10km",
@@ -9406,6 +9435,35 @@
         "venue_detail": "뚝섬한강공원 인근",
         "registration_period": "2026년7월6일~2026년8월31일",
         "description": "※ 참가비·접수기간·코스 등 자세한 모집요강은 해당 대회 홈페이지에서 확인해 주세요."
+    },
+    {
+        "year": "2026",
+        "date": "9/5",
+        "month": 9,
+        "day": 5,
+        "day_of_week": "토",
+        "event_name": "2026 이일선마라톤",
+        "tags": [
+            "10km",
+            "4.4km걷기"
+        ],
+        "location": "울릉도내 나리분지",
+        "organizer": [
+            "이일선기념사업회"
+        ],
+        "phone": "010-6353-7227",
+        "event_id": "41707",
+        "homepage": "http://forms.gle/6Y88RJqW6QCZkZoE7",
+        "email": "kimcj@daezer.com",
+        "representative": "정홍",
+        "start_time": "16:30",
+        "region": "경북",
+        "venue_detail": "울릉도내 나리분지",
+        "registration_period": "2026년7월14일~2026년8월18일",
+        "description": "슈바이처박사와 동역하시고 울릉도에서 18년간 의사로 목사로 농촌운동가로 봉사, 헌신하신 이일선박사님을 기리며 진행하는 특별한 마라톤대회",
+        "latitude": 37.5204416,
+        "longitude": 130.8708874,
+        "map_address": "경상북도 울릉군 북면 나리길 553"
     },
     {
         "year": "2026",
@@ -9825,6 +9883,35 @@
         "month": 9,
         "day": 12,
         "day_of_week": "토",
+        "event_name": "2026 에너지 히어로 레이스",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "서울월드컵경기장 평화광장",
+        "organizer": [
+            "굿피플"
+        ],
+        "phone": "02-6285-7428",
+        "event_id": "41708",
+        "homepage": "http://www.herorace.kr/",
+        "email": "taesung@cotin.co.kr",
+        "representative": "이영훈",
+        "start_time": "08",
+        "region": "서울",
+        "venue_detail": "서울월드컵경기장 평화광장",
+        "registration_period": "2026년7월20일~2026년8월31일",
+        "description": "에너지 취약계층을 위한 ‘2026 에너지 히어로 레이스’ 함께 달리며지구를 지키는 영웅이 되어주세요.대회 참가비는 에너지 취약계층의 에너지 효율 개선사업(고효율 LED 기기 및 가전제품 지원)에 사용됩니다.",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "9/12",
+        "month": 9,
+        "day": 12,
+        "day_of_week": "토",
         "event_name": "제2회 화이트런 생리대 기부마라톤",
         "tags": [
             "10km",
@@ -10209,6 +10296,35 @@
         "latitude": 36.9582765,
         "longitude": 129.3748364,
         "map_address": "경상북도 울진군 근남면 구산수곡길 717"
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
+        "event_name": "시포레 RUN & FIT with 디스커버리",
+        "tags": [
+            "10km",
+            "+운동 프로그램"
+        ],
+        "location": "고양시 일산호수공원",
+        "organizer": [
+            "HLL중앙 / 코틴스포츠"
+        ],
+        "phone": "02-6285-7428",
+        "event_id": "41704",
+        "homepage": "http://cityforestival.kr/",
+        "email": "taesung@cotin.co.kr",
+        "representative": "진정현",
+        "start_time": "08",
+        "region": "경기",
+        "venue_detail": "고양시 일산호수공원",
+        "registration_period": "2026년7월16일~2026년8월31일",
+        "description": "‘시포레’는 2017년 도심 속 건강한 활기를 불어넣기 위해 시작된 운동 페스티벌로,매년 활동적으로 웰니스 라이프를 즐기는 2039 남녀와 함께합니다.올해는 일산호수공원 일대를 달릴 수 있는 러닝 10K와 함께액티비티한 운동프로그램으로 에너지 가득 채울 수 있는 건강한 도파민을 경험해 보세요!일산호수공원 일대를 뛰는 10K 러닝을 시작으로심으뜸 (전신운동) 올블랑 TV (타바타), 흥둥이 (다이어트 댄스), 요가쿨라 3인 (요가) 등최강의 선생님들과 함께 다양한 오후 운동 프로그램 및 부스 이벤트, 먹거리를 통해건강한 하루가 진행될 유일한 기회입니다!",
+        "latitude": 37.6644261,
+        "longitude": 126.760568,
+        "map_address": "경기도 고양시 일산동구 호수로 731"
     },
     {
         "year": "2026",
@@ -10697,7 +10813,7 @@
         "month": 10,
         "day": 3,
         "day_of_week": "토",
-        "event_name": "2026 JUST RUN10 청주",
+        "event_name": "2026 하반기 JUST RUN10 청주",
         "tags": [
             "10km",
             "5km"
@@ -11737,6 +11853,35 @@
         "latitude": 37.3602896,
         "longitude": 128.6234785,
         "map_address": "강원특별자치도 정선군 정선읍 동강로 2908"
+    },
+    {
+        "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
+        "event_name": "2026 U+ 119 메모리얼런",
+        "tags": [
+            "5km",
+            "11.9km 코스"
+        ],
+        "location": "세종중앙공원 도시축제마당",
+        "organizer": [
+            "(주)엘지유플러스"
+        ],
+        "phone": "070-4350-5636",
+        "event_id": "41706",
+        "homepage": "http://119memorial.com/",
+        "email": "project@bigwalk.co.kr",
+        "representative": "홍범식",
+        "start_time": "11:00",
+        "region": "세종",
+        "venue_detail": "세종중앙공원 도시축제마당",
+        "registration_period": "2026년7월22일~2026년9월14일",
+        "description": "행동으로 숭고한 희생을 기억하는 방법.2026 U+ 119 메모리얼런",
+        "latitude": 36.4917742,
+        "longitude": 127.2717369,
+        "map_address": "세종특별자치시 중앙공원로 60"
     },
     {
         "year": "2026",
