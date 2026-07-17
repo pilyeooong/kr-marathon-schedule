@@ -9346,10 +9346,7 @@
         "region": "서울",
         "venue_detail": "성북구 중랑천 체육공원",
         "registration_period": "2026년7월15일~2026년8월10일",
-        "description": "아름다운 성북에서 제16회 성북구청장배육상(마라톤) 대회를 개최합니다. 풍족한 먹거리를 준비했습니다.기념-기능성 츄리닝 바지, 기록칩, 온라인 기록증 제공",
-        "latitude": 37.6130498,
-        "longitude": 127.0685314,
-        "map_address": "서울특별시 성북구 화랑로48길 16"
+        "description": "아름다운 성북에서 제16회 성북구청장배육상(마라톤) 대회를 개최합니다. 풍족한 먹거리를 준비했습니다.기념-기능성 츄리닝 바지, 기록칩, 온라인 기록증 제공"
     },
     {
         "year": "2026",
@@ -9905,6 +9902,36 @@
         "latitude": 37.5659053,
         "longitude": 126.8964648,
         "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "9/12",
+        "month": 9,
+        "day": 12,
+        "day_of_week": "토",
+        "event_name": "2026 장수 레드푸드레이스",
+        "tags": [
+            "10km",
+            "5km",
+            "16Km"
+        ],
+        "location": "장수말역사체험관",
+        "organizer": [
+            "주식회사 락앤런"
+        ],
+        "phone": "010-5056-1523",
+        "event_id": "41709",
+        "homepage": "http://rocknrun.kr/REDFOODRACE",
+        "email": "info@rocknrun.kr",
+        "representative": "김영록",
+        "start_time": "8:00",
+        "region": "전북",
+        "venue_detail": "장수말역사체험관",
+        "registration_period": "2026년7월16일~2026년8월31일",
+        "description": "달리고, 먹고, 즐기는 장수의 가을 하루레드푸드레이스는 장수군 대표 가을축제인‘장수 한우랑 사과랑 축제’ 기간에 열리는 특별한 숲길 마라톤입니다.잔디가 깔린 승마로드를 달리며 장수의 자연을 온몸으로 느끼고,레이스 후에는 차로 5분 거리의 축제장에서 전국 최대 규모의 한우마당과 장수 특산물, 다양한 체험 프로그램을 즐겨보세요.같은 날 저녁에는 한우랑사과랑 음악 콘서트에서민경훈과 먼데이키즈의 공연도 만나볼 수 있습니다.",
+        "latitude": 35.6588843,
+        "longitude": 127.5086249,
+        "map_address": "전북특별자치도 장수군 장수읍 승마로 81"
     },
     {
         "year": "2026",
@@ -11016,6 +11043,66 @@
         "month": 10,
         "day": 4,
         "day_of_week": "일",
+        "event_name": "제14회 광명시장배건강달리기",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "광명 찬빛광장(안양천)",
+        "organizer": [
+            "광명시육상연맹"
+        ],
+        "phone": "010-2234-2248",
+        "event_id": "41714",
+        "homepage": "http://gmaf.kr",
+        "email": "gmaf2025@gmail.com",
+        "representative": "이춘성",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "광명 찬빛광장(안양천)",
+        "registration_period": "2026년7월20일~2026년7월31일",
+        "description": "일시:2026년10월4일(일요일) 집결8시20분장소:광명찬빛광장종목:10km,5km참가비:30,000원먹거리:수육,두부,김치,막걸리기념품:원목도마접수방법:홈페이지 참가접수https://gmaf.kr/",
+        "latitude": 37.4845083,
+        "longitude": 126.871514,
+        "map_address": "경기도 광명시 안양천서자전거길 896"
+    },
+    {
+        "year": "2026",
+        "date": "10/4",
+        "month": 10,
+        "day": 4,
+        "day_of_week": "일",
+        "event_name": "2026 S오일 감동의 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "상암동 평화의 광장",
+        "organizer": [
+            "더윙",
+            "S오일"
+        ],
+        "phone": "010-2499-6616",
+        "event_id": "41711",
+        "homepage": "http://xn--439ar1m25cg1c810a7ro.com",
+        "email": "gogokim0126s@gmail.com",
+        "representative": "에스오일",
+        "start_time": "07:00",
+        "region": "서울",
+        "venue_detail": "상암동 평화의 광장",
+        "registration_period": "2026년8월1일~2026년8월31일",
+        "description": "S오일 마라톤",
+        "latitude": 37.5632736,
+        "longitude": 126.8979047,
+        "map_address": "서울특별시 마포구 월드컵로 243-48"
+    },
+    {
+        "year": "2026",
+        "date": "10/4",
+        "month": 10,
+        "day": 4,
+        "day_of_week": "일",
         "event_name": "제23회 경남마라톤",
         "tags": [
             "10km",
@@ -11981,6 +12068,36 @@
         "month": 10,
         "day": 18,
         "day_of_week": "일",
+        "event_name": "제19회 중랑구청장배 장미 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "중화체육공원",
+        "organizer": [
+            "중랑구육상연맹"
+        ],
+        "phone": "02-3285-5556",
+        "event_id": "41712",
+        "homepage": "http://www.jnrun.co.kr",
+        "email": "run@jnrun.co.kr",
+        "representative": "김석",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "중화체육공원",
+        "registration_period": "2026년7월15일~2026년10월11일",
+        "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다.",
+        "latitude": 37.6053915,
+        "longitude": 127.0727456,
+        "map_address": "서울 중랑구 중화동 363"
+    },
+    {
+        "year": "2026",
+        "date": "10/18",
+        "month": 10,
+        "day": 18,
+        "day_of_week": "일",
         "event_name": "제25회 대청호마라톤",
         "tags": [
             "하프",
@@ -12393,35 +12510,6 @@
         "latitude": 36.4323352,
         "longitude": 129.0615982,
         "map_address": "경상북도 청송군 청송읍 중앙로 306-39"
-    },
-    {
-        "year": "2026",
-        "date": "11/1",
-        "month": 11,
-        "day": 1,
-        "day_of_week": "일",
-        "event_name": "2026 DMZ OPEN 평화마라톤",
-        "tags": [
-            "하프",
-            "10km"
-        ],
-        "location": "파주 임진각 평화누리 일원",
-        "organizer": [
-            "경기도"
-        ],
-        "phone": "031-575-7243",
-        "event_id": "41691",
-        "homepage": "http://dmzopenrun.kr",
-        "email": "ceo@blueimg.co.kr",
-        "representative": "조환석",
-        "start_time": "09:00",
-        "region": "경기",
-        "venue_detail": "파주 임진각 평화누리 일원",
-        "registration_period": "2026년8월1일~2026년8월1일",
-        "description": "안녕하세요?",
-        "latitude": 37.8920435,
-        "longitude": 126.7447929,
-        "map_address": "경기도 파주시 문산읍 임진각로 148-40"
     },
     {
         "year": "2026",
@@ -13304,5 +13392,35 @@
         "venue_detail": "금산 엑스포 주차장",
         "registration_period": "2026년7월2일~2026년9월1일",
         "description": "2026 전국마라톤협회 금산 골드런 마라톤대회"
+    },
+    {
+        "year": "2026",
+        "date": "12/6",
+        "month": 12,
+        "day": 6,
+        "day_of_week": "일",
+        "event_name": "2026 부산브릿지 마라톤",
+        "tags": [
+            "풀",
+            "10km"
+        ],
+        "location": "부산 벡스코 제1전시장",
+        "organizer": [
+            "KNN",
+            "부산시"
+        ],
+        "phone": "070-4111-5620",
+        "event_id": "41710",
+        "homepage": "http://www.busanmarathon.com",
+        "email": "busanmarathon@knn.co.kr",
+        "representative": "이오상",
+        "start_time": "08:00",
+        "region": "부산",
+        "venue_detail": "부산 벡스코 제1전시장",
+        "registration_period": "2026년8월1일~2026년8월16일",
+        "description": "광안대교를 가로지르는 풀코스 마라톤",
+        "latitude": 35.1690449,
+        "longitude": 129.1334469,
+        "map_address": "부산광역시 해운대구 APEC로 55"
     }
 ]
