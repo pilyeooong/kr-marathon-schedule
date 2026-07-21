@@ -9515,7 +9515,7 @@
         "start_time": "08:00",
         "region": "세종",
         "venue_detail": "세종마루공원 밑 금강변",
-        "registration_period": "2026년6월19일~2026년7월15일",
+        "registration_period": "2026년6월19일~2026년8월8일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 36.4835618,
         "longitude": 127.2887822,
@@ -10870,6 +10870,37 @@
         "month": 10,
         "day": 3,
         "day_of_week": "토",
+        "event_name": "2026 춘천연합마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "춘천시 엘리시안 강촌",
+        "organizer": [
+            "연합뉴스",
+            "춘천시육상연맹"
+        ],
+        "phone": "033-244-7758",
+        "event_id": "41722",
+        "homepage": "http://www.yonma.kr",
+        "email": "ft@pict.kr",
+        "representative": "전창대",
+        "start_time": "9:00",
+        "region": "강원",
+        "venue_detail": "춘천시 엘리시안 강촌",
+        "registration_period": "2026년7월16일~2026년8월31일",
+        "description": "국가기간뉴스통신사 연합뉴스와 춘천시육상연맹이 공동 주최하는 ‘2026 춘천연합마라톤’이 오는 10월 3일 개천절, 강원 춘천시 남산면 엘리시안 강촌 일원과 북한강변에서 화려하게 개최됩니다.ICT 전문기업 더픽트와 사단법인 한국스카우트연맹이 공동 주관하는 이번 대회는 ‘하늘을 달리다’라는 슬로건 아래, 강촌 지역에 활력을 불어넣었던 지난 2025년 첫 대회의 성공을 발판 삼아 한층 더 진화한 모습으로 러너들을 맞이합니다.2026년 대회의 가장 큰 변화는 첨단 기술을 통한 안전 강화와 실질적인 지역 상생입니다. 올해 대회는 드론과 AI 기술을 접목한 최첨단 운영 시스템을 구축하여 참가자들의 안전을 더욱 촘촘하게 챙깁니다. 이에 더해 대회 역사상 처음으로 참가자 전원에게 참가비 중 1만 원을 ‘춘천사랑상품권’으로 돌려주는 ‘1만 원 페이백’ 제도를 도입했습니다.러너들에게 기분 좋은 혜택을 제공함과 동시에, 참가자들이 자연스럽게 춘천 지역 상권을 이용하도록 유도하여 침체했던 강촌 구도심을 살리는 상생의 선순환을 완성했습니다. 대회 코스는 참가자의 숙련도와 체력에 맞춰 선택할 수 있도록 하프 코스(2,000명), 10km 코스(3,000명), 5km 코스(3,000명) 등 총 3가지 부문으로 나뉘며, 선착순 8,000명 규모로 펼쳐집니다.답답한 도심 빌딩 숲을 벗어나 수려한 북한강변과 옛 경춘선의 정취를 만끽하며 달릴 수 있는 이번 대회의 참가 접수는 오는 8월 31일 자정까지 공식 홈페이지(www.yonma.kr)를 통해 진행됩니다.단순한 기록 경신을 넘어 첨단 기술의 안전함과 따뜻한 지역 상생이 공존하는 춘천의 새로운 가을 마라톤을 직접 경험해 보시기 바랍니다.",
+        "latitude": 37.8167312,
+        "longitude": 127.5879197,
+        "map_address": "강원특별자치도 춘천시 남산면 북한강변길 688"
+    },
+    {
+        "year": "2026",
+        "date": "10/3",
+        "month": 10,
+        "day": 3,
+        "day_of_week": "토",
         "event_name": "2026 하반기 JUST RUN10 청주",
         "tags": [
             "10km",
@@ -12128,7 +12159,7 @@
         "month": 10,
         "day": 18,
         "day_of_week": "일",
-        "event_name": "제19회 중랑구청장배 장미 마라톤",
+        "event_name": "제19회 중랑구청장배 장미 마라톤 준비중",
         "tags": [
             "하프",
             "10km",
@@ -12146,7 +12177,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "중화체육공원",
-        "registration_period": "2026년7월15일~2026년10월11일",
+        "registration_period": "2026년7월30일~2026년10월11일",
         "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다.",
         "latitude": 37.6053915,
         "longitude": 127.0727456,
@@ -12300,6 +12331,36 @@
         "latitude": 37.3097469,
         "longitude": 127.6290239,
         "map_address": "경기도 여주시 강변북로 163"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
+        "event_name": "RUN&MUSIC FESTIVAL in 안동",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "안동시민운동장",
+        "organizer": [
+            "기후에너지환경부",
+            "안동시"
+        ],
+        "phone": "02-1566-1936",
+        "event_id": "41721",
+        "homepage": "http://runmusicfestival.localvibehub.com/",
+        "email": "emara@daum.net",
+        "representative": "김연수",
+        "start_time": "08:30",
+        "region": "경북",
+        "venue_detail": "안동시민운동장",
+        "registration_period": "2026년7월28일~2026년8월10일",
+        "description": "K-STAR와 함께 달리는 올가을 최고의 페스티벌K-STAR와 함께 안동의 아름다운 가을을 달리고, 저녁에는 최고의 K-POP 콘서트까지. 러닝과 음악이 하나 되는 특별한 축제를 만나보세요.",
+        "latitude": 36.5474626,
+        "longitude": 128.7244227,
+        "map_address": "경상북도 안동시 운동장길 53"
     },
     {
         "year": "2026",
@@ -12757,6 +12818,35 @@
         "month": 11,
         "day": 7,
         "day_of_week": "토",
+        "event_name": "2026 해양수도 부산 런페스타",
+        "tags": [
+            "10km"
+        ],
+        "location": "부산 북항친수공원",
+        "organizer": [
+            "한국해운신문",
+            "부산항발전협의회"
+        ],
+        "phone": "031-821-9949",
+        "event_id": "41719",
+        "homepage": "http://runfesta.co.kr",
+        "email": "cwlee@mpress.co.kr",
+        "representative": "이철원",
+        "start_time": "08:30",
+        "region": "부산",
+        "venue_detail": "부산 북항친수공원",
+        "registration_period": "2026년7월27일~2026년10월16일",
+        "description": "0 부산에서 두번째 열리는 해양수산가족 달리기 축제0 해양수산부 부산 이전 1주년과 부산항 개항 150주년을 기념하는 의미0 최근 완성된 부산 북항친수공원을 달림으로 해양수도 부산의 위상을 드높임0 해양수산부, 부산광역시, 부산항만공사, 부산상공회의소 등 부산의 공공기관적극적인 후원과 지원을 받아 실시하는 부산의 대표적인 마라톤 축제",
+        "latitude": 35.1160847,
+        "longitude": 129.0451184,
+        "map_address": "부산광역시 동구 충장대로 160(초량동)"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
         "event_name": "제15회 부여 굿뜨래 마라톤 대회",
         "tags": [
             "풀",
@@ -12885,15 +12975,15 @@
         "organizer": [
             "아시아경제"
         ],
-        "phone": "02-338-6564",
+        "phone": "02-338-0344",
         "event_id": "41696",
-        "homepage": "http://heritage.co.kr",
+        "homepage": "http://heritagerun.co.kr",
         "email": "busan.heritage.run@gmail.com",
         "representative": "주상은",
         "start_time": "8",
         "region": "부산",
         "venue_detail": "다대포 해수욕장",
-        "registration_period": "2026년8월11일~2026년8월31일",
+        "registration_period": "2026년8월11일~2026년9월31일",
         "description": "2026 BUSAN HERITAGE RUN은 피란수도 부산 유산의 유네스코 세계유산 등재를 응원하는 문화유산 러닝 페스티벌입니다.달리기를 통해 부산의 역사와 문화를 경험하고, 문화유산의 가치를 함께 만들어가는 특별한 여정에 함께하세요.",
         "latitude": 35.0498003,
         "longitude": 128.9614035,
@@ -13453,6 +13543,36 @@
         "latitude": 37.5546896,
         "longitude": 126.9080164,
         "map_address": "서울특별시 마포구 월드컵로15길 53"
+    },
+    {
+        "year": "2026",
+        "date": "12/5",
+        "month": 12,
+        "day": 5,
+        "day_of_week": "토",
+        "event_name": "제23회 한강시민마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "여의도 물빛무대 앞 광장",
+        "organizer": [
+            "(사)대한생활체육회"
+        ],
+        "phone": "00-1644-4219",
+        "event_id": "41720",
+        "homepage": "http://www.hangangmarathon.kr/",
+        "email": "km4219@daum.net",
+        "representative": "이규운",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "여의도 물빛무대 앞 광장",
+        "registration_period": "2026년8월1일~2026년10월28일",
+        "description": "제23회 한강시민마라톤대회가 여의도 한강공원 물빛무대 앞 광장에서개최됩니다. 한강에서의 2026년 마지막  도전~!!! 많은 참여 바랍니다.",
+        "latitude": 37.5318647,
+        "longitude": 126.9232253,
+        "map_address": "서울특별시 영등포구 여의서로 62"
     },
     {
         "year": "2026",
