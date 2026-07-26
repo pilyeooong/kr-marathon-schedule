@@ -9112,7 +9112,7 @@
         "start_time": "03:00",
         "region": "전남",
         "venue_detail": "화엄사주차장",
-        "registration_period": "2025년12월5일~2026년7월31일",
+        "registration_period": "2025년12월5일~2026년8월2일",
         "description": "제38회 지리산 종주는 UTMB 가입에 노력하고 있으니 세계 트레일의 중심이 되도록 여러분이 협력이 적극 요고 됩니다.",
         "latitude": 35.2544265,
         "longitude": 127.4963503,
@@ -9234,6 +9234,35 @@
         "latitude": 37.0166009,
         "longitude": 128.1774009,
         "map_address": "충청북도 제천시 청풍면 청풍호로 1798"
+    },
+    {
+        "year": "2026",
+        "date": "8/29",
+        "month": 8,
+        "day": 29,
+        "day_of_week": "토",
+        "event_name": "백범김구선생 탄생150주년기념 손기정하천마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "의정부시 동막교 인라인광장",
+        "organizer": [
+            "플랜인"
+        ],
+        "phone": "02-6341-1153",
+        "event_id": "41732",
+        "homepage": "http://funandrun.co.kr",
+        "email": "planinent@gmail.com",
+        "representative": "박주민",
+        "start_time": "08",
+        "region": "경기",
+        "venue_detail": "의정부시 동막교 인라인광장",
+        "registration_period": "2026년7월25일~2026년8월21일",
+        "description": "참 가 비 : 전 종목 55,000원입금계좌 : 카카오뱅크 3333-37-7088290 박주민(펀앤런코리아)",
+        "latitude": 37.7258146,
+        "longitude": 127.0512504,
+        "map_address": "의정부시 호원동 33-4"
     },
     {
         "year": "2026",
@@ -11133,6 +11162,34 @@
         "month": 10,
         "day": 4,
         "day_of_week": "일",
+        "event_name": "2026 Run Your Way Seoul 10K",
+        "tags": [
+            "10km"
+        ],
+        "location": "여의도공원 문화의 광장",
+        "organizer": [
+            "뉴발란스"
+        ],
+        "phone": "02-312-1998",
+        "event_id": "41733",
+        "homepage": "http://www.nbkorea.com/launchingCalendar/detail.action?listStatus=H&launchingIdx=3117",
+        "email": "marathon@donga.com",
+        "representative": "조동주",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "여의도공원 문화의 광장",
+        "registration_period": "2026년7월31일~2026년8월2일",
+        "description": "뉴발란스 주최대회",
+        "latitude": 37.5268088,
+        "longitude": 126.9222841,
+        "map_address": "서울특별시 영등포구 여의공원로 68"
+    },
+    {
+        "year": "2026",
+        "date": "10/4",
+        "month": 10,
+        "day": 4,
+        "day_of_week": "일",
         "event_name": "2026 S오일 감동의 마라톤",
         "tags": [
             "하프",
@@ -11963,11 +12020,41 @@
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "광평교운동장",
-        "registration_period": "2026년2월23일~2026년9월10일",
+        "registration_period": "2026년2월23일~2026년9월15일",
         "description": "대형 산불을 방지하기 위해 산불 방지 활동으로 대회를 비영리로 합니다.산불 제로가 될 때까지 지속적으로 합니다.사진대금,칩. 메달50% 인상으로 어렵습니다.학생 자원봉사를 모집합니다.",
         "latitude": 37.4873504,
         "longitude": 127.1023689,
         "map_address": "서울특별시 강남구 광평로 276-2 (수서동) [지번] 서울특별시 강남구 수서동 719-2"
+    },
+    {
+        "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
+        "event_name": "2026 전남광주통합특별시 남구청장배 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "광주공원앞 광주천변 광주교",
+        "organizer": [
+            "전남광주통합특별시남구육상연맹"
+        ],
+        "phone": "010-9475-3735",
+        "event_id": "41731",
+        "homepage": "http://cafe.daum.net/6507447/Ep6u",
+        "email": "z99@hanmail.net",
+        "representative": "국중이",
+        "start_time": "09:00",
+        "region": "광주",
+        "venue_detail": "광주공원앞 광주천변 광주교",
+        "registration_period": "2026년7월10일~2026년9월17일",
+        "description": "전남광주통합특별시남구 주민들의 화합과 건강 증진을 위한 대회입니다",
+        "latitude": 35.1474149,
+        "longitude": 126.9110699,
+        "map_address": "전남광주통합특별시 남구 구동 76(광주교)"
     },
     {
         "year": "2026",
@@ -12421,6 +12508,35 @@
         "latitude": 36.5474626,
         "longitude": 128.7244227,
         "map_address": "경상북도 안동시 운동장길 53"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
+        "event_name": "네이버웍스와 함께하는 SEJONG RUN 26",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "세종중앙공원 도시축제마당",
+        "organizer": [
+            "세종특별자치시육상연맹"
+        ],
+        "phone": "010-8468-5148",
+        "event_id": "41730",
+        "homepage": "http://sejongrun26.com",
+        "email": "sejongrun26@gmail.com",
+        "representative": "유재상",
+        "start_time": "09:00",
+        "region": "세종",
+        "venue_detail": "세종중앙공원 도시축제마당",
+        "registration_period": "2026년7월24일~2026년9월24일",
+        "description": "일의 여유, 달리는 즐거움! 네이버웍스와 함께하는 세종런 26에 여러분을 초대합니다.",
+        "latitude": 36.4916668,
+        "longitude": 127.2693165,
+        "map_address": "세종특별자치시 중앙공원로 67"
     },
     {
         "year": "2026",
@@ -12989,6 +13105,35 @@
         "latitude": 35.8421242,
         "longitude": 129.2004329,
         "map_address": "경주시 성건동401-1번지"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "제20회 자원봉사 사랑 굿펀 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "신정교하부육상트랙구장",
+        "organizer": [
+            "(사)대한생활체육마라톤협회"
+        ],
+        "phone": "00-1644-4219",
+        "event_id": "41729",
+        "homepage": "http://www.hangangmarathon.kr/",
+        "email": "km4219@daum.net",
+        "representative": "이규운",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "신정교하부육상트랙구장",
+        "registration_period": "2026년7월27일~2026년10월18일",
+        "description": "세상을 바꾸는 착한 발걸음, 자원봉사 사랑 굿펀마라톤대회가20주년을 맞이했습니다. 다양한 이벤트도 준비 되어있으니,많은 참여 바랍니다.감사합니다.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
     },
     {
         "year": "2026",
