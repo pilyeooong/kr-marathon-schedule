@@ -9939,7 +9939,7 @@
         "month": 9,
         "day": 12,
         "day_of_week": "토",
-        "event_name": "2026 에너지 히어로 레이스",
+        "event_name": "히어로 레이스 l 2026 에너지 히어로 레이",
         "tags": [
             "10km",
             "5km"
@@ -10115,6 +10115,35 @@
         "latitude": 37.2093488,
         "longitude": 128.8273858,
         "map_address": "강원특별자치도 정선군 고한읍 하이원길 265-1"
+    },
+    {
+        "year": "2026",
+        "date": "9/13",
+        "month": 9,
+        "day": 13,
+        "day_of_week": "일",
+        "event_name": "제19회 구로구청장배 안양천 단풍마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "구일역 하부 인라인스케이트장",
+        "organizer": [
+            "구로구육상연맹"
+        ],
+        "phone": "010-7734-3840",
+        "event_id": "41734",
+        "homepage": "http://cafe.daum.net/guro-run/LvM7/45",
+        "email": "angle7411@naver.com",
+        "representative": "김세열",
+        "start_time": "09:30",
+        "region": "서울",
+        "venue_detail": "구일역 하부 인라인스케이트장",
+        "registration_period": "2026년8월3일~2026년8월14일",
+        "description": "안녕하세요. 마라톤을 사랑하는 러너 여러분! 🏃‍♂️🏃‍♀️선선한 바람이 불어오는 9월,9월 13일 안양천 단풍마라톤대회가 여러분을 기다립니다!",
+        "latitude": 37.4931066,
+        "longitude": 126.8703312,
+        "map_address": "서울특별시 구로구 구로동 642-71"
     },
     {
         "year": "2026",
@@ -13123,7 +13152,7 @@
         ],
         "phone": "00-1644-4219",
         "event_id": "41729",
-        "homepage": "http://www.hangangmarathon.kr/",
+        "homepage": "http://xn--oi2bo7bn3do4es0j56afy5b.kr/",
         "email": "km4219@daum.net",
         "representative": "이규운",
         "start_time": "09:00",
