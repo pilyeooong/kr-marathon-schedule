@@ -10447,6 +10447,35 @@
         "month": 9,
         "day": 19,
         "day_of_week": "토",
+        "event_name": "2026 무한도전 Run in 경주",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "경주시민운동장",
+        "organizer": [
+            "MBC"
+        ],
+        "phone": "00-1899-7466",
+        "event_id": "41743",
+        "homepage": "http://www.coupangplay.com/promotion/2026-Mudorun-Gyeongju/",
+        "email": "cs@mudorun.com",
+        "representative": "most267",
+        "start_time": "16:30",
+        "region": "경북",
+        "venue_detail": "경주시민운동장",
+        "registration_period": "2026년7월30일~2026년8월9일",
+        "description": "경주의 보물을 찾아 달리는 선셋 마라톤「2026 무한도전 Run in 경주」장소 : 경주시민운동장일시 : 9월 19일 (토) 16:30컨셉 : 보물찾기 – 포졸과 도적참가비 : HALF : 119,900 / 10km : 99,900원예매 일정 : 2026.07.30 ~ 2026.08.09 (쿠팡플레이) / 2026.07.31 ~ 2026.08.17 17:00 (카카오톡 선물하기)문의처 : cs@mudorun.com / 1899-7466",
+        "latitude": 35.8599804,
+        "longitude": 129.2119765,
+        "map_address": "경상북도 경주시 황성공원로 30"
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
         "event_name": "시포레 RUN & FIT with 디스커버리",
         "tags": [
             "10km",
@@ -11879,6 +11908,36 @@
         "month": 10,
         "day": 11,
         "day_of_week": "일",
+        "event_name": "2026 천안 이봉주 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "천안종합운동장 일원",
+        "organizer": [
+            "천안시체육회"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41742",
+        "homepage": "http://bjlee.casports.or.kr",
+        "email": "road42195@naver.com",
+        "representative": "김동균",
+        "start_time": ":",
+        "region": "충남",
+        "venue_detail": "천안종합운동장 일원",
+        "registration_period": "2026년7월31일~2026년8월28일",
+        "description": "결제순 선착순 마감",
+        "latitude": 36.8188163,
+        "longitude": 127.1151481,
+        "map_address": "충청남도 천안시 서북구 번영로 208"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
         "event_name": "2026 울산마라톤대회",
         "tags": [
             "하프",
@@ -12363,7 +12422,7 @@
         "month": 10,
         "day": 18,
         "day_of_week": "일",
-        "event_name": "제19회 중랑구청장배 장미 마라톤 준비중",
+        "event_name": "제19회 중랑구청장배 마라톤 8월5일 접수시작",
         "tags": [
             "하프",
             "10km",
@@ -12381,7 +12440,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "중화체육공원",
-        "registration_period": "2026년7월30일~2026년10월11일",
+        "registration_period": "2026년8월5일~2026년10월11일",
         "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다.",
         "latitude": 37.6053915,
         "longitude": 127.0727456,
@@ -12602,7 +12661,7 @@
         "month": 10,
         "day": 24,
         "day_of_week": "토",
-        "event_name": "2026 하남 어텀 패밀리 마라톤",
+        "event_name": "해당 대회는 취소되었습니다",
         "tags": [
             "10km",
             "5km"
@@ -12619,7 +12678,7 @@
         "start_time": "09:00",
         "region": "경기",
         "venue_detail": "하남 미사 경정 공원",
-        "registration_period": "2026년7월7일~2026년10월14일",
+        "registration_period": "2026년7월7일~2026년7월28일",
         "description": "높고 푸른 하늘 아래 가을빛으로 물든 하남에서, 소중한 사람과 함께 달리는 뜻깊은 자리를 마련했습니다. 오늘의 출발선에는 저마다 다른 목표가 있겠지만, 서로의 보폭을 살피고 응원하며 나누는 시간만큼은 우리 모두에게 특별한 기억이 될 것입니다.",
         "latitude": 37.5536142,
         "longitude": 127.2132338,
@@ -12895,6 +12954,36 @@
         "latitude": 36.4323352,
         "longitude": 129.0615982,
         "map_address": "경상북도 청송군 청송읍 중앙로 306-39"
+    },
+    {
+        "year": "2026",
+        "date": "10/31",
+        "month": 10,
+        "day": 31,
+        "day_of_week": "토",
+        "event_name": "2026 오티즘 레이스",
+        "tags": [
+            "하프",
+            "10km",
+            "4.2km"
+        ],
+        "location": "월드컵공원 평화의 광장",
+        "organizer": [
+            "한국자폐인사랑협회"
+        ],
+        "phone": "070-7725-3462",
+        "event_id": "41740",
+        "homepage": "http://autismrace.com",
+        "email": "askautismrace@gmail.com",
+        "representative": "김용직",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "월드컵공원 평화의 광장",
+        "registration_period": "2026년7월8일~2026년9월30일",
+        "description": "오티즘 레이스는 오티즘(자폐성 장애) 당사자와 비장애인이 함께 달리며 서로의 다름을 존중하고 이해하는 사회를 만드는 인식개선 캠페인입니다.",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
     },
     {
         "year": "2026",
@@ -13867,6 +13956,36 @@
         "latitude": 37.5546896,
         "longitude": 126.9080164,
         "map_address": "서울특별시 마포구 월드컵로15길 53"
+    },
+    {
+        "year": "2026",
+        "date": "11/29",
+        "month": 11,
+        "day": 29,
+        "day_of_week": "일",
+        "event_name": "제2회 천안독립기념관 마라톤대회",
+        "tags": [
+            "10km",
+            "5km",
+            "3.56KM 걷기"
+        ],
+        "location": "천안 독립기념관",
+        "organizer": [
+            "주식회사 오소컴퍼니"
+        ],
+        "phone": "010-4985-5878",
+        "event_id": "41741",
+        "homepage": "http://https://peacewalk.imweb.me/",
+        "email": "doc333@naver.com",
+        "representative": "변현주",
+        "start_time": "09:00",
+        "region": "충남",
+        "venue_detail": "천안 독립기념관",
+        "registration_period": "2026년7월31일~2026년11월28일",
+        "description": "역사를 품은 길, 자유를 향한 러닝!제2회 천안독립기념관 마라톤대회에 참가자 여러분을 초청합니다.숭고한 독립정신이 숨 쉬는 천안독립기념관에서 시원한 바람을 가르며 달리는 뜻깊은 레이스가 펼쳐집니다.가족, 연인, 동료와 함께 건강한 에너지를 나누고 잊지 못할 추억을 만들어 보세요. 러너 여러분의 도전과 열정을 응원합니다!",
+        "latitude": 36.7828393,
+        "longitude": 127.2237657,
+        "map_address": "충청남도 천안시 동남구 목천읍 독립기념관로 1"
     },
     {
         "year": "2026",
