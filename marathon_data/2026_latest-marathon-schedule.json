@@ -9909,6 +9909,35 @@
         "month": 9,
         "day": 12,
         "day_of_week": "토",
+        "event_name": "2026 나이트런 플러스 청주",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "청주시 무심천체육공원",
+        "organizer": [
+            "청주청년회의소/주식회사 유고"
+        ],
+        "phone": "00-1666-9975",
+        "event_id": "41750",
+        "homepage": "http://n-runplus.co.kr",
+        "email": "ugo.headoffice@gmail.com",
+        "representative": "최규민",
+        "start_time": "18:00",
+        "region": "충북",
+        "venue_detail": "청주시 무심천체육공원",
+        "registration_period": "2026년7월29일~2026년8월23일",
+        "description": "러닝이 축제가 되는 순간단순한 완주가 아닙니다. 도심의 야경, 라이브 음악, 로컬 푸드, 그리고 함께 뛰는 사람들.나이트런은 도심의 밤을 통째로 경험하는 러닝 페스티벌입니다.",
+        "latitude": 36.6401245,
+        "longitude": 127.4828284,
+        "map_address": "충청북도 청주시 서원구 무심천자전거길 550"
+    },
+    {
+        "year": "2026",
+        "date": "9/12",
+        "month": 9,
+        "day": 12,
+        "day_of_week": "토",
         "event_name": "2026 굿네이버스 레이스",
         "tags": [
             "10km",
@@ -10469,6 +10498,34 @@
         "latitude": 35.8599804,
         "longitude": 129.2119765,
         "map_address": "경상북도 경주시 황성공원로 30"
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
+        "event_name": "2026 여수낭도트레일",
+        "tags": [
+            "13km"
+        ],
+        "location": "여수 화정면낭도출장소앞 주차장",
+        "organizer": [
+            "파브코리아"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41744",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "김준형",
+        "start_time": "09:00",
+        "region": "전남",
+        "venue_detail": "여수 화정면낭도출장소앞 주차장",
+        "registration_period": "2026년7월28일~2026년9월18일",
+        "description": "수천만 년 전 백악기 공룡들의 숨결이 그대로 남아있는 공룡 발자국 화석지, 다도해의 푸른 절경을 품은 해안 트레킹 코스, 자연과 문화가 어우러진 천혜의 섬 낭도를 한바퀴 도는 힐링 트레일 런",
+        "latitude": 34.6059687,
+        "longitude": 127.539156,
+        "map_address": "전남광주통합특별시 여수시 화정면 여산길 79"
     },
     {
         "year": "2026",
@@ -11908,6 +11965,35 @@
         "month": 10,
         "day": 11,
         "day_of_week": "일",
+        "event_name": "진안고원 포레스티벌 Run & Heal",
+        "tags": [
+            "16km",
+            "6km"
+        ],
+        "location": "국립진안고원산림치유원",
+        "organizer": [
+            "주식회사 락앤런"
+        ],
+        "phone": "063-353-2025",
+        "event_id": "41747",
+        "homepage": "http://rocknrun.kr",
+        "email": "info@rocknrun.kr",
+        "representative": "김영록",
+        "start_time": "8:00",
+        "region": "전북",
+        "venue_detail": "국립진안고원산림치유원",
+        "registration_period": "2026년8월10일~2026년9월15일",
+        "description": "10월 10일, 10월 11일 양일간 동일종목 개최합니다.",
+        "latitude": 35.6797413,
+        "longitude": 127.4399047,
+        "map_address": "전북특별자치도 진안군 백운면 백운동로 473"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
         "event_name": "2026 천안 이봉주 마라톤",
         "tags": [
             "하프",
@@ -12654,35 +12740,6 @@
         "latitude": 36.4916668,
         "longitude": 127.2693165,
         "map_address": "세종특별자치시 중앙공원로 67"
-    },
-    {
-        "year": "2026",
-        "date": "10/24",
-        "month": 10,
-        "day": 24,
-        "day_of_week": "토",
-        "event_name": "해당 대회는 취소되었습니다",
-        "tags": [
-            "10km",
-            "5km"
-        ],
-        "location": "하남 미사 경정 공원",
-        "organizer": [
-            "청운의꿈(주)"
-        ],
-        "phone": "02-2606-8187",
-        "event_id": "41682",
-        "homepage": "http://hnrun.kr",
-        "email": "start@hnrun.kr",
-        "representative": "이오덕",
-        "start_time": "09:00",
-        "region": "경기",
-        "venue_detail": "하남 미사 경정 공원",
-        "registration_period": "2026년7월7일~2026년7월28일",
-        "description": "높고 푸른 하늘 아래 가을빛으로 물든 하남에서, 소중한 사람과 함께 달리는 뜻깊은 자리를 마련했습니다. 오늘의 출발선에는 저마다 다른 목표가 있겠지만, 서로의 보폭을 살피고 응원하며 나누는 시간만큼은 우리 모두에게 특별한 기억이 될 것입니다.",
-        "latitude": 37.5536142,
-        "longitude": 127.2132338,
-        "map_address": "경기도 하남시 미사대로 505"
     },
     {
         "year": "2026",
