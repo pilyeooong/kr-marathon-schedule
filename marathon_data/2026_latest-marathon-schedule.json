@@ -10640,7 +10640,7 @@
         "start_time": "08:00",
         "region": "경남",
         "venue_detail": "김해 대동생태체육공원 축구장",
-        "registration_period": "2026년7월3일~2026년7월31일",
+        "registration_period": "2026년7월3일~2026년8월8일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 35.2534829,
         "longitude": 129.0004933,
@@ -12538,6 +12538,34 @@
         "month": 10,
         "day": 18,
         "day_of_week": "일",
+        "event_name": "제28회 창원 시민건강달리기",
+        "tags": [
+            "6km"
+        ],
+        "location": "창원스포츠파크 보조경기장",
+        "organizer": [
+            "창원을 사랑하는 시민연합"
+        ],
+        "phone": "055-275-6611",
+        "event_id": "41751",
+        "homepage": "http://www.cwrun.kr",
+        "email": "sf8844@naver.com",
+        "representative": "박판도",
+        "start_time": "09:00",
+        "region": "경남",
+        "venue_detail": "창원스포츠파크 보조경기장",
+        "registration_period": "2026년8월5일~2026년9월20일",
+        "description": "창원사랑 한마음갖기 제28회 시민건강달리기대회는 6km코스의 비경쟁 달리기 대회입니다.많은 관심과 참가신청 부탁드립니다.",
+        "latitude": 35.2339885,
+        "longitude": 128.6647016,
+        "map_address": "경상남도 창원시 성산구 원이대로 450"
+    },
+    {
+        "year": "2026",
+        "date": "10/18",
+        "month": 10,
+        "day": 18,
+        "day_of_week": "일",
         "event_name": "제25회 대청호마라톤",
         "tags": [
             "하프",
@@ -12687,6 +12715,36 @@
         "month": 10,
         "day": 24,
         "day_of_week": "토",
+        "event_name": "2026 뉴시스 바다마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "영종도 씨사이드파크 하늘구름광",
+        "organizer": [
+            "뉴시스"
+        ],
+        "phone": "02-1566-1936",
+        "event_id": "41756",
+        "homepage": "http://marathon.newsis.com",
+        "email": "emara@daum.net",
+        "representative": "김연수",
+        "start_time": "09:00",
+        "region": "인천",
+        "venue_detail": "영종도 씨사이드파크 하늘구름광",
+        "registration_period": "2026년8월3일~2026년9월18일",
+        "description": "가을 바다를 가르며,새로운 나를 만나는 시간.바람과 파도가 끝없이 펼쳐진탁 트인 해변 도로 위.새로운 변화를 갈망하는 러너들과 함께가을 바다의 청량한 공기를 느끼며 달립니다.",
+        "latitude": 37.4884529,
+        "longitude": 126.5768416,
+        "map_address": "인천광역시 영종구 구읍로 75"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
         "event_name": "RUN&MUSIC FESTIVAL in 안동",
         "tags": [
             "하프",
@@ -12694,9 +12752,8 @@
         ],
         "location": "안동시민운동장",
         "organizer": [
-            "K-WATER",
-            "안동시",
-            "SBS"
+            "SBS",
+            "런코리아"
         ],
         "phone": "02-1566-1936",
         "event_id": "41721",
@@ -13286,6 +13343,66 @@
         "month": 11,
         "day": 8,
         "day_of_week": "일",
+        "event_name": "2026 라운드랩 RUN",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "춘천 송암스포츠타운 종합경기장",
+        "organizer": [
+            "서린컴퍼니(주)",
+            "강원일보"
+        ],
+        "phone": "00-1551-3934",
+        "event_id": "41755",
+        "homepage": "http://kw-marathon.com/",
+        "email": "brc1799@naver.com",
+        "representative": "박진오",
+        "start_time": "09:00",
+        "region": "강원",
+        "venue_detail": "춘천 송암스포츠타운 종합경기장",
+        "registration_period": "2026년8월7일~2026년10월23일",
+        "description": "참가비5km - 45,000원 / 10km - 50,000원 / 하프 - 55,000원선착순 5,000명 마감스킨케어패키지, 기념티셔츠, 완주메달, 간식 및 음료 제공",
+        "latitude": 37.8550857,
+        "longitude": 127.6899627,
+        "map_address": "강원특별자치도 춘천시 스포츠타운길 136"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "제19회 진해마라톤",
+        "tags": [
+            "5km",
+            "11.11km"
+        ],
+        "location": "진해공설운동장",
+        "organizer": [
+            "(주)경남신문사"
+        ],
+        "phone": "055-210-6103",
+        "event_id": "41754",
+        "homepage": "http://www.jinhaemarathon.co.kr",
+        "email": "marathon@knnews.co.kr",
+        "representative": "이종붕",
+        "start_time": "09:00",
+        "region": "경남",
+        "venue_detail": "진해공설운동장",
+        "registration_period": "2026년8월19일~2026년10월9일",
+        "description": "전국에서 유일하게 해군 영내를 달리는 ‘해군과 함께 달리는 제19회 진해마라톤대회’가 오는 11월 7일(토) 진해공설운동장에서 열립니다.해군 창설 81주년을 기념하는 11.11km 특별 코스를 해군 장병들과 함께 달리며 해군 창설의 역사적 의미를 되새기고, 마라톤 인구의 저변 확대와 시민 건강 증진을 도모하기 위해 마련한 이번 대회에 달림이 여러분의 많은 관심과 참여를 바랍니다.",
+        "latitude": 35.148941,
+        "longitude": 128.6547607,
+        "map_address": "경상남도 창원시 진해구 충무로 43"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
         "event_name": "경주시육상연맹회장배 마라톤대회",
         "tags": [
             "하프",
@@ -13338,6 +13455,37 @@
         "latitude": 37.5178604,
         "longitude": 126.8819583,
         "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "2026 부산 사상 ECO마라톤",
+        "tags": [
+            "10km",
+            "5km",
+            "5km 슬로조깅"
+        ],
+        "location": "삼락생태공원 럭비구장",
+        "organizer": [
+            "사상구청",
+            "사상구체육회"
+        ],
+        "phone": "051-310-4128",
+        "event_id": "41752",
+        "homepage": "http://ssecorun.co.kr",
+        "email": "movenation1@naver.com",
+        "representative": "최경준",
+        "start_time": "10:00",
+        "region": "부산",
+        "venue_detail": "삼락생태공원 럭비구장",
+        "registration_period": "2026년8월10일~2026년10월11일",
+        "description": "삼락 생태공원에서자연과 도시가 만납니다!당신의 관심이 더해져 더욱 새롭게 바뀔'국가정원 지정 기원' 2026 전국사상에코마라톤이8월 11일부터 참가자 접수를 시작합니다.달림이 여러분들의 많은 성원 바랍니다!",
+        "latitude": 35.1700127,
+        "longitude": 128.9765699,
+        "map_address": "부산광역시 사상구 낙동대로 1231"
     },
     {
         "year": "2026",
@@ -13932,6 +14080,36 @@
         "month": 11,
         "day": 21,
         "day_of_week": "토",
+        "event_name": "2026 남해트레일레이스(가을)",
+        "tags": [
+            "풀",
+            "30km",
+            "12km"
+        ],
+        "location": "남해공설운동장",
+        "organizer": [
+            "주식회사 락앤런"
+        ],
+        "phone": "063-353-2025",
+        "event_id": "41748",
+        "homepage": "http://rocknrun.kr",
+        "email": "info@rocknrun.kr",
+        "representative": "김영록",
+        "start_time": "7:00",
+        "region": "경남",
+        "venue_detail": "남해공설운동장",
+        "registration_period": "2026년8월10일~2026년10월15일",
+        "description": "42km, 30km, 12km남해트레일레이스입니다.",
+        "latitude": 34.8342535,
+        "longitude": 127.8916614,
+        "map_address": "경상남도 남해군 남해읍 망운로9번길 42-17"
+    },
+    {
+        "year": "2026",
+        "date": "11/21",
+        "month": 11,
+        "day": 21,
+        "day_of_week": "토",
         "event_name": "2026 세정 가을바람 유러닝페스타",
         "tags": [
             "10km",
@@ -14129,5 +14307,36 @@
         "latitude": 35.1690449,
         "longitude": 129.1334469,
         "map_address": "부산광역시 해운대구 APEC로 55"
+    },
+    {
+        "year": "2026",
+        "date": "12/13",
+        "month": 12,
+        "day": 13,
+        "day_of_week": "일",
+        "event_name": "제36회 진주마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "진주종합경기장",
+        "organizer": [
+            "진주시육상연맹"
+        ],
+        "phone": "010-5488-8322",
+        "event_id": "41745",
+        "homepage": "http://www.jinma.co.kr",
+        "email": "wyr1203@naver.com",
+        "representative": "김광섭",
+        "start_time": "9:30",
+        "region": "경남",
+        "venue_detail": "진주종합경기장",
+        "registration_period": "2026년10월22일~2026년11월16일",
+        "description": "시민들이 만드는 풀뿌리 마라톤대회",
+        "latitude": 35.1828856,
+        "longitude": 128.135818,
+        "map_address": "경상남도 진주시 동진로 415(충무공동,진주종합경기장내)"
     }
 ]
