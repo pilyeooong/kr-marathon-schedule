@@ -13255,6 +13255,35 @@
         "month": 11,
         "day": 7,
         "day_of_week": "토",
+        "event_name": "제19회 진해마라톤",
+        "tags": [
+            "5km",
+            "11.11km"
+        ],
+        "location": "진해공설운동장",
+        "organizer": [
+            "(주)경남신문사"
+        ],
+        "phone": "055-210-6103",
+        "event_id": "41754",
+        "homepage": "http://www.jinhaemarathon.co.kr",
+        "email": "marathon@knnews.co.kr",
+        "representative": "이종붕",
+        "start_time": "09:00",
+        "region": "경남",
+        "venue_detail": "진해공설운동장",
+        "registration_period": "2026년8월19일~2026년10월9일",
+        "description": "전국에서 유일하게 해군 영내를 달리는 ‘해군과 함께 달리는 제19회 진해마라톤대회’가 오는 11월 7일(토) 진해공설운동장에서 열립니다.해군 창설 81주년을 기념하는 11.11km 특별 코스를 해군 장병들과 함께 달리며 해군 창설의 역사적 의미를 되새기고, 마라톤 인구의 저변 확대와 시민 건강 증진을 도모하기 위해 마련한 이번 대회에 달림이 여러분의 많은 관심과 참여를 바랍니다.",
+        "latitude": 35.148941,
+        "longitude": 128.6547607,
+        "map_address": "경상남도 창원시 진해구 충무로 43"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
         "event_name": "2026 해양수도 부산 런페스타",
         "tags": [
             "10km"
@@ -13367,35 +13396,6 @@
         "latitude": 37.8550857,
         "longitude": 127.6899627,
         "map_address": "강원특별자치도 춘천시 스포츠타운길 136"
-    },
-    {
-        "year": "2026",
-        "date": "11/8",
-        "month": 11,
-        "day": 8,
-        "day_of_week": "일",
-        "event_name": "제19회 진해마라톤",
-        "tags": [
-            "5km",
-            "11.11km"
-        ],
-        "location": "진해공설운동장",
-        "organizer": [
-            "(주)경남신문사"
-        ],
-        "phone": "055-210-6103",
-        "event_id": "41754",
-        "homepage": "http://www.jinhaemarathon.co.kr",
-        "email": "marathon@knnews.co.kr",
-        "representative": "이종붕",
-        "start_time": "09:00",
-        "region": "경남",
-        "venue_detail": "진해공설운동장",
-        "registration_period": "2026년8월19일~2026년10월9일",
-        "description": "전국에서 유일하게 해군 영내를 달리는 ‘해군과 함께 달리는 제19회 진해마라톤대회’가 오는 11월 7일(토) 진해공설운동장에서 열립니다.해군 창설 81주년을 기념하는 11.11km 특별 코스를 해군 장병들과 함께 달리며 해군 창설의 역사적 의미를 되새기고, 마라톤 인구의 저변 확대와 시민 건강 증진을 도모하기 위해 마련한 이번 대회에 달림이 여러분의 많은 관심과 참여를 바랍니다.",
-        "latitude": 35.148941,
-        "longitude": 128.6547607,
-        "map_address": "경상남도 창원시 진해구 충무로 43"
     },
     {
         "year": "2026",
