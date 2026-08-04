@@ -12526,7 +12526,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "중화체육공원",
-        "registration_period": "2026년8월5일~2026년10월11일",
+        "registration_period": "2026년8월5일~2026년10월7일",
         "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다.",
         "latitude": 37.6053915,
         "longitude": 127.0727456,
@@ -12884,6 +12884,37 @@
         "latitude": 37.5178604,
         "longitude": 126.8819583,
         "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2026",
+        "date": "10/25",
+        "month": 10,
+        "day": 25,
+        "day_of_week": "일",
+        "event_name": "제14회 정서진아라뱃길 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "정서진 아라타워",
+        "organizer": [
+            "인천일보",
+            "인천마라톤조직위원회"
+        ],
+        "phone": "00-1866-1718",
+        "event_id": "41761",
+        "homepage": "http://www.jeongseojin.co.kr",
+        "email": "isang102@naver.com",
+        "representative": "박현수",
+        "start_time": "08:30",
+        "region": "인천",
+        "venue_detail": "정서진 아라타워",
+        "registration_period": "2026년7월31일~2026년7월31일",
+        "description": "정서진마라톤대회2026년 10월 25일 개최!8월 5일(수) 14:00 접수시작됩니다",
+        "latitude": 37.5583843,
+        "longitude": 126.6073836,
+        "map_address": "인천광역시 서해구 정서진1로 41"
     },
     {
         "year": "2026",
@@ -13669,6 +13700,36 @@
         "month": 11,
         "day": 14,
         "day_of_week": "토",
+        "event_name": "제2회 안양천 단풍길 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "신정교 하부 영롱이 억새구장",
+        "organizer": [
+            "(사)대한생활체육연맹"
+        ],
+        "phone": "02-888-8805",
+        "event_id": "41760",
+        "homepage": "http://maplerun.kr",
+        "email": "run@maplerun.kr",
+        "representative": "김제오",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "신정교 하부 영롱이 억새구장",
+        "registration_period": "2026년7월31일~2026년11월5일",
+        "description": "붉게 물든 단풍길을 따라 달리는 순간순간이참가자 여러분께 잊지 못할 추억으로 남기를 바라며,함께하는 걸음 속에서 건강과 기쁨을 찾으시길 바랍니다.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2026",
+        "date": "11/14",
+        "month": 11,
+        "day": 14,
+        "day_of_week": "토",
         "event_name": "제26회 순천 남승룡마라톤대회",
         "tags": [
             "풀",
@@ -14137,6 +14198,92 @@
     },
     {
         "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
+        "event_name": "2026 평화의숲 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "상암 월드컵공원 평화광장",
+        "organizer": [
+            "세계평화사랑연맹"
+        ],
+        "phone": "02-2606-8187",
+        "event_id": "41763",
+        "homepage": "http://peace-run.kr/",
+        "email": "run@peace-run.kr",
+        "representative": "한한국",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "상암 월드컵공원 평화광장",
+        "registration_period": "2026년8월3일~2026년11월15일",
+        "description": "평화를 향해 달리고 숲길의 내일을 이어갑니다.자연과 사람이 어우러진 상암 월드컵공원 평화광장에서평화의 의미를 함께 나누는 특별한 하루를 시작합니다.",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "11/23",
+        "month": 11,
+        "day": 23,
+        "day_of_week": "월",
+        "event_name": "2026 무진장트레일레이스",
+        "tags": [
+            "335km"
+        ],
+        "location": "장수종합경기장",
+        "organizer": [
+            "주식회사 락앤런"
+        ],
+        "phone": "063-353-2025",
+        "event_id": "41749",
+        "homepage": "http://rocknrun.kr",
+        "email": "info@rocknrun.kr",
+        "representative": "김영록",
+        "start_time": "07:00",
+        "region": "전북",
+        "venue_detail": "장수종합경기장",
+        "registration_period": "2026년8월31일~2026년10월31일",
+        "description": "무진장트레일레이스 본대회 전 프리레이스입니다.",
+        "latitude": 35.6402366,
+        "longitude": 127.5198191,
+        "map_address": "전북특별자치도 장수군 장수읍 한누리로 378"
+    },
+    {
+        "year": "2026",
+        "date": "11/28",
+        "month": 11,
+        "day": 28,
+        "day_of_week": "토",
+        "event_name": "2027 평화런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "여의도공원 문화의마당",
+        "organizer": [
+            "가톨릭평화방송/런코리아"
+        ],
+        "phone": "00-1566-1936",
+        "event_id": "41766",
+        "homepage": "http://www.peacerun.kr",
+        "email": "emara@hanmail.net",
+        "representative": "김연수",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "여의도공원 문화의마당",
+        "registration_period": "2026년8월4일~2026년10월24일",
+        "description": "2027 서울 세계청년대회 성공 기원 평화런전 세계 청년들이 서울에 모여 평화와 환대를 나누는 축제!누구나 참여할 수 있는 달리기를 통해 사람과 사람을 연결하고,평화를 이루는 용기를 함께 경험하며,세계청년대회가 전하는 평화와 희망의 메시지를 우리의 일상으로 이어가고자 합니다.",
+        "latitude": 37.5268088,
+        "longitude": 126.9222841,
+        "map_address": "서울특별시 영등포구 여의공원로 68"
+    },
+    {
+        "year": "2026",
         "date": "11/28",
         "month": 11,
         "day": 28,
@@ -14198,6 +14345,35 @@
         "month": 11,
         "day": 29,
         "day_of_week": "일",
+        "event_name": "제14회 안중근 평화 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "여의도공원 문화의마당",
+        "organizer": [
+            "안중근평화재단청년아카데미"
+        ],
+        "phone": "02-336-1588",
+        "event_id": "41759",
+        "homepage": "http://ajgrun.kr",
+        "email": "peace@ajgrun.kr",
+        "representative": "정광일",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "여의도공원 문화의마당",
+        "registration_period": "2026년7월31일~2026년11월22일",
+        "description": "기억을 넘어 실천으로, 달림으로 이어가는 평화의 길!! 함께 달리는 오늘의 한 걸음이 더 나은 내일을 만드는 용기가 되고, 우리 모두의 마음속에 평화를 향한 의지를 오래 남기기를 소망합니다.",
+        "latitude": 37.5268088,
+        "longitude": 126.9222841,
+        "map_address": "서울특별시 영등포구 여의공원로 68"
+    },
+    {
+        "year": "2026",
+        "date": "11/29",
+        "month": 11,
+        "day": 29,
+        "day_of_week": "일",
         "event_name": "제2회 천안독립기념관 마라톤대회",
         "tags": [
             "10km",
@@ -14221,6 +14397,35 @@
         "latitude": 36.7828393,
         "longitude": 127.2237657,
         "map_address": "충청남도 천안시 동남구 목천읍 독립기념관로 1"
+    },
+    {
+        "year": "2026",
+        "date": "12/5",
+        "month": 12,
+        "day": 5,
+        "day_of_week": "토",
+        "event_name": "2026 하남 미사 호수 에너지런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "하남미사경정공원",
+        "organizer": [
+            "(사)행복한가게"
+        ],
+        "phone": "02-888-8875",
+        "event_id": "41762",
+        "homepage": "http://energyrun.kr",
+        "email": "run@energyrun.kr",
+        "representative": "임서현",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "하남미사경정공원",
+        "registration_period": "2026년8월3일~2026년11월26일",
+        "description": "기록과 순위를 넘어 서로를 응원하며 즐겁게 달릴 수 있는 축제의 장이 되기를 바라며 참가자 모두 기쁘게 달릴 수 있길 희망합니다.",
+        "latitude": 37.5536142,
+        "longitude": 127.2132338,
+        "map_address": "경기도 하남시 미사대로 505"
     },
     {
         "year": "2026",
@@ -14325,7 +14530,7 @@
         "organizer": [
             "진주시육상연맹"
         ],
-        "phone": "010-5488-8322",
+        "phone": "010-3931-1356",
         "event_id": "41745",
         "homepage": "http://www.jinma.co.kr",
         "email": "wyr1203@naver.com",
