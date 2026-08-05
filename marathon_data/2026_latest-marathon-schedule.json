@@ -10341,7 +10341,7 @@
         "start_time": "7",
         "region": "서울",
         "venue_detail": "서울 광장",
-        "registration_period": "2026년6월29일~2026년7월29일",
+        "registration_period": "2026년6월29일~2026년8월14일",
         "description": "접수 선착순 마감",
         "latitude": 37.5659751,
         "longitude": 126.9793667,
@@ -12508,7 +12508,7 @@
         "month": 10,
         "day": 18,
         "day_of_week": "일",
-        "event_name": "제19회 중랑구청장배 마라톤 8월5일 접수시작",
+        "event_name": "제19회 중랑구청장배마라톤 8월10일 접수시작",
         "tags": [
             "하프",
             "10km",
@@ -12523,10 +12523,10 @@
         "homepage": "http://www.jnrun.co.kr",
         "email": "run@jnrun.co.kr",
         "representative": "김석",
-        "start_time": "09:00",
+        "start_time": "08:00",
         "region": "서울",
         "venue_detail": "중화체육공원",
-        "registration_period": "2026년8월5일~2026년10월7일",
+        "registration_period": "2026년8월10일~2026년10월7일",
         "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다.",
         "latitude": 37.6053915,
         "longitude": 127.0727456,
@@ -12891,7 +12891,7 @@
         "month": 10,
         "day": 25,
         "day_of_week": "일",
-        "event_name": "제14회 정서진아라뱃길 마라톤",
+        "event_name": "제14회 정서진아라뱃길 전국마라톤대회",
         "tags": [
             "하프",
             "10km",
@@ -12906,15 +12906,12 @@
         "event_id": "41761",
         "homepage": "http://www.jeongseojin.co.kr",
         "email": "isang102@naver.com",
-        "representative": "박현수",
+        "representative": "김신호",
         "start_time": "08:30",
         "region": "인천",
         "venue_detail": "정서진 아라타워",
-        "registration_period": "2026년7월31일~2026년7월31일",
-        "description": "정서진마라톤대회2026년 10월 25일 개최!8월 5일(수) 14:00 접수시작됩니다",
-        "latitude": 37.5583843,
-        "longitude": 126.6073836,
-        "map_address": "인천광역시 서해구 정서진1로 41"
+        "registration_period": "2026년8월5일~2026년9월8일",
+        "description": "정서진마라톤대회2026년 10월 25일 개최!8월 5일(수) 14:00 접수시작됩니다"
     },
     {
         "year": "2026",
@@ -13286,6 +13283,36 @@
         "month": 11,
         "day": 7,
         "day_of_week": "토",
+        "event_name": "2026 문경 레전드 트레일 백두대간",
+        "tags": [
+            "50k",
+            "34k",
+            "21k"
+        ],
+        "location": "문경새재도립공원 야외공연장",
+        "organizer": [
+            "에코라인"
+        ],
+        "phone": "010-5605-9059",
+        "event_id": "41767",
+        "homepage": "http://legendtrail.kr/",
+        "email": "Ecoline2024@naver.com",
+        "representative": "장재훈",
+        "start_time": "5:30",
+        "region": "경북",
+        "venue_detail": "문경새재도립공원 야외공연장",
+        "registration_period": "2026년8월12일~2026년8월12일",
+        "description": "전설이 시작된 곳에서, 새로운 역사를 쓰다 - with THE NORTH FACE백두대간의 깊고 거친 산길, 그리고 문경의 압도적인 자연.2026 문경 레전드 트레일 백두대간은 그 웅장한 무대를 배경으로 러너들이 스스로의 한계를넘어 새로운 역사를 써 내려가는 도전의 장입니다.올해 레전드 트레일은 글로벌 아웃도어 브랜드 '노스페이스(THE NORTH FACE)'와 함께합니다. 더 전문적인 트레일 환경, 더 완성도 높은 운영, 그리고 러너들이 체감할 수 있는 브랜드경험을 준비했습니다.레전드 트레일은 단순한 레이스가 아닙니다. 문경의 산과 숲을 온몸으로 느끼며, 자신만의 속도로 자연과 맞서는 진짜 트레일 러닝의 본질을 경험하는 여정입니다. 새로운 도전을 향해 달리는모든 러너들과 함께 2026년, 또 하나의 역사가 만들어집니다.노스페이스와 함께 더 강력해진 레전드가 당신을 기다립니다.대한민국 트레일 러닝의 중심, 문경에서 만나요.",
+        "latitude": 36.7616016,
+        "longitude": 128.077015,
+        "map_address": "경상북도 문경시 문경읍 새재로 932"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
         "event_name": "제19회 진해마라톤",
         "tags": [
             "5km",
@@ -13601,7 +13628,7 @@
         "start_time": "8",
         "region": "부산",
         "venue_detail": "다대포 해수욕장",
-        "registration_period": "2026년8월11일~2026년9월31일",
+        "registration_period": "2026년8월25일~2026년10월9일",
         "description": "2026 BUSAN HERITAGE RUN은 피란수도 부산 유산의 유네스코 세계유산 등재를 응원하는 문화유산 러닝 페스티벌입니다.달리기를 통해 부산의 역사와 문화를 경험하고, 문화유산의 가치를 함께 만들어가는 특별한 여정에 함께하세요.",
         "latitude": 35.0498003,
         "longitude": 128.9614035,
@@ -13943,10 +13970,10 @@
         "day_of_week": "일",
         "event_name": "제17회 행복트레일런 축제",
         "tags": [
-            "29km",
-            "9km"
+            "20km",
+            "10km"
         ],
-        "location": "수서역 6번출구 광장",
+        "location": "청계산수변공원",
         "organizer": [
             "{사}소아암환우돕기 조직위"
         ],
@@ -13957,12 +13984,9 @@
         "representative": "이동윤",
         "start_time": "08:30",
         "region": "서울",
-        "venue_detail": "수서역 6번출구 광장",
-        "registration_period": "2026년7월19일~2026년8월31일",
-        "description": "-수익금전액을 소아암환우에게 기부하는 자선 마라톤대회입니다-현재까지 총액 10억 3천 5백만원을 기부하여 왔습니다",
-        "latitude": 37.4870968,
-        "longitude": 127.1038084,
-        "map_address": "서울특별시 강남구 광평로56길 10"
+        "venue_detail": "청계산수변공원",
+        "registration_period": "2026년7월19일~2026년9월30일",
+        "description": "-수익금전액을 소아암환우에게 기부하는 자선 마라톤대회입니다-현재까지 총액 10억 3천 5백만원을 기부하여 왔습니다"
     },
     {
         "year": "2026",
@@ -14202,6 +14226,35 @@
         "month": 11,
         "day": 22,
         "day_of_week": "일",
+        "event_name": "자이스 스마일 레이스",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "여의도공원 문화의 마당",
+        "organizer": [
+            "ZEISS/런코리아"
+        ],
+        "phone": "00-1566-1936",
+        "event_id": "41768",
+        "homepage": "http://zeiss-smilerace.kr",
+        "email": "emara@hanmail.net",
+        "representative": "김연수",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "여의도공원 문화의 마당",
+        "registration_period": "2026년8월10일~2026년9월19일",
+        "description": "11/22(일) 자이스 스마일 레이스 개최!아름다운 코스를 달리며 건강한 라이프스타일을 경험하고,다양한 프로그램과 풍성한 기념품을 통해 특별한 추억을 만들 수 있습니다.자이스 스마일 레이스와 함께 건강한 도전과 즐거운 러닝을 경험해 보세요.",
+        "latitude": 37.5268088,
+        "longitude": 126.9222841,
+        "map_address": "서울특별시 영등포구 여의공원로 68"
+    },
+    {
+        "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
         "event_name": "2026 평화의숲 마라톤",
         "tags": [
             "10km",
@@ -14259,7 +14312,7 @@
         "month": 11,
         "day": 28,
         "day_of_week": "토",
-        "event_name": "2027 평화런",
+        "event_name": "2026 평화런",
         "tags": [
             "10km",
             "5km"
