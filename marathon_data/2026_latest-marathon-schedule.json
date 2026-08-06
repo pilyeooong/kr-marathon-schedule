@@ -9938,6 +9938,36 @@
         "month": 9,
         "day": 12,
         "day_of_week": "토",
+        "event_name": "제 6회 계란 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "경인아라뱃길여객터미널 아라타워",
+        "organizer": [
+            "계란자조금관리위원회"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41772",
+        "homepage": "http://egg-run.com",
+        "email": "road42195@naver.com",
+        "representative": "김동균",
+        "start_time": ":",
+        "region": "경기",
+        "venue_detail": "경인아라뱃길여객터미널 아라타워",
+        "registration_period": "2026년8월6일~2026년8월26일",
+        "description": "제 6회 계란 마라톤",
+        "latitude": 37.5583843,
+        "longitude": 126.6073836,
+        "map_address": "인천광역시 서해구 정서진1로 41"
+    },
+    {
+        "year": "2026",
+        "date": "9/12",
+        "month": 9,
+        "day": 12,
+        "day_of_week": "토",
         "event_name": "2026 굿네이버스 레이스",
         "tags": [
             "10km",
@@ -9960,6 +9990,35 @@
         "latitude": 37.531255,
         "longitude": 126.9286759,
         "map_address": "서울 영등포구 여의도동 84-9"
+    },
+    {
+        "year": "2026",
+        "date": "9/12",
+        "month": 9,
+        "day": 12,
+        "day_of_week": "토",
+        "event_name": "서울올림픽기념 88RUN",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "미사경정공원",
+        "organizer": [
+            "국민체육진흥공단경륜경정총괄본부"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41773",
+        "homepage": "http://88run.kr",
+        "email": "road42195@naver.com",
+        "representative": "김동균",
+        "start_time": ":",
+        "region": "경기",
+        "venue_detail": "미사경정공원",
+        "registration_period": "2026년8월5일~2026년8월5일",
+        "description": "서울올림픽기념 88RUN",
+        "latitude": 37.5536142,
+        "longitude": 127.2132338,
+        "map_address": "경기도 하남시 미사대로 505"
     },
     {
         "year": "2026",
@@ -10272,36 +10331,6 @@
         ],
         "location": "포항운하관주차장",
         "organizer": [
-            "매일신문사"
-        ],
-        "phone": "054-1600-4525",
-        "event_id": "41648",
-        "homepage": "http://energyrun.co.kr/",
-        "email": "hgplan@naver.com",
-        "representative": "매일신문",
-        "start_time": "08:00",
-        "region": "경북",
-        "venue_detail": "포항운하관주차장",
-        "registration_period": "2026년6월29일~2026년7월20일",
-        "description": "이차전지 선두도시 포항에서 펼쳐지는 전국마라톤대회해안절경을 달리는코스 완벽한 교통통제병목없는 코스설계",
-        "latitude": 36.023785,
-        "longitude": 129.3776273,
-        "map_address": "경상북도 포항시 남구 희망대로 1040"
-    },
-    {
-        "year": "2026",
-        "date": "9/13",
-        "month": 9,
-        "day": 13,
-        "day_of_week": "일",
-        "event_name": "2026포항이차전지전국마라톤",
-        "tags": [
-            "하프",
-            "10km",
-            "5km"
-        ],
-        "location": "포항운하관주차장",
-        "organizer": [
             "매일신사"
         ],
         "phone": "054-1600-4525",
@@ -10312,7 +10341,7 @@
         "start_time": "08:00",
         "region": "경북",
         "venue_detail": "포항운하관주차장",
-        "registration_period": "2026년6월29일~2026년7월20일",
+        "registration_period": "2026년6월29일~2026년8월31일",
         "description": "포항의 아름다운 해안과 함께 달리는 특별한 축제!",
         "latitude": 36.023785,
         "longitude": 129.3776273,
@@ -11726,6 +11755,34 @@
         "month": 10,
         "day": 10,
         "day_of_week": "토",
+        "event_name": "제3회서울트레일런 대회",
+        "tags": [
+            "37: 20:11"
+        ],
+        "location": "시청 덕수궁돌담길",
+        "organizer": [
+            "서울울트라랠리"
+        ],
+        "phone": "02-776-4288",
+        "event_id": "41771",
+        "homepage": "http://www.xn--zl2btb922be3fb2a860c.com/",
+        "email": "hmt2111@naver.com",
+        "representative": "강우종",
+        "start_time": "07",
+        "region": "서울",
+        "venue_detail": "시청 덕수궁돌담길",
+        "registration_period": "2026년8월5일~2026년8월5일",
+        "description": "건강한세상을 꿈꾸며",
+        "latitude": 37.5636696,
+        "longitude": 126.976307,
+        "map_address": "서울특별시 중구 서소문로 138"
+    },
+    {
+        "year": "2026",
+        "date": "10/10",
+        "month": 10,
+        "day": 10,
+        "day_of_week": "토",
         "event_name": "제주풍차런",
         "tags": [
             "10km",
@@ -11958,6 +12015,35 @@
         "latitude": 36.783812,
         "longitude": 127.1657743,
         "map_address": "천안시 동남구 천안대로 400"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
+        "event_name": "2026 인천로봇랜드 퓨처런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "인천로봇랜드 로봇타워",
+        "organizer": [
+            "기호일보"
+        ],
+        "phone": "00-1866-1718",
+        "event_id": "41769",
+        "homepage": "http://futurerun.co.kr/",
+        "email": "isang102@naver.com",
+        "representative": "서승인",
+        "start_time": "08:30",
+        "region": "인천",
+        "venue_detail": "인천로봇랜드 로봇타워",
+        "registration_period": "2026년8월7일~2026년9월4일",
+        "description": "서해구 출범기념2026 인천로봇랜드 퓨처런8월 7일(금) 오후 2시 접수!",
+        "latitude": 37.5196459,
+        "longitude": 126.6109418,
+        "map_address": "인천광역시 서해구 로봇랜드로 155-11"
     },
     {
         "year": "2026",
@@ -12508,7 +12594,7 @@
         "month": 10,
         "day": 18,
         "day_of_week": "일",
-        "event_name": "제19회 중랑구청장배마라톤 8월10일 접수시작",
+        "event_name": "제19회 중랑구청장배 장미 마라톤",
         "tags": [
             "하프",
             "10km",
@@ -12526,7 +12612,7 @@
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "중화체육공원",
-        "registration_period": "2026년8월10일~2026년10월7일",
+        "registration_period": "2026년8월5일~2026년10월7일",
         "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다.",
         "latitude": 37.6053915,
         "longitude": 127.0727456,
@@ -12738,6 +12824,35 @@
         "latitude": 37.4884529,
         "longitude": 126.5768416,
         "map_address": "인천광역시 영종구 구읍로 75"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
+        "event_name": "2026 무쓰런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "무심천체육공원",
+        "organizer": [
+            "청주충북환경운동연합"
+        ],
+        "phone": "043-222-2466",
+        "event_id": "41770",
+        "homepage": "http://forms.gle/ga7gKHnRJB7pfLFY6",
+        "email": "cjcb@kfem.or.kr",
+        "representative": "반영운",
+        "start_time": "9",
+        "region": "충북",
+        "venue_detail": "무심천체육공원",
+        "registration_period": "2026년7월21일~2026년8월31일",
+        "description": "무쓰런은 \"무심천, 쓰레기없는마라톤\"의 줄임말입니다. 다회용기록칩, 다회용컵, 쇼핑백 배번호 등을 사용해 일회용 쓰레기를 최소화하며 달립니다. 환경을 지키는 실천과 러닝의 즐거움을 함께 경험하는 특별한 마라톤 대회입니다!",
+        "latitude": 36.6389029,
+        "longitude": 127.4831854,
+        "map_address": "충북 청주시 서원구 사직동 95"
     },
     {
         "year": "2026",
@@ -13480,7 +13595,7 @@
         "region": "경북",
         "venue_detail": "경주서천둔치(생활체육광장)",
         "registration_period": "2026년7월21일~2026년10월8일",
-        "description": "하프코스, 10km, 5km(건강달리기)재미있는대회 작지만 알찬 대회 , 를 만들겠습니다. 우리 달림이들이 합심하여, 늘 가까이 있는대회가 되도록 노력하겠습니다. 많은 참여 부탁드립니다.",
+        "description": "경주의 가을보약을. 드시러오세요.이렇게. 준비합니다.하프코스, 10km, 5km(건강달리기) 를 준비합니다.재미있는대회 작지만 알찬 대회 , 를 만들겠습니다. 우리 달림이들이 합심하여, 늘 가까이 있는대회가 되도록 노력하겠습니다. 많은 참여 부탁드립니다.",
         "latitude": 35.8421242,
         "longitude": 129.2004329,
         "map_address": "경주시 성건동401-1번지"
@@ -13805,7 +13920,7 @@
         "start_time": "09:00",
         "region": "경북",
         "venue_detail": "영일대해상누각",
-        "registration_period": "2026년4월13일~2026년6월31일",
+        "registration_period": "2026년4월13일~2026년10월31일",
         "description": "포항마라톤챔피언십은 스피드 위주의 마라톤대회입니다.전국최강자들이 모여 가장빠른 10km챔피언을 가리는 대회입니다.전국 최고의 대회가 될수 있도록 준비하겠습니다",
         "latitude": 36.0631023,
         "longitude": 129.3826726,
@@ -14243,11 +14358,41 @@
         "start_time": "07:30",
         "region": "서울",
         "venue_detail": "여의도공원 문화의 마당",
-        "registration_period": "2026년8월10일~2026년9월19일",
+        "registration_period": "2026년8월10일~2026년10월18일",
         "description": "11/22(일) 자이스 스마일 레이스 개최!아름다운 코스를 달리며 건강한 라이프스타일을 경험하고,다양한 프로그램과 풍성한 기념품을 통해 특별한 추억을 만들 수 있습니다.자이스 스마일 레이스와 함께 건강한 도전과 즐거운 러닝을 경험해 보세요.",
         "latitude": 37.5268088,
         "longitude": 126.9222841,
         "map_address": "서울특별시 영등포구 여의공원로 68"
+    },
+    {
+        "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
+        "event_name": "2026 서울 억새풀 마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "(영등포) 영롱이 억새구장",
+        "organizer": [
+            "아시아투데이(사)한국마라톤연맹"
+        ],
+        "phone": "02-2647-4488",
+        "event_id": "41774",
+        "homepage": "http://ssrun.kr/",
+        "email": "yck0423@hanmail.net",
+        "representative": "윤찬기",
+        "start_time": "08:30",
+        "region": "서울",
+        "venue_detail": "(영등포) 영롱이 억새구장",
+        "registration_period": "2026년8월17일~2026년10월30일",
+        "description": "서울 한강과 안양천의 상징 억새풀 마라톤행사입니다",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
     },
     {
         "year": "2026",
