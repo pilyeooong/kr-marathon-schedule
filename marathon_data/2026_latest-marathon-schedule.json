@@ -9544,7 +9544,7 @@
         "start_time": "08:00",
         "region": "세종",
         "venue_detail": "세종마루공원 밑 금강변",
-        "registration_period": "2026년6월19일~2026년8월8일",
+        "registration_period": "2026년6월19일~2026년8월14일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 36.4835618,
         "longitude": 127.2887822,
@@ -10505,6 +10505,31 @@
         "month": 9,
         "day": 19,
         "day_of_week": "토",
+        "event_name": "2026 사찰런",
+        "tags": [
+            "6.3km"
+        ],
+        "location": "경산 갓바위 소원길",
+        "organizer": [
+            "윌슨컴퍼니 주식회사"
+        ],
+        "phone": "070-8670-0781",
+        "event_id": "41783",
+        "homepage": "http://sachalrun.com/",
+        "email": "sachalrun@daum.net",
+        "representative": "박미소",
+        "start_time": "08:00",
+        "region": "경북",
+        "venue_detail": "경산 갓바위 소원길",
+        "registration_period": "2026년8월7일~2026년9월10일",
+        "description": "“평생 단 한 가지 소원은 꼭 이루어진다”는 전설의 갓바위숲과 사찰이 이어지는 소원길을 따라 선본사까지 달리고 걷는문화 트레일런, 사찰런이 시작됩니다."
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
         "event_name": "2026 무한도전 Run in 경주",
         "tags": [
             "하프",
@@ -10669,7 +10694,7 @@
         "start_time": "08:00",
         "region": "경남",
         "venue_detail": "김해 대동생태체육공원 축구장",
-        "registration_period": "2026년7월3일~2026년8월8일",
+        "registration_period": "2026년7월3일~2026년8월14일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 35.2534829,
         "longitude": 129.0004933,
@@ -11539,6 +11564,38 @@
         "latitude": 37.707886,
         "longitude": 127.9048087,
         "map_address": "강원특별자치도 홍천군 홍천읍 태학여내길 27"
+    },
+    {
+        "year": "2026",
+        "date": "10/5",
+        "month": 10,
+        "day": 5,
+        "day_of_week": "월",
+        "event_name": "제23회 강남국제평화마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "봉은사로 삼성1동 주민센터 앞",
+        "organizer": [
+            "강남구",
+            "미8군사령부"
+        ],
+        "phone": "02-3462-7330",
+        "event_id": "41782",
+        "homepage": "http://peacemarathon.co.kr",
+        "email": "34627330@daum.net",
+        "representative": "허대무",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "봉은사로 삼성1동 주민센터 앞",
+        "registration_period": "2026년8월10일~2026년8월13일",
+        "description": "세계 각국의 고통받는 어린이들에게 도움을 주는 제23회 강남국제평화마라톤 대회에 많은 관심과 참여 부탁드립니다.",
+        "latitude": 37.514343,
+        "longitude": 127.0625256,
+        "map_address": "서울특별시 강남구 봉은사로 616"
     },
     {
         "year": "2026",
@@ -13218,6 +13275,36 @@
         "month": 10,
         "day": 31,
         "day_of_week": "토",
+        "event_name": "제7회 중소기업 인 기살리기 마라톤 대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "구일역 하부 구로 안양천축구장",
+        "organizer": [
+            "(사) 중소기업진흥회"
+        ],
+        "phone": "010-2760-7745",
+        "event_id": "41781",
+        "homepage": "http://kasmirun.kr/",
+        "email": "kasmirun07@gmail.com",
+        "representative": "김용구",
+        "start_time": "08:30",
+        "region": "서울",
+        "venue_detail": "구일역 하부 구로 안양천축구장",
+        "registration_period": "2026년8월7일~2026년8월7일",
+        "description": "전국민 참여로 같이 즐기는 중소기업진흥회의 7번째 마라톤!대한민국 산업 발전의 시작점이었던 구로구에서 800,중소기업 가족을 위로하고 응원합니다.\"RUN+UNION\" 달리며 하나되는 연대, 그 상징적인 페스티벌입니다.러너들의 화합을 이어가며 중소기업 가족을 응원하는 자리, 안양천을 무대로 펼쳐집니다.힘든 경제상황 속에서  중소기업과 함께할 줄 활력  프로그램인 “중소기업인 氣 살리기 마라톤 대회”는  중소기업진흥회의 상징적인 스포츠 문화이벤트로 지역민과 중소기업, 중소기업 가족을 응원하는  러너들의 교류와 화합의 페스티벌로  자리매김 할것입니다",
+        "latitude": 37.4999468,
+        "longitude": 126.8705397,
+        "map_address": "서울특별시 구로구 구로동 621-8"
+    },
+    {
+        "year": "2026",
+        "date": "10/31",
+        "month": 10,
+        "day": 31,
+        "day_of_week": "토",
         "event_name": "제21회 사천노을 마라톤대회",
         "tags": [
             "하프",
@@ -13606,6 +13693,33 @@
         "month": 11,
         "day": 8,
         "day_of_week": "일",
+        "event_name": "제12회 아산 은행나무길 전국마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "아산시  현충사 은행나무길",
+        "organizer": [
+            "아산시 마라톤 협회"
+        ],
+        "phone": "041-543-4592",
+        "event_id": "41780",
+        "homepage": "http://asanmarathon.co.kr/",
+        "email": "ljy4592@daum.net",
+        "representative": "이재용",
+        "start_time": "09:00",
+        "region": "충남",
+        "venue_detail": "아산시  현충사 은행나무길",
+        "registration_period": "2026년8월20일~2026년10월25일",
+        "description": "제12회 은행나무길 마라톤대회, 아름다운 은행나무길을 달리며 가을의 정취를 만끽하세요!선착순 접수로 진행되니 지금 바로 신청하세요."
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
         "event_name": "경주시육상연맹회장배 마라톤대회",
         "tags": [
             "하프",
@@ -13684,7 +13798,7 @@
         "start_time": "10:00",
         "region": "부산",
         "venue_detail": "삼락생태공원 럭비구장",
-        "registration_period": "2026년8월10일~2026년10월11일",
+        "registration_period": "2026년8월18일~2026년10월11일",
         "description": "삼락 생태공원에서자연과 도시가 만납니다!당신의 관심이 더해져 더욱 새롭게 바뀔'국가정원 지정 기원' 2026 전국사상에코마라톤이8월 11일부터 참가자 접수를 시작합니다.달림이 여러분들의 많은 성원 바랍니다!",
         "latitude": 35.1700127,
         "longitude": 128.9765699,
@@ -13913,7 +14027,7 @@
         "organizer": [
             "순천시체육회"
         ],
-        "phone": "061-749-5009",
+        "phone": "061-745-5009",
         "event_id": "41725",
         "homepage": "http://sc-marathon.kr",
         "email": "namdotour89@naver.com",
@@ -14712,6 +14826,36 @@
         "latitude": 35.1690449,
         "longitude": 129.1334469,
         "map_address": "부산광역시 해운대구 APEC로 55"
+    },
+    {
+        "year": "2026",
+        "date": "12/13",
+        "month": 12,
+        "day": 13,
+        "day_of_week": "일",
+        "event_name": "제5회 밤섬 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "상암월드컵공원 평화광장",
+        "organizer": [
+            "(사)대한생활체육연맹"
+        ],
+        "phone": "02-569-5551",
+        "event_id": "41784",
+        "homepage": "http://bamseom.com/",
+        "email": " admin@bamseom.com",
+        "representative": "김제오",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "상암월드컵공원 평화광장",
+        "registration_period": "2026년8월7일~2026년11월22일",
+        "description": "러너 여러분의 힘찬 발걸음 하나하나가 새로운 에너지가 되고 ,서로를 응원하는 따뜻한 마음이 모여 건강한 내일로이어지기를 바랍니다",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
     },
     {
         "year": "2026",
