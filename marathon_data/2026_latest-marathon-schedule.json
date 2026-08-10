@@ -11200,7 +11200,7 @@
         ],
         "phone": "010-7469-1526",
         "event_id": "41649",
-        "homepage": "http://samsamis.com",
+        "homepage": "http://samsamis.com/34",
         "email": "samsamis@naver.com",
         "representative": "이소현",
         "start_time": "07:00",
@@ -11937,7 +11937,7 @@
         ],
         "phone": "010-7469-1526",
         "event_id": "41665",
-        "homepage": "http://samsamis.com",
+        "homepage": "http://samsamis.com/57",
         "email": "samsamis@naver.com",
         "representative": "삼삼이즈",
         "start_time": "09:00",
@@ -13515,6 +13515,32 @@
         "month": 11,
         "day": 7,
         "day_of_week": "토",
+        "event_name": "GVIE RUN 2026 구미",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "구미 낙동강체육공원",
+        "organizer": [
+            "굿피플"
+        ],
+        "phone": "00-1600-3949",
+        "event_id": "41788",
+        "homepage": "http://giverun.kr",
+        "email": "m2569109@naver.com",
+        "representative": "사무국",
+        "start_time": "09:00",
+        "region": "경북",
+        "venue_detail": "구미 낙동강체육공원",
+        "registration_period": "2026년8월12일~2026년10월9일",
+        "description": "GIVE RUN 2026 구미많은 참여 부탁 드립니다."
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
         "event_name": "2026 문경 레전드 트레일 백두대간",
         "tags": [
             "50k",
@@ -14417,6 +14443,32 @@
         "latitude": 37.4886878,
         "longitude": 127.1066592,
         "map_address": "서울특별시 강남구 광평로 318 (수서동) [지번] 서울특별시 강남구 수서동 99"
+    },
+    {
+        "year": "2026",
+        "date": "11/21",
+        "month": 11,
+        "day": 21,
+        "day_of_week": "토",
+        "event_name": "GIVE RUN 2026 부산",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "부산 삼락생태공원",
+        "organizer": [
+            "굿피플"
+        ],
+        "phone": "00-1600-3949",
+        "event_id": "41789",
+        "homepage": "http://giverun.kr",
+        "email": "m2569109@naver.com",
+        "representative": "사무국",
+        "start_time": "09:00",
+        "region": "부산",
+        "venue_detail": "부산 삼락생태공원",
+        "registration_period": "2026년8월12일~2026년10월16일",
+        "description": "GIVE RUN 2026 부산많은 참여 부탁 드립니다."
     },
     {
         "year": "2026",
