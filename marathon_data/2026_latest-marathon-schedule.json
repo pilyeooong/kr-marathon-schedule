@@ -9374,7 +9374,7 @@
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "성북구 중랑천 체육공원",
-        "registration_period": "2026년7월15일~2026년8월10일",
+        "registration_period": "2026년7월15일~2026년8월9일",
         "description": "아름다운 성북에서 제16회 성북구청장배육상(마라톤) 대회를 개최합니다. 풍족한 먹거리를 준비했습니다.기념-기능성 츄리닝 바지, 기록칩, 온라인 기록증 제공"
     },
     {
@@ -9902,6 +9902,33 @@
         "venue_detail": "(양천구)목동운동장",
         "registration_period": "2026년4월13일~2026년7월22일",
         "description": "-수익금중 일부를 소아암환우등 소외계층에 기부하는 자선행사입니다"
+    },
+    {
+        "year": "2026",
+        "date": "9/12",
+        "month": 9,
+        "day": 12,
+        "day_of_week": "토",
+        "event_name": "비포 선라이즈 슬로우 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "강릉 경포호수 일대",
+        "organizer": [
+            "강릉시",
+            "강릉관광개발공사"
+        ],
+        "phone": "033-640-9851",
+        "event_id": "41791",
+        "homepage": "http://healingtour.gtdc.or.kr",
+        "email": "f4d1111@naver.com",
+        "representative": "송재열",
+        "start_time": "05:00",
+        "region": "강원",
+        "venue_detail": "강릉 경포호수 일대",
+        "registration_period": "2026년8월10일~2026년8월23일",
+        "description": "강릉 경포에서 펼쳐지는 「비포 선라이즈 슬로우 마라톤」은 새벽에 출발해 경포의 아름다운 풍경을 따라 천천히 달리고, 도착지인 경포해변에서 일출을 함께 맞이하는 비경쟁형 마라톤입니다.순위 경쟁이나 기록 측정, 시상 없이 참가자 각자의 속도로 걷거나 달리며 경포의 새벽과 일출을 즐기는 특별한 관광형 러닝 프로그램입니다."
     },
     {
         "year": "2026",
@@ -11498,7 +11525,7 @@
         "start_time": "8",
         "region": "경북",
         "venue_detail": "안동시민운동장",
-        "registration_period": "2026년4월13일~2026년7월31일",
+        "registration_period": "2026년4월13일~2026년8월31일",
         "description": "2026 안동마라톤대회",
         "latitude": 36.5474626,
         "longitude": 128.7244227,
@@ -12101,6 +12128,35 @@
         "latitude": 37.5196459,
         "longitude": 126.6109418,
         "map_address": "인천광역시 서해구 로봇랜드로 155-11"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
+        "event_name": "2026 대학생RUN",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "구일역 안양천 축구장",
+        "organizer": [
+            "대학문화유니온"
+        ],
+        "phone": "010-4737-7125",
+        "event_id": "41785",
+        "homepage": "http://www.univrun.co.kr/",
+        "email": "2025culture.of.univ@gmail.com",
+        "representative": "권연수",
+        "start_time": "08:30",
+        "region": "서울",
+        "venue_detail": "구일역 안양천 축구장",
+        "registration_period": "2026년8월10일~2026년9월20일",
+        "description": "독립유공자 후손 기부 러닝10km 08:30 출발5Km 08:40 출발",
+        "latitude": 37.4963912,
+        "longitude": 126.8699205,
+        "map_address": "서울특별시 구로구 구일로 133"
     },
     {
         "year": "2026",
@@ -13365,6 +13421,36 @@
         "month": 11,
         "day": 1,
         "day_of_week": "일",
+        "event_name": "26서울동행마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "서울 목동종합운동장 주경기장",
+        "organizer": [
+            "서울동행마라톤조직위원회"
+        ],
+        "phone": "02-736-1136",
+        "event_id": "41790",
+        "homepage": "http://seoulrun.com",
+        "email": "kesyf@naver.com",
+        "representative": "유범진",
+        "start_time": "7:30",
+        "region": "서울",
+        "venue_detail": "서울 목동종합운동장 주경기장",
+        "registration_period": "2026년8월10일~2026년10월2일",
+        "description": "깊어가는 가을 이봉주와 함께 안양천을 함께 뛰어요",
+        "latitude": 37.530093,
+        "longitude": 126.8818961,
+        "map_address": "서울특별시 양천구 안양천로 939"
+    },
+    {
+        "year": "2026",
+        "date": "11/1",
+        "month": 11,
+        "day": 1,
+        "day_of_week": "일",
         "event_name": "2026 무안 해안 노을길 걷기 및 마라톤",
         "tags": [
             "10km",
@@ -14554,7 +14640,7 @@
         "start_time": "07:30",
         "region": "서울",
         "venue_detail": "여의도공원 문화의 마당",
-        "registration_period": "2026년8월10일~2026년10월18일",
+        "registration_period": "2026년8월24일~2026년10월18일",
         "description": "11/22(일) 자이스 스마일 레이스 개최!아름다운 코스를 달리며 건강한 라이프스타일을 경험하고,다양한 프로그램과 풍성한 기념품을 통해 특별한 추억을 만들 수 있습니다.자이스 스마일 레이스와 함께 건강한 도전과 즐거운 러닝을 경험해 보세요.",
         "latitude": 37.5268088,
         "longitude": 126.9222841,
