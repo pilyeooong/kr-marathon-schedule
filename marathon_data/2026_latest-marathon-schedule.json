@@ -5557,7 +5557,7 @@
         "month": 5,
         "day": 16,
         "day_of_week": "토",
-        "event_name": "2026 JUST RUN10 양산 10k 러닝",
+        "event_name": "2026 JUST RUN10 양산",
         "tags": [
             "10km",
             "5km"
@@ -9181,6 +9181,35 @@
         "month": 8,
         "day": 23,
         "day_of_week": "일",
+        "event_name": "2026 교룡산성 백야드",
+        "tags": [
+            "1회전 7K",
+            "6회전 42K"
+        ],
+        "location": "전북 남원시 산곡동 251-2",
+        "organizer": [
+            "삼삼이즈"
+        ],
+        "phone": "010-7469-1526",
+        "event_id": "41786",
+        "homepage": "http://samsamis.com/66",
+        "email": "yon0148@gmail.com",
+        "representative": "이소현",
+        "start_time": "07:00",
+        "region": "전북",
+        "venue_detail": "전북 남원시 산곡동 251-2",
+        "registration_period": "2026년8월9일~2026년8월17일",
+        "description": "🔥 2026 교룡산성 백야드 풀코스 오픈 🔥남원의 숨은 명소, 교룡산성의 아름다운 둘레길을 달릴 러너들을 초대합니다!단순한 속도 경쟁이 아닙니다. 매 시간 정각에 찾아오는 자신과의 싸움!1시간 안에 7km를 들어오면 생존, 못 들어오면 탈락!마지막 6번째 바퀴에서 진짜 최강자를 가립니다.울창한 숲과 천년의 역사가 숨 쉬는 교룡산성에서당신의 한계를 시험해 보세요![대회 개요]일시 : 8월 23일(일) 오전 07:00 출발집결 : 오전 06:30까지 (출발 30분 전 집결)장소 : 교룡산국민관광단지무료주차장전북 남원시 산곡동 251-21모집인원 : 선착순 100명코스 : 1회전 7km (상승고도 240m) × 총 6회전 (서바이벌 방식)참가비 : 15,000원 (삼삼양말 & 든든한 간식/음료 포함!)[경기 방식 : 백야드 서바이벌]1시간 이내에 7km 코스를 완주해야 다음 바퀴 출발 자격 획득남은 시간은 다음 출발 전까지 달콤한 휴식 시간마지막 6회전을 모두 마친 완주자 중, 마지막 바퀴 기록이 가장 빠른 사람이 우승!각회전 정시 출발 1회전 뛰고 3회전 다시도전  다음회전 쉬었다가 마지막 6회전 출발 가능 자신의 한계에 도전!",
+        "latitude": 35.4279769,
+        "longitude": 127.3642935,
+        "map_address": "전북특별자치도 남원시 산성순환길 714"
+    },
+    {
+        "year": "2026",
+        "date": "8/23",
+        "month": 8,
+        "day": 23,
+        "day_of_week": "일",
         "event_name": "2026대구세계마스터즈 10km대회",
         "tags": [
             "10km",
@@ -9671,6 +9700,34 @@
         "latitude": 37.1337299,
         "longitude": 128.9614633,
         "map_address": "강원특별자치도 태백시 태백산로 4767"
+    },
+    {
+        "year": "2026",
+        "date": "9/6",
+        "month": 9,
+        "day": 6,
+        "day_of_week": "일",
+        "event_name": "2026 문경새재 트레일런",
+        "tags": [
+            "13km"
+        ],
+        "location": "문경새재도립공원 제1주차장",
+        "organizer": [
+            "파브코리아"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41787",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "김준형",
+        "start_time": "08:00",
+        "region": "경북",
+        "venue_detail": "문경새재도립공원 제1주차장",
+        "registration_period": "2026년8월10일~2026년8월10일",
+        "description": "새들도 쉬어 넘는 곳, 아픈 역사를 간직한 새재의 관문들을 달리며 가을을 맞아 보세요!!",
+        "latitude": 36.7616016,
+        "longitude": 128.077015,
+        "map_address": "경상북도 문경시 문경읍 새재로 932"
     },
     {
         "year": "2026",
@@ -10614,6 +10671,35 @@
         "month": 9,
         "day": 19,
         "day_of_week": "토",
+        "event_name": "2026 청년의날 남동런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "인천대공원",
+        "organizer": [
+            "디지틀조선일보C&M"
+        ],
+        "phone": "032-710-0260",
+        "event_id": "41793",
+        "homepage": "http://namdongrun.kr",
+        "email": "tldud@istartuplab.co.kr",
+        "representative": "이근형",
+        "start_time": "08:00",
+        "region": "인천",
+        "venue_detail": "인천대공원",
+        "registration_period": "2026년7월28일~2026년9월1일",
+        "description": "2026년 청년의 날을 기념하여 개최한 남동구 공식 청년의 날 달리기 행사",
+        "latitude": 37.4573965,
+        "longitude": 126.7609822,
+        "map_address": "인천광역시 남동구 무네미로 238"
+    },
+    {
+        "year": "2026",
+        "date": "9/19",
+        "month": 9,
+        "day": 19,
+        "day_of_week": "토",
         "event_name": "시포레 RUN & FIT with 디스커버리",
         "tags": [
             "10km",
@@ -11099,7 +11185,7 @@
             "10Km커플런",
             "5Km 가족런"
         ],
-        "location": "가평종합운동장(경기)",
+        "location": "(가평) 자라섬 행사장",
         "organizer": [
             "가평군체육회",
             "세계일보"
@@ -11111,12 +11197,9 @@
         "representative": "윤찬기",
         "start_time": "08:30",
         "region": "경기",
-        "venue_detail": "가평종합운동장(경기)",
+        "venue_detail": "(가평) 자라섬 행사장",
         "registration_period": "2026년4월14일~2026년5월30일",
-        "description": "-청정지역-관광의도시 가평군에서 마라톤가족 여러분을 모십니다-5km 가족런은 전국에서 참여하실수 있습니다",
-        "latitude": 37.8253879,
-        "longitude": 127.5070499,
-        "map_address": "경기도 가평군 가평읍 문화로 131"
+        "description": "-청정지역-관광의도시 가평군에서 마라톤가족 여러분을 모십니다-5km 가족런은 전국에서 참여하실수 있습니다"
     },
     {
         "year": "2026",
@@ -11163,7 +11246,7 @@
         "location": "무심천체육공원",
         "organizer": [
             "(주)러닝브레이커",
-            "전국러닝협"
+            "전국러닝협회"
         ],
         "phone": "042-710-2058",
         "event_id": "41700",
@@ -12223,6 +12306,35 @@
         "month": 10,
         "day": 11,
         "day_of_week": "일",
+        "event_name": "제6회 영등포구청장배 육상대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "신정교하부육상트랙구장",
+        "organizer": [
+            "서울특별시영등포구체육회"
+        ],
+        "phone": "010-3794-7297",
+        "event_id": "41794",
+        "homepage": "http://cafe.naver.com/ydprun1/646",
+        "email": "s900918@naver.com",
+        "representative": "윤정용",
+        "start_time": "9",
+        "region": "서울",
+        "venue_detail": "신정교하부육상트랙구장",
+        "registration_period": "2026년8월10일~2026년10월4일",
+        "description": "대회요강, 참가신청 링크https://cafe.naver.com/ydprun1/646",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
         "event_name": "2026 울산마라톤대회",
         "tags": [
             "하프",
@@ -12427,6 +12539,36 @@
         "latitude": 37.4873504,
         "longitude": 127.1023689,
         "map_address": "서울특별시 강남구 광평로 276-2 (수서동) [지번] 서울특별시 강남구 수서동 719-2"
+    },
+    {
+        "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
+        "event_name": "2026 의정부시 물길마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "동막교인라인광장",
+        "organizer": [
+            "의정부체육회"
+        ],
+        "phone": "031-850-5755",
+        "event_id": "41800",
+        "homepage": "http://ujb.my-race.kr",
+        "email": "sck9210@hanmail.net",
+        "representative": "송명호",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "동막교인라인광장",
+        "registration_period": "2026년8월12일~2026년9월11일",
+        "description": "........",
+        "latitude": 37.72692,
+        "longitude": 127.0516013,
+        "map_address": "경기도 의정부시 백석천자전거길 277"
     },
     {
         "year": "2026",
@@ -12914,6 +13056,35 @@
         "month": 10,
         "day": 24,
         "day_of_week": "토",
+        "event_name": "2026 서울 펫림픽 & 런 위드 고",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "서울 월드컵경기장 평화광장",
+        "organizer": [
+            "(사)함께하는 사랑밭"
+        ],
+        "phone": "031-575-7243",
+        "event_id": "41798",
+        "homepage": "http://runwithgo.com",
+        "email": "help@blueimg.co.kr",
+        "representative": "정유진",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "서울 월드컵경기장 평화광장",
+        "registration_period": "2026년8월13일~2026년8월31일",
+        "description": "안녕하세요?2026 서울 펫림픽 & 런 위드 고에 오신 것을 환영합니다.홈페이지 내용 및 접수일정은 변동될 수 있습니다.감사합니다.",
+        "latitude": 37.5682885,
+        "longitude": 126.897273,
+        "map_address": "서울특별시 마포구 월드컵로 240 (성산동) 서울월드컵경기장 평화광장"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
         "event_name": "2026 뉴시스 바다마라톤",
         "tags": [
             "하프",
@@ -13324,6 +13495,36 @@
         "latitude": 36.4323352,
         "longitude": 129.0615982,
         "map_address": "경상북도 청송군 청송읍 중앙로 306-39"
+    },
+    {
+        "year": "2026",
+        "date": "10/31",
+        "month": 10,
+        "day": 31,
+        "day_of_week": "토",
+        "event_name": "2026 JUST RUN10 포천",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "포천시종합운동장",
+        "organizer": [
+            "(주)러닝브레이커",
+            "전국러닝협회"
+        ],
+        "phone": "042-710-2058",
+        "event_id": "41795",
+        "homepage": "http://runten.co.kr",
+        "email": "runningbreaker@naver.com",
+        "representative": "윤세준",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "포천시종합운동장",
+        "registration_period": "2026년8월11일~2026년9월25일",
+        "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
+        "latitude": 37.8880064,
+        "longitude": 127.2007227,
+        "map_address": "경기도 포천시 군내면 호국로 1518"
     },
     {
         "year": "2026",
@@ -14553,7 +14754,7 @@
         "start_time": "09:00",
         "region": "부산",
         "venue_detail": "부산 삼락생태공원",
-        "registration_period": "2026년8월12일~2026년10월16일",
+        "registration_period": "2026년8월31일~2026년10월16일",
         "description": "GIVE RUN 2026 부산많은 참여 부탁 드립니다."
     },
     {
