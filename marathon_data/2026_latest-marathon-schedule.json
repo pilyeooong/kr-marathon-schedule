@@ -9573,7 +9573,7 @@
         "start_time": "08:00",
         "region": "세종",
         "venue_detail": "세종마루공원 밑 금강변",
-        "registration_period": "2026년6월19일~2026년8월14일",
+        "registration_period": "2026년6월19일~2026년8월13일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 36.4835618,
         "longitude": 127.2887822,
@@ -10806,7 +10806,7 @@
         "start_time": "08:00",
         "region": "경남",
         "venue_detail": "김해 대동생태체육공원 축구장",
-        "registration_period": "2026년7월3일~2026년8월14일",
+        "registration_period": "2026년7월3일~2026년8월21일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 35.2534829,
         "longitude": 129.0004933,
@@ -10818,7 +10818,7 @@
         "month": 9,
         "day": 19,
         "day_of_week": "토",
-        "event_name": "제2회 경기신문 씨사이드 마라톤",
+        "event_name": "제2회 경기신문 씨사이드 마라톤(대회취소)",
         "tags": [
             "하프",
             "10km",
@@ -10867,7 +10867,7 @@
         "start_time": ":",
         "region": "서울",
         "venue_detail": "여의도 물빛무대 앞 광",
-        "registration_period": "2026년6월17일~2026년8월12일",
+        "registration_period": "2026년6월17일~2026년9월8일",
         "description": "2026 제18회 사이버 영토 수호 마라톤대회일시 : 2026년 9월 19일 토요일 오전 8시 출발장소 : 여의도 한강공원 물빛무대",
         "latitude": 37.5263362,
         "longitude": 126.9336402,
@@ -11255,7 +11255,7 @@
         "start_time": "08:30",
         "region": "충북",
         "venue_detail": "무심천체육공원",
-        "registration_period": "2026년7월14일~2026년8월14일",
+        "registration_period": "2026년7월14일~2026년8월21일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 36.6398666,
         "longitude": 127.4832224,
@@ -13277,7 +13277,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "신정교하부육상트랙구장",
-        "registration_period": "2026년6월18일~2026년9월7일",
+        "registration_period": "2026년6월18일~2026년9월23일",
         "description": "🎮 2026 제3회 감성런 개최 안내 🎮추억과 감성이 가득한 2026 제3회 감성런이 개최됩니다.올해는 더욱 업그레이드된 레트로 감성과 다양한 즐길 거리로 참가자 여러분을 찾아갑니다. 오락실 감성을 담은 특별한 러닝 축제를 함께 즐겨보세요.감성 가득한 추억을 만들고 싶다면 지금 바로 신청하세요!※ 참가 접수는 선착순으로 진행되며, 조기 마감될 수 있습니다.",
         "latitude": 37.5178604,
         "longitude": 126.8819583,
@@ -14906,6 +14906,36 @@
     },
     {
         "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
+        "event_name": "2026 김대중마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "목포종합경기장",
+        "organizer": [
+            "김대중마라톤대회 조직위원회"
+        ],
+        "phone": "061-375-1201",
+        "event_id": "41803",
+        "homepage": "http://www.djrun.kr/",
+        "email": "ds4bjt@hanmail.net",
+        "representative": "문경연",
+        "start_time": "09:00",
+        "region": "전남",
+        "venue_detail": "목포종합경기장",
+        "registration_period": "2026년9월1일~2026년10월1일",
+        "description": "선착순6,000명으로 조기마감될수 있습니다.많은관심과 참가 부탁드립니다.",
+        "latitude": 34.8263623,
+        "longitude": 126.39694,
+        "map_address": "전남광주통합특별시 목포시 대양산단로 23"
+    },
+    {
+        "year": "2026",
         "date": "11/28",
         "month": 11,
         "day": 28,
@@ -14989,6 +15019,33 @@
         "latitude": 37.5546896,
         "longitude": 126.9080164,
         "map_address": "서울특별시 마포구 월드컵로15길 53"
+    },
+    {
+        "year": "2026",
+        "date": "11/29",
+        "month": 11,
+        "day": 29,
+        "day_of_week": "일",
+        "event_name": "가야왕도 김해 전국어울림 마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "롯데워터파크 제3주차장",
+        "organizer": [
+            "김해시장애인육상연맹"
+        ],
+        "phone": "010-5397-8890",
+        "event_id": "41804",
+        "homepage": "http://gimhaemarathon.imweb.me/",
+        "email": "jyoun@buddiya.com",
+        "representative": "윤세빈",
+        "start_time": "08",
+        "region": "경남",
+        "venue_detail": "롯데워터파크 제3주차장",
+        "registration_period": "2026년8월13일~2026년10월25일",
+        "description": "2,000년 가야의 역사 위를 달리다전설의 땅 장유에서 펼쳐지는 시원한 레이스!탁 트인 장유로에서 하프 / 10km / 5km 코스의 매력을 만끽하세요.장애인과 비장애인이 함께하는 어울림 마라톤입니다 :)"
     },
     {
         "year": "2026",
@@ -15140,6 +15197,35 @@
         "month": 12,
         "day": 6,
         "day_of_week": "일",
+        "event_name": "2026 황영조 로드레이스",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "정서진 아라타워",
+        "organizer": [
+            "인천광역시육상연맹"
+        ],
+        "phone": "00-1866-1718",
+        "event_id": "41802",
+        "homepage": "http://roadracing.co.kr/",
+        "email": "isang102@naver.com",
+        "representative": "정일종",
+        "start_time": "09:00",
+        "region": "인천",
+        "venue_detail": "정서진 아라타워",
+        "registration_period": "2026년8월14일~2026년10월30일",
+        "description": "2026 황영조 로드레이스2026.8.14 참가접수 시작합니다!하반기의 마지막은 정서진에서 안전하게 PB 세우세요!",
+        "latitude": 37.5583843,
+        "longitude": 126.6073836,
+        "map_address": "인천광역시 서해구 정서진1로 41"
+    },
+    {
+        "year": "2026",
+        "date": "12/6",
+        "month": 12,
+        "day": 6,
+        "day_of_week": "일",
         "event_name": "2026 부산브릿지 마라톤",
         "tags": [
             "풀",
@@ -15221,5 +15307,35 @@
         "venue_detail": "진주노을공원",
         "registration_period": "2026년10월22일~2026년11월16일",
         "description": "시민들이 만드는 풀뿌리 마라톤대회"
+    },
+    {
+        "year": "2026",
+        "date": "12/19",
+        "month": 12,
+        "day": 19,
+        "day_of_week": "토",
+        "event_name": "제2회 청춘 릴레이 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "상암월드컵공원 평화의광장",
+        "organizer": [
+            "(사)재한다문화총연합회"
+        ],
+        "phone": "02-2636-7775",
+        "event_id": "41801",
+        "homepage": "http://youngrun.kr",
+        "email": "run@youngrun.kr",
+        "representative": "조병태",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "상암월드컵공원 평화의광장",
+        "registration_period": "2026년8월12일~2026년12월9일",
+        "description": "우리 가슴 속에 살아있는 '청춘'의 에너지를 듬뿍 담아 힘차게 달려보기 위해 이 자리에 모였습니다. 청춘은 나이가 아니라, 어떤 목표를 향해 기분 좋게 땀 흘리고 스스로의 한계에 도전하는 여러분의 그 뜨거운 마음이 아닐까 싶습니다.",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
     }
 ]
