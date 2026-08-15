@@ -11743,6 +11743,36 @@
         "month": 10,
         "day": 5,
         "day_of_week": "월",
+        "event_name": "2026 양주 천일홍 가을 페스타 마라톤",
+        "tags": [
+            "10km",
+            "5km",
+            "20km코스"
+        ],
+        "location": "양주시 나리공원",
+        "organizer": [
+            "양주시체육회"
+        ],
+        "phone": "02-556-8879",
+        "event_id": "41805",
+        "homepage": "http://yangjurun.kr",
+        "email": "k-sopung@naver.com",
+        "representative": "최종화",
+        "start_time": "08",
+        "region": "경기",
+        "venue_detail": "양주시 나리공원",
+        "registration_period": "2026년8월19일~2026년10월2일",
+        "description": "전국 최대 규모의 천일홍 단지약 13만㎡(약 4만 평) 규모의 드넓은 농원에 보라색, 분홍색, 흰색 등 다채로운 색상의 천일홍이 끝없이 펼쳐집니다. 꽃의 색이 천 일 동안 변하지 않는다고 해서 붙여진 '천일홍'의 화려한 물결과 함께 달려요",
+        "latitude": 37.7857988,
+        "longitude": 127.0818335,
+        "map_address": "광사로 131-66"
+    },
+    {
+        "year": "2026",
+        "date": "10/5",
+        "month": 10,
+        "day": 5,
+        "day_of_week": "월",
         "event_name": "런센스 2026",
         "tags": [
             "10km",
@@ -13973,6 +14003,37 @@
         "month": 11,
         "day": 8,
         "day_of_week": "일",
+        "event_name": "2026 해남땅끝 전국마라톤대회",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "대흥사쉼터 일원",
+        "organizer": [
+            "해남군육상연맹"
+        ],
+        "phone": "00-1600-3949",
+        "event_id": "41808",
+        "homepage": "http://haenammarathon.co.kr",
+        "email": "m2569109@naver.com",
+        "representative": "사무국",
+        "start_time": "08:00",
+        "region": "전남",
+        "venue_detail": "대흥사쉼터 일원",
+        "registration_period": "2026년8월13일~2026년10월14일",
+        "description": "2026 해남땅끝 전국마라톤대회많은 참여 부탁 드립니다.",
+        "latitude": 34.497922,
+        "longitude": 126.6181695,
+        "map_address": "전남광주 해남군 삼산면 구림리 144"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
         "event_name": "2026 라운드랩 RUN",
         "tags": [
             "하프",
@@ -15082,6 +15143,36 @@
         "month": 11,
         "day": 29,
         "day_of_week": "일",
+        "event_name": "2026 새한미디어 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "평화의공원 평화광장",
+        "organizer": [
+            "새한일보"
+        ],
+        "phone": "02-0000-0000",
+        "event_id": "41807",
+        "homepage": "http://sh-run.co.kr/",
+        "email": "2026saehan@kakao.com",
+        "representative": "신유술",
+        "start_time": "08",
+        "region": "서울",
+        "venue_detail": "평화의공원 평화광장",
+        "registration_period": "2026년8월17일~2026년11월16일",
+        "description": "백범김구선생 탄생 150주년 유네스코 공식 지정해를 축하하며, 백범김구선생 기념사업협회와 함께 뜻깊은 대회를 개최하게 되었습니다.백범김구 선생의 높은 문화의 힘을 위해 다 함께 평화의 길을 달립시다",
+        "latitude": 37.5631678,
+        "longitude": 126.8984351,
+        "map_address": "서울특별시 마포구 월드컵로 243-62"
+    },
+    {
+        "year": "2026",
+        "date": "11/29",
+        "month": 11,
+        "day": 29,
+        "day_of_week": "일",
         "event_name": "제2회 천안독립기념관 마라톤대회",
         "tags": [
             "10km",
@@ -15337,5 +15428,34 @@
         "latitude": 37.5659053,
         "longitude": 126.8964648,
         "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "12/28",
+        "month": 12,
+        "day": 28,
+        "day_of_week": "월",
+        "event_name": "2026 한강런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "안양천다목적광장",
+        "organizer": [
+            "(사)대한생활체육연맹"
+        ],
+        "phone": "02-888-8805",
+        "event_id": "41806",
+        "homepage": "http://hgrun.kr",
+        "email": "start@hgrun.kr",
+        "representative": "김제오",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "안양천다목적광장",
+        "registration_period": "2026년8월14일~2026년12월12일",
+        "description": "달리기를 사랑하는 모든 분들이 함께 어울려 건강과 화합을 나누는 축제의 장",
+        "latitude": 37.4548567,
+        "longitude": 126.8933555,
+        "map_address": "서울 금천구 독산동 732-2"
     }
 ]
