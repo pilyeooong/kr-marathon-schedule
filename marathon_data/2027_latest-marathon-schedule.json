@@ -89,5 +89,34 @@
         "latitude": 35.1896073,
         "longitude": 129.2158576,
         "map_address": "부산광역시 기장군 기장읍 동부산관광9로 22"
+    },
+    {
+        "year": "2027",
+        "date": "10/9",
+        "month": 10,
+        "day": 9,
+        "day_of_week": "토",
+        "event_name": "제7회 천안삼거리 흥타령울트라마라톤",
+        "tags": [
+            "100km",
+            "60km"
+        ],
+        "location": "천안삼거리공원",
+        "organizer": [
+            "천안삼거리흥타령울트라조직위"
+        ],
+        "phone": "010-2412-5294",
+        "event_id": "41236",
+        "homepage": "http://www.chultra.kr/",
+        "email": "doldal2@hanmail.net",
+        "representative": "조붕제",
+        "start_time": "17:00",
+        "region": "충남",
+        "venue_detail": "천안삼거리공원",
+        "registration_period": "2026년2월1일~2026년9월30일",
+        "description": "깊어가는 가을밤 별과함께 떠나는 진정한 울트라마라톤 여행",
+        "latitude": 36.783812,
+        "longitude": 127.1657743,
+        "map_address": "천안시 동남구 천안대로 400"
     }
 ]

@@ -9722,7 +9722,7 @@
         "start_time": "08:00",
         "region": "경북",
         "venue_detail": "문경새재도립공원 제1주차장",
-        "registration_period": "2026년8월10일~2026년8월10일",
+        "registration_period": "2026년8월10일~2026년9월5일",
         "description": "새들도 쉬어 넘는 곳, 아픈 역사를 간직한 새재의 관문들을 달리며 가을을 맞아 보세요!!",
         "latitude": 36.7616016,
         "longitude": 128.077015,
@@ -12185,35 +12185,6 @@
     },
     {
         "year": "2026",
-        "date": "10/10",
-        "month": 10,
-        "day": 10,
-        "day_of_week": "토",
-        "event_name": "제7회 천안삼거리 흥타령울트라마라톤",
-        "tags": [
-            "100km",
-            "60km"
-        ],
-        "location": "천안삼거리공원",
-        "organizer": [
-            "천안삼거리흥타령울트라조직위"
-        ],
-        "phone": "010-2412-5294",
-        "event_id": "41236",
-        "homepage": "http://www.chultra.kr/",
-        "email": "doldal2@hanmail.net",
-        "representative": "조붕제",
-        "start_time": "17:00",
-        "region": "충남",
-        "venue_detail": "천안삼거리공원",
-        "registration_period": "2026년2월1일~2026년9월30일",
-        "description": "깊어가는 가을밤 별과함께 떠나는 진정한 울트라마라톤 여행",
-        "latitude": 36.783812,
-        "longitude": 127.1657743,
-        "map_address": "천안시 동남구 천안대로 400"
-    },
-    {
-        "year": "2026",
         "date": "10/11",
         "month": 10,
         "day": 11,
@@ -13614,6 +13585,34 @@
         "latitude": 35.04654,
         "longitude": 128.0426198,
         "map_address": "경상남도 사천시 용현면 선진공원길 623"
+    },
+    {
+        "year": "2026",
+        "date": "10/31",
+        "month": 10,
+        "day": 31,
+        "day_of_week": "토",
+        "event_name": "2026 태종대 BEAT ON 좀비레이스",
+        "tags": [
+            "4km 코스"
+        ],
+        "location": "부산 영도구 태종대 자동차야외극장(Drive in영도)",
+        "organizer": [
+            "주식회사 무브네이션"
+        ],
+        "phone": "051-867-0516",
+        "event_id": "41809",
+        "homepage": "http://taejongdaezombie.com",
+        "email": "movenation1@naver.com",
+        "representative": "이정실",
+        "start_time": "16:44",
+        "region": "부산",
+        "venue_detail": "부산 영도구 태종대 자동차야외극장(Drive in영도)",
+        "registration_period": "2026년8월20일~2026년9월20일",
+        "description": "태종대에서 펼쳐지는 특별한 러닝 이벤트!10월 31일 4시 44분에 좀비 본능이 깨어난다!뉴진스님과 함께하는 4K 좀비레이스지금 껏 보지 못했던특별한 레이스 경험,2026 태종대 좀비레이스에서 만나보세요!!",
+        "latitude": 35.0621392,
+        "longitude": 129.0820959,
+        "map_address": "부산광역시 영도구 태종로833번길 23"
     },
     {
         "year": "2026",
