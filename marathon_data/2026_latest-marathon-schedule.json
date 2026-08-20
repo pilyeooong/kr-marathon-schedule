@@ -10339,7 +10339,7 @@
         "start_time": "09:30",
         "region": "서울",
         "venue_detail": "구일역 하부 인라인스케이트장",
-        "registration_period": "2026년8월3일~2026년8월31일",
+        "registration_period": "2026년8월3일~2026년8월18일",
         "description": "안녕하세요. 마라톤을 사랑하는 러너 여러분! 🏃‍♂️🏃‍♀️선선한 바람이 불어오는 9월,9월 13일 안양천 단풍마라톤대회가 여러분을 기다립니다!",
         "latitude": 37.4931066,
         "longitude": 126.8703312,
@@ -11745,11 +11745,12 @@
         "day_of_week": "월",
         "event_name": "2026 양주 천일홍 가을 페스타 마라톤",
         "tags": [
+            "하프",
             "10km",
             "5km",
-            "20km코스"
+            "걷기"
         ],
-        "location": "양주시 나리공원",
+        "location": "양주시 나리농원",
         "organizer": [
             "양주시체육회"
         ],
@@ -11760,8 +11761,8 @@
         "representative": "최종화",
         "start_time": "08",
         "region": "경기",
-        "venue_detail": "양주시 나리공원",
-        "registration_period": "2026년8월19일~2026년10월2일",
+        "venue_detail": "양주시 나리농원",
+        "registration_period": "2026년8월19일~2026년10월1일",
         "description": "전국 최대 규모의 천일홍 단지약 13만㎡(약 4만 평) 규모의 드넓은 농원에 보라색, 분홍색, 흰색 등 다채로운 색상의 천일홍이 끝없이 펼쳐집니다. 꽃의 색이 천 일 동안 변하지 않는다고 해서 붙여진 '천일홍'의 화려한 물결과 함께 달려요",
         "latitude": 37.7857988,
         "longitude": 127.0818335,
@@ -11913,6 +11914,36 @@
         "latitude": 37.1484378,
         "longitude": 127.2591248,
         "map_address": "경기도 안성시 양성면 미리내성지로 420"
+    },
+    {
+        "year": "2026",
+        "date": "10/9",
+        "month": 10,
+        "day": 9,
+        "day_of_week": "금",
+        "event_name": "2026 고흥우주항공배 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "고흥군 박지성공설운동장",
+        "organizer": [
+            "고흥군체육회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41814",
+        "homepage": "http://mara1080.com/event/10fcc153-1bb7-403e-8f57-7571c1c324d5",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "전남",
+        "venue_detail": "고흥군 박지성공설운동장",
+        "registration_period": "2026년8월19일~2026년9월20일",
+        "description": "선착순 1,500명 신청 및 입금순 마감됩니다.조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요.많은 관심과 참여 바랍니다. 감사합니다.",
+        "latitude": 34.6126713,
+        "longitude": 127.2974569,
+        "map_address": "전남광주통합특별시 고흥군 고흥읍 고흥로 1892-67"
     },
     {
         "year": "2026",
@@ -13102,7 +13133,7 @@
         "start_time": "07:30",
         "region": "서울",
         "venue_detail": "서울 월드컵경기장 평화광장",
-        "registration_period": "2026년8월13일~2026년8월31일",
+        "registration_period": "2026년8월13일~2026년9월18일",
         "description": "안녕하세요?2026 서울 펫림픽 & 런 위드 고에 오신 것을 환영합니다.홈페이지 내용 및 접수일정은 변동될 수 있습니다.감사합니다.",
         "latitude": 37.5682885,
         "longitude": 126.897273,
@@ -14030,6 +14061,35 @@
         "month": 11,
         "day": 7,
         "day_of_week": "토",
+        "event_name": "2026 푸르메런",
+        "tags": [
+            "10km",
+            "3km"
+        ],
+        "location": "상암 월드컵공원 평화광장",
+        "organizer": [
+            "푸르메재단"
+        ],
+        "phone": "02-338-0344",
+        "event_id": "41815",
+        "homepage": "http://purmerun.com/",
+        "email": "jak@e-world21.co.kr",
+        "representative": "주상은",
+        "start_time": "9",
+        "region": "서울",
+        "venue_detail": "상암 월드컵공원 평화광장",
+        "registration_period": "2026년8월26일~2026년9월23일",
+        "description": "푸르메재단 넥슨어린이재활병원 10주년 기념, 넥슨과 함께하는 2026 미라클365 푸르메런",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
         "event_name": "2026 영천댐 마라톤",
         "tags": [
             "하프",
@@ -14054,6 +14114,36 @@
         "latitude": 36.0565053,
         "longitude": 129.0112647,
         "map_address": "경상북도 영천시 임고면 신방로 19"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "제24회 금성산숲길마라톤",
+        "tags": [
+            "하프",
+            "6km",
+            "11km"
+        ],
+        "location": "나주시 금성산 일원",
+        "organizer": [
+            "나주시체육회"
+        ],
+        "phone": "061-331-6482",
+        "event_id": "41816",
+        "homepage": "http://www.geumsungsan.co.kr",
+        "email": "marathonkorea@daum.net",
+        "representative": "김재억",
+        "start_time": "09:00",
+        "region": "전남",
+        "venue_detail": "나주시 금성산 일원",
+        "registration_period": "2026년8월24일~2026년9월10일",
+        "description": "제24회 금성산숲길마라톤대회 많은 참가 바랍니다.",
+        "latitude": 35.0455818,
+        "longitude": 126.7165298,
+        "map_address": "전남광주통합특별시 나주시 동신대길 113"
     },
     {
         "year": "2026",
@@ -14499,6 +14589,35 @@
         "latitude": 36.0631023,
         "longitude": 129.3826726,
         "map_address": "경상북도 포항시 북구 해안로 173"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "2026 나눔레이스 인 용인",
+        "tags": [
+            "10km",
+            "15km"
+        ],
+        "location": "세리박위드용인",
+        "organizer": [
+            "나눔레이스조직위원회"
+        ],
+        "phone": "02-2135-1297",
+        "event_id": "41817",
+        "homepage": "http://nanumrun.or.kr",
+        "email": "kstma0320@naver.com",
+        "representative": "위길숙",
+        "start_time": "08:00",
+        "region": "경기",
+        "venue_detail": "세리박위드용인",
+        "registration_period": "2026년8월24일~2026년9월6일",
+        "description": "달리고, 즐기고, 나누는 뮤직런",
+        "latitude": 37.2385807,
+        "longitude": 127.2125152,
+        "map_address": "경기도 용인시 처인구 경안천로 76"
     },
     {
         "year": "2026",
@@ -15573,7 +15692,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "안양천다목적광장",
-        "registration_period": "2026년8월14일~2026년12월12일",
+        "registration_period": "2026년9월20일~2026년12월12일",
         "description": "달리기를 사랑하는 모든 분들이 함께 어울려 건강과 화합을 나누는 축제의 장",
         "latitude": 37.4548567,
         "longitude": 126.8933555,
