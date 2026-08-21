@@ -9149,34 +9149,6 @@
     },
     {
         "year": "2026",
-        "date": "8/22",
-        "month": 8,
-        "day": 22,
-        "day_of_week": "토",
-        "event_name": "제2회 한양도성길 트레일런",
-        "tags": [
-            "20km"
-        ],
-        "location": "낙산공원중앙광장(낙산길54)",
-        "organizer": [
-            "파브코리아"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "41642",
-        "homepage": "http://www.mtrailrun.kr/",
-        "email": "navido@gmail.com",
-        "representative": "이태재",
-        "start_time": "08:00",
-        "region": "서울",
-        "venue_detail": "낙산공원중앙광장(낙산길54)",
-        "registration_period": "2026년6월15일~2026년8월20일",
-        "description": "서울의 랜드마크 로드이자자연과 역사가 어우러진 아름다운 한양도성 길을탐방하는 트레일런대회를 개최합니다..",
-        "latitude": 37.5804113,
-        "longitude": 127.0071243,
-        "map_address": "서울특별시 종로구 낙산길 54"
-    },
-    {
-        "year": "2026",
         "date": "8/23",
         "month": 8,
         "day": 23,
@@ -9349,6 +9321,32 @@
         "latitude": 36.9920576,
         "longitude": 128.3612377,
         "map_address": "충북 단양군 단양읍 별곡리 115 단양생태체육공원"
+    },
+    {
+        "year": "2026",
+        "date": "8/30",
+        "month": 8,
+        "day": 30,
+        "day_of_week": "일",
+        "event_name": "포항호미반도트레일런",
+        "tags": [
+            "15km",
+            "10km"
+        ],
+        "location": "도구해수욕장",
+        "organizer": [
+            "파브코리아"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41642",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "이태재",
+        "start_time": "08:00",
+        "region": "경북",
+        "venue_detail": "도구해수욕장",
+        "registration_period": "2026년8월15일~2026년8월29일",
+        "description": "대한민국의 해안길 1번지찰랑거리는 파도와 함께 달리는 호미반도 트레일같이 즐겁게 달려요~~~^^"
     },
     {
         "year": "2026",
@@ -11431,8 +11429,8 @@
         "start_time": ":",
         "region": "충남",
         "venue_detail": "서산스포츠테마파크",
-        "registration_period": "2026년3월20일~2026년9월3일",
-        "description": "선착순 7000명 마감됩니다.조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요!감사합니다."
+        "registration_period": "2026년3월20일~2026년7월14일",
+        "description": "선착순 7000명 접수 마감 완료(7/14)8/31까지 환불 진행 후, 취소자가 많이 발생하는 경우공지사항을 통해 2차 접수(추가 접수) 날짜를 안내할 예정입니다."
     },
     {
         "year": "2026",
@@ -13920,6 +13918,35 @@
         "month": 11,
         "day": 7,
         "day_of_week": "토",
+        "event_name": "SaveRace 2026",
+        "tags": [
+            "10km"
+        ],
+        "location": "여의도공원 문화의마당",
+        "organizer": [
+            "카카오뱅크",
+            "유니셰프"
+        ],
+        "phone": "02-1566-1936",
+        "event_id": "41819",
+        "homepage": "http://www.saverace.co.kr",
+        "email": "emara@daum.net",
+        "representative": "김연수",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "여의도공원 문화의마당",
+        "registration_period": "2026년9월1일~2026년10월25일",
+        "description": "10km를 달리는Save Race 2026에 동참해지구와 미래 세대를 지켜주세요.카카오뱅크와 유니세프는Save Race를 통해 환경부하를 최소화하고친환경 문화를 확산시키고자 합니다.참가비 전액은 기후변화로 어려움을 겪고 있는전 세계의 미래 세대를 위해 사용될 예정입니다.",
+        "latitude": 37.5263394,
+        "longitude": 126.9222524,
+        "map_address": "서울특별시 영등포구 여의공원로 68-1"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
         "event_name": "GVIE RUN 2026 구미",
         "tags": [
             "10km",
@@ -14121,7 +14148,7 @@
         "month": 11,
         "day": 8,
         "day_of_week": "일",
-        "event_name": "제24회 금성산숲길마라톤",
+        "event_name": "제24회 전국 나주 금성산숲길마라톤",
         "tags": [
             "하프",
             "6km",
