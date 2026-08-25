@@ -10337,7 +10337,7 @@
         "start_time": "09:30",
         "region": "서울",
         "venue_detail": "구일역 하부 인라인스케이트장",
-        "registration_period": "2026년8월3일~2026년8월18일",
+        "registration_period": "2026년8월3일~2026년8월31일",
         "description": "안녕하세요. 마라톤을 사랑하는 러너 여러분! 🏃‍♂️🏃‍♀️선선한 바람이 불어오는 9월,9월 13일 안양천 단풍마라톤대회가 여러분을 기다립니다!",
         "latitude": 37.4931066,
         "longitude": 126.8703312,
@@ -10804,7 +10804,7 @@
         "start_time": "08:00",
         "region": "경남",
         "venue_detail": "김해 대동생태체육공원 축구장",
-        "registration_period": "2026년7월3일~2026년8월31일",
+        "registration_period": "2026년7월3일~2026년8월24일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 35.2534829,
         "longitude": 129.0004933,
@@ -11973,6 +11973,35 @@
         "latitude": 36.6066597,
         "longitude": 126.6438432,
         "map_address": "충청남도 홍성군 홍성읍 홍덕서로 78"
+    },
+    {
+        "year": "2026",
+        "date": "10/10",
+        "month": 10,
+        "day": 10,
+        "day_of_week": "토",
+        "event_name": "2026 하트런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "올림픽공원 피크닉장",
+        "organizer": [
+            "하트-하트재단"
+        ],
+        "phone": "070-4350-5663",
+        "event_id": "41822",
+        "homepage": "http://heartrun.co.kr/",
+        "email": "project@bigwalk.co.kr",
+        "representative": "신인숙",
+        "start_time": "10:00",
+        "region": "서울",
+        "venue_detail": "올림픽공원 피크닉장",
+        "registration_period": "2026년8월24일~2026년9월11일",
+        "description": "시각장애 아동을 위한 2026 하트런",
+        "latitude": 37.520934,
+        "longitude": 127.122959,
+        "map_address": "서울특별시 송파구 올림픽로 424"
     },
     {
         "year": "2026",
@@ -14526,6 +14555,34 @@
         "latitude": 34.9581406,
         "longitude": 128.6509677,
         "map_address": "경상남도 거제시 하청면 사환2길 80"
+    },
+    {
+        "year": "2026",
+        "date": "11/14",
+        "month": 11,
+        "day": 14,
+        "day_of_week": "토",
+        "event_name": "제2회 한강 브릿지 런",
+        "tags": [
+            "65km"
+        ],
+        "location": "구리한강시민공원 주차장",
+        "organizer": [
+            "파브코리아"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41821",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "김준형",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "구리한강시민공원 주차장",
+        "registration_period": "2026년8월21일~2026년11월13일",
+        "description": "지난 6월에 이어 두 번째로 한강 브릿지 울트라 대회를 개최합니다서울 한강을 가로 지르는 다리 전부를 두다리로 뛰어 건너는 특별한 경험!!대한민국의 대동맥 한강 위에 수많은 사연을 품고 서 있는 대교들,푸른 강물을 굽이 굽이 안고 뻗은 강변 주로, 하루 종일 늦가을 정취를 마음껏 즐기며 달려 봅시다.새처럼 자유롭게 Free As A Bird, FAAB와 명품트레일런이 함께하는 서울 한강다리 22개 완주대회에러너들을 초대합니다.",
+        "latitude": 37.6035119,
+        "longitude": 127.147628,
+        "map_address": "경기도 구리시 경춘로 298"
     },
     {
         "year": "2026",
