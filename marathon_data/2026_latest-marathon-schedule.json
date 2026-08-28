@@ -11705,7 +11705,7 @@
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "상암동 평화의공원 평화광장",
-        "registration_period": "2026년7월8일~2026년8월27일",
+        "registration_period": "2026년7월8일~2026년9월27일",
         "description": "일시:2026년 10월5일(월) 대체공휴일시각:8시종목:5km / 10km금액:45,000원 /50,000원사전접수(얼리버드):40,000원 /45,000원주최:(주)일요신문사, (주)비즈한국주관: 런앤런",
         "latitude": 37.5659053,
         "longitude": 126.8964648,
@@ -12644,7 +12644,7 @@
             "10km",
             "5km"
         ],
-        "location": "신정교 하부 영롱이 억새구장",
+        "location": "도림천역 600미터 영롱이 억새구장",
         "organizer": [
             "(사)행복한동행"
         ],
@@ -12655,7 +12655,7 @@
         "representative": "김기완",
         "start_time": "09:00",
         "region": "서울",
-        "venue_detail": "신정교 하부 영롱이 억새구장",
+        "venue_detail": "도림천역 600미터 영롱이 억새구장",
         "registration_period": "2026년7월7일~2026년10월7일",
         "description": "경청마라톤은 달리기를 통해서로를 응원하고, 마음을 나누며,작은 실천이 모여 더 큰 나눔으로 이어지기를 바라는 뜻에서 마련된 행사입니다.",
         "latitude": 37.5178604,
@@ -13286,6 +13286,35 @@
         "latitude": 35.9680345,
         "longitude": 127.0089392,
         "map_address": "전북특별자치도 익산시 무왕로 1397"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
+        "event_name": "2026 담양 트레일런 데이브레이크",
+        "tags": [
+            "29km",
+            "9km"
+        ],
+        "location": "담양군 일원",
+        "organizer": [
+            "담양군"
+        ],
+        "phone": "070-5088-1180",
+        "event_id": "41829",
+        "homepage": "http://projectruntrip.com",
+        "email": "o2notion@gmail.com",
+        "representative": "최현욱",
+        "start_time": "06:30",
+        "region": "전남",
+        "venue_detail": "담양군 일원",
+        "registration_period": "2026년8월27일~2026년10월24일",
+        "description": "2026 담양 트레일런 데이브레이크행사일 : 2026.10.24 (토)코스 : 9k/ 29k핵심 코스 : 추성경기장, 관방제림, 죽녹원, 메타세콰이어길, 금성산성",
+        "latitude": 35.3240694,
+        "longitude": 126.9937216,
+        "map_address": "전남광주통합특별시 담양군 담양읍 관방제림길 69"
     },
     {
         "year": "2026",
@@ -14507,6 +14536,38 @@
         "month": 11,
         "day": 14,
         "day_of_week": "토",
+        "event_name": "2026 통큰런",
+        "tags": [
+            "10km",
+            "5km",
+            "3km(가족런)"
+        ],
+        "location": "상암 월드컵공원 평화광장",
+        "organizer": [
+            "롯데마트",
+            "롯데슈퍼",
+            "기아대책"
+        ],
+        "phone": "070-8656-9035",
+        "event_id": "41831",
+        "homepage": "http://tongkeun-run.com",
+        "email": "bringup@bringup.co.kr",
+        "representative": "김성호",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "상암 월드컵공원 평화광장",
+        "registration_period": "2026년9월14일~2026년10월23일",
+        "description": "희망친구 기아대책과 롯데마트가 주최하고 서울특별시가 후원하는 기부 마라톤 행사입니다. 통큰런에서 조성된 기부금은 희망친구 기아대책의 에너지 취약계층 난방비 지원 사업과 보바스어린이재활센터의 환아 재활 치료에 사용합니다.",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "11/14",
+        "month": 11,
+        "day": 14,
+        "day_of_week": "토",
         "event_name": "2026 영종 하늘길 마라톤",
         "tags": [
             "하프",
@@ -14994,6 +15055,37 @@
         "latitude": 35.1380945,
         "longitude": 126.9304633,
         "map_address": "광주광역시 동구 조선대2길 79"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "제16회 대전서구청장배 마라톤대회",
+        "tags": [
+            "10km",
+            "5km",
+            "가족코스",
+            "건강코스"
+        ],
+        "location": "대전 유성구  엑스포 다리밑",
+        "organizer": [
+            "대전서구육상연맹/중걷마런"
+        ],
+        "phone": "042-543-5210",
+        "event_id": "41830",
+        "homepage": "http://JGMRUN.COM",
+        "email": "khtaha@naver.com",
+        "representative": "김형태",
+        "start_time": "09:00",
+        "region": "대전",
+        "venue_detail": "대전 유성구  엑스포 다리밑",
+        "registration_period": "2026년8월28일~2026년10월28일",
+        "description": "제16회 대전서구청장배 마라톤대회5km / 10km 코스로 진행되며 참가자 전원 기념품 및 완주메달을 제공합니다.참가비의 일부는 대전 서구 지역사회에 환원됩니다.중요한 건 멈추지 않는 마음!함께 달리고, 함께 나누는 러닝축제입니다.주관 : 중걷마런(JGMRUN)",
+        "latitude": 36.3688239,
+        "longitude": 127.3879822,
+        "map_address": "대전광역시 서구 둔산대로 169"
     },
     {
         "year": "2026",
@@ -15761,7 +15853,7 @@
         "month": 12,
         "day": 28,
         "day_of_week": "월",
-        "event_name": "2026 한강런",
+        "event_name": "2026 한강런 준비중",
         "tags": [
             "10km",
             "5km"
