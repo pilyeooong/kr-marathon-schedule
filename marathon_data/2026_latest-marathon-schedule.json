@@ -8991,7 +8991,7 @@
         ],
         "phone": "010-4539-6887",
         "event_id": "41508",
-        "homepage": "http://jyd.creatorlink.net",
+        "homepage": "http://jyd.kr",
         "email": "765kw@hanmail.net",
         "representative": "이춘호",
         "start_time": "9",
@@ -9263,32 +9263,6 @@
         "latitude": 36.9920576,
         "longitude": 128.3612377,
         "map_address": "충북 단양군 단양읍 별곡리 115 단양생태체육공원"
-    },
-    {
-        "year": "2026",
-        "date": "8/30",
-        "month": 8,
-        "day": 30,
-        "day_of_week": "일",
-        "event_name": "포항호미반도트레일런",
-        "tags": [
-            "15km",
-            "10km"
-        ],
-        "location": "도구해수욕장",
-        "organizer": [
-            "파브코리아"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "41642",
-        "homepage": "http://www.mtrailrun.kr/",
-        "email": "navido@gmail.com",
-        "representative": "이태재",
-        "start_time": "08:00",
-        "region": "경북",
-        "venue_detail": "도구해수욕장",
-        "registration_period": "2026년8월15일~2026년8월29일",
-        "description": "대한민국의 해안길 1번지찰랑거리는 파도와 함께 달리는 호미반도 트레일같이 즐겁게 달려요~~~^^"
     },
     {
         "year": "2026",
@@ -9613,34 +9587,6 @@
         "latitude": 37.1337299,
         "longitude": 128.9614633,
         "map_address": "강원특별자치도 태백시 태백산로 4767"
-    },
-    {
-        "year": "2026",
-        "date": "9/6",
-        "month": 9,
-        "day": 6,
-        "day_of_week": "일",
-        "event_name": "2026 문경새재 트레일런",
-        "tags": [
-            "13km"
-        ],
-        "location": "문경새재도립공원 제1주차장",
-        "organizer": [
-            "파브코리아"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "41787",
-        "homepage": "http://www.mtrailrun.kr/",
-        "email": "navido@gmail.com",
-        "representative": "김준형",
-        "start_time": "08:00",
-        "region": "경북",
-        "venue_detail": "문경새재도립공원 제1주차장",
-        "registration_period": "2026년8월10일~2026년9월5일",
-        "description": "새들도 쉬어 넘는 곳, 아픈 역사를 간직한 새재의 관문들을 달리며 가을을 맞아 보세요!!",
-        "latitude": 36.7616016,
-        "longitude": 128.077015,
-        "map_address": "경상북도 문경시 문경읍 새재로 932"
     },
     {
         "year": "2026",
@@ -13322,6 +13268,31 @@
         "month": 10,
         "day": 24,
         "day_of_week": "토",
+        "event_name": "서울 대모-구룡산트레일런",
+        "tags": [
+            "14.6km"
+        ],
+        "location": "수서역6번출구",
+        "organizer": [
+            "파브코리아"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41642",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "이태재",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "수서역6번출구",
+        "registration_period": "2026년8월15일~2026년10월23일",
+        "description": "서울의 대모산과 구룡산을 달리는 서울둘레길의 일부 구간입니다"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
         "event_name": "2026 제3회 감성런",
         "tags": [
             "10km",
@@ -13969,6 +13940,31 @@
         "venue_detail": "구미 낙동강체육공원",
         "registration_period": "2026년8월12일~2026년10월9일",
         "description": "GIVE RUN 2026 구미많은 참여 부탁 드립니다."
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
+        "event_name": "남한산성트레일",
+        "tags": [
+            "13km"
+        ],
+        "location": "산성로타리",
+        "organizer": [
+            "명품트레일런"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41787",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "이태재",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "산성로타리",
+        "registration_period": "2026년8월29일~2026년11월6일",
+        "description": "역사의 현장을 두발로 달려보는 남한산성길입니닺"
     },
     {
         "year": "2026",
@@ -15201,6 +15197,37 @@
         "latitude": 37.5536142,
         "longitude": 127.2132338,
         "map_address": "경기도 하남시 미사대로 505"
+    },
+    {
+        "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
+        "event_name": "2026 인천마라톤",
+        "tags": [
+            "풀",
+            "10km",
+            "5km"
+        ],
+        "location": "인천아시아드 주경기장, 운서역",
+        "organizer": [
+            "인천시",
+            "대한육상경기연맹"
+        ],
+        "phone": "02-3012-0187",
+        "event_id": "41832",
+        "homepage": "http://incheonmarathon.or.kr",
+        "email": "incheonmarathon.kr@gmail.com",
+        "representative": "박찬대",
+        "start_time": "08:00",
+        "region": "인천",
+        "venue_detail": "인천아시아드 주경기장, 운서역",
+        "registration_period": "2026년9월7일~2026년9월8일",
+        "description": "풀코스 출발은 영종구 운서역 일원임을 유의",
+        "latitude": 37.5476153,
+        "longitude": 126.6666172,
+        "map_address": "인천광역시 서해구 봉수대로 806"
     },
     {
         "year": "2026",
