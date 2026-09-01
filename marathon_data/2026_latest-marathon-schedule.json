@@ -12399,6 +12399,36 @@
         "month": 10,
         "day": 11,
         "day_of_week": "일",
+        "event_name": "2026 당진황금들녘 건강마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "당진 삽교 관광단지 헬기장.",
+        "organizer": [
+            "당진시스포츠관광협회"
+        ],
+        "phone": "010-2126-2019",
+        "event_id": "41837",
+        "homepage": "http://당진마라톤대회.com",
+        "email": "youngart03@hanmail.net",
+        "representative": "김영율",
+        "start_time": "08:00",
+        "region": "충남",
+        "venue_detail": "당진 삽교 관광단지 헬기장.",
+        "registration_period": "2026년8월31일~2026년9월23일",
+        "description": "황금빛 들녘을 달리며 가을의 정취를 만끽하는 당진 황금들녘 마라톤!탁 트인 당진의 풍경 속에서 가족, 친구, 동료와 함께 특별한 추억을 만들어보세요.기록에 도전하는 러너부터 즐겁게 달리고 싶은 참가자까지 누구나 함께할 수 있습니다.올가을, 황금빛 당진에서 힘찬 레이스를 시작해보세요!",
+        "latitude": 36.8851111,
+        "longitude": 126.8270567,
+        "map_address": "충청남도 당진시 신평면 삽교천길 84-29"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
         "event_name": "2026 서울레이스",
         "tags": [
             "하프",
@@ -13052,7 +13082,7 @@
         "region": "경기",
         "venue_detail": "여주 현암지구공원",
         "registration_period": "2026년6월2일~2026년6월29일",
-        "description": "선착순 5000명 1차 접수 마감 완료(4km 1,000명 / 10km 2,500명 / Half 1,500명)*2차 신청접수 개시*9/10(목) 오전 10시부터 선착순 500명 추가 모집합니다.",
+        "description": "선착순 5000명 1차 접수 마감 완료(4km 1,000명 / 10km 2,500명 / Half 1,500명)*2차 신청접수 개시*9/10(목) 오전 10시부터 선착순 200명 추가 모집합니다.",
         "latitude": 37.3097469,
         "longitude": 127.6290239,
         "map_address": "경기도 여주시 강변북로 163"
@@ -15610,6 +15640,34 @@
         "latitude": 35.561271,
         "longitude": 126.8557068,
         "map_address": "전북특별자치도 정읍시 벚꽃로 401"
+    },
+    {
+        "year": "2026",
+        "date": "12/5",
+        "month": 12,
+        "day": 5,
+        "day_of_week": "토",
+        "event_name": "2026월드 레코드 국제 마라톤 축제 - 사웨",
+        "tags": [
+            "14km"
+        ],
+        "location": "금산세계인삼엑스포광장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042- 638-1080",
+        "event_id": "41833",
+        "homepage": "http://mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d/guide/overview",
+        "email": " jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "10",
+        "region": "충남",
+        "venue_detail": "금산세계인삼엑스포광장",
+        "registration_period": "2026년8월31일~2026년9월20일",
+        "description": "2026런던 마라톤 월드 레코드1:59:30 사바스티안 사웨와 함께 할 수 있는 대회",
+        "latitude": 36.100165,
+        "longitude": 127.5012,
+        "map_address": "충청남도 금산군 금산읍 인삼광장로 30"
     },
     {
         "year": "2026",
