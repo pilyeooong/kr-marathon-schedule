@@ -11115,7 +11115,7 @@
         "start_time": "08:30",
         "region": "충북",
         "venue_detail": "무심천체육공원",
-        "registration_period": "2026년7월14일~2026년8월31일",
+        "registration_period": "2026년7월14일~2026년9월7일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 36.6398666,
         "longitude": 127.4832224,
@@ -11175,7 +11175,7 @@
         "start_time": "07:00",
         "region": "전북",
         "venue_detail": "완주군 고산자연휴양림",
-        "registration_period": "2026년6월19일~2026년8월31일",
+        "registration_period": "2026년6월19일~2026년9월31일",
         "description": "2026 완주트레일런가을이 가장 아름다운 계절, 완주에서 펼쳐지는 특별한 트레일 러닝 축제!완주트레일런은 아름다운 산과 숲길, 그리고 완주의 자연과 문화를 함께 경험할 수 있는 트레일 러닝 대회입니다. 도심을 벗어나 자연 속을 달리며 도전의 즐거움과 완주의 감동을 느껴보세요.초보 러너부터 숙련된 트레일 러너까지 누구나 자신의 목표에 맞게 참가할 수 있으며, 완주의 수려한 풍경과 다채로운 코스는 참가자들에게 잊지 못할 추억을 선사합니다.함께 달리고, 함께 응원하며, 함께 완주하는 축제.2026 완주트레일런에서 여러분의 새로운 도전을 기다립니다.\"달리는 순간, 완주가 특별해집니다.\""
     },
     {
@@ -12031,7 +12031,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "살곶이대운동장(축구장)",
-        "registration_period": "2026년7월10일~2026년8월30일",
+        "registration_period": "2026년7월10일~2026년9월30일",
         "description": "성공구 체육회 및 성동구 육상연맹에서 마라톤대회를 개최 합니다.3회 맞이하는 대회 많은 관심 및 참가 부탁드립니다.문의사항 : 삼삼이즈 채널이용 부탁드립니다.",
         "latitude": 37.5539764,
         "longitude": 127.0504494,
@@ -14206,6 +14206,98 @@
         "month": 11,
         "day": 8,
         "day_of_week": "일",
+        "event_name": "2026 청양군 칠갑마라톤",
+        "tags": [
+            "하프",
+            "14km",
+            "7km"
+        ],
+        "location": "청양군 청양목재문화자연사체험관",
+        "organizer": [
+            "청양군육상연맹"
+        ],
+        "phone": "010-4401-2829",
+        "event_id": "41846",
+        "homepage": "http://cymarathon.imweb.me/index?preview_mode=1",
+        "email": "88seok@naver.com",
+        "representative": "청양군육상연맹",
+        "start_time": "09:30",
+        "region": "충남",
+        "venue_detail": "청양군 청양목재문화자연사체험관",
+        "registration_period": "2026년9월2일~2026년9월2일",
+        "description": "2026 청양군체육회장기 칠갑마라톤대회입니다. 칠갑산의 맑은 공기와 아름다운 칠갑저수지를 배경으로 달리는 청양 힐링 레이스로, 2026년 11월 8일 개최됩니다. 하프코스, 14km, 7km 종목으로 진행되며 전국 마라톤 동호인과 누구나 참가할 수 있습니다. 참가신청, 대회요강, 코스안내, 참가자 기념품 등 자세한 정보를 확인하세요.",
+        "latitude": 36.4389778,
+        "longitude": 126.8503093,
+        "map_address": "충남 청양군 대치면 칠갑산로 704-21"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "2026 경상북도 신도시 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "경북도청 천년숲 앞",
+        "organizer": [
+            "경상북도",
+            "경상북도체육회"
+        ],
+        "phone": "070-7707-2808",
+        "event_id": "41844",
+        "homepage": "http://1004.tbc.co.kr/",
+        "email": "saehim@saehim.kr",
+        "representative": "이정아",
+        "start_time": "09:10",
+        "region": "경북",
+        "venue_detail": "경북도청 천년숲 앞",
+        "registration_period": "2026년9월1일~2026년10월8일",
+        "description": "2026년 11월 8일(일), 2026 경북도청 신도시 마라톤대회가 개최됩니다.참가자 접수가 시작되었으니, 전국의 마라톤 동호인 여러분의 많은 관심과 참여 바랍니다.경북도청 신도시 일원을 힘차게 달리며 경북의 새로운 중심에서 열리는 특별한 레이스를 함께 경험해보시기 바랍니다.도민과 함께하는 건강한 축제, 2026 경북도청 신도시 마라톤대회에서 여러분을 기다립니다!",
+        "latitude": 36.5734537,
+        "longitude": 128.5052055,
+        "map_address": "경상북도 안동시 풍천면 갈전리 1172"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
+        "event_name": "2026 경기화성 생태마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "5km 가족달리기"
+        ],
+        "location": "경기 화성 궁평항 일대",
+        "organizer": [
+            "경기신문"
+        ],
+        "phone": "010-4573-3330",
+        "event_id": "41843",
+        "homepage": "http://kiccrace.com",
+        "email": "dusports@naver.com",
+        "representative": "김동욱",
+        "start_time": "08:30",
+        "region": "경기",
+        "venue_detail": "경기 화성 궁평항 일대",
+        "registration_period": "2026년9월4일~2026년10월18일",
+        "description": "지역의 아름다운 자연과 생태환경을 직접 느끼며 달리는 특별한 시간,2026 경기화성 생태마라톤에 여러분들을 초대합니다.이번 대회는 단순히 정해진 코스를 달리고 기록을 남기는 마라톤을 넘어,지역의 자연을 직접 경험하고 그 가치를 함께 나누는 참여형 생태 러닝 행사를 지향합니다.해안도로와 지역의 자연환경을 따라 달리며 평소 쉽게 지나쳤던 생태와 풍경을 가까이에서 만나고, 가족과 친구, 러너들이 함께 자연 속에서 건강한 시간을 즐길 수 있습니다.대회에서 제공되는 굿즈와 기념품 역시 환경을 생각한 방향으로 구성하며,행사장에서 발생하는 페트병은 별도의 수거함을 통해 분리배출하여 자원순환에 동참합니다.달리는 순간뿐 아니라 행사에 참여하는 모든 과정에서 환경을 생각하고 실천하는 경험을 함께 만들어갑니다.하프, 10km, 5km, 가족 5km 등 다양한 종목으로 구성되어 전문 러너는 물론 마라톤이 처음인 참가자와 가족들도 부담 없이 참여할 수 있습니다.자연을 달리고, 생태를 느끼며, 우리의 한 걸음으로 더 나은 환경을 만들어가는 특별한 러닝 축제가 될 것입니다.",
+        "latitude": 37.1164316,
+        "longitude": 126.6844308,
+        "map_address": "경기도 화성시 만세구 서신면 궁평항로 1064"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
         "event_name": "제24회 전국 나주 금성산숲길마라톤",
         "tags": [
             "하프",
@@ -14768,6 +14860,94 @@
         "month": 11,
         "day": 15,
         "day_of_week": "일",
+        "event_name": "2026 FILA RUN & ESPRESSO",
+        "tags": [
+            "10km"
+        ],
+        "location": "상암 월드컵공원 평화광장",
+        "organizer": [
+            "휠라코리아"
+        ],
+        "phone": "02-334-6274",
+        "event_id": "41847",
+        "homepage": "http://www.fila.co.kr/pages/fila-run-espresso-10k-seoul",
+        "email": "filaonline@mistobrand.com",
+        "representative": "휠라",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "상암 월드컵공원 평화광장",
+        "registration_period": "2026년8월31일~2026년9월10일",
+        "description": "참가비 : 70,000~179,000원,",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "2026 손기정평화마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "6km코스"
+        ],
+        "location": "파주 임진각",
+        "organizer": [
+            "손기정기념재단"
+        ],
+        "phone": "02-364-1936",
+        "event_id": "41845",
+        "homepage": "http://sonkeechungrun.com",
+        "email": "wizrun@naver.com",
+        "representative": "이관수",
+        "start_time": ":",
+        "region": "경기",
+        "venue_detail": "파주 임진각",
+        "registration_period": "2026년8월9일~2026년9월14일",
+        "description": "많은 참여바랍니다",
+        "latitude": 37.8920435,
+        "longitude": 126.7447929,
+        "map_address": "경기도 파주시 문산읍 임진각로 148-40"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "제12회 창원특례시장배 광려천마라톤",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "창원시 광려천수변공원",
+        "organizer": [
+            "창원시육상연맹"
+        ],
+        "phone": "070-4443-4392",
+        "event_id": "41838",
+        "homepage": "http://www.cwaaf.kr/bbs/board.php?bo_table=rally&wr_id=3",
+        "email": "dain-comm@naver.com",
+        "representative": "이명국",
+        "start_time": "09:00",
+        "region": "경남",
+        "venue_detail": "창원시 광려천수변공원",
+        "registration_period": "2026년9월1일~2026년9월15일",
+        "description": "제 12회 창원특례시장배 광려천마라톤대회 입니다.",
+        "latitude": 35.2221498,
+        "longitude": 128.5041819,
+        "map_address": "경상남도 창원시 마산회원구 내서읍 경남대로 806"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
         "event_name": "2026 나눔레이스 인 용인",
         "tags": [
             "10km",
@@ -14820,6 +15000,34 @@
         "latitude": 35.0498003,
         "longitude": 128.9614035,
         "map_address": "부산광역시 사하구 다대로 734"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
+        "event_name": "26회 창원통일마라톤",
+        "tags": [
+            "5km"
+        ],
+        "location": "창원종합운동장 보조경기장",
+        "organizer": [
+            "창원통일마라톤대회조직위원회"
+        ],
+        "phone": "055-285-6158",
+        "event_id": "41842",
+        "homepage": "http://www.tongilmarathon.kr",
+        "email": "onekrmarathon@naver.com",
+        "representative": "김은형",
+        "start_time": "9",
+        "region": "경남",
+        "venue_detail": "창원종합운동장 보조경기장",
+        "registration_period": "2026년9월14일~2026년10월23일",
+        "description": "달리고 싶다.백두산까지! 창원통일마라톤대회는 지난 25년간 무사고를 자랑하는 대회입니다.평화와 통일의 마음 담아 2026년 올해도 달리미들의 많은 참가바랍니다.",
+        "latitude": 35.2339885,
+        "longitude": 128.6647016,
+        "map_address": "경상남도 창원시 성산구 원이대로 450"
     },
     {
         "year": "2026",
@@ -15409,6 +15617,33 @@
     },
     {
         "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
+        "event_name": "2026 무주반딧불평화마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "무주 등나무운동장",
+        "organizer": [
+            "무주마라톤협회/평화마라톤조직위"
+        ],
+        "phone": "010-7469-1526",
+        "event_id": "41841",
+        "homepage": "http://mujumarathon.com",
+        "email": "samsamis@naver.com",
+        "representative": "이소현",
+        "start_time": "9:00",
+        "region": "전북",
+        "venue_detail": "무주 등나무운동장",
+        "registration_period": "2026년9월1일~2026년10월28일",
+        "description": "2026 무주평화마라톤대회 슬로건\"달림으로 잇는 평화, 무주에서 하나 되다“"
+    },
+    {
+        "year": "2026",
         "date": "11/28",
         "month": 11,
         "day": 28,
@@ -15816,6 +16051,36 @@
         "latitude": 37.5640848,
         "longitude": 126.8924308,
         "map_address": "서울특별시 마포구 증산로 32"
+    },
+    {
+        "year": "2026",
+        "date": "12/12",
+        "month": 12,
+        "day": 12,
+        "day_of_week": "토",
+        "event_name": "제3회 긍정의힘 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "신정교 하부 영롱이 억새구장",
+        "organizer": [
+            "(사)한국유튜브방송협회"
+        ],
+        "phone": "02-336-1588",
+        "event_id": "41840",
+        "homepage": "http://www.powerrun.kr/",
+        "email": "run@powerrun.kr",
+        "representative": "최인식",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "신정교 하부 영롱이 억새구장",
+        "registration_period": "2026년8월30일~2026년12월6일",
+        "description": "긍정으로 내딛는 한 걸음, 오늘의 힘이 됩니다.힘찬 발걸음마다 새로운 용기와 좋은 에너지가 가득하기를 바랍니다.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
     },
     {
         "year": "2026",
