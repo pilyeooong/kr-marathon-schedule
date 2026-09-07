@@ -11928,6 +11928,35 @@
         "month": 10,
         "day": 10,
         "day_of_week": "토",
+        "event_name": "진안트레일레이스",
+        "tags": [
+            "16km",
+            "6km"
+        ],
+        "location": "국립진안고원산림치유원",
+        "organizer": [
+            "주식회사 락앤런"
+        ],
+        "phone": "063-353-2025",
+        "event_id": "41747",
+        "homepage": "http://rocknrun.kr",
+        "email": "info@rocknrun.kr",
+        "representative": "김영록",
+        "start_time": "8:00",
+        "region": "전북",
+        "venue_detail": "국립진안고원산림치유원",
+        "registration_period": "2026년8월10일~2026년9월20일",
+        "description": "10월 10일, 10월 11일 양일간 동일종목 개최합니다.",
+        "latitude": 35.6797413,
+        "longitude": 127.4399047,
+        "map_address": "전북특별자치도 진안군 백운면 백운동로 473"
+    },
+    {
+        "year": "2026",
+        "date": "10/10",
+        "month": 10,
+        "day": 10,
+        "day_of_week": "토",
         "event_name": "제주풍차런",
         "tags": [
             "10km",
@@ -12138,6 +12167,36 @@
         "month": 10,
         "day": 11,
         "day_of_week": "일",
+        "event_name": "함께런 러닝 페스티벌",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "미사경정공원 관리동 광장",
+        "organizer": [
+            "미사강변종합사회복지관",
+            "진선재"
+        ],
+        "phone": "02-515-9033",
+        "event_id": "41852",
+        "homepage": "http://runcop.com/event/hamkkerun",
+        "email": "myung9031@runcop.com",
+        "representative": "박명현",
+        "start_time": ":",
+        "region": "경기",
+        "venue_detail": "미사경정공원 관리동 광장",
+        "registration_period": "2026년9월4일~2026년9월20일",
+        "description": "누군가와 함께 달린다는건 정말 행복한 일입니다.누군가의 걸음이 느려도 괜찮습니다.우리는 같은 길을, 함께 걷고 있으니까요.함께라면 더 멀리. 함께Run!함께여서 기쁨 두배.함께 RUN!함께가는 멋진 우리.함께 RUN!",
+        "latitude": 37.5536142,
+        "longitude": 127.2132338,
+        "map_address": "경기도 하남시 미사대로 505"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
         "event_name": "제22회  금천구청장배 건강달리기",
         "tags": [
             "10km",
@@ -12218,35 +12277,6 @@
         "latitude": 37.4963912,
         "longitude": 126.8699205,
         "map_address": "서울특별시 구로구 구일로 133"
-    },
-    {
-        "year": "2026",
-        "date": "10/11",
-        "month": 10,
-        "day": 11,
-        "day_of_week": "일",
-        "event_name": "진안고원 포레스티벌 Run & Heal",
-        "tags": [
-            "16km",
-            "6km"
-        ],
-        "location": "국립진안고원산림치유원",
-        "organizer": [
-            "주식회사 락앤런"
-        ],
-        "phone": "063-353-2025",
-        "event_id": "41747",
-        "homepage": "http://rocknrun.kr",
-        "email": "info@rocknrun.kr",
-        "representative": "김영록",
-        "start_time": "8:00",
-        "region": "전북",
-        "venue_detail": "국립진안고원산림치유원",
-        "registration_period": "2026년8월10일~2026년9월15일",
-        "description": "10월 10일, 10월 11일 양일간 동일종목 개최합니다.",
-        "latitude": 35.6797413,
-        "longitude": 127.4399047,
-        "map_address": "전북특별자치도 진안군 백운면 백운동로 473"
     },
     {
         "year": "2026",
@@ -12547,6 +12577,35 @@
         "latitude": 37.4873504,
         "longitude": 127.1023689,
         "map_address": "서울특별시 강남구 광평로 276-2 (수서동) [지번] 서울특별시 강남구 수서동 719-2"
+    },
+    {
+        "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
+        "event_name": "2026 억새노을마라톤대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "상무시민공원",
+        "organizer": [
+            "전남광주통합특별시 서구"
+        ],
+        "phone": "061-375-1201",
+        "event_id": "41857",
+        "homepage": "http://xn--o80b37in2b02lesgqqcj12a.kr/index.asp",
+        "email": "ds4bjt@hanmail.net",
+        "representative": "안종옥",
+        "start_time": "16:00",
+        "region": "광주",
+        "venue_detail": "상무시민공원",
+        "registration_period": "2026년9월8일~2026년9월28일",
+        "description": "선착순 2,000명 접수 받습니다.많은 관심과 접수 부탁드립니다.",
+        "latitude": 35.1533864,
+        "longitude": 126.8410853,
+        "map_address": "전남광주통합특별시 서구 상무공원로 101"
     },
     {
         "year": "2026",
@@ -13086,6 +13145,37 @@
         "latitude": 37.3097469,
         "longitude": 127.6290239,
         "map_address": "경기도 여주시 강변북로 163"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
+        "event_name": "불닭 버닝 트레일런",
+        "tags": [
+            "5km",
+            "23K",
+            "13K"
+        ],
+        "location": "대관령 삼양라운드힐",
+        "organizer": [
+            "프립",
+            "러너킹"
+        ],
+        "phone": "070-8843-0320",
+        "event_id": "41858",
+        "homepage": "http://burningfesta.com",
+        "email": "runner_king@naver.com",
+        "representative": "이윤미",
+        "start_time": "11:00",
+        "region": "강원",
+        "venue_detail": "대관령 삼양라운드힐",
+        "registration_period": "2026년9월6일~2026년9월6일",
+        "description": "달리고, 태우고,온전히 비워내는 버닝 페스타2026.10.24-25강원도 평창, 삼양라운드힐초원을 달리고, 밤을 불태우고,일상은 잠시 OFFRUN. BURN. RETREAT대관령의 낮과 밤을 통째로 즐기는 아웃도어 페스타.600만 평 초원을 달리다낮과 밤을 불태우는 에너지페포와 함께하는 밤의 절정비우고, 쉬고, 채워가는 하루23K, 13K, 5K",
+        "latitude": 37.723936,
+        "longitude": 128.7196692,
+        "map_address": "강원특별자치도 평창군 대관령면 꽃밭양지길 708-9"
     },
     {
         "year": "2026",
@@ -13944,6 +14034,36 @@
         "latitude": 37.5659053,
         "longitude": 126.8964648,
         "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
+        "event_name": "런텐 13차 레이스 JUST RUN10 대전",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "엑스포다리 인근",
+        "organizer": [
+            "(주)러닝브레이커",
+            "전국러닝협회"
+        ],
+        "phone": "042-710-2058",
+        "event_id": "41849",
+        "homepage": "http://runten.co.kr",
+        "email": "runningbreaker@naver.com",
+        "representative": "윤세준",
+        "start_time": "09:00",
+        "region": "대전",
+        "venue_detail": "엑스포다리 인근",
+        "registration_period": "2026년9월2일~2026년10월10일",
+        "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
+        "latitude": 36.3715793,
+        "longitude": 127.3885,
+        "map_address": "대전광역시 유성구 도룡동 607"
     },
     {
         "year": "2026",
@@ -16020,6 +16140,31 @@
         "latitude": 37.5318647,
         "longitude": 126.9232253,
         "map_address": "서울특별시 영등포구 여의서로 62"
+    },
+    {
+        "year": "2026",
+        "date": "12/6",
+        "month": 12,
+        "day": 6,
+        "day_of_week": "일",
+        "event_name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
+        "tags": [
+            "10km"
+        ],
+        "location": "금산세계인삼엑스포광장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042- 638-1080",
+        "event_id": "41856",
+        "homepage": "http://www.mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d",
+        "email": " jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "10",
+        "region": "충남",
+        "venue_detail": "금산세계인삼엑스포광장",
+        "registration_period": "2026년9월8일~2026년10월30일",
+        "description": "2026 런던마라톤 월드레코드 사바스티안 사웨 선수와 함께 하는 대회"
     },
     {
         "year": "2026",
