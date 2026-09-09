@@ -7025,7 +7025,7 @@
             "10km",
             "5km"
         ],
-        "location": "춘천시청 호반광장 일원",
+        "location": "춘천시청 광장 일원",
         "organizer": [
             "강원도민일보"
         ],
@@ -7036,7 +7036,7 @@
         "representative": "김중석",
         "start_time": ":",
         "region": "강원",
-        "venue_detail": "춘천시청 호반광장 일원",
+        "venue_detail": "춘천시청 광장 일원",
         "registration_period": "2026년3월12일~2026년5월22일",
         "description": "·강원특별자치도 출범 3주년 기념 및 지역경제 활성화·강원도민 및 전국 마라톤 동호인들의 건강증진 및 화합도모·내륙의 섬 중도를 기반으로 하는 특색있는 마라톤코스 운영 및 정착",
         "latitude": 37.8813738,
@@ -15851,6 +15851,35 @@
     },
     {
         "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
+        "event_name": "제6회 고용노동부장관배 직장인마라톤대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "하남미사경정공원일원",
+        "organizer": [
+            "나눔레이스조직위원회"
+        ],
+        "phone": "02-2135-1297",
+        "event_id": "41859",
+        "homepage": "http://krun.or.kr",
+        "email": "kstma0320@naver.com",
+        "representative": "위길숙",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "하남미사경정공원일원",
+        "registration_period": "2026년9월9일~2026년9월30일",
+        "description": "직장인의 건강, 기업의 조직문화, 지역의 활력과 국제 스포츠 교류가 함께 성장하는 지속 가능한 스포츠 생태계를 만들어갑니다.",
+        "latitude": 37.5536142,
+        "longitude": 127.2132338,
+        "map_address": "경기도 하남시 미사대로 505"
+    },
+    {
+        "year": "2026",
         "date": "11/28",
         "month": 11,
         "day": 28,
@@ -16287,6 +16316,35 @@
     },
     {
         "year": "2026",
+        "date": "12/6",
+        "month": 12,
+        "day": 6,
+        "day_of_week": "일",
+        "event_name": "2026 청춘런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "상암동 평화의공원 평화광장",
+        "organizer": [
+            "런앤런"
+        ],
+        "phone": "02-2632-0912",
+        "event_id": "41860",
+        "homepage": "http://www.youthrun.co.kr",
+        "email": "2025youthrun@gmail.com",
+        "representative": "최란",
+        "start_time": ":",
+        "region": "서울",
+        "venue_detail": "상암동 평화의공원 평화광장",
+        "registration_period": "2026년9월9일~2026년11월8일",
+        "description": "함께 달리는 청춘, 함께 웃는 내일2026 청춘런청춘RUN 수익금의 일부는 초록우산을 통해자립준비청년의 주거, 교육, 취업, 생활 안정 등자립 지원 사업에 사용됩니다.당신의 한 걸음이 누군가의 새로운 시작이 됩니다.함께 달리며, 청춘의 내일을 응원해주세요!",
+        "latitude": 37.563534,
+        "longitude": 126.8984371,
+        "map_address": "서울특별시 마포구 월드컵로 243-60"
+    },
+    {
+        "year": "2026",
         "date": "12/12",
         "month": 12,
         "day": 12,
@@ -16476,13 +16534,13 @@
         ],
         "location": "안양천다목적광장",
         "organizer": [
-            "(사)대한생활체육연맹"
+            "한강런(주)"
         ],
         "phone": "02-888-8805",
         "event_id": "41806",
         "homepage": "http://hgrun.kr",
         "email": "start@hgrun.kr",
-        "representative": "김제오",
+        "representative": "한강런",
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "안양천다목적광장",
