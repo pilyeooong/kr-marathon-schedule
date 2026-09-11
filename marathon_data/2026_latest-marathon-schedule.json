@@ -13717,7 +13717,7 @@
         "tags": [
             "10km",
             "5km",
-            "2.5km"
+            "2.3km"
         ],
         "location": "인제스피디움",
         "organizer": [
@@ -13731,7 +13731,7 @@
         "start_time": ":",
         "region": "강원",
         "venue_detail": "인제스피디움",
-        "registration_period": "2026년9월22일~2026년10월30일",
+        "registration_period": "2026년9월22일~2026년10월12일",
         "description": "MARVEL RUN달리는 순간부터, 즐기는 순간까지.하루 종일 펼쳐지는 MARVEL PLAYGROUND!레이싱의 짜릿함이 가득한 인제스피디움이 하루 동안 마블의 세계로 변신합니다.서킷 위를 직접 달리는 특별한 러닝부터 마블 히어로를 테마로 한 다양한 체험과 이벤트, 포토존과 엔터테인먼트까지.기록을 위해 달리는 러너도, 가족·친구와 특별한 하루를 보내고 싶은 사람도 모두 함께 즐길 수 있는 하루 종일 머물고 싶은 러닝 테마파크가 펼쳐집니다.달리는 즐거움과 마블을 경험하는 특별한 순간이 하나로 이어지는 하루.RUN. PLAY. ENJOY.달리고, 즐기고, 마블의 세계에 빠져보세요.MARVEL RUN at INJE SPEEDIUM",
         "latitude": 38.0026931,
         "longitude": 128.2951054,
@@ -14096,6 +14096,38 @@
     },
     {
         "year": "2026",
+        "date": "11/6",
+        "month": 11,
+        "day": 6,
+        "day_of_week": "금",
+        "event_name": "제40회 서봉기단축마라톤",
+        "tags": [
+            "10km",
+            "10km",
+            "개인",
+            "단체전",
+            "지역학생대회"
+        ],
+        "location": "경북문경시민운동장(시내일원)",
+        "organizer": [
+            "문경시육상연맹"
+        ],
+        "phone": "010-6711-2215",
+        "event_id": "41862",
+        "homepage": "http://cafe.daum.net/seobongmarathon",
+        "email": "ysy1240@naver.com",
+        "representative": "신윤교",
+        "start_time": "11",
+        "region": "경북",
+        "venue_detail": "경북문경시민운동장(시내일원)",
+        "registration_period": "2026년9월10일~2026년11월5일",
+        "description": "10km 개인,단체전 , 지역학생대회",
+        "latitude": 36.5932148,
+        "longitude": 128.187405,
+        "map_address": "경상북도 문경시 점고길 15"
+    },
+    {
+        "year": "2026",
         "date": "11/7",
         "month": 11,
         "day": 7,
@@ -14123,6 +14155,35 @@
         "latitude": 36.3715793,
         "longitude": 127.3885,
         "map_address": "대전광역시 유성구 도룡동 607"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
+        "event_name": "2026 여수 일레븐브리지마라톤",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "여수시 화양면 조발전망대 광장",
+        "organizer": [
+            "일레븐브리지마라톤조직위원회"
+        ],
+        "phone": "061-921-6600",
+        "event_id": "41864",
+        "homepage": "http://marathontest1.s3-website.ap-northeast-2.amazonaws.com/",
+        "email": "namdotour89@naver.com",
+        "representative": "김경호",
+        "start_time": "09:00",
+        "region": "전남",
+        "venue_detail": "여수시 화양면 조발전망대 광장",
+        "registration_period": "2026년9월14일~2026년9월23일",
+        "description": "2026 여수 일레븐브리지마라톤",
+        "latitude": 34.6311286,
+        "longitude": 127.5624287,
+        "map_address": "전남광주통합특별시 여수시 화정면 화양조발대교로 151"
     },
     {
         "year": "2026",
@@ -15614,6 +15675,37 @@
         "latitude": 37.4886878,
         "longitude": 127.1066592,
         "map_address": "서울특별시 강남구 광평로 318 (수서동) [지번] 서울특별시 강남구 수서동 99"
+    },
+    {
+        "year": "2026",
+        "date": "11/21",
+        "month": 11,
+        "day": 21,
+        "day_of_week": "토",
+        "event_name": "2026 전마협 보성녹차 Autumn 마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "보성군 공설운동장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41863",
+        "homepage": "http://mara1080.com/event/cf5801a7-c7fd-4152-998b-bf11f0ec3e26",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "전남",
+        "venue_detail": "보성군 공설운동장",
+        "registration_period": "2026년9월11일~2026년10월16일",
+        "description": "2026 전마협 보성녹차 Autumn 마라톤대회선착순 5,000명 (오전 10시부터 접수예정)공인코스 실측완료!풀코스 완주자분들께는 공인코스 기록증이 제공됩니다.",
+        "latitude": 34.7737076,
+        "longitude": 127.0940691,
+        "map_address": "전남광주통합특별시 보성군 보성읍 용문길 18"
     },
     {
         "year": "2026",
