@@ -11115,7 +11115,7 @@
         "start_time": "08:30",
         "region": "충북",
         "venue_detail": "무심천체육공원",
-        "registration_period": "2026년7월14일~2026년9월7일",
+        "registration_period": "2026년7월14일~2026년9월11일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 36.6398666,
         "longitude": 127.4832224,
@@ -13743,7 +13743,7 @@
         "month": 10,
         "day": 31,
         "day_of_week": "토",
-        "event_name": "2026 JUST RUN10 포천",
+        "event_name": "런텐 12차 레이스 JUST RUN10 포천",
         "tags": [
             "10km",
             "5km"
@@ -15682,6 +15682,36 @@
         "month": 11,
         "day": 21,
         "day_of_week": "토",
+        "event_name": "런텐 14차 JUST RUN10 대구",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "금호강 러닝성지",
+        "organizer": [
+            "(주)러닝브레이커",
+            "전국러닝협회"
+        ],
+        "phone": "042-710-2058",
+        "event_id": "41868",
+        "homepage": "http://runten.co.kr",
+        "email": "runningbreaker@naver.com",
+        "representative": "윤세준",
+        "start_time": "09:00",
+        "region": "대구",
+        "venue_detail": "금호강 러닝성지",
+        "registration_period": "2026년9월11일~2026년10월20일",
+        "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
+        "latitude": 35.8764828,
+        "longitude": 128.6627985,
+        "map_address": "대구광역시 동구 화랑로88길 102"
+    },
+    {
+        "year": "2026",
+        "date": "11/21",
+        "month": 11,
+        "day": 21,
+        "day_of_week": "토",
         "event_name": "2026 전마협 보성녹차 Autumn 마라톤",
         "tags": [
             "풀",
@@ -15793,6 +15823,35 @@
         "latitude": 37.5536142,
         "longitude": 127.2132338,
         "map_address": "경기도 하남시 미사대로 505"
+    },
+    {
+        "year": "2026",
+        "date": "11/21",
+        "month": 11,
+        "day": 21,
+        "day_of_week": "토",
+        "event_name": "2026 아식스 서울신문 고프리런",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "여의도공원 문화의마당",
+        "organizer": [
+            "서울신문/ 아식스"
+        ],
+        "phone": "02-785-1915",
+        "event_id": "41865",
+        "homepage": "http://gofree.seoul.co.kr/",
+        "email": "help@sportlink.co.kr",
+        "representative": "김성수",
+        "start_time": "07:30",
+        "region": "서울",
+        "venue_detail": "여의도공원 문화의마당",
+        "registration_period": "2026년9월1일~2026년10월21일",
+        "description": "2026년 11월 21일(토) 서울 여의도공원에서 2026 아식스 서울신문 고프리런마라톤대회가 진행이 됩니다. 하프/10k코스로 운영이 되며많은 관심과 신청바랍니다.",
+        "latitude": 37.5268088,
+        "longitude": 126.9222841,
+        "map_address": "서울특별시 영등포구 여의공원로 68"
     },
     {
         "year": "2026",
@@ -16240,6 +16299,37 @@
         "month": 12,
         "day": 5,
         "day_of_week": "토",
+        "event_name": "제4회 가든파이브 라이프 레이스",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "마니아"
+        ],
+        "location": "서울 가든파이브라이프 중앙광장",
+        "organizer": [
+            "국민체육진흥협회"
+        ],
+        "phone": "02-3210-1666",
+        "event_id": "41867",
+        "homepage": "http://www.irunman.kr",
+        "email": "sportainrun@naver.com",
+        "representative": "강일효",
+        "start_time": ":",
+        "region": "서울",
+        "venue_detail": "서울 가든파이브라이프 중앙광장",
+        "registration_period": "2026년9월10일~2026년11월16일",
+        "description": "2026년 12월 5일(토) 제4회 가든파이브 라이프 레이스 마라톤대회를 가든파이브 라이프 중앙광장에서 개최하오니 달림이 및 동호회 여러분의 많은 성원과 참여 바랍니다.",
+        "latitude": 37.4776148,
+        "longitude": 127.1249617,
+        "map_address": "서울특별시 송파구 충민로 66"
+    },
+    {
+        "year": "2026",
+        "date": "12/5",
+        "month": 12,
+        "day": 5,
+        "day_of_week": "토",
         "event_name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
         "tags": [
             "10km",
@@ -16528,6 +16618,36 @@
     },
     {
         "year": "2026",
+        "date": "12/12",
+        "month": 12,
+        "day": 12,
+        "day_of_week": "토",
+        "event_name": "2026 ONE MORE RUN",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "영종구 씨사이드파크 일원",
+        "organizer": [
+            "새마펄스"
+        ],
+        "phone": "00-1811-7978",
+        "event_id": "41866",
+        "homepage": "http://www.omrun.co.kr",
+        "email": "saema-run@naver.com",
+        "representative": "홍혜선",
+        "start_time": ":",
+        "region": "인천",
+        "venue_detail": "영종구 씨사이드파크 일원",
+        "registration_period": "2026년9월14일~2026년11월20일",
+        "description": "올해의 마지막, 한 번 더 달립니다.차가운 겨울 공기 속에서 한 해의 마지막 레이스를 함께할「2026 ONE MORE RUN」이 개최됩니다.기록을 위한 도전도,즐겁게 달리는 러닝도 모두 좋습니다.ONE MORE CHALLENGE.ONE MORE MEMORY.ONE MORE RUN.여러분의 많은 관심과 참여 바랍니다.",
+        "latitude": 37.4820145,
+        "longitude": 126.5671848,
+        "map_address": "인천광역시 영종구 하늘달빛로2번길 8"
+    },
+    {
+        "year": "2026",
         "date": "12/13",
         "month": 12,
         "day": 13,
@@ -16573,7 +16693,7 @@
         "organizer": [
             "진주시육상연맹"
         ],
-        "phone": "010-3931-1356",
+        "phone": "010-5521-3720",
         "event_id": "41745",
         "homepage": "http://www.jinma.co.kr",
         "email": "wyr1203@naver.com",
