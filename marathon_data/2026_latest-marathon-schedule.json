@@ -11145,7 +11145,7 @@
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "상암 월드컵공원 평화광장",
-        "registration_period": "2026년7월7일~2026년9월21일",
+        "registration_period": "2026년7월7일~2026년9월27일",
         "description": "저희는 2026 마스터즈 하프 마라톤이 참가자 여러분께 안전하고 즐거운 대회, 그리고 다시 도전할 힘을 얻는 뜻깊은 시간이 되기를 바라는 마음으로 준비했습니다. 오늘의 모든 순간이 여러분에게 오래 기억될 좋은 추억이 되기를 바랍니다.",
         "latitude": 37.5659053,
         "longitude": 126.8964648,
@@ -14173,14 +14173,14 @@
         ],
         "phone": "061-921-6600",
         "event_id": "41864",
-        "homepage": "http://marathontest1.s3-website.ap-northeast-2.amazonaws.com/",
+        "homepage": "http://11bridge.com",
         "email": "namdotour89@naver.com",
         "representative": "김경호",
         "start_time": "09:00",
         "region": "전남",
         "venue_detail": "여수시 화양면 조발전망대 광장",
-        "registration_period": "2026년9월14일~2026년9월23일",
-        "description": "2026 여수 일레븐브리지마라톤",
+        "registration_period": "2026년9월16일~2026년9월23일",
+        "description": "2026 여수 일레븐브리지마라톤2026년 9월 16일 09시부터 접수 받습니다.",
         "latitude": 34.6311286,
         "longitude": 127.5624287,
         "map_address": "전남광주통합특별시 여수시 화정면 화양조발대교로 151"
@@ -15682,7 +15682,7 @@
         "month": 11,
         "day": 21,
         "day_of_week": "토",
-        "event_name": "런텐 14차 JUST RUN10 대구",
+        "event_name": "런텐 14차 레이스 JUST RUN10 대구",
         "tags": [
             "10km",
             "5km"
@@ -16308,12 +16308,12 @@
         ],
         "location": "서울 가든파이브라이프 중앙광장",
         "organizer": [
-            "국민체육진흥협회"
+            "스포테인"
         ],
         "phone": "02-3210-1666",
         "event_id": "41867",
         "homepage": "http://www.irunman.kr",
-        "email": "sportainrun@naver.com",
+        "email": "runct@naver.com",
         "representative": "강일효",
         "start_time": ":",
         "region": "서울",
