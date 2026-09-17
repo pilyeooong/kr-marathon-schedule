@@ -12081,7 +12081,7 @@
         "organizer": [
             "성동구체육회 / 성동구육상연맹"
         ],
-        "phone": "010-2222-0000",
+        "phone": "010-0000-0000",
         "event_id": "41665",
         "homepage": "http://samsamis.com/57",
         "email": "samsamis@naver.com",
@@ -12189,6 +12189,35 @@
         "latitude": 37.8049443,
         "longitude": 128.9070968,
         "map_address": "강원특별자치도 강릉시 경포로 513"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
+        "event_name": "83타워 업힐런",
+        "tags": [
+            "업힐코스",
+            "수직계단코스"
+        ],
+        "location": "대구 이월드 및 83타워",
+        "organizer": [
+            "㈜이월드 / 페스티벌잼"
+        ],
+        "phone": "010-9514-0724",
+        "event_id": "41876",
+        "homepage": "http://leisure-web.yanolja.com/leisure/10365567",
+        "email": "festivaljam2024@gmail.com",
+        "representative": "남승화",
+        "start_time": "07:00",
+        "region": "대구",
+        "venue_detail": "대구 이월드 및 83타워",
+        "registration_period": "2026년9월11일~2026년10월10일",
+        "description": "83타워 업힐런 챌린지는 대구 이월드와 83타워를 무대로 진행되는 도심형 업힐·수직 러닝 이벤트입니다.참가자는 이월드 내 약 1.8km 업힐 구간을 달린 뒤 83타워 계단에 진입하여 77층 피니시까지 도전하게 됩니다. 일반적인 평지 러닝과 달리 업힐 러닝과 타워 수직계단 러닝을 한 번에 경험할 수 있도록 구성했습니다.완주 후에는 83타워에서 리커버리 프로그램과 애프터파티, 럭키드로우 등 다양한 프로그램이 함께 진행됩니다. 참가자에게는 완주 기념 메달 및 참가 기념품 등이 제공됩니다.일시: 2026년 10월 11일(일) 오전 7시 출발장소: 대구 이월드 · 83타워코스: 이월드 업힐 약 1.8km → 83타워 계단 → 77층 피니시참가대상: 만 18세 이상참가비: 55,000원모집인원: 약 500명부대프로그램: 리커버리 프로그램 · 애프터파티 · 럭키드로우",
+        "latitude": 35.8530292,
+        "longitude": 128.5657599,
+        "map_address": "대구광역시 달서구 두류공원로 200"
     },
     {
         "year": "2026",
@@ -13181,6 +13210,35 @@
         "month": 10,
         "day": 24,
         "day_of_week": "토",
+        "event_name": "TOUR 5K & Beach Ploggin망상",
+        "tags": [
+            "5km",
+            "2K 플로깅"
+        ],
+        "location": "동해시 망상해수욕장",
+        "organizer": [
+            "스포노베이션"
+        ],
+        "phone": "010-5535-2432",
+        "event_id": "41874",
+        "homepage": "http://mypb.info/competition/666",
+        "email": "kevinkim@sponovation.com",
+        "representative": "차준영",
+        "start_time": "08:00",
+        "region": "강원",
+        "venue_detail": "동해시 망상해수욕장",
+        "registration_period": "2026년9월16일~2026년10월17일",
+        "description": "동해시 망상 해수욕장에서 열리는 TOUR 시리즈의 첫번째 대회 입니다.",
+        "latitude": 37.5932484,
+        "longitude": 129.0896982,
+        "map_address": "강원특별자치도 동해시 동해대로 6270-23"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
         "event_name": "불닭 버닝 트레일런",
         "tags": [
             "5km",
@@ -13488,7 +13546,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "신정교하부육상트랙구장",
-        "registration_period": "2026년6월18일~2026년9월23일",
+        "registration_period": "2026년6월18일~2026년10월8일",
         "description": "🎮 2026 제3회 감성런 개최 안내 🎮추억과 감성이 가득한 2026 제3회 감성런이 개최됩니다.올해는 더욱 업그레이드된 레트로 감성과 다양한 즐길 거리로 참가자 여러분을 찾아갑니다. 오락실 감성을 담은 특별한 러닝 축제를 함께 즐겨보세요.감성 가득한 추억을 만들고 싶다면 지금 바로 신청하세요!※ 참가 접수는 선착순으로 진행되며, 조기 마감될 수 있습니다.",
         "latitude": 37.5178604,
         "longitude": 126.8819583,
@@ -16135,7 +16193,7 @@
         "organizer": [
             "무주마라톤협회/평화마라톤조직위"
         ],
-        "phone": "010-2116-0000",
+        "phone": "010-0000-0000",
         "event_id": "41841",
         "homepage": "http://mujumarathon.com",
         "email": "samsamis@naver.com",
@@ -16260,6 +16318,37 @@
         "latitude": 37.5546896,
         "longitude": 126.9080164,
         "map_address": "서울특별시 마포구 월드컵로15길 53"
+    },
+    {
+        "year": "2026",
+        "date": "11/29",
+        "month": 11,
+        "day": 29,
+        "day_of_week": "일",
+        "event_name": "2026 원주 치악마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "원주종합운동장",
+        "organizer": [
+            "강원도민일보",
+            "원주시육상연맹"
+        ],
+        "phone": "031-821-9951",
+        "event_id": "41879",
+        "homepage": "http://wonju.raceplan.co.kr/",
+        "email": "wonjumarathon@gmail.com",
+        "representative": "이관수",
+        "start_time": ":",
+        "region": "강원",
+        "venue_detail": "원주종합운동장",
+        "registration_period": "2026년9월17일~2026년10월30일",
+        "description": "많은 참여바랍니다감사합니다",
+        "latitude": 37.3375321,
+        "longitude": 127.9442125,
+        "map_address": "강원특별자치도 원주시 서원대로 311"
     },
     {
         "year": "2026",
