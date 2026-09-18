@@ -10473,34 +10473,6 @@
         "month": 9,
         "day": 19,
         "day_of_week": "토",
-        "event_name": "2026 여수낭도트레일",
-        "tags": [
-            "13km"
-        ],
-        "location": "여수 화정면낭도출장소앞 주차장",
-        "organizer": [
-            "파브코리아"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "41744",
-        "homepage": "http://www.mtrailrun.kr/",
-        "email": "navido@gmail.com",
-        "representative": "김준형",
-        "start_time": "09:00",
-        "region": "전남",
-        "venue_detail": "여수 화정면낭도출장소앞 주차장",
-        "registration_period": "2026년7월28일~2026년9월18일",
-        "description": "수천만 년 전 백악기 공룡들의 숨결이 그대로 남아있는 공룡 발자국 화석지, 다도해의 푸른 절경을 품은 해안 트레킹 코스, 자연과 문화가 어우러진 천혜의 섬 낭도를 한바퀴 도는 힐링 트레일 런",
-        "latitude": 34.6059687,
-        "longitude": 127.539156,
-        "map_address": "전남광주통합특별시 여수시 화정면 여산길 79"
-    },
-    {
-        "year": "2026",
-        "date": "9/19",
-        "month": 9,
-        "day": 19,
-        "day_of_week": "토",
         "event_name": "2026 청년의날 남동런",
         "tags": [
             "10km",
@@ -16376,6 +16348,35 @@
         "venue_detail": "롯데워터파크 제3주차장",
         "registration_period": "2026년8월13일~2026년10월25일",
         "description": "2,000년 가야의 역사 위를 달리다전설의 땅 장유에서 펼쳐지는 시원한 레이스!탁 트인 장유로에서 하프 / 10km / 5km 코스의 매력을 만끽하세요.장애인과 비장애인이 함께하는 어울림 마라톤입니다 :)"
+    },
+    {
+        "year": "2026",
+        "date": "11/29",
+        "month": 11,
+        "day": 29,
+        "day_of_week": "일",
+        "event_name": "2026 대전보문산트레일",
+        "tags": [
+            "15km",
+            "10km"
+        ],
+        "location": "오월드 주차장",
+        "organizer": [
+            "명품 파브코리아"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41744",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "김준형",
+        "start_time": "09:00",
+        "region": "전남",
+        "venue_detail": "오월드 주차장",
+        "registration_period": "2026년8월28일~2026년11월28일",
+        "description": "대전의 명산 보문산 둘레길을 한바퀴도는 명품주로 입니다",
+        "latitude": 34.6059687,
+        "longitude": 127.539156,
+        "map_address": "전남광주통합특별시 여수시 화정면 여산길 79"
     },
     {
         "year": "2026",
