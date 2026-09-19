@@ -13772,6 +13772,37 @@
         "month": 10,
         "day": 31,
         "day_of_week": "토",
+        "event_name": "2026 INCHEON NIGHT RACE",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "8.15km"
+        ],
+        "location": "인천 영정구 중산동 하늘구름광",
+        "organizer": [
+            "국민건강진흥원/인천광역시걷기협"
+        ],
+        "phone": "070-4098-1114",
+        "event_id": "41882",
+        "homepage": "http://icnr.kr",
+        "email": "webbi110120@naver.com",
+        "representative": "이현주",
+        "start_time": "16:00",
+        "region": "인천",
+        "venue_detail": "인천 영정구 중산동 하늘구름광",
+        "registration_period": "2026년9월1일~2026년10월20일",
+        "description": "가을밤, 노을과 음악으로 물드는 2026 인천나이트레이스에 초대합니다",
+        "latitude": 37.4820145,
+        "longitude": 126.5671848,
+        "map_address": "인천광역시 영종구 하늘달빛로2번길 8"
+    },
+    {
+        "year": "2026",
+        "date": "10/31",
+        "month": 10,
+        "day": 31,
+        "day_of_week": "토",
         "event_name": "마블런 2026",
         "tags": [
             "10km",
@@ -13972,6 +14003,32 @@
         "latitude": 36.9974834,
         "longitude": 126.6844373,
         "map_address": "충청남도 당진시 송산면 석문방조제로 747"
+    },
+    {
+        "year": "2026",
+        "date": "11/1",
+        "month": 11,
+        "day": 1,
+        "day_of_week": "일",
+        "event_name": "JUSTICE RUN SEOCHO 2026",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "반포한강공원 달빛광장",
+        "organizer": [
+            "법률신문"
+        ],
+        "phone": "010-9573-7669",
+        "event_id": "41871",
+        "homepage": "http://justicerun.kr/",
+        "email": "lawtimesmarathon@gmail.com",
+        "representative": "법률신문사",
+        "start_time": "10",
+        "region": "서울",
+        "venue_detail": "반포한강공원 달빛광장",
+        "registration_period": "2026년9월21일~2026년10월14일",
+        "description": "JUSTICE RUN SEOCHO 2026정의를 잇고, 미래를 달리다.법률신문과 함께하는 제1회 JUSTICE RUN SEOCHO 2026"
     },
     {
         "year": "2026",
@@ -15380,7 +15437,7 @@
         "start_time": "09:00",
         "region": "경남",
         "venue_detail": "창원시 광려천수변공원",
-        "registration_period": "2026년9월1일~2026년9월15일",
+        "registration_period": "2026년9월1일~2026년9월20일",
         "description": "제 12회 창원특례시장배 광려천마라톤대회 입니다.",
         "latitude": 35.2221498,
         "longitude": 128.5041819,
@@ -16536,8 +16593,9 @@
         "month": 12,
         "day": 5,
         "day_of_week": "토",
-        "event_name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
+        "event_name": "전국마라톤협회 2026 골드런 레이스",
         "tags": [
+            "하프",
             "10km",
             "5km"
         ],
@@ -16547,17 +16605,14 @@
         ],
         "phone": "042- 638-1080",
         "event_id": "41833",
-        "homepage": "http://mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d/guide/overview",
+        "homepage": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb",
         "email": " jeonmahyeop@naver.com",
         "representative": "장영기",
-        "start_time": "10",
+        "start_time": "9",
         "region": "충남",
         "venue_detail": "금산세계인삼엑스포광장",
         "registration_period": "2026년8월31일~2026년9월20일",
-        "description": "2026런던 마라톤 월드 레코드1:59:30 사바스티안 사웨와 함께 할 수 있는 대회",
-        "latitude": 36.100165,
-        "longitude": 127.5012,
-        "map_address": "충청남도 금산군 금산읍 인삼광장로 30"
+        "description": "2026 금산 골드런 레이스가 12월 5일(토), 금산세계인삼엑스포주차장에서 개최됩니다.한 해를 마무리하는 특별한 레이스,올해 골드런은 더욱 풍성한 시상과 역대 최대 규모의 클럽대항전으로 여러분을 찾아갑니다."
     },
     {
         "year": "2026",
@@ -16617,31 +16672,6 @@
         "latitude": 37.5318647,
         "longitude": 126.9232253,
         "map_address": "서울특별시 영등포구 여의서로 62"
-    },
-    {
-        "year": "2026",
-        "date": "12/6",
-        "month": 12,
-        "day": 6,
-        "day_of_week": "일",
-        "event_name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
-        "tags": [
-            "10km"
-        ],
-        "location": "금산세계인삼엑스포광장",
-        "organizer": [
-            "전국마라톤협회"
-        ],
-        "phone": "042- 638-1080",
-        "event_id": "41856",
-        "homepage": "http://www.mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d",
-        "email": " jeonmahyeop@naver.com",
-        "representative": "장영기",
-        "start_time": "10",
-        "region": "충남",
-        "venue_detail": "금산세계인삼엑스포광장",
-        "registration_period": "2026년9월8일~2026년10월30일",
-        "description": "2026 런던마라톤 월드레코드 사바스티안 사웨 선수와 함께 하는 대회"
     },
     {
         "year": "2026",
