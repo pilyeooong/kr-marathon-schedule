@@ -12614,6 +12614,34 @@
         "month": 10,
         "day": 17,
         "day_of_week": "토",
+        "event_name": "2026 굿네이버스 레이스 광주",
+        "tags": [
+            "5km"
+        ],
+        "location": "황룡친수공원",
+        "organizer": [
+            "굿네이버스"
+        ],
+        "phone": "070-4350-5663",
+        "event_id": "41890",
+        "homepage": "http://gnrace.kr/",
+        "email": "project@bigwalk.co.kr",
+        "representative": "이일하",
+        "start_time": "09:00",
+        "region": "광주",
+        "venue_detail": "황룡친수공원",
+        "registration_period": "2026년9월21일~2026년9월21일",
+        "description": "지구와 아이들을 위한 좋은 변화굿네이버스 레이스",
+        "latitude": 35.1453014,
+        "longitude": 126.7765836,
+        "map_address": "전남광주통합특별시 광산구 선운강변길 105"
+    },
+    {
+        "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
         "event_name": "2026 억새노을마라톤대회",
         "tags": [
             "10km",
@@ -13175,6 +13203,34 @@
         "latitude": 37.3097469,
         "longitude": 127.6290239,
         "map_address": "경기도 여주시 강변북로 163"
+    },
+    {
+        "year": "2026",
+        "date": "10/24",
+        "month": 10,
+        "day": 24,
+        "day_of_week": "토",
+        "event_name": "Freedom Walk & Run",
+        "tags": [
+            "6km"
+        ],
+        "location": "반포한강공원 세빛섬",
+        "organizer": [
+            "링크"
+        ],
+        "phone": "010-6518-1559",
+        "event_id": "41883",
+        "homepage": "http://fwr.libertyinnorthkorea.or.kr/2026/#join",
+        "email": "sarah.yun@linkglobal.org",
+        "representative": "윤사라",
+        "start_time": "14:00",
+        "region": "서울",
+        "venue_detail": "반포한강공원 세빛섬",
+        "registration_period": "2026년9월18일~2026년10월20일",
+        "description": "🍁프리덤 워크 & 런 2026🧡모든 북한 주민의 자유를 위해, 6km를 함께 걷거나 뛰어요!♦️일시: 2026. 10. 24.(토) 오후 2시~5시♦️장소: 반포한강공원 세빛섬 주변 한강변 보행로♦️코스: 왕복 6km, 걷기와 뛰기 중 선택 가능♦️모집 인원: 선착순 200명 (정원 마감 시 조기 종료)♦️참가비: 5만 원 (전액 링크 프로그램 후원금으로 사용)가을 단풍이 물든 반포한강공원을 걸으며 몸과 마음을 함께 힐링해보세요.한국, 북한, 그리고 세계 각국에서 온 링크 프로그램 참가자들과 특별한 추억을 만들 수 있는 시간입니다.🌏자세한 행사 정보와 참가 신청은 아래 랜딩페이지에서 확인하세요.fwr.libertyinnorthkorea.or.kr/2026/",
+        "latitude": 37.5117666,
+        "longitude": 126.9949443,
+        "map_address": "서울특별시 서초구 올림픽대로 2085-14"
     },
     {
         "year": "2026",
@@ -13803,6 +13859,35 @@
         "month": 10,
         "day": 31,
         "day_of_week": "토",
+        "event_name": "제2회 성남YMCA 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "성남물빛정원",
+        "organizer": [
+            "성남YMCA"
+        ],
+        "phone": "031-715-6016",
+        "event_id": "41880",
+        "homepage": "http://runpass.kr/races/seongnam-ymca/2026",
+        "email": "contact@makevibe.kr",
+        "representative": "원복덕",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "성남물빛정원",
+        "registration_period": "2026년9월14일~2026년10월6일",
+        "description": "성남YMCA 마라톤대회!(물빛정원 탄천변에서 달리자!)'성남YMCA마라톤대회'와 '오리역낭만 축제가 결합된 건강과 즐거움을 동시에 챙기는 행사로 진행 됩니다!성남시민과 청소년, 가족 단위 참가자들 이 한데 어우러져 건강을 증진하고 친목 을 도모하는 공동체 중심의 마라톤 대회!(건강+즐거움+먹거리+공연)#참가자모집(신청기간):*9월 14일(월)~10월6일(목)까지",
+        "latitude": 37.340486,
+        "longitude": 127.112757,
+        "map_address": "경기도 성남시 분당구 탄천상로 102"
+    },
+    {
+        "year": "2026",
+        "date": "10/31",
+        "month": 10,
+        "day": 31,
+        "day_of_week": "토",
         "event_name": "마블런 2026",
         "tags": [
             "10km",
@@ -14241,6 +14326,92 @@
         "latitude": 36.5932148,
         "longitude": 128.187405,
         "map_address": "경상북도 문경시 점고길 15"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
+        "event_name": "26 Ten Bridges Night Walk",
+        "tags": [
+            "10km"
+        ],
+        "location": "밀양시 일원",
+        "organizer": [
+            "밀양문화관광재단"
+        ],
+        "phone": "055-359-4563",
+        "event_id": "41892",
+        "homepage": "http://www.mywalk.kr",
+        "email": "021102@mycf.or.kr",
+        "representative": "박호성",
+        "start_time": "17:30",
+        "region": "경남",
+        "venue_detail": "밀양시 일원",
+        "registration_period": "2026년9월21일~2026년10월16일",
+        "description": "밀양의 밤을 잇는 10개의 다리, 매운맛과 함께 걷는2026 제2회‘Ten Bridges Night Walk Festival’장소: 밀양시 일원일시: 11월 7일 (토) 17:30내용: 밀양 10개의 다리를 매운맛과 함께 걷는 이색 걷기대회참가비: 20,000원예매 일정: 2026.09.21.(월) ~ 2026.10.16(금)홈페이지: www.mywalk.kr",
+        "latitude": 35.5043359,
+        "longitude": 128.7584718,
+        "map_address": "경상남도 밀양시 밀양대공원로 112"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
+        "event_name": "평화의섬 2026 국무총리기국제생활체육구간 마라톤",
+        "tags": [
+            "구간마라톤"
+        ],
+        "location": "제주 서부일주로 10개소 구간",
+        "organizer": [
+            "제주특별자치도",
+            "대한육상연맹"
+        ],
+        "phone": "064-756-3213",
+        "event_id": "41889",
+        "homepage": "http://www.jaaf.kr/",
+        "email": "jaaf3213@naver.com",
+        "representative": "이희수",
+        "start_time": "09",
+        "region": "제주",
+        "venue_detail": "제주 서부일주로 10개소 구간",
+        "registration_period": "2026년9월21일~2026년10월9일",
+        "description": "※홈페이지 내 대회요강 참조※국제부, 전국동호인부, 도내동호인부 제주육련 이메일 신청(2026. 10. 9(금) 18시까지※jaaf3213@naver.com / 담당자 010-5131-5968",
+        "latitude": 33.4889944,
+        "longitude": 126.4982701,
+        "map_address": "제주특별자치도 제주시 문연로 6"
+    },
+    {
+        "year": "2026",
+        "date": "11/7",
+        "month": 11,
+        "day": 7,
+        "day_of_week": "토",
+        "event_name": "제21회 담양메타세쿼이아 마라톤",
+        "tags": [
+            "5km",
+            "8km"
+        ],
+        "location": "담양추성경기장",
+        "organizer": [
+            "담양마라톤클럽"
+        ],
+        "phone": "062-951-2060",
+        "event_id": "41886",
+        "homepage": "http://www.metarun.kr",
+        "email": "54u119@daum.net",
+        "representative": "이양섭",
+        "start_time": "10:00",
+        "region": "전남",
+        "venue_detail": "담양추성경기장",
+        "registration_period": "2026년9월20일~2026년10월20일",
+        "description": "전국에서 가장 아름답고 가장 안전한 달리기 코스몸과 마을을 힐링하는 최고의 장소 천년의 향기가 풍기는 도시 담양으로 추억여행 오세요",
+        "latitude": 35.3240694,
+        "longitude": 126.9937216,
+        "map_address": "전남광주통합특별시 담양군 담양읍 관방제림길 69"
     },
     {
         "year": "2026",
@@ -15885,6 +16056,35 @@
         "month": 11,
         "day": 21,
         "day_of_week": "토",
+        "event_name": "2026 GETR구미 에코 트레일레이스",
+        "tags": [
+            "21km",
+            "10km"
+        ],
+        "location": "구미시 경운대학교",
+        "organizer": [
+            "구미러닝크루"
+        ],
+        "phone": "010-7152-1910",
+        "event_id": "41885",
+        "homepage": "http://cafe.naver.com/bikewin/12",
+        "email": "boxerkyu@naver.com",
+        "representative": "이인규",
+        "start_time": "9",
+        "region": "경북",
+        "venue_detail": "구미시 경운대학교",
+        "registration_period": "2026년9월11일~2026년10월30일",
+        "description": "​안녕하세요! 러너 여러분!가을의 끝자락, 대자연과 함께 호흡하며 달리는 러너들의 축제 2026 GETR (구미에코트레일레이스) 참가자 모집을 시작합니다.자신의 한계에 도전하며 성취감을 맛볼 수 있는 21KM상어트레일, 10KM 에코트레일, 아이들과 잊지 못할 추억을 만들 수 있는 3KM 키즈트레일까지 알차게 준비했습니다.",
+        "latitude": 36.167866,
+        "longitude": 128.4676331,
+        "map_address": "경상북도 구미시 산동읍 강동로 730"
+    },
+    {
+        "year": "2026",
+        "date": "11/21",
+        "month": 11,
+        "day": 21,
+        "day_of_week": "토",
         "event_name": "런텐 14차 레이스 JUST RUN10 대구",
         "tags": [
             "10km",
@@ -16354,6 +16554,36 @@
         "month": 11,
         "day": 29,
         "day_of_week": "일",
+        "event_name": "2026 서울사랑마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "서울 성북구 석관동",
+        "organizer": [
+            "서울육상연맹"
+        ],
+        "phone": "00-1600-4525",
+        "event_id": "41891",
+        "homepage": "http://seoulloverun.com",
+        "email": "hgplan@naver.com",
+        "representative": "박광열",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "서울 성북구 석관동",
+        "registration_period": "2026년9월22일~2026년10월31일",
+        "description": "참가자들이 편하게 달릴수 있는 대회를 만들겠습니다.병목없는 마라톤대회",
+        "latitude": 37.6140299,
+        "longitude": 127.0692366,
+        "map_address": "서울 성북구 석관동 3"
+    },
+    {
+        "year": "2026",
+        "date": "11/29",
+        "month": 11,
+        "day": 29,
+        "day_of_week": "일",
         "event_name": "2026 원주 치악마라톤",
         "tags": [
             "하프",
@@ -16679,6 +16909,37 @@
         "month": 12,
         "day": 6,
         "day_of_week": "일",
+        "event_name": "제1회 정읍 고향사랑기부마라톤",
+        "tags": [
+            "10km",
+            "5km",
+            "5km가족.커플부(2인1조)",
+            "10km 단체전(3인1조)"
+        ],
+        "location": "정읍시 내장산 단풍생태공원",
+        "organizer": [
+            "정읍시육상연맹"
+        ],
+        "phone": "010-4654-0495",
+        "event_id": "41888",
+        "homepage": "http://love.myrunup.kr",
+        "email": "stk-1007@hanmail.net",
+        "representative": "안정용",
+        "start_time": "10",
+        "region": "전북",
+        "venue_detail": "정읍시 내장산 단풍생태공원",
+        "registration_period": "2026년9월22일~2026년11월22일",
+        "description": "제1회 정읍시 고향사랑기부마라톤대회는 달리기의 건강한 에너지와 고향을 응원하는 대회이며, 정읍을 사랑하는 마음이 지역에 새로운 활력이 되어 참가자에게는 단풍의 도시 정읍을 달리는 특별한 추억이 되기를 바랍니다.늑제 출발하면서 빠른 승인을 부탁드려 죄송할 뿐입니다.",
+        "latitude": 35.510242,
+        "longitude": 126.9072435,
+        "map_address": "전북특별자치도 정읍시 내장동 364-2"
+    },
+    {
+        "year": "2026",
+        "date": "12/6",
+        "month": 12,
+        "day": 6,
+        "day_of_week": "일",
         "event_name": "제20회 양산전국하프마라톤",
         "tags": [
             "하프",
@@ -16966,6 +17227,35 @@
         "venue_detail": "상암월드컵공원 평화의광장",
         "registration_period": "2026년8월12일~2026년12월9일",
         "description": "우리 가슴 속에 살아있는 '청춘'의 에너지를 듬뿍 담아 힘차게 달려보기 위해 이 자리에 모였습니다. 청춘은 나이가 아니라, 어떤 목표를 향해 기분 좋게 땀 흘리고 스스로의 한계에 도전하는 여러분의 그 뜨거운 마음이 아닐까 싶습니다.",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "12/20",
+        "month": 12,
+        "day": 20,
+        "day_of_week": "일",
+        "event_name": "2026 슬로우런마라톤(a.k.a. 동계훈련)",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "상암동 월드컵공원 평화의 광장",
+        "organizer": [
+            "마포공동체라디오"
+        ],
+        "phone": "02-332-3247",
+        "event_id": "41887",
+        "homepage": "http://slowrun.kr",
+        "email": "mapofm@mapofm.net",
+        "representative": "송덕호",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "상암동 월드컵공원 평화의 광장",
+        "registration_period": "2026년9월20일~2026년11월30일",
+        "description": "2026슬로우런 마라톤은 '나의 속도가 가장 완벽한 페이스'라는 취지로 속도와 경쟁보다는 치유와 회복을 위해 시작했습니다. 2026년엔 '삶의 기초체력을 기르는 동계지속주훈련'이라는 컨셉 아래 진행됩니다. 함께 완주하는 힘과 일상을 지키는 연대의 힘을 경험하는 마라톤입니다.",
         "latitude": 37.5659053,
         "longitude": 126.8964648,
         "map_address": "서울특별시 마포구 월드컵로 251"

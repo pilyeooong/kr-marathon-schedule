@@ -1,6 +1,67 @@
 [
     {
         "year": "2027",
+        "date": "2/20",
+        "month": 2,
+        "day": 20,
+        "day_of_week": "토",
+        "event_name": "2027 전마협 청주 무심천 투데이 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "청주 무심천 롤러스케이트장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41877",
+        "homepage": "http://mara1080.com/event/3a1225a6-b473-4fb7-8f26-cda304cff617",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "충북",
+        "venue_detail": "청주 무심천 롤러스케이트장",
+        "registration_period": "2026년9월16일~2026년9월16일",
+        "description": "2027 전마협 청주 무심천 투데이 마라톤대회 (토)선착순 4,000명접수 및 입금자순 마감됩니다!",
+        "latitude": 36.6401245,
+        "longitude": 127.4828284,
+        "map_address": "충청북도 청주시 서원구 무심천자전거길 550"
+    },
+    {
+        "year": "2027",
+        "date": "2/21",
+        "month": 2,
+        "day": 21,
+        "day_of_week": "일",
+        "event_name": "2027 전마협 청주 무심천 투데이 마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "청주 무심천 롤러스케이트장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41878",
+        "homepage": "http://mara1080.com/event/b1aef378-cf4a-43b9-b2fd-a2d1ae33bc15",
+        "email": " jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": ":",
+        "region": "충북",
+        "venue_detail": "청주 무심천 롤러스케이트장",
+        "registration_period": "2026년9월17일~2026년12월31일",
+        "description": "2027 전마협 청주 무심천 투데이 마라톤대회 (일)선착순 4,000명접수 및 입금자순 마감됩니다!",
+        "latitude": 36.6401245,
+        "longitude": 127.4828284,
+        "map_address": "충청북도 청주시 서원구 무심천자전거길 550"
+    },
+    {
+        "year": "2027",
         "date": "2/27",
         "month": 2,
         "day": 27,
@@ -62,6 +123,35 @@
     },
     {
         "year": "2027",
+        "date": "3/28",
+        "month": 3,
+        "day": 28,
+        "day_of_week": "일",
+        "event_name": "제3회 영광광풍마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "영광 스포디움",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41875",
+        "homepage": "http://mara1080.com/event/92394e8e-a27c-4c3a-b286-7233340a9e7a",
+        "email": "jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "08:30",
+        "region": "전남",
+        "venue_detail": "영광 스포디움",
+        "registration_period": "2026년9월17일~2026년10월30일",
+        "description": "제 3회 영광 광풍 마라톤입니다.",
+        "latitude": 35.289575,
+        "longitude": 126.4964875,
+        "map_address": "전남광주통합특별시 영광군 영광읍 월현로 170"
+    },
+    {
+        "year": "2027",
         "date": "4/18",
         "month": 4,
         "day": 18,
@@ -113,7 +203,7 @@
         "start_time": "17:00",
         "region": "충남",
         "venue_detail": "천안삼거리공원",
-        "registration_period": "2026년2월1일~2026년9월30일",
+        "registration_period": "2027년2월1일~2026년9월30일",
         "description": "깊어가는 가을밤 별과함께 떠나는 진정한 울트라마라톤 여행",
         "latitude": 36.783812,
         "longitude": 127.1657743,
