@@ -12168,6 +12168,36 @@
         "month": 10,
         "day": 11,
         "day_of_week": "일",
+        "event_name": "독립유공자후손 기부마라톤 2026대학생RUN",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "서울시 구로구 안양천 축구장A",
+        "organizer": [
+            "대학문화유니온",
+            "사단법인 독립"
+        ],
+        "phone": "010-7937-2087",
+        "event_id": "41897",
+        "homepage": "http://www.univrun.co.kr/index.php",
+        "email": "2025culture.of.univ@gmail.com",
+        "representative": "김소현",
+        "start_time": "08:30",
+        "region": "서울",
+        "venue_detail": "서울시 구로구 안양천 축구장A",
+        "registration_period": "2026년9월21일~2026년10월4일",
+        "description": "🏃독립유공자 후손 기부 러닝 2026 대학생 RUN💨⭐️큰별쌤 최태성이 응원하고, 강철부대W 출연진이 게스트 러너로 함께하는 2026 대학생 RUN 상세 안내⭐️[행사 안내]⏰2026.10.11. 오전 8시 30분 출발📍구일역(1호선) 안양천 축구장[종목]5KM - 50,000원10KM - 50,000원*제휴 단체 소속 회원의 경우 45,000원(제휴 단체는 공식 홈페이지univrun.co.kr 우측 상단 제휴단체에서 확인하실 수 있습니다.)[접수기간]2026.10.4.(일)까지[티켓 구매처]공식 홈페이지 (univrun.co.kr)[참가자 증정품]완주 메달 / 배번호 / 기능성 티셔츠스티커/간식 등 증정품 추후 공개🏃게스트 러너💨강철부대W 출연진조아라(@ara___v )한수빈(@king_chubean )곽선희(@got_sunnyday )🩵올해 2026 대학생 RUN 은 함께 달리며 독립유공자 후손을 위한 기부에 참여하고, 독립운동의 역사를 기억하며 그 정신을 이어가는 뜻깊은 러닝 프로젝트로 진행됩니다.주최 | 대학문화유니온. 사단법인 독립유공자유지계승유족회",
+        "latitude": 37.5030858,
+        "longitude": 126.8728717,
+        "map_address": "서울특별시 구로구 안양천동자전거길 667"
+    },
+    {
+        "year": "2026",
+        "date": "10/11",
+        "month": 10,
+        "day": 11,
+        "day_of_week": "일",
         "event_name": "83타워 업힐런",
         "tags": [
             "업힐코스",
@@ -12635,6 +12665,34 @@
         "latitude": 35.1453014,
         "longitude": 126.7765836,
         "map_address": "전남광주통합특별시 광산구 선운강변길 105"
+    },
+    {
+        "year": "2026",
+        "date": "10/17",
+        "month": 10,
+        "day": 17,
+        "day_of_week": "토",
+        "event_name": "2026 원주 바람길숲 기부런",
+        "tags": [
+            "10km"
+        ],
+        "location": "강원도 원주 치악산 바람길숲",
+        "organizer": [
+            "한국관광공사"
+        ],
+        "phone": "010-8566-8705",
+        "event_id": "41896",
+        "homepage": "http://cltoo.com/ko/product/379?category=CL_TO_EDITION",
+        "email": "hello@mooncademy.co.kr",
+        "representative": "문현우",
+        "start_time": "09:20",
+        "region": "강원",
+        "venue_detail": "강원도 원주 치악산 바람길숲",
+        "registration_period": "2026년9월23일~2026년10월13일",
+        "description": "바람길을 달리며, 희망을 나누는 하루. 2026 원주 혁신페스타 행사장 인근 행복마당에서 출발해 바람길숲을 돌아오는 반환 코스입니다. 아름다운 원주의 바람길 숲을 달리며 혁신페스타와 기부의 가치를 함께 나누세요!",
+        "latitude": 37.3272895,
+        "longitude": 127.9874637,
+        "map_address": "강원특별자치도 원주시 황금로 8"
     },
     {
         "year": "2026",
@@ -15326,6 +15384,35 @@
         "month": 11,
         "day": 14,
         "day_of_week": "토",
+        "event_name": "서울 빵빵런 2026",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "뚝섬한강공원 수변무대",
+        "organizer": [
+            "(주)1986프로덕션"
+        ],
+        "phone": "02-364-1986",
+        "event_id": "41895",
+        "homepage": "http://seoul.bbangrun.com",
+        "email": "1986@1986.co.kr",
+        "representative": "(주)1986프로덕션",
+        "start_time": "08:30",
+        "region": "서울",
+        "venue_detail": "뚝섬한강공원 수변무대",
+        "registration_period": "2026년9월21일~2026년11월13일",
+        "description": "🥖 서울 빵빵런2026📍 행사일: 2026년 11월 14일(토)📍 장소: 서울 뚝섬한강공원 수변무대📍 코스: 10K · 5K조기마감이 예상되니 서둘러 신청해 주세요!",
+        "latitude": 37.5284168,
+        "longitude": 127.067804,
+        "map_address": "서울특별시 광진구 강변북로 2230"
+    },
+    {
+        "year": "2026",
+        "date": "11/14",
+        "month": 11,
+        "day": 14,
+        "day_of_week": "토",
         "event_name": "그 시절 스타들과 달리는 레트로 런 IN 증평",
         "tags": [
             "10km",
@@ -16078,6 +16165,36 @@
         "latitude": 36.167866,
         "longitude": 128.4676331,
         "map_address": "경상북도 구미시 산동읍 강동로 730"
+    },
+    {
+        "year": "2026",
+        "date": "11/21",
+        "month": 11,
+        "day": 21,
+        "day_of_week": "토",
+        "event_name": "2026 서울 라이프마라톤(가을)",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "평화의공원 평화광장",
+        "organizer": [
+            "(주)1986프로덕션"
+        ],
+        "phone": "02-364-1986",
+        "event_id": "41894",
+        "homepage": "http://seoul.lifemarathon.co.kr",
+        "email": "1986@1986.co.kr",
+        "representative": "(주)1986프로덕션",
+        "start_time": "07:50",
+        "region": "서울",
+        "venue_detail": "평화의공원 평화광장",
+        "registration_period": "2026년8월10일~2026년11월20일",
+        "description": "전 세대가 함께 경쟁하고 즐기는 라이프마라톤🏃▪️일자 : 2026년 11월 21일(토)▪️장소 : 서울 상암 평화의공원 평화광장▪️코스 : HALF / 10K / 5K▪️주최·주관 : ㈜1986프로덕션, ㈜푸욱",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
     },
     {
         "year": "2026",
