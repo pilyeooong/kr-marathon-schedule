@@ -11117,7 +11117,7 @@
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "상암 월드컵공원 평화광장",
-        "registration_period": "2026년7월7일~2026년9월27일",
+        "registration_period": "2026년7월7일~2026년9월30일",
         "description": "저희는 2026 마스터즈 하프 마라톤이 참가자 여러분께 안전하고 즐거운 대회, 그리고 다시 도전할 힘을 얻는 뜻깊은 시간이 되기를 바라는 마음으로 준비했습니다. 오늘의 모든 순간이 여러분에게 오래 기억될 좋은 추억이 되기를 바랍니다.",
         "latitude": 37.5659053,
         "longitude": 126.8964648,
@@ -12308,35 +12308,6 @@
         "latitude": 37.5196459,
         "longitude": 126.6109418,
         "map_address": "인천광역시 서해구 로봇랜드로 155-11"
-    },
-    {
-        "year": "2026",
-        "date": "10/11",
-        "month": 10,
-        "day": 11,
-        "day_of_week": "일",
-        "event_name": "2026 대학생RUN",
-        "tags": [
-            "10km",
-            "5km"
-        ],
-        "location": "구일역 안양천 축구장",
-        "organizer": [
-            "대학문화유니온"
-        ],
-        "phone": "010-4737-7125",
-        "event_id": "41785",
-        "homepage": "http://www.univrun.co.kr/",
-        "email": "2025culture.of.univ@gmail.com",
-        "representative": "권연수",
-        "start_time": "08:30",
-        "region": "서울",
-        "venue_detail": "구일역 안양천 축구장",
-        "registration_period": "2026년8월10일~2026년9월20일",
-        "description": "독립유공자 후손 기부 러닝10km 08:30 출발5Km 08:40 출발",
-        "latitude": 37.4963912,
-        "longitude": 126.8699205,
-        "map_address": "서울특별시 구로구 구일로 133"
     },
     {
         "year": "2026",
@@ -15136,7 +15107,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "신정교하부육상트랙구장",
-        "registration_period": "2026년7월27일~2026년10월18일",
+        "registration_period": "2026년7월27일~2026년9월27일",
         "description": "세상을 바꾸는 착한 발걸음, 자원봉사 사랑 굿펀마라톤대회가20주년을 맞이했습니다. 다양한 이벤트도 준비 되어있으니,많은 참여 바랍니다.감사합니다.",
         "latitude": 37.5178604,
         "longitude": 126.8819583,
@@ -16145,8 +16116,9 @@
         "day_of_week": "토",
         "event_name": "2026 GETR구미 에코 트레일레이스",
         "tags": [
+            "10km",
             "21km",
-            "10km"
+            "키즈레이스"
         ],
         "location": "구미시 경운대학교",
         "organizer": [
@@ -16154,7 +16126,7 @@
         ],
         "phone": "010-7152-1910",
         "event_id": "41885",
-        "homepage": "http://cafe.naver.com/bikewin/12",
+        "homepage": "http://naver.me/59lo1fB8",
         "email": "boxerkyu@naver.com",
         "representative": "이인규",
         "start_time": "9",
@@ -16694,6 +16666,34 @@
         "latitude": 37.6140299,
         "longitude": 127.0692366,
         "map_address": "서울 성북구 석관동 3"
+    },
+    {
+        "year": "2026",
+        "date": "11/29",
+        "month": 11,
+        "day": 29,
+        "day_of_week": "일",
+        "event_name": "제9회 광진구청장배 육상대회",
+        "tags": [
+            "10km"
+        ],
+        "location": "중곡동 중랑천 물놀이장 옆",
+        "organizer": [
+            "광진구체육회(광진구육상연맹)"
+        ],
+        "phone": "02-457-0121",
+        "event_id": "41898",
+        "homepage": "http://ksgaaf.co.kr/",
+        "email": "wowrunning@naver.com",
+        "representative": "유현경",
+        "start_time": "08:30",
+        "region": "서울",
+        "venue_detail": "중곡동 중랑천 물놀이장 옆",
+        "registration_period": "2026년9월28일~2026년11월11일",
+        "description": "중랑천 체육공원 (생활체육 에어로빅장, 중곡동 물놀이장 옆)10km 단일종목, 선착순 600명",
+        "latitude": 37.567113,
+        "longitude": 127.0768045,
+        "map_address": "서울 광진구 중곡동 485-7"
     },
     {
         "year": "2026",
