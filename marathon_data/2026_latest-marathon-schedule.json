@@ -12234,8 +12234,8 @@
         ],
         "location": "미사경정공원 관리동 광장",
         "organizer": [
-            "미사강변종합사회복지관",
-            "진선재"
+            "미사강변사회복지관",
+            "진선재단"
         ],
         "phone": "02-515-9033",
         "event_id": "41852",
@@ -12245,7 +12245,7 @@
         "start_time": ":",
         "region": "경기",
         "venue_detail": "미사경정공원 관리동 광장",
-        "registration_period": "2026년9월4일~2026년9월20일",
+        "registration_period": "2026년9월4일~2026년9월30일",
         "description": "누군가와 함께 달린다는건 정말 행복한 일입니다.누군가의 걸음이 느려도 괜찮습니다.우리는 같은 길을, 함께 걷고 있으니까요.함께라면 더 멀리. 함께Run!함께여서 기쁨 두배.함께 RUN!함께가는 멋진 우리.함께 RUN!",
         "latitude": 37.5536142,
         "longitude": 127.2132338,
@@ -16284,6 +16284,36 @@
         "latitude": 34.8342535,
         "longitude": 127.8916614,
         "map_address": "경상남도 남해군 남해읍 망운로9번길 42-17"
+    },
+    {
+        "year": "2026",
+        "date": "11/21",
+        "month": 11,
+        "day": 21,
+        "day_of_week": "토",
+        "event_name": "K-거상 트레일 러닝 대회",
+        "tags": [
+            "5km",
+            "15km",
+            "20km"
+        ],
+        "location": "가례초등학교(경남 의령)",
+        "organizer": [
+            "경남관광재단"
+        ],
+        "phone": "070-4443-4392",
+        "event_id": "41899",
+        "homepage": "http://www.kpioneertrailrun.co.kr/",
+        "email": "dain-comm@naver.com",
+        "representative": "정문효",
+        "start_time": "09:00",
+        "region": "경남",
+        "venue_detail": "가례초등학교(경남 의령)",
+        "registration_period": "2026년9월28일~2026년11월21일",
+        "description": "K-거상 트레일 러닝 대회 입니다 많은 관심 부탁 드립니다",
+        "latitude": 35.3333428,
+        "longitude": 128.2464399,
+        "map_address": "경상남도 의령군 가례면 가례로 128"
     },
     {
         "year": "2026",
