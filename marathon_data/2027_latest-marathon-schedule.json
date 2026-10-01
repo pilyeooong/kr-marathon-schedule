@@ -5,6 +5,36 @@
         "month": 2,
         "day": 20,
         "day_of_week": "토",
+        "event_name": "제23회 밀양아리랑마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "밀양종합운동장",
+        "organizer": [
+            "밀양시"
+        ],
+        "phone": "055-359-5965",
+        "event_id": "41900",
+        "homepage": "http://www.miryangmarathon.com",
+        "email": "arirangmarathon@daum.net",
+        "representative": "김정식",
+        "start_time": "10:00",
+        "region": "경남",
+        "venue_detail": "밀양종합운동장",
+        "registration_period": "2026년11월2일~2027년1월10일",
+        "description": "제23회 밀양아리랑마라톤대회",
+        "latitude": 35.5061916,
+        "longitude": 128.7476,
+        "map_address": "밀양시 밀양대로 2057-21"
+    },
+    {
+        "year": "2027",
+        "date": "2/20",
+        "month": 2,
+        "day": 20,
+        "day_of_week": "토",
         "event_name": "2027 전마협 청주 무심천 투데이 마라톤",
         "tags": [
             "하프",
