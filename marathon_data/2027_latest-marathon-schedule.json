@@ -53,7 +53,7 @@
         "start_time": ":",
         "region": "충북",
         "venue_detail": "청주 무심천 롤러스케이트장",
-        "registration_period": "2026년9월16일~2026년9월16일",
+        "registration_period": "2026년9월16일~2026년12월20일",
         "description": "2027 전마협 청주 무심천 투데이 마라톤대회 (토)선착순 4,000명접수 및 입금자순 마감됩니다!",
         "latitude": 36.6401245,
         "longitude": 127.4828284,
@@ -120,6 +120,37 @@
         "latitude": 37.5308485,
         "longitude": 126.9277457,
         "map_address": "서울특별시 영등포구 한강남자전거길 1451"
+    },
+    {
+        "year": "2027",
+        "date": "3/1",
+        "month": 3,
+        "day": 1,
+        "day_of_week": "월",
+        "event_name": "2027 머니투데이방송 삼일절 마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "뚝섬한강공원 수변무대",
+        "organizer": [
+            "(주)머니투데이"
+        ],
+        "phone": "042- 638-1080",
+        "event_id": "41901",
+        "homepage": "http://mara1080.com/event/83acaaf1-1e30-411a-ac71-5e909ba1f7d9",
+        "email": " jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "9",
+        "region": "서울",
+        "venue_detail": "뚝섬한강공원 수변무대",
+        "registration_period": "2026년10월6일~2027년1월31일",
+        "description": "2027머니투데이방송 삼일절 마라톤대회",
+        "latitude": 37.5315862,
+        "longitude": 127.0667177,
+        "map_address": "서울특별시 광진구 능동로 10"
     },
     {
         "year": "2027",

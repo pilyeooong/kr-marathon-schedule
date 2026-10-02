@@ -15197,7 +15197,7 @@
         "start_time": "07:00",
         "region": "서울",
         "venue_detail": "서울마당(지하철1호선 시청역 4번출구)",
-        "registration_period": "2026년7월2일~2026년9월30일",
+        "registration_period": "2026년7월2일~2026년10월12일",
         "description": "2026년 11월 8일(일) 개최되는 서울 구석구석 트레일런대회는 서울신문사와 한국익스트림앤스포츠(KENS)에서 주최하는 대회입니다.최근 개방된 청와대 및 서울에 위치한 안산, 인왕산, 북악산의 잘 알려지지 않은 아름다운 코스를 구석구석 힐링 하면서 뛰는 트레일런 대회입니다.\"서울에도 이런 곳이 있었나?\" 하는 놀라움이 반복되는 대회",
         "latitude": 37.5674232,
         "longitude": 126.9778908,
@@ -16197,37 +16197,6 @@
         "latitude": 35.8764828,
         "longitude": 128.6627985,
         "map_address": "대구광역시 동구 화랑로88길 102"
-    },
-    {
-        "year": "2026",
-        "date": "11/21",
-        "month": 11,
-        "day": 21,
-        "day_of_week": "토",
-        "event_name": "2026 전마협 보성녹차 Autumn 마라톤",
-        "tags": [
-            "풀",
-            "하프",
-            "10km",
-            "5km"
-        ],
-        "location": "보성군 공설운동장",
-        "organizer": [
-            "전국마라톤협회"
-        ],
-        "phone": "042-638-1080",
-        "event_id": "41863",
-        "homepage": "http://mara1080.com/event/cf5801a7-c7fd-4152-998b-bf11f0ec3e26",
-        "email": "jangmd@naver.com",
-        "representative": "장영기",
-        "start_time": ":",
-        "region": "전남",
-        "venue_detail": "보성군 공설운동장",
-        "registration_period": "2026년9월11일~2026년10월16일",
-        "description": "2026 전마협 보성녹차 Autumn 마라톤대회선착순 5,000명 (오전 10시부터 접수예정)공인코스 실측완료!풀코스 완주자분들께는 공인코스 기록증이 제공됩니다.",
-        "latitude": 34.7737076,
-        "longitude": 127.0940691,
-        "map_address": "전남광주통합특별시 보성군 보성읍 용문길 18"
     },
     {
         "year": "2026",
