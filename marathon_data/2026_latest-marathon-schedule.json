@@ -12345,7 +12345,7 @@
         "month": 10,
         "day": 11,
         "day_of_week": "일",
-        "event_name": "제6회 영등포구청장배 육상대회",
+        "event_name": "제6회 영등포구청장배 육상대회 (마감)",
         "tags": [
             "10km",
             "5km"
@@ -12363,7 +12363,7 @@
         "region": "서울",
         "venue_detail": "신정교하부육상트랙구장",
         "registration_period": "2026년8월10일~2026년10월4일",
-        "description": "대회요강, 참가신청 링크https://cafe.naver.com/ydprun1/646",
+        "description": "참가신청 마감했습니다.",
         "latitude": 37.5178604,
         "longitude": 126.8819583,
         "map_address": "서울특별시 영등포구 영등포로2길 62"
@@ -12807,7 +12807,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "도림천역 600미터 영롱이 억새구장",
-        "registration_period": "2026년7월7일~2026년10월7일",
+        "registration_period": "2026년7월7일~2026년10월11일",
         "description": "경청마라톤은 달리기를 통해서로를 응원하고, 마음을 나누며,작은 실천이 모여 더 큰 나눔으로 이어지기를 바라는 뜻에서 마련된 행사입니다.",
         "latitude": 37.5178604,
         "longitude": 126.8819583,
