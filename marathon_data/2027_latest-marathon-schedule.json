@@ -244,6 +244,37 @@
     },
     {
         "year": "2027",
+        "date": "5/9",
+        "month": 5,
+        "day": 9,
+        "day_of_week": "일",
+        "event_name": "소아암환우돕기 제24회 서울시민마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "3km 걷기"
+        ],
+        "location": "여의도 한강 물빛광장",
+        "organizer": [
+            "{사}소아암환우돕기 조직위"
+        ],
+        "phone": "02-2647-4488",
+        "event_id": "41907",
+        "homepage": "http://soaam.runningdr.co.kr",
+        "email": "yck0423@hanmail.net",
+        "representative": "윤찬기",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "여의도 한강 물빛광장",
+        "registration_period": "2027년1월18일~2027년3월30일",
+        "description": "마라톤대회의 수익금은 소아암어린이 치료비로 기부를하는 자전행사 마라톤대회 입니다현재까지 총 기부액금액 10억 3천 5백만원을 기부하였습니다국내 최초 소아암어린이돕기 기부액 10억원 이상을 달성하였습니다",
+        "latitude": 37.5308485,
+        "longitude": 126.9277457,
+        "map_address": "서울특별시 영등포구 한강남자전거길 1451"
+    },
+    {
+        "year": "2027",
         "date": "10/9",
         "month": 10,
         "day": 9,

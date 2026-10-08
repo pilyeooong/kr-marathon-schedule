@@ -15615,6 +15615,36 @@
         "month": 11,
         "day": 15,
         "day_of_week": "일",
+        "event_name": "2026 청춘레이스",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "성북구 중랑천 체육공원",
+        "organizer": [
+            "(사)행복한가게"
+        ],
+        "phone": "02-877-3335",
+        "event_id": "41909",
+        "homepage": "http://youngrace.kr",
+        "email": "run@youngrace.kr",
+        "representative": "임서현",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "성북구 중랑천 체육공원",
+        "registration_period": "2026년10월8일~2026년11월8일",
+        "description": "신선한 바람이 함께하는 11월중랑천에서 나만의 속도로 달리는 즐거움을 만나보세요",
+        "latitude": 37.5692825,
+        "longitude": 127.0768381,
+        "map_address": "서울특별시 동대문구 장안동 19-6"
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
         "event_name": "2026 FILA RUN & ESPRESSO",
         "tags": [
             "10km"
@@ -15662,7 +15692,7 @@
         "start_time": ":",
         "region": "경기",
         "venue_detail": "파주 임진각",
-        "registration_period": "2026년8월9일~2026년9월14일",
+        "registration_period": "2026년8월9일~2026년10월13일",
         "description": "많은 참여바랍니다",
         "latitude": 37.8920435,
         "longitude": 126.7447929,
@@ -15854,7 +15884,7 @@
             "10km",
             "5km"
         ],
-        "location": "여의도 한강공원 물빛무대앞 광",
+        "location": "여의도한강공원 물빛무대앞광장",
         "organizer": [
             "빗썸나눔 & 이투데이"
         ],
@@ -15865,7 +15895,7 @@
         "representative": "이서윤, 이종재",
         "start_time": "09:00",
         "region": "서울",
-        "venue_detail": "여의도 한강공원 물빛무대앞 광",
+        "venue_detail": "여의도한강공원 물빛무대앞광장",
         "registration_period": "2026년10월6일~2026년10월21일",
         "description": "빗썸나눔, 이투데이와 함께하는 소외계층 아동을 위한 마라톤",
         "latitude": 37.5263362,
@@ -16426,6 +16456,31 @@
         "latitude": 37.5268088,
         "longitude": 126.9222841,
         "map_address": "서울특별시 영등포구 여의공원로 68"
+    },
+    {
+        "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
+        "event_name": "부산항일학생의거86주년기념 부산시민이어달리기",
+        "tags": [
+            "이어달리기16키로"
+        ],
+        "location": "부산시내 중앙로구덕운동장~초읍",
+        "organizer": [
+            "(사)부산항일학생의거기념사업회"
+        ],
+        "phone": "070-4406-1123",
+        "event_id": "41908",
+        "homepage": "http://i1123.org",
+        "email": "swyim2230@gmail.com",
+        "representative": "배중효",
+        "start_time": "09:00",
+        "region": "부산",
+        "venue_detail": "부산시내 중앙로구덕운동장~초읍",
+        "registration_period": "2026년10월13일~2026년11월10일",
+        "description": "**신청은 홈페이지 이용\r\n**선착순 300명 참가\r\n**부산항일학생의거 86주년을 기념하여 매년 개최하던 제 11회 부산시민이어달리기\r\n**구덕운동장을 출발하여 충무동~남포동~중앙동~부산역~부산진역~범일동~범냇골~서면로터리~부암교차로~연지삼거리~초읍으로 이어달리기를 진행함"
     },
     {
         "year": "2026",
