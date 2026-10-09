@@ -13050,7 +13050,7 @@
         "start_time": "08:30",
         "region": "서울",
         "venue_detail": "중화체육공원",
-        "registration_period": "2026년8월5일~2026년10월7일",
+        "registration_period": "2026년8월5일~2026년10월11일",
         "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다.",
         "latitude": 37.6053915,
         "longitude": 127.0727456,
@@ -14053,7 +14053,7 @@
         "start_time": "16:44",
         "region": "부산",
         "venue_detail": "부산 영도구 태종대 자동차야외극장(Drive in영도)",
-        "registration_period": "2026년8월20일~2026년9월20일",
+        "registration_period": "2026년8월20일~2026년10월31일",
         "description": "태종대에서 펼쳐지는 특별한 러닝 이벤트!10월 31일 4시 44분에 좀비 본능이 깨어난다!뉴진스님과 함께하는 4K 좀비레이스지금 껏 보지 못했던특별한 레이스 경험,2026 태종대 좀비레이스에서 만나보세요!!",
         "latitude": 35.0621392,
         "longitude": 129.0820959,
@@ -14492,7 +14492,7 @@
         "start_time": "09:00",
         "region": "대전",
         "venue_detail": "엑스포다리 인근",
-        "registration_period": "2026년9월2일~2026년10월10일",
+        "registration_period": "2026년9월2일~2026년10월20일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 36.3715793,
         "longitude": 127.3885,
@@ -14806,7 +14806,7 @@
         "start_time": "09:30",
         "region": "충남",
         "venue_detail": "청양군 청양목재문화자연사체험관",
-        "registration_period": "2026년9월2일~2026년10월15일",
+        "registration_period": "2026년9월2일~2026년10월25일",
         "description": "2026 청양군체육회장기 칠갑마라톤대회입니다. 칠갑산의 맑은 공기와 아름다운 칠갑저수지를 배경으로 달리는 청양 힐링 레이스로, 2026년 11월 8일 개최됩니다. 하프코스, 14km, 7km 종목으로 진행되며 전국 마라톤 동호인과 누구나 참가할 수 있습니다. 참가신청, 대회요강, 코스안내, 참가자 기념품 등 자세한 정보를 확인하세요.",
         "latitude": 36.4389778,
         "longitude": 126.8503093,
@@ -15587,6 +15587,35 @@
         "month": 11,
         "day": 15,
         "day_of_week": "일",
+        "event_name": "2026 연수구청장배 송도 WALK & RUN",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "WALK 5km",
+            "WALK 10km"
+        ],
+        "location": "국립인천대학교 송도캠퍼스 정문",
+        "organizer": [
+            "인천광역시연수구걷기협회"
+        ],
+        "phone": "070-4098-1114",
+        "event_id": "41910",
+        "homepage": "http://walknrun.kr",
+        "email": "kwpark93@hanmail.net",
+        "representative": "박광원",
+        "start_time": ":",
+        "region": "인천",
+        "venue_detail": "국립인천대학교 송도캠퍼스 정문",
+        "registration_period": "2026년10월9일~2026년11월8일",
+        "description": "상쾌한 가을 아침, 송도국제도시의 아름다운 도심을 누비다.건강과 활력을 채우는 프리미엄 워킹 & 러닝 페스티벌이 열립니다.2026연수구청장배 송도 WALK & RUN 에 오신걸 환영합니다."
+    },
+    {
+        "year": "2026",
+        "date": "11/15",
+        "month": 11,
+        "day": 15,
+        "day_of_week": "일",
         "event_name": "2026 에코나우런",
         "tags": [
             "5km"
@@ -16305,7 +16334,7 @@
         "start_time": "09:00",
         "region": "대구",
         "venue_detail": "금호강 러닝성지",
-        "registration_period": "2026년9월11일~2026년10월20일",
+        "registration_period": "2026년9월11일~2026년10월30일",
         "description": "PB 달성이 가장 쉬운 확실한 공식대회- 병목없는 레이스, 티어별 스타트- 업힐 없는 국내 최고의 평지 코스- 강변을 따라 달리는 힐링 코스- 차량통제 필요없는 안전한 코스- 10K, 5K 모두 기록칩 완벽 지원- 100명 이상의 경품, 최고 수준의 상금",
         "latitude": 35.8764828,
         "longitude": 128.6627985,
@@ -16927,6 +16956,7 @@
         "day_of_week": "일",
         "event_name": "제14회 안중근 평화 마라톤",
         "tags": [
+            "하프",
             "10km",
             "5km"
         ],
@@ -17104,25 +17134,25 @@
         "month": 12,
         "day": 5,
         "day_of_week": "토",
-        "event_name": "2026 하남 미사 호수 에너지런",
+        "event_name": "2026 하남 미사 대회 취소",
         "tags": [
             "10km",
             "5km"
         ],
         "location": "하남미사경정공원",
         "organizer": [
-            "(사)행복한가게"
+            "하남미사"
         ],
-        "phone": "02-888-8875",
+        "phone": "02-000-0000",
         "event_id": "41762",
         "homepage": "http://energyrun.kr",
         "email": "run@energyrun.kr",
-        "representative": "임서현",
+        "representative": "하남",
         "start_time": "09:00",
         "region": "경기",
         "venue_detail": "하남미사경정공원",
-        "registration_period": "2026년8월3일~2026년11월26일",
-        "description": "기록과 순위를 넘어 서로를 응원하며 즐겁게 달릴 수 있는 축제의 장이 되기를 바라며 참가자 모두 기쁘게 달릴 수 있길 희망합니다.",
+        "registration_period": "2026년8월3일~2026년9월26일",
+        "description": "참가자가 150여명으로 대회운영이 어려워 대회 취소합니다참가신청자 여러분의 넓은 이해 부탁 드립니다",
         "latitude": 37.5536142,
         "longitude": 127.2132338,
         "map_address": "경기도 하남시 미사대로 505"
