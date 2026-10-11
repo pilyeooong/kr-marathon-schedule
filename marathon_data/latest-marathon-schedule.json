@@ -11694,6 +11694,35 @@
         "month": 10,
         "day": 9,
         "day_of_week": "금",
+        "event_name": "제11회 수퍼블루마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "상암동 평화의 광장",
+        "organizer": [
+            "스페셜올림픽 조직위"
+        ],
+        "phone": "02-312-1998",
+        "event_id": "41916",
+        "homepage": "http://www.superbluemarathon.kr/",
+        "email": "superblue@sokorea.or.kr",
+        "representative": "wjddidtjr",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "상암동 평화의 광장",
+        "registration_period": "2026년7월8일~2026년9월10일",
+        "description": "평화의 광장",
+        "latitude": 37.5659053,
+        "longitude": 126.8964648,
+        "map_address": "서울특별시 마포구 월드컵로 251"
+    },
+    {
+        "year": "2026",
+        "date": "10/9",
+        "month": 10,
+        "day": 9,
+        "day_of_week": "금",
         "event_name": "2026 한글런",
         "tags": [
             "5.15km",
