@@ -115,11 +115,41 @@
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "여의도 한강 물빛광장",
-        "registration_period": "2026년10월12일~2027년1월10일",
+        "registration_period": "2026년11월12일~2027년1월10일",
         "description": "-수익금중 일부를 소아암어린이 치료비로 기부하는 \"희망드림\" 행사입니다",
         "latitude": 37.5308485,
         "longitude": 126.9277457,
         "map_address": "서울특별시 영등포구 한강남자전거길 1451"
+    },
+    {
+        "year": "2027",
+        "date": "2/28",
+        "month": 2,
+        "day": 28,
+        "day_of_week": "일",
+        "event_name": "2027 대구마라톤",
+        "tags": [
+            "풀",
+            "10km",
+            "5km"
+        ],
+        "location": "국채보상운동기념공원",
+        "organizer": [
+            "대구시"
+        ],
+        "phone": "053-803-6185",
+        "event_id": "41918",
+        "homepage": "http://daegumarathon.daegu.go.kr",
+        "email": "daegumarathon@daegusports.or.kr",
+        "representative": "백영기",
+        "start_time": "08:00",
+        "region": "대구",
+        "venue_detail": "국채보상운동기념공원",
+        "registration_period": "2026년10월12일~2026년10월18일",
+        "description": "대구마라톤",
+        "latitude": 35.8688962,
+        "longitude": 128.6034053,
+        "map_address": "대구광역시 중구 국채보상로 670"
     },
     {
         "year": "2027",
