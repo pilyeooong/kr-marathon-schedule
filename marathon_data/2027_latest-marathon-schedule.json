@@ -1,6 +1,36 @@
 [
     {
         "year": "2027",
+        "date": "1/10",
+        "month": 1,
+        "day": 10,
+        "day_of_week": "일",
+        "event_name": "2027 전마협 새해 동계 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "금산 인삼 엑스포광장 주차장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41919",
+        "homepage": "http://mara1080.com/event/2c881231-b5dd-4ae8-a587-c02d539566af",
+        "email": "jangmd@naver.com",
+        "representative": "장영기",
+        "start_time": "09:00",
+        "region": "충남",
+        "venue_detail": "금산 인삼 엑스포광장 주차장",
+        "registration_period": "2026년10월12일~2026년12월30일",
+        "description": "2027년 1월 10일 금산에서 열리는 전마협 새해 동계 마라톤입니다.",
+        "latitude": 36.0995774,
+        "longitude": 127.5021549,
+        "map_address": "충청남도 금산군 금산읍 인삼광장로 20"
+    },
+    {
+        "year": "2027",
         "date": "2/20",
         "month": 2,
         "day": 20,
@@ -176,7 +206,7 @@
         "start_time": "9",
         "region": "서울",
         "venue_detail": "뚝섬한강공원 수변무대",
-        "registration_period": "2026년10월6일~2027년1월31일",
+        "registration_period": "2026년10월6일~2026년10월12일",
         "description": "2027머니투데이방송 삼일절 마라톤대회",
         "latitude": 37.5315862,
         "longitude": 127.0667177,
