@@ -14817,6 +14817,37 @@
         "month": 11,
         "day": 8,
         "day_of_week": "일",
+        "event_name": "2026전국 체육회장배 안산 RUN 마라톤",
+        "tags": [
+            "10km",
+            "5km",
+            "3km(학생부)",
+            "5인1조(10km)"
+        ],
+        "location": "안산 호수공원(중앙무대)인근",
+        "organizer": [
+            "안산시체육회/안산시육상연맹"
+        ],
+        "phone": "031-339-6338",
+        "event_id": "41926",
+        "homepage": "http://aaaf.koreashout.com/bbs/board.php?bo_table=cp_list&wr_id=60",
+        "email": "aaaf63@naver.com",
+        "representative": "우진",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "안산 호수공원(중앙무대)인근",
+        "registration_period": "2026년10월14일~2026년10월24일",
+        "description": "가을 호수길을 달리고, 풍성한 기념품까지! 도심 속 호수를 따라 달리는 특별한 하루!가을의 정취가 가득한 안산호수공원에서 가족, 친구, 동료들과 함께 달려보세요!달리기를 처음 초보러너부터 러닝을 즐기는 분들까지 누구나 함께할 수 있습니다.대회 안내일시 : 2026년 11월 8일(일)장소 : 안산호수공원모집인원 : 선착순 900명참가 종목 및 참가비2.8km 학생부 : 10,000원5km : 35,000원10km : 40,000원10km 단체전 : 5인 1조참가비 입금계좌기업은행 451-064780-04-034예금주 : 안산시육상연맹※ 참가 신청 후 참가비 입금순으로 접수됩니다.참가자 기념품C2 스포츠 기능성 러닝양말 (5km 2족 / 10km 3족)올라 뉴트리션 리커버리 세트완주메달 및 생수30명 이상 단체 참가 시 단체 부스 및 먹거리 제공!참가 신청안산시육상연맹 홈페이지https://aaaf.koreashout.com",
+        "latitude": 37.297437,
+        "longitude": 126.8258918,
+        "map_address": "경기도 안산시 상록구 해안로 615"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
         "event_name": "2026 청양군 칠갑마라톤",
         "tags": [
             "하프",
@@ -16519,6 +16550,36 @@
         "month": 11,
         "day": 22,
         "day_of_week": "일",
+        "event_name": "제19회 대구광역시장기 생활체육 육상대회",
+        "tags": [
+            "10km",
+            "100m",
+            "200m"
+        ],
+        "location": "대구스타디움",
+        "organizer": [
+            "대구광역시체육회"
+        ],
+        "phone": "010-3503-4558",
+        "event_id": "41925",
+        "homepage": "http://www.daegutf.co.kr/front/board/view.php?code=game&tab=%EB%8C%80%EA%B5%AC&mid=0003%2C0014&no=722",
+        "email": "daegurun2@daum.net",
+        "representative": "최수백",
+        "start_time": "9:00",
+        "region": "대구",
+        "venue_detail": "대구스타디움",
+        "registration_period": "2026년10월15일~2026년11월5일",
+        "description": "http://www.daegutf.co.kr/front/board/view.php?code=game&tab=%EB%8C%80%EA%B5%AC∣=0003%2C0014&no=722▶접수기간 : 2026년 10월 15일 ~ 2026년 11월 5일 18:00",
+        "latitude": 35.8297681,
+        "longitude": 128.6901638,
+        "map_address": "대구광역시 수성구 유니버시아드로 180"
+    },
+    {
+        "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
         "event_name": "부산항일학생의거86주년기념 부산시민이어달리기",
         "tags": [
             "이어달리기16키로"
@@ -17247,6 +17308,37 @@
         "latitude": 35.510242,
         "longitude": 126.9072435,
         "map_address": "전북특별자치도 정읍시 내장동 364-2"
+    },
+    {
+        "year": "2026",
+        "date": "12/6",
+        "month": 12,
+        "day": 6,
+        "day_of_week": "일",
+        "event_name": "2026 화순고인돌마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "화순공설운동장",
+        "organizer": [
+            "화순군체육회",
+            "화순군육상연맹"
+        ],
+        "phone": "061-375-1201",
+        "event_id": "41923",
+        "homepage": "http://xn--299a84k68cg1cr8pi6h5qsd0i.kr/index.asp",
+        "email": "ds4bjt@hanmail.net",
+        "representative": "안종옥",
+        "start_time": "08:30",
+        "region": "전남",
+        "venue_detail": "화순공설운동장",
+        "registration_period": "2026년10월20일~2026년11월10일",
+        "description": "🏃 2026 화순고인돌마라톤대회 참가 접수 안내세계문화유산 고인돌의 고장 화순에서 펼쳐지는 2026 화순고인돌마라톤대회!아름다운 화순의 풍경 속에서 달리기의 즐거움을 만끽하고, 건강과 활력을 더하는 특별한 레이스에 여러분을 초대합니다.📌 참가 종목5km10km하프코스📌 모집 인원선착순 2,000명📌 접수 안내참가 신청은 선착순으로 진행되며, 모집 인원 2,000명 달성 시 조기 마감될 수 있습니다.참가를 희망하시는 분들은 서둘러 신청해 주시기 바랍니다.여러분의 많은 관심과 참여 바랍니다!",
+        "latitude": 35.0501241,
+        "longitude": 126.9686133,
+        "map_address": "전남광주통합특별시 화순군 화순읍 학포로 2698"
     },
     {
         "year": "2026",
