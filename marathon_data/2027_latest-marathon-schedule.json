@@ -31,6 +31,35 @@
     },
     {
         "year": "2027",
+        "date": "2/13",
+        "month": 2,
+        "day": 13,
+        "day_of_week": "토",
+        "event_name": "2027 전마협 고흥 누리호 마라톤대회",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "고흥만 수변노을공원",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042- 638-1080",
+        "event_id": "41931",
+        "homepage": "http://mara1080.com/event/f3c362bc-532f-4f3c-bc21-76d3023bfb3a",
+        "email": " jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "9:00",
+        "region": "전남",
+        "venue_detail": "고흥만 수변노을공원",
+        "registration_period": "2026년10월16일~2027년12월1일",
+        "description": "2027 전마협 고흥 누리호 마라톤대회",
+        "latitude": 34.6444063,
+        "longitude": 127.1951969,
+        "map_address": "전남광주통합특별시 고흥군 도덕면 고흥만로 1106"
+    },
+    {
+        "year": "2027",
         "date": "2/20",
         "month": 2,
         "day": 20,
