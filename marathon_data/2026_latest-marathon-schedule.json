@@ -15358,6 +15358,34 @@
         "month": 11,
         "day": 8,
         "day_of_week": "일",
+        "event_name": "83타워 업힐런 챌린지",
+        "tags": [
+            "1.8Km+77층 계단"
+        ],
+        "location": "이월드",
+        "organizer": [
+            "이월드 / 페스티벌잼"
+        ],
+        "phone": "070-7549-8112",
+        "event_id": "41933",
+        "homepage": "http://eworld83toweruphillrun.lovable.app/",
+        "email": "festivaljam2024@gmail.com",
+        "representative": "남승화",
+        "start_time": "07:00",
+        "region": "대구",
+        "venue_detail": "이월드",
+        "registration_period": "2026년10월19일~2026년10월31일",
+        "description": "83타워 업힐런 챌린지는 대구 이월드의 오르막길을 달리고, 83타워 계단을 올라 77층 전망대까지 완주하는 이색 수직 러닝 페스티벌입니다.이번 2회차에는 기록칩을 도입하여 개인별 완주 기록을 측정하고, 기존의 체험형 러닝에서 기록에 도전하는 스포츠 챌린지로 확대 운영합니다.",
+        "latitude": 35.8530292,
+        "longitude": 128.5657599,
+        "map_address": "대구광역시 달서구 두류공원로 200"
+    },
+    {
+        "year": "2026",
+        "date": "11/8",
+        "month": 11,
+        "day": 8,
+        "day_of_week": "일",
         "event_name": "제5회 거제시체육회장배 거제앵산트레일레이스",
         "tags": [
             "산악28km/17km",
@@ -16423,7 +16451,7 @@
         "start_time": "7:00",
         "region": "경남",
         "venue_detail": "남해공설운동장",
-        "registration_period": "2026년8월10일~2026년10월15일",
+        "registration_period": "2026년8월10일~2026년11월15일",
         "description": "42km, 30km, 12km남해트레일레이스입니다.",
         "latitude": 34.8342535,
         "longitude": 127.8916614,
