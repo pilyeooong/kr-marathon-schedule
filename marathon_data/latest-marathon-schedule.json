@@ -13929,7 +13929,7 @@
         ],
         "location": "인제스피디움",
         "organizer": [
-            "원유니버스"
+            "원유니버스스튜디오"
         ],
         "phone": "02-338-0344",
         "event_id": "41861",
@@ -13939,7 +13939,7 @@
         "start_time": ":",
         "region": "강원",
         "venue_detail": "인제스피디움",
-        "registration_period": "2026년9월22일~2026년10월12일",
+        "registration_period": "2026년9월22일~2026년10월26일",
         "description": "MARVEL RUN달리는 순간부터, 즐기는 순간까지.하루 종일 펼쳐지는 MARVEL PLAYGROUND!레이싱의 짜릿함이 가득한 인제스피디움이 하루 동안 마블의 세계로 변신합니다.서킷 위를 직접 달리는 특별한 러닝부터 마블 히어로를 테마로 한 다양한 체험과 이벤트, 포토존과 엔터테인먼트까지.기록을 위해 달리는 러너도, 가족·친구와 특별한 하루를 보내고 싶은 사람도 모두 함께 즐길 수 있는 하루 종일 머물고 싶은 러닝 테마파크가 펼쳐집니다.달리는 즐거움과 마블을 경험하는 특별한 순간이 하나로 이어지는 하루.RUN. PLAY. ENJOY.달리고, 즐기고, 마블의 세계에 빠져보세요.MARVEL RUN at INJE SPEEDIUM",
         "latitude": 38.0026931,
         "longitude": 128.2951054,
@@ -14869,10 +14869,10 @@
         "homepage": "http://1004.tbc.co.kr/",
         "email": "saehim@saehim.kr",
         "representative": "이정아",
-        "start_time": "09:10",
+        "start_time": "09:00",
         "region": "경북",
         "venue_detail": "경북도청 천년숲 앞",
-        "registration_period": "2026년9월1일~2026년10월16일",
+        "registration_period": "2026년9월1일~2026년10월25일",
         "description": "<추가 접수 안내 : ~ 10월 25일(일)>- 하프코스 200명- 10km코스 200명※ 입금 기준으로 마감예정입니다.==============================2026년 11월 8일(일), 2026 경북도청 신도시 마라톤대회가 개최됩니다.참가자 접수가 시작되었으니, 전국의 마라톤 동호인 여러분의 많은 관심과 참여 바랍니다.경북도청 신도시 일원을 힘차게 달리며 경북의 새로운 중심에서 열리는 특별한 레이스를 함께 경험해보시기 바랍니다.도민과 함께하는 건강한 축제, 2026 경북도청 신도시 마라톤대회에서 여러분을 기다립니다!",
         "latitude": 36.5734537,
         "longitude": 128.5052055,
@@ -17639,6 +17639,35 @@
     },
     {
         "year": "2026",
+        "date": "12/12",
+        "month": 12,
+        "day": 12,
+        "day_of_week": "토",
+        "event_name": "2026 성남 헤리티지 런",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "탄천종합운동장",
+        "organizer": [
+            "채널A"
+        ],
+        "phone": "031-821-9940",
+        "event_id": "41936",
+        "homepage": "http://charun.co.kr",
+        "email": "charuncenter@gmail.com",
+        "representative": "이관수",
+        "start_time": "08:30",
+        "region": "경기",
+        "venue_detail": "탄천종합운동장",
+        "registration_period": "2026년10월21일~2026년11월20일",
+        "description": "손기정 세계 제패 90주년1936년 베를린의 감동을 2026년 성남에서 이어갑니다.1936년 베를린 올림픽 마라톤, 배번 382를 달고 가장 먼저 결승선을 통과한 손기정.그로부터 90년, 그 감동을 이어받아 탄천을 따라 달리는 2026 성남 헤리티지 마라톤이 열립니다.한 걸음 한 걸음에 담긴 역사를, 이제 여러분의 기록으로 이어 주세요.2026 SEONGNAM HERITAGE RUN",
+        "latitude": 37.4102033,
+        "longitude": 127.1212796,
+        "map_address": "경기 성남시 분당구 탄천로 215"
+    },
+    {
+        "year": "2026",
         "date": "12/13",
         "month": 12,
         "day": 13,
@@ -17723,6 +17752,37 @@
         "venue_detail": "진주노을공원",
         "registration_period": "2026년9월14일~2026년9월14일",
         "description": "시민들이 만드는 풀뿌리 마라톤대회"
+    },
+    {
+        "year": "2026",
+        "date": "12/13",
+        "month": 12,
+        "day": 13,
+        "day_of_week": "일",
+        "event_name": "2026 시즌마감마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "인천아사이드 경기장 북측 광장",
+        "organizer": [
+            "기호일보",
+            "로드스포츠"
+        ],
+        "phone": "00-1600-3962",
+        "event_id": "41935",
+        "homepage": "http://42195race.com/",
+        "email": "road42195@naver.com",
+        "representative": "로드스포츠",
+        "start_time": "9",
+        "region": "인천",
+        "venue_detail": "인천아사이드 경기장 북측 광장",
+        "registration_period": "2026년10월20일~2026년11월23일",
+        "description": "",
+        "latitude": 37.5476153,
+        "longitude": 126.6666172,
+        "map_address": "인천광역시 서해구 봉수대로 806"
     },
     {
         "year": "2026",
