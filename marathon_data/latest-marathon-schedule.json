@@ -15638,7 +15638,7 @@
         "start_time": "09:00",
         "region": "경북",
         "venue_detail": "영일대해상누각",
-        "registration_period": "2026년4월13일~2026년10월31일",
+        "registration_period": "2026년4월13일~2026년11월3일",
         "description": "포항마라톤챔피언십은 스피드 위주의 마라톤대회입니다.전국최강자들이 모여 가장빠른 10km챔피언을 가리는 대회입니다.전국 최고의 대회가 될수 있도록 준비하겠습니다",
         "latitude": 36.0631023,
         "longitude": 129.3826726,
@@ -16187,7 +16187,7 @@
         "start_time": "9",
         "region": "서울",
         "venue_detail": "신정교하부육상트랙구장",
-        "registration_period": "2026년7월8일~2026년10월26일",
+        "registration_period": "2026년7월8일~2026년11월14일",
         "description": "9회째 개최되는 서울평화마라톤입니다.가족, 연인, 친구와 함께 편한 마음으로 함께 해 주세요",
         "latitude": 37.5178604,
         "longitude": 126.8819583,
@@ -16495,10 +16495,10 @@
         "event_name": "K-거상 트레일 러닝 대회",
         "tags": [
             "5km",
-            "15km",
-            "20km"
+            "19km",
+            "27km"
         ],
-        "location": "가례초등학교(경남 의령)",
+        "location": "의령여자중학교(경남 의령)",
         "organizer": [
             "경남관광재단"
         ],
@@ -16509,12 +16509,9 @@
         "representative": "정문효",
         "start_time": "09:00",
         "region": "경남",
-        "venue_detail": "가례초등학교(경남 의령)",
+        "venue_detail": "의령여자중학교(경남 의령)",
         "registration_period": "2026년9월28일~2026년11월21일",
-        "description": "K-거상 트레일 러닝 대회 입니다 많은 관심 부탁 드립니다",
-        "latitude": 35.3333428,
-        "longitude": 128.2464399,
-        "map_address": "경상남도 의령군 가례면 가례로 128"
+        "description": "K-거상 트레일 러닝 대회 입니다 많은 관심 부탁 드립니다"
     },
     {
         "year": "2026",
@@ -16973,7 +16970,7 @@
         "start_time": "09:00",
         "region": "서울",
         "venue_detail": "서울 성북구 석관동",
-        "registration_period": "2026년9월22일~2026년10월31일",
+        "registration_period": "2026년9월22일~2026년11월15일",
         "description": "참가자들이 편하게 달릴수 있는 대회를 만들겠습니다.병목없는 마라톤대회",
         "latitude": 37.6140299,
         "longitude": 127.0692366,
@@ -17963,23 +17960,23 @@
         "month": 12,
         "day": 28,
         "day_of_week": "월",
-        "event_name": "2026 한강런 (대회취소)",
+        "event_name": "대회취소",
         "tags": [
             "10km",
             "5km"
         ],
-        "location": "안양천다목적광장",
+        "location": "대회취소",
         "organizer": [
-            "한강런(주)"
+            "대회취소"
         ],
-        "phone": "02-888-8805",
+        "phone": "02-0000-0000",
         "event_id": "41806",
-        "homepage": "http://hgrun.kr",
+        "homepage": "http://hgru",
         "email": "start@hgrun.kr",
-        "representative": "한강런",
+        "representative": "대회취소",
         "start_time": "09:00",
         "region": "서울",
-        "venue_detail": "안양천다목적광장",
+        "venue_detail": "대회취소",
         "registration_period": "2026년9월20일~2026년10월15일",
         "description": "달리기를 사랑하는 모든 분들이 함께 어울려 건강과 화합을 나누는 축제의 장",
         "latitude": 37.4548567,
