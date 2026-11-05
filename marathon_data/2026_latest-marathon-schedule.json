@@ -16840,6 +16840,32 @@
         "month": 11,
         "day": 28,
         "day_of_week": "토",
+        "event_name": "목욕런 2026",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "월드컵공원 평화의 광장",
+        "organizer": [
+            "사우나 민족"
+        ],
+        "phone": "02-111-1111",
+        "event_id": "41947",
+        "homepage": "http://mokyokrun.shop",
+        "email": "26mile.business@gmail.com",
+        "representative": "이상돈",
+        "start_time": "8:00",
+        "region": "서울",
+        "venue_detail": "월드컵공원 평화의 광장",
+        "registration_period": "2026년10월28일~2026년11월9일",
+        "description": "~11/9 월요일까지 추가 모집 됩니다. 접수중으로 변경해주세요!"
+    },
+    {
+        "year": "2026",
+        "date": "11/28",
+        "month": 11,
+        "day": 28,
+        "day_of_week": "토",
         "event_name": "2026 착한서구 공부방 기부앤런",
         "tags": [
             "10km",
@@ -16859,6 +16885,37 @@
         "venue_detail": "영산강 자전거길(극락교~서창교",
         "registration_period": "2026년10월15일~2026년11월17일",
         "description": "처음으로 진행하는 공부방 아이들에게 안전하고 쾌적한 공부방을 만들어 주는 기부마라톤입니다늦게 승인되어 기간이 촉박하게 올린 점 죄송합니다.빠른 승인 부탁드리며, 건강하세요."
+    },
+    {
+        "year": "2026",
+        "date": "11/28",
+        "month": 11,
+        "day": 28,
+        "day_of_week": "토",
+        "event_name": "2026 SPOTV NIGHT RUN",
+        "tags": [
+            "7km코스",
+            "3.5km코스",
+            "패밀리런"
+        ],
+        "location": "렛츠런파크 서울",
+        "organizer": [
+            "SPOTV",
+            "한국마사회"
+        ],
+        "phone": "031-821-9949",
+        "event_id": "41952",
+        "homepage": "http://spotvrun.co.kr",
+        "email": "charuncenter@gmail.com",
+        "representative": "홍우승",
+        "start_time": ":",
+        "region": "경기",
+        "venue_detail": "렛츠런파크 서울",
+        "registration_period": "2026년11월1일~2026년11월15일",
+        "description": "많은 참여바랍니다",
+        "latitude": 37.4459287,
+        "longitude": 127.0116959,
+        "map_address": "경기도 과천시 경마공원대로 107"
     },
     {
         "year": "2026",
@@ -17534,7 +17591,7 @@
         "start_time": ":",
         "region": "서울",
         "venue_detail": "상암동 평화의공원 평화광장",
-        "registration_period": "2026년9월9일~2026년11월8일",
+        "registration_period": "2026년9월9일~2026년11월22일",
         "description": "금빛청춘레이스에서 청춘런까지, 여섯 번째 달리기함께 달리는 청춘, 함께 웃는 내일2026 청춘런청춘런 수익금의 일부는 초록우산을 통해자립준비청년의 주거, 교육, 취업, 생활 안정 등자립 지원 사업에 사용됩니다.당신의 한 걸음이 누군가의 새로운 시작이 됩니다.함께 달리며, 청춘의 내일을 응원해주세요!",
         "latitude": 37.563534,
         "longitude": 126.8984371,
@@ -17664,36 +17721,6 @@
         "month": 12,
         "day": 12,
         "day_of_week": "토",
-        "event_name": "제3회 긍정의힘 마라톤",
-        "tags": [
-            "하프",
-            "10km",
-            "5km"
-        ],
-        "location": "신정교 하부 영롱이 억새구장",
-        "organizer": [
-            "(사)한국유튜브방송협회"
-        ],
-        "phone": "02-336-1588",
-        "event_id": "41840",
-        "homepage": "http://www.powerrun.kr/",
-        "email": "run@powerrun.kr",
-        "representative": "최인식",
-        "start_time": "09:00",
-        "region": "서울",
-        "venue_detail": "신정교 하부 영롱이 억새구장",
-        "registration_period": "2026년8월30일~2026년12월6일",
-        "description": "긍정으로 내딛는 한 걸음, 오늘의 힘이 됩니다.힘찬 발걸음마다 새로운 용기와 좋은 에너지가 가득하기를 바랍니다.",
-        "latitude": 37.5178604,
-        "longitude": 126.8819583,
-        "map_address": "서울특별시 영등포구 영등포로2길 62"
-    },
-    {
-        "year": "2026",
-        "date": "12/12",
-        "month": 12,
-        "day": 12,
-        "day_of_week": "토",
         "event_name": "2026 ONE MORE RUN",
         "tags": [
             "하프",
@@ -17775,6 +17802,31 @@
         "latitude": 37.5329621,
         "longitude": 127.1513748,
         "map_address": "서울특별시 강동구 동남로 660 (둔촌동) [지번] 서울특별시 강동구 둔촌동 산140 일자산자연공원제1체육관"
+    },
+    {
+        "year": "2026",
+        "date": "12/13",
+        "month": 12,
+        "day": 13,
+        "day_of_week": "일",
+        "event_name": "2026이순신런페스타",
+        "tags": [
+            "6.4km"
+        ],
+        "location": "아산신정호국민관광지야외음악당",
+        "organizer": [
+            "(사)이순신백의종군길마라톤"
+        ],
+        "phone": "010-3770-0910",
+        "event_id": "41951",
+        "homepage": "http://yssmarathon.com",
+        "email": "asforum@naver.com",
+        "representative": "이건영",
+        "start_time": "08:30",
+        "region": "충남",
+        "venue_detail": "아산신정호국민관광지야외음악당",
+        "registration_period": "2026년11월3일~2026년12월2일",
+        "description": "이순신 장군의 호국정신과 도전정신을 생활체육으로 계승하고, 시민들이 함께 달리며 건강과 화합의 가치를 나누기 위해 마련된 \"축제형마라톤\"행사입니다."
     },
     {
         "year": "2026",
@@ -17864,66 +17916,6 @@
         "latitude": 37.5476153,
         "longitude": 126.6666172,
         "map_address": "인천광역시 서해구 봉수대로 806"
-    },
-    {
-        "year": "2026",
-        "date": "12/19",
-        "month": 12,
-        "day": 19,
-        "day_of_week": "토",
-        "event_name": "제2회 청춘 릴레이 마라톤",
-        "tags": [
-            "하프",
-            "10km",
-            "5km"
-        ],
-        "location": "상암월드컵공원 평화의광장",
-        "organizer": [
-            "(사)재한다문화총연합회"
-        ],
-        "phone": "02-2636-7775",
-        "event_id": "41801",
-        "homepage": "http://youngrun.kr",
-        "email": "run@youngrun.kr",
-        "representative": "조병태",
-        "start_time": "08:00",
-        "region": "서울",
-        "venue_detail": "상암월드컵공원 평화의광장",
-        "registration_period": "2026년8월12일~2026년12월9일",
-        "description": "우리 가슴 속에 살아있는 '청춘'의 에너지를 듬뿍 담아 힘차게 달려보기 위해 이 자리에 모였습니다. 청춘은 나이가 아니라, 어떤 목표를 향해 기분 좋게 땀 흘리고 스스로의 한계에 도전하는 여러분의 그 뜨거운 마음이 아닐까 싶습니다.",
-        "latitude": 37.5659053,
-        "longitude": 126.8964648,
-        "map_address": "서울특별시 마포구 월드컵로 251"
-    },
-    {
-        "year": "2026",
-        "date": "12/26",
-        "month": 12,
-        "day": 26,
-        "day_of_week": "토",
-        "event_name": "2026 코리아 시즌 레이스",
-        "tags": [
-            "하프",
-            "10km",
-            "5km"
-        ],
-        "location": "상암월드컵공원 평화광장",
-        "organizer": [
-            "(사)한국경비원협회중앙회"
-        ],
-        "phone": "02-888-8875",
-        "event_id": "41824",
-        "homepage": "http://k-run.kr",
-        "email": "korea@k-run.kr",
-        "representative": "구영선",
-        "start_time": "08:00",
-        "region": "서울",
-        "venue_detail": "상암월드컵공원 평화광장",
-        "registration_period": "2026년8월25일~2026년12월16일",
-        "description": "목표와 속도는 달라도 괜찮습니다.자신의 페이스대로 끝까지 달리며 오늘의 순간을 마음껏 즐겨주시기 바랍니다.이번 대회가 여러분에게 2026년을 아름답게 마무리하는 특별한 하루가 되기를 바랍니다.2026년의 마지막 레이스, 새로운 도약을 향한 첫걸음, 여러분의 힘찬 도전을 진심으로 응원하겠습니다.",
-        "latitude": 37.5659053,
-        "longitude": 126.8964648,
-        "map_address": "서울 마포구 월드컵로 251"
     },
     {
         "year": "2026",

@@ -1,6 +1,36 @@
 [
     {
         "year": "2027",
+        "date": "1/1",
+        "month": 1,
+        "day": 1,
+        "day_of_week": "금",
+        "event_name": "2027 제11회 새해일출런",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "신정교하부육상트랙구장",
+        "organizer": [
+            "(사)대한생활체육마라톤협회"
+        ],
+        "phone": "00-1644-4219",
+        "event_id": "41942",
+        "homepage": "http://www.xn--zl2bt5ndwfh3g20k.kr/",
+        "email": "km4219@daum.net",
+        "representative": "이규운",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "신정교하부육상트랙구장",
+        "registration_period": "2026년10월28일~2026년12월8일",
+        "description": "2027년 정미년! 양껏 달려보자!1월 1일 첫해를 품고, 희망을 향해 달려보자!많은 참여 바랍니다.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2027",
         "date": "1/3",
         "month": 1,
         "day": 3,
@@ -60,6 +90,67 @@
     },
     {
         "year": "2027",
+        "date": "1/10",
+        "month": 1,
+        "day": 10,
+        "day_of_week": "일",
+        "event_name": "제21회 여수해양마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "여수 진남경기장",
+        "organizer": [
+            "여수신문"
+        ],
+        "phone": "061-921-5500",
+        "event_id": "41944",
+        "homepage": "http://ysmarathon.co.kr/info/summary",
+        "email": "namdotour89@naver.com",
+        "representative": "박양규",
+        "start_time": "09:30",
+        "region": "전남",
+        "venue_detail": "여수 진남경기장",
+        "registration_period": "2026년11월9일~2026년12월18일",
+        "description": "제 21회 여수해양마라톤",
+        "latitude": 34.7616209,
+        "longitude": 127.7274874,
+        "map_address": "전남광주통합특별시 여수시 진남체육관길 74"
+    },
+    {
+        "year": "2027",
+        "date": "1/23",
+        "month": 1,
+        "day": 23,
+        "day_of_week": "토",
+        "event_name": "2027 북극곰 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "신정교 하부 영롱이 억새구장",
+        "organizer": [
+            "(사)대한이에스지협회"
+        ],
+        "phone": "02-2636-7775",
+        "event_id": "41957",
+        "homepage": "http://polarbearrun.kr",
+        "email": "run@polarbearrun.kr",
+        "representative": "이승수",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "신정교 하부 영롱이 억새구장",
+        "registration_period": "2026년11월4일~2027년1월17일",
+        "description": "추위를 녹이는 뜨거운 도전, 2027 북극곰 마라톤!서로의 응원을 힘삼아 함께 달리는 기쁨을 나눠보세요.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
+    },
+    {
+        "year": "2027",
         "date": "2/13",
         "month": 2,
         "day": 13,
@@ -86,6 +177,36 @@
         "latitude": 34.6444063,
         "longitude": 127.1951969,
         "map_address": "전남광주통합특별시 고흥군 도덕면 고흥만로 1106"
+    },
+    {
+        "year": "2027",
+        "date": "2/20",
+        "month": 2,
+        "day": 20,
+        "day_of_week": "토",
+        "event_name": "2027 희망 청춘 런",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "신정교 하부 영롱이 억새구장",
+        "organizer": [
+            "(사)중소자영업총연합회"
+        ],
+        "phone": "02-888-8805",
+        "event_id": "41960",
+        "homepage": "http://hope-young.kr",
+        "email": "start@hope-young.kr",
+        "representative": "오호석",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "신정교 하부 영롱이 억새구장",
+        "registration_period": "2026년11월4일~2027년2월11일",
+        "description": "청춘의 열정으로 희망을 향해 달리는 2027 희망 청춘 런!서로를 응원하며 새로운 가능성을 향한 한 걸음을 함께해요.",
+        "latitude": 37.5178604,
+        "longitude": 126.8819583,
+        "map_address": "서울특별시 영등포구 영등포로2길 62"
     },
     {
         "year": "2027",
@@ -203,8 +324,8 @@
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "여의도 한강 물빛광장",
-        "registration_period": "2026년11월12일~2027년1월10일",
-        "description": "-수익금중 일부를 소아암어린이 치료비로 기부하는 \"희망드림\" 행사입니다",
+        "registration_period": "2026년11월23일~2027년1월10일",
+        "description": "-수익금중 소아암어린이 치료비로 기부하는 \"희망드림\" 행사입니다",
         "latitude": 37.5308485,
         "longitude": 126.9277457,
         "map_address": "서울특별시 영등포구 한강남자전거길 1451"
@@ -247,7 +368,6 @@
         "day_of_week": "월",
         "event_name": "2027 머니투데이방송 삼일절 마라톤",
         "tags": [
-            "풀",
             "하프",
             "10km",
             "5km"
@@ -269,6 +389,95 @@
         "latitude": 37.5315862,
         "longitude": 127.0667177,
         "map_address": "서울특별시 광진구 능동로 10"
+    },
+    {
+        "year": "2027",
+        "date": "3/7",
+        "month": 3,
+        "day": 7,
+        "day_of_week": "일",
+        "event_name": "2027 무주 반딧불 하프 마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "무주 등나무운동장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042- 638-1080",
+        "event_id": "41959",
+        "homepage": "http://mara1080.com/event/6b68a627-24cf-4844-ac1d-9358b2a54227",
+        "email": " jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "8:30",
+        "region": "전북",
+        "venue_detail": "무주 등나무운동장",
+        "registration_period": "2026년11월4일~2027년2월31일",
+        "description": "2027무주 반딧불 하프 마라톤대회",
+        "latitude": 36.0026206,
+        "longitude": 127.6614905,
+        "map_address": "전북특별자치도 무주군 무주읍 한풍루로 326-14"
+    },
+    {
+        "year": "2027",
+        "date": "3/7",
+        "month": 3,
+        "day": 7,
+        "day_of_week": "일",
+        "event_name": "2027 부천국제10km로드레이스",
+        "tags": [
+            "10km",
+            "3.5km 건강달리기"
+        ],
+        "location": "부천시청 차없는거리",
+        "organizer": [
+            "부천시육상연맹"
+        ],
+        "phone": "032-613-7524",
+        "event_id": "41958",
+        "homepage": "http://bskrun.co.kr/",
+        "email": "bskrun@naver.com",
+        "representative": "노문선",
+        "start_time": "08:00",
+        "region": "경기",
+        "venue_detail": "부천시청 차없는거리",
+        "registration_period": "2026년11월10일~2027년1월6일",
+        "description": "부천국제10km로드레이스대회는 국제부 엘리트 선수와 일반 시민이 함께 달리는 부천의 대표적인 스포츠 행사로, 수준 높은 경기와 시민 참여가 어우러져 건강한 마라톤 문화 확산과 생활체육 활성화, 부천시의 위상 제고에 기여하고 있습니다.",
+        "latitude": 37.5035592,
+        "longitude": 126.7660883,
+        "map_address": "경기도 부천시 원미구 길주로 210"
+    },
+    {
+        "year": "2027",
+        "date": "3/13",
+        "month": 3,
+        "day": 13,
+        "day_of_week": "토",
+        "event_name": "2027 금산 인삼 웰빙 마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "금산인삼엑스포주차장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042- 638-1080",
+        "event_id": "41949",
+        "homepage": "http://mara1080.com/event/6397382b-be8d-4aee-b724-68f9fad03f29",
+        "email": " jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "9:00",
+        "region": "충남",
+        "venue_detail": "금산인삼엑스포주차장",
+        "registration_period": "2026년10월29일~2027년12월31일",
+        "description": "2027 금산 인삼 웰빙 마라톤대회",
+        "latitude": 36.0989049,
+        "longitude": 127.504106,
+        "map_address": "충남 금산군 금산읍 신대리 408"
     },
     {
         "year": "2027",
@@ -354,11 +563,42 @@
         "start_time": "07:30",
         "region": "부산",
         "venue_detail": "오시리아 동부산관광9로",
-        "registration_period": "2026년11월1일~2026년12월31일",
+        "registration_period": "2026년12월15일~2026년12월31일",
         "description": "오션뷰 코스하프 남여 우승자 SC홍콩마라톤 티켓마라톤파크 성명 동판 전시(참가자 전원)",
         "latitude": 35.1896073,
         "longitude": 129.2158576,
         "map_address": "부산광역시 기장군 기장읍 동부산관광9로 22"
+    },
+    {
+        "year": "2027",
+        "date": "4/24",
+        "month": 4,
+        "day": 24,
+        "day_of_week": "토",
+        "event_name": "2027 강릉 옥계헌화로11k RUN",
+        "tags": [
+            "10km",
+            "11k-개인",
+            "11k-커플런(2인-남",
+            "여)"
+        ],
+        "location": "강릉시 옥계면",
+        "organizer": [
+            "(주)강원도민일보"
+        ],
+        "phone": "033-651-0112",
+        "event_id": "41946",
+        "homepage": "http://www.강릉헌화로11k.com",
+        "email": "kkang7705@naver.com",
+        "representative": "경민현",
+        "start_time": "08",
+        "region": "강원",
+        "venue_detail": "강릉시 옥계면",
+        "registration_period": "2027년1월11일~2027년2월15일",
+        "description": "바다와 가장 가까운 해안도로를 달리며특별한 추억을 만들어 보세요~",
+        "latitude": 37.6267323,
+        "longitude": 129.0485254,
+        "map_address": "강원특별자치도 강릉시 옥계면 금진솔밭길 104-29"
     },
     {
         "year": "2027",
@@ -393,6 +633,36 @@
     },
     {
         "year": "2027",
+        "date": "9/26",
+        "month": 9,
+        "day": 26,
+        "day_of_week": "일",
+        "event_name": "2027 제3회 이순신트레일런",
+        "tags": [
+            "60km",
+            "46",
+            "30km"
+        ],
+        "location": "아산시 신정호 공원",
+        "organizer": [
+            "이순신트레일런 조직위원회"
+        ],
+        "phone": "010-9895-4702",
+        "event_id": "41950",
+        "homepage": "http://www.isunshintrail.com/",
+        "email": "jun-4444@hanmail.net",
+        "representative": "정현묵",
+        "start_time": "08:30",
+        "region": "충남",
+        "venue_detail": "아산시 신정호 공원",
+        "registration_period": "2027년7월1일~2027년8월31일",
+        "description": "입문자를 위한 30km 코스 신설",
+        "latitude": 36.772703,
+        "longitude": 126.9840748,
+        "map_address": "충남 아산시 신정로 616"
+    },
+    {
+        "year": "2027",
         "date": "10/9",
         "month": 10,
         "day": 9,
@@ -419,5 +689,35 @@
         "latitude": 36.783812,
         "longitude": 127.1657743,
         "map_address": "천안시 동남구 천안대로 400"
+    },
+    {
+        "year": "2027",
+        "date": "10/16",
+        "month": 10,
+        "day": 16,
+        "day_of_week": "토",
+        "event_name": "2027 경포마라톤대회",
+        "tags": [
+            "하프",
+            "10km",
+            "하프단체전"
+        ],
+        "location": "강릉 경포해변 중앙광장",
+        "organizer": [
+            "(주)강원도민일보"
+        ],
+        "phone": "033-651-0112",
+        "event_id": "41955",
+        "homepage": "http://www.강릉헌화로11k.com",
+        "email": "kkang7705@naver.com",
+        "representative": "김중석 경민현",
+        "start_time": "08",
+        "region": "강원",
+        "venue_detail": "강릉 경포해변 중앙광장",
+        "registration_period": "2027년6월14일~2027년7월21일",
+        "description": "솔향, 바다향, 커피향이 가득한 강릉 해안선을 달린다.",
+        "latitude": 37.8052239,
+        "longitude": 128.9067457,
+        "map_address": "강원특별자치도 강릉시 경포로 515"
     }
 ]
