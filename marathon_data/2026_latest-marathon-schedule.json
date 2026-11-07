@@ -14592,31 +14592,6 @@
         "month": 11,
         "day": 7,
         "day_of_week": "토",
-        "event_name": "남한산성트레일",
-        "tags": [
-            "13km"
-        ],
-        "location": "산성로타리",
-        "organizer": [
-            "명품트레일런"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "41787",
-        "homepage": "http://www.mtrailrun.kr/",
-        "email": "navido@gmail.com",
-        "representative": "이태재",
-        "start_time": "09:00",
-        "region": "경기",
-        "venue_detail": "산성로타리",
-        "registration_period": "2026년8월29일~2026년11월6일",
-        "description": "역사의 현장을 두발로 달려보는 남한산성길입니닺"
-    },
-    {
-        "year": "2026",
-        "date": "11/7",
-        "month": 11,
-        "day": 7,
-        "day_of_week": "토",
         "event_name": "2026 문경 레전드 트레일 백두대간",
         "tags": [
             "50k",
@@ -17125,35 +17100,6 @@
         "month": 11,
         "day": 29,
         "day_of_week": "일",
-        "event_name": "2026 대전보문산트레일",
-        "tags": [
-            "15km",
-            "10km"
-        ],
-        "location": "오월드 주차장",
-        "organizer": [
-            "명품 파브코리아"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "41744",
-        "homepage": "http://www.mtrailrun.kr/",
-        "email": "navido@gmail.com",
-        "representative": "김준형",
-        "start_time": "09:00",
-        "region": "전남",
-        "venue_detail": "오월드 주차장",
-        "registration_period": "2026년8월28일~2026년11월28일",
-        "description": "대전의 명산 보문산 둘레길을 한바퀴도는 명품주로 입니다",
-        "latitude": 34.6059687,
-        "longitude": 127.539156,
-        "map_address": "전남광주통합특별시 여수시 화정면 여산길 79"
-    },
-    {
-        "year": "2026",
-        "date": "11/29",
-        "month": 11,
-        "day": 29,
-        "day_of_week": "일",
         "event_name": "제14회 안중근 평화 마라톤",
         "tags": [
             "하프",
@@ -17544,6 +17490,35 @@
         "month": 12,
         "day": 6,
         "day_of_week": "일",
+        "event_name": "2026 대전보문산트레일",
+        "tags": [
+            "15km",
+            "10km"
+        ],
+        "location": "오월드 주차장",
+        "organizer": [
+            "명품/파브코리아"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41744",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "김준형/이태재",
+        "start_time": "09:00",
+        "region": "대전",
+        "venue_detail": "오월드 주차장",
+        "registration_period": "2026년8월28일~2026년12월5일",
+        "description": "대전의 명산 보문산 둘레길을 한바퀴도는 명품주로 입니다",
+        "latitude": 34.6059687,
+        "longitude": 127.539156,
+        "map_address": "전남광주통합특별시 여수시 화정면 여산길 79"
+    },
+    {
+        "year": "2026",
+        "date": "12/6",
+        "month": 12,
+        "day": 6,
+        "day_of_week": "일",
         "event_name": "2026 부산브릿지 마라톤",
         "tags": [
             "풀",
@@ -17596,32 +17571,6 @@
         "latitude": 37.563534,
         "longitude": 126.8984371,
         "map_address": "서울특별시 마포구 월드컵로 243-60"
-    },
-    {
-        "year": "2026",
-        "date": "12/6",
-        "month": 12,
-        "day": 6,
-        "day_of_week": "일",
-        "event_name": "대전보문산트레일런",
-        "tags": [
-            "15km",
-            "10km"
-        ],
-        "location": "수서역6번출구",
-        "organizer": [
-            "파브코리아/명품트레일"
-        ],
-        "phone": "010-3526-9120",
-        "event_id": "41642",
-        "homepage": "http://www.mtrailrun.kr/",
-        "email": "etetgo@hanmail.net",
-        "representative": "이태재",
-        "start_time": "09:00",
-        "region": "대전",
-        "venue_detail": "수서역6번출구",
-        "registration_period": "2026년8월15일~2026년12월5일",
-        "description": "대전 보문산 들레길을 한바퀴도는 코스입니다"
     },
     {
         "year": "2026",
@@ -17892,6 +17841,32 @@
         "month": 12,
         "day": 13,
         "day_of_week": "일",
+        "event_name": "부산금정산성트레일",
+        "tags": [
+            "18km",
+            "10km"
+        ],
+        "location": "금정산성공원",
+        "organizer": [
+            "파브코리아/명품트레일"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41642",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "etetgo@hanmail.net",
+        "representative": "이태재",
+        "start_time": "09:00",
+        "region": "부산",
+        "venue_detail": "금정산성공원",
+        "registration_period": "2026년8월15일~2026년12월12일",
+        "description": "부산의 진산 금정산성을 따라 한바퀴도는 코스입니다"
+    },
+    {
+        "year": "2026",
+        "date": "12/13",
+        "month": 12,
+        "day": 13,
+        "day_of_week": "일",
         "event_name": "2026 시즌마감마라톤대회",
         "tags": [
             "하프",
@@ -17916,6 +17891,32 @@
         "latitude": 37.5476153,
         "longitude": 126.6666172,
         "map_address": "인천광역시 서해구 봉수대로 806"
+    },
+    {
+        "year": "2026",
+        "date": "12/27",
+        "month": 12,
+        "day": 27,
+        "day_of_week": "일",
+        "event_name": "경주 통포트레일",
+        "tags": [
+            "18km",
+            "10km"
+        ],
+        "location": "경주남산 통일전주차장",
+        "organizer": [
+            "명품트레일런"
+        ],
+        "phone": "010-3526-9120",
+        "event_id": "41787",
+        "homepage": "http://www.mtrailrun.kr/",
+        "email": "navido@gmail.com",
+        "representative": "이태재",
+        "start_time": "09:00",
+        "region": "경기",
+        "venue_detail": "경주남산 통일전주차장",
+        "registration_period": "2026년8월29일~2026년12월26일",
+        "description": "경주의 남산천불 천탑의 서기가 어려 있는곳통일전에서 출발해 금오산 경유 포석정까지 임도를 왕복하는 코스입니다"
     },
     {
         "year": "2026",
