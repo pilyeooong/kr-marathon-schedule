@@ -602,34 +602,66 @@
     },
     {
         "year": "2027",
-        "date": "5/9",
+        "date": "5/16",
         "month": 5,
-        "day": 9,
+        "day": 16,
         "day_of_week": "일",
         "event_name": "소아암환우돕기 제24회 서울시민마라톤",
         "tags": [
             "하프",
             "10km",
             "5km",
-            "3km 걷기"
+            "3km걷기"
         ],
         "location": "여의도 한강 물빛광장",
         "organizer": [
-            "{사}소아암환우돕기 조직위"
+            "(사)소아암환우돕기 마라조직위"
         ],
         "phone": "02-2647-4488",
-        "event_id": "41907",
-        "homepage": "http://soaam.runningdr.co.kr",
+        "event_id": "41967",
+        "homepage": "http://soaam.runningdr.co.kr/",
         "email": "yck0423@hanmail.net",
         "representative": "윤찬기",
         "start_time": "08:00",
         "region": "서울",
         "venue_detail": "여의도 한강 물빛광장",
-        "registration_period": "2027년1월18일~2027년3월30일",
-        "description": "마라톤대회의 수익금은 소아암어린이 치료비로 기부를하는 자전행사 마라톤대회 입니다현재까지 총 기부액금액 10억 3천 5백만원을 기부하였습니다국내 최초 소아암어린이돕기 기부액 10억원 이상을 달성하였습니다",
-        "latitude": 37.5308485,
-        "longitude": 126.9277457,
-        "map_address": "서울특별시 영등포구 한강남자전거길 1451"
+        "registration_period": "2027년1월18일~2027년2월22일",
+        "description": "-수익금을 소아암어린이 치료비로 기부하는 자선행사 마라톤대회 입니다-2026년 11월까지 총 10억 3천 5백만원을 기부하였으며-참가자 여러분께서ㅕ 함께하여 주셔서 가능한 행사입니다",
+        "latitude": 37.5263362,
+        "longitude": 126.9336402,
+        "map_address": "서울특별시 영등포구 여의동로 330"
+    },
+    {
+        "year": "2027",
+        "date": "5/23",
+        "month": 5,
+        "day": 23,
+        "day_of_week": "일",
+        "event_name": "희망드림 제24회 새벽강변 국제마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km",
+            "3km가족런"
+        ],
+        "location": "여의도 한강 물빛광장",
+        "organizer": [
+            "세계일보",
+            "(사)한국마라톤협회"
+        ],
+        "phone": "02-2647-4488",
+        "event_id": "41968",
+        "homepage": "http://amarunsb.com/",
+        "email": "yck0423@hanmail.net",
+        "representative": "윤찬기",
+        "start_time": "08:00",
+        "region": "서울",
+        "venue_detail": "여의도 한강 물빛광장",
+        "registration_period": "2027년1월25일~2027년2월26일",
+        "description": "-행사 수익금을 소아암어린이등 어려운 이웃에게 기부하는 행사입니다-참가자 여러분이 뜻깊은 행사의 주인공입니다",
+        "latitude": 37.5318647,
+        "longitude": 126.9232253,
+        "map_address": "서울특별시 영등포구 여의서로 62"
     },
     {
         "year": "2027",

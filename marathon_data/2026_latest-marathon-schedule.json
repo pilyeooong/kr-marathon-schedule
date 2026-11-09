@@ -17670,6 +17670,35 @@
         "month": 12,
         "day": 12,
         "day_of_week": "토",
+        "event_name": "화성레이스",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "봉담2생태체육공원",
+        "organizer": [
+            "화성시러닝크루연맹"
+        ],
+        "phone": "010-9805-4983",
+        "event_id": "41966",
+        "homepage": "http://hwaseongrace.com",
+        "email": "smallloveun@naver.com",
+        "representative": "박현묘",
+        "start_time": ":",
+        "region": "경기",
+        "venue_detail": "봉담2생태체육공원",
+        "registration_period": "2026년11월4일~2026년11월14일",
+        "description": "함께 달리는 더 큰 내일!!!RUN TO A BRIGHTER TOMORROW경기도 화성시 봉담생태공원에서 2026 화성레이스'가 개최됩니 다!!!!RUN TO A BRIGHTER TOMORROW (더 밝은 내일을 향해 달리다)라는 슬로건 아래, 달리기를 통해 시민들의 건강한 일상을 응원하고 지역사회에 새로운 활력을 불어넣기 위해 개최되는 화성 레이스 마라톤대회에 여러분들을 초대합니다.",
+        "latitude": 37.2255294,
+        "longitude": 126.9426382,
+        "map_address": "경기 화성시 효행구 봉담읍 상리 1길87"
+    },
+    {
+        "year": "2026",
+        "date": "12/12",
+        "month": 12,
+        "day": 12,
+        "day_of_week": "토",
         "event_name": "2026 ONE MORE RUN",
         "tags": [
             "하프",
@@ -17848,7 +17877,7 @@
         ],
         "location": "금정산성공원",
         "organizer": [
-            "파브코리아/명품트레일"
+            "파브코리아/명품"
         ],
         "phone": "010-3526-9120",
         "event_id": "41642",
