@@ -16688,7 +16688,7 @@
         "start_time": "08:30",
         "region": "서울",
         "venue_detail": "(영등포) 영롱이 억새구장",
-        "registration_period": "2026년8월20일~2026년11월16일",
+        "registration_period": "2026년8월20일~2026년11월15일",
         "description": "서울 한강과 안양천의 상징 억새풀 마라톤행사입니다",
         "latitude": 37.5178604,
         "longitude": 126.8819583,
@@ -18584,7 +18584,6 @@
         "day_of_week": "토",
         "event_name": "2027 강릉 옥계헌화로11k RUN",
         "tags": [
-            "10km",
             "11k-개인",
             "11k-커플런(2인-남",
             "여)"
