@@ -16584,6 +16584,38 @@
         "month": 11,
         "day": 22,
         "day_of_week": "일",
+        "event_name": "마르 백야드울트라6",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km",
+            "6.704km 루프"
+        ],
+        "location": "제주시 월각로 783",
+        "organizer": [
+            "(주)마르어드벤처"
+        ],
+        "phone": "010-8691-2251",
+        "event_id": "41972",
+        "homepage": "http://events.maar-adv.com/backyardultra",
+        "email": "jeju.backyard@maar-adv.com",
+        "representative": "강민석",
+        "start_time": "12:00",
+        "region": "제주",
+        "venue_detail": "제주시 월각로 783",
+        "registration_period": "2026년11월1일~2026년11월20일",
+        "description": "한국에서 개최되는 백야드 울트라!그 6라운드를 처음으로 선보입니다.",
+        "latitude": 33.3615956,
+        "longitude": 126.3433586,
+        "map_address": "제주특별자치도 제주시 애월읍 월각로 783"
+    },
+    {
+        "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
         "event_name": "부산항일학생의거86주년기념 부산시민이어달리기",
         "tags": [
             "이어달리기16키로"
@@ -17079,7 +17111,7 @@
             "10km",
             "5km"
         ],
-        "location": "롯데워터파크 제3주차장",
+        "location": "가동교차로 (경남 김해시 한림면 가동리)",
         "organizer": [
             "김해시장애인육상연맹"
         ],
@@ -17090,9 +17122,9 @@
         "representative": "윤세빈",
         "start_time": "08",
         "region": "경남",
-        "venue_detail": "롯데워터파크 제3주차장",
+        "venue_detail": "가동교차로 (경남 김해시 한림면 가동리)",
         "registration_period": "2026년8월13일~2026년10월25일",
-        "description": "2,000년 가야의 역사 위를 달리다전설의 땅 장유에서 펼쳐지는 시원한 레이스!탁 트인 장유로에서 하프 / 10km / 5km 코스의 매력을 만끽하세요.장애인과 비장애인이 함께하는 어울림 마라톤입니다 :)"
+        "description": "2,000년 가야의 역사 위를 달리다김해 한림에서 펼쳐지는 시원한 레이스!집결지: 가동교차로 (경남 김해시 한림면 가동리)하프 / 10km / 5km 코스의 매력을 만끽하세요.장애인과 비장애인이 함께하는 어울림 마라톤입니다 :)"
     },
     {
         "year": "2026",
@@ -17331,6 +17363,36 @@
         "latitude": 36.0995774,
         "longitude": 127.5021549,
         "map_address": "충청남도 금산군 금산읍 인삼광장로 20"
+    },
+    {
+        "year": "2026",
+        "date": "12/5",
+        "month": 12,
+        "day": 5,
+        "day_of_week": "토",
+        "event_name": "2026 유관순 평화 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "천안 독립기념관 겨레의 큰 마",
+        "organizer": [
+            "천안시체육회",
+            "대전일보사"
+        ],
+        "phone": "042-335-2543",
+        "event_id": "41982",
+        "homepage": "http://ryugwansun.co.kr/",
+        "email": "planda@planda.kr",
+        "representative": "김재철",
+        "start_time": "9",
+        "region": "충남",
+        "venue_detail": "천안 독립기념관 겨레의 큰 마",
+        "registration_period": "2026년11월17일~2026년11월23일",
+        "description": "2026 유관순 평화 마라톤 대회2026년 12월 5일 토요일 08:00 ~ 13:00천안 독립기념관 겨레의 큰 마당참가종목10km · 5km참가비10km 30,000원 / 5km 20,000원입금계좌농협은행 301-0274-8024-11 (예금주 천안시체육회)",
+        "latitude": 36.7828393,
+        "longitude": 127.2237657,
+        "map_address": "충청남도 천안시 동남구 목천읍 독립기념관로 1"
     },
     {
         "year": "2026",

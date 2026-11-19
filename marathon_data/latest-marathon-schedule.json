@@ -16584,6 +16584,38 @@
         "month": 11,
         "day": 22,
         "day_of_week": "일",
+        "event_name": "마르 백야드울트라6",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km",
+            "6.704km 루프"
+        ],
+        "location": "제주시 월각로 783",
+        "organizer": [
+            "(주)마르어드벤처"
+        ],
+        "phone": "010-8691-2251",
+        "event_id": "41972",
+        "homepage": "http://events.maar-adv.com/backyardultra",
+        "email": "jeju.backyard@maar-adv.com",
+        "representative": "강민석",
+        "start_time": "12:00",
+        "region": "제주",
+        "venue_detail": "제주시 월각로 783",
+        "registration_period": "2026년11월1일~2026년11월20일",
+        "description": "한국에서 개최되는 백야드 울트라!그 6라운드를 처음으로 선보입니다.",
+        "latitude": 33.3615956,
+        "longitude": 126.3433586,
+        "map_address": "제주특별자치도 제주시 애월읍 월각로 783"
+    },
+    {
+        "year": "2026",
+        "date": "11/22",
+        "month": 11,
+        "day": 22,
+        "day_of_week": "일",
         "event_name": "부산항일학생의거86주년기념 부산시민이어달리기",
         "tags": [
             "이어달리기16키로"
@@ -17079,7 +17111,7 @@
             "10km",
             "5km"
         ],
-        "location": "롯데워터파크 제3주차장",
+        "location": "가동교차로 (경남 김해시 한림면 가동리)",
         "organizer": [
             "김해시장애인육상연맹"
         ],
@@ -17090,9 +17122,9 @@
         "representative": "윤세빈",
         "start_time": "08",
         "region": "경남",
-        "venue_detail": "롯데워터파크 제3주차장",
+        "venue_detail": "가동교차로 (경남 김해시 한림면 가동리)",
         "registration_period": "2026년8월13일~2026년10월25일",
-        "description": "2,000년 가야의 역사 위를 달리다전설의 땅 장유에서 펼쳐지는 시원한 레이스!탁 트인 장유로에서 하프 / 10km / 5km 코스의 매력을 만끽하세요.장애인과 비장애인이 함께하는 어울림 마라톤입니다 :)"
+        "description": "2,000년 가야의 역사 위를 달리다김해 한림에서 펼쳐지는 시원한 레이스!집결지: 가동교차로 (경남 김해시 한림면 가동리)하프 / 10km / 5km 코스의 매력을 만끽하세요.장애인과 비장애인이 함께하는 어울림 마라톤입니다 :)"
     },
     {
         "year": "2026",
@@ -17331,6 +17363,36 @@
         "latitude": 36.0995774,
         "longitude": 127.5021549,
         "map_address": "충청남도 금산군 금산읍 인삼광장로 20"
+    },
+    {
+        "year": "2026",
+        "date": "12/5",
+        "month": 12,
+        "day": 5,
+        "day_of_week": "토",
+        "event_name": "2026 유관순 평화 마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "천안 독립기념관 겨레의 큰 마",
+        "organizer": [
+            "천안시체육회",
+            "대전일보사"
+        ],
+        "phone": "042-335-2543",
+        "event_id": "41982",
+        "homepage": "http://ryugwansun.co.kr/",
+        "email": "planda@planda.kr",
+        "representative": "김재철",
+        "start_time": "9",
+        "region": "충남",
+        "venue_detail": "천안 독립기념관 겨레의 큰 마",
+        "registration_period": "2026년11월17일~2026년11월23일",
+        "description": "2026 유관순 평화 마라톤 대회2026년 12월 5일 토요일 08:00 ~ 13:00천안 독립기념관 겨레의 큰 마당참가종목10km · 5km참가비10km 30,000원 / 5km 20,000원입금계좌농협은행 301-0274-8024-11 (예금주 천안시체육회)",
+        "latitude": 36.7828393,
+        "longitude": 127.2237657,
+        "map_address": "충청남도 천안시 동남구 목천읍 독립기념관로 1"
     },
     {
         "year": "2026",
@@ -18372,6 +18434,36 @@
         "month": 2,
         "day": 28,
         "day_of_week": "일",
+        "event_name": "2027 경기수원국제하프마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "수원종합운동장",
+        "organizer": [
+            "경기신문"
+        ],
+        "phone": "031-575-7243",
+        "event_id": "41983",
+        "homepage": "http://ggimarathon.com",
+        "email": "help@blueimg.co.kr",
+        "representative": "조환석",
+        "start_time": "7",
+        "region": "경기",
+        "venue_detail": "수원종합운동장",
+        "registration_period": "2026년11월20일~2026년11월30일",
+        "description": "",
+        "latitude": 37.2977747,
+        "longitude": 127.0113659,
+        "map_address": "경기도 수원시 장안구 경수대로 893"
+    },
+    {
+        "year": "2027",
+        "date": "2/28",
+        "month": 2,
+        "day": 28,
+        "day_of_week": "일",
         "event_name": "2027 대구마라톤",
         "tags": [
             "풀",
@@ -18517,6 +18609,33 @@
     },
     {
         "year": "2027",
+        "date": "3/14",
+        "month": 3,
+        "day": 14,
+        "day_of_week": "일",
+        "event_name": "2027 부산다대포마라톤",
+        "tags": [
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "부산 다대포해변공원 도로 앞",
+        "organizer": [
+            "부산다대포마라톤조직위"
+        ],
+        "phone": "051-710-2030",
+        "event_id": "41981",
+        "homepage": "http://dadaeporun.kr",
+        "email": "marathon2030@daum.net",
+        "representative": "김상중",
+        "start_time": "09:00",
+        "region": "부산",
+        "venue_detail": "부산 다대포해변공원 도로 앞",
+        "registration_period": "2026년11월17일~2026년12월5일",
+        "description": "도시, 바다, 그리고 러닝 천혜의 자연경관"
+    },
+    {
+        "year": "2027",
         "date": "3/21",
         "month": 3,
         "day": 21,
@@ -18573,6 +18692,37 @@
         "latitude": 35.1883802,
         "longitude": 128.5646913,
         "map_address": "경상남도 창원시 마산합포구 해안대로 148"
+    },
+    {
+        "year": "2027",
+        "date": "3/28",
+        "month": 3,
+        "day": 28,
+        "day_of_week": "일",
+        "event_name": "제26회 합천벚꽃마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "합천공설운동장",
+        "organizer": [
+            "합천군체육회"
+        ],
+        "phone": "055-931-9625",
+        "event_id": "41980",
+        "homepage": "http://www.hcmrt.or.kr/ko/index.html",
+        "email": "sportshc@naver.com",
+        "representative": "합천벚꽃마라톤대회장",
+        "start_time": "09:00",
+        "region": "경남",
+        "venue_detail": "합천공설운동장",
+        "registration_period": "2026년12월1일~2026년12월31일",
+        "description": "[신청접수 안내] ★선착순마감★- 풀/하프 : 2026년 12월 1일(화) 10:00 ~- 10km/5km : 2026년 12월 2일(수) 10:00 ~- 단체대항전 : 2026년 12월 7일(월) 10:00 ~",
+        "latitude": 35.5619098,
+        "longitude": 128.1522085,
+        "map_address": "경상남도 합천군 합천읍 장수로 1-1"
     },
     {
         "year": "2027",
