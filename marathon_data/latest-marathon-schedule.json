@@ -17111,7 +17111,7 @@
             "10km",
             "5km"
         ],
-        "location": "가동교차로 (경남 김해시 한림면 가동리)",
+        "location": "가동교차로 (김해시 한림면 가동리)",
         "organizer": [
             "김해시장애인육상연맹"
         ],
@@ -17122,7 +17122,7 @@
         "representative": "윤세빈",
         "start_time": "08",
         "region": "경남",
-        "venue_detail": "가동교차로 (경남 김해시 한림면 가동리)",
+        "venue_detail": "가동교차로 (김해시 한림면 가동리)",
         "registration_period": "2026년8월13일~2026년10월25일",
         "description": "2,000년 가야의 역사 위를 달리다김해 한림에서 펼쳐지는 시원한 레이스!집결지: 가동교차로 (경남 김해시 한림면 가동리)하프 / 10km / 5km 코스의 매력을 만끽하세요.장애인과 비장애인이 함께하는 어울림 마라톤입니다 :)"
     },
@@ -17138,7 +17138,7 @@
             "10km",
             "5km"
         ],
-        "location": "여의도공원 문화의마당",
+        "location": "신정교하부 육상트랙구장",
         "organizer": [
             "안중근평화재단청년아카데미"
         ],
@@ -17149,12 +17149,9 @@
         "representative": "정광일",
         "start_time": "07:30",
         "region": "서울",
-        "venue_detail": "여의도공원 문화의마당",
+        "venue_detail": "신정교하부 육상트랙구장",
         "registration_period": "2026년7월31일~2026년11월22일",
-        "description": "기억을 넘어 실천으로, 달림으로 이어가는 평화의 길!! 함께 달리는 오늘의 한 걸음이 더 나은 내일을 만드는 용기가 되고, 우리 모두의 마음속에 평화를 향한 의지를 오래 남기기를 소망합니다.",
-        "latitude": 37.5268088,
-        "longitude": 126.9222841,
-        "map_address": "서울특별시 영등포구 여의공원로 68"
+        "description": "기억을 넘어 실천으로, 달림으로 이어가는 평화의 길!! 함께 달리는 오늘의 한 걸음이 더 나은 내일을 만드는 용기가 되고, 우리 모두의 마음속에 평화를 향한 의지를 오래 남기기를 소망합니다."
     },
     {
         "year": "2026",
@@ -17628,7 +17625,7 @@
         "start_time": ":",
         "region": "서울",
         "venue_detail": "상암동 평화의공원 평화광장",
-        "registration_period": "2026년9월9일~2026년11월22일",
+        "registration_period": "2026년9월9일~2026년12월1일",
         "description": "금빛청춘레이스에서 청춘런까지, 여섯 번째 달리기함께 달리는 청춘, 함께 웃는 내일2026 청춘런청춘런 수익금의 일부는 초록우산을 통해자립준비청년의 주거, 교육, 취업, 생활 안정 등자립 지원 사업에 사용됩니다.당신의 한 걸음이 누군가의 새로운 시작이 됩니다.함께 달리며, 청춘의 내일을 응원해주세요!",
         "latitude": 37.563534,
         "longitude": 126.8984371,
@@ -18218,6 +18215,35 @@
     },
     {
         "year": "2027",
+        "date": "1/31",
+        "month": 1,
+        "day": 31,
+        "day_of_week": "일",
+        "event_name": "2027 평창 대관령 알몸마라톤",
+        "tags": [
+            "10km",
+            "5km"
+        ],
+        "location": "대관령눈꽃축제장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41985",
+        "homepage": "http://mara1080.com/event/d243ad5f-f193-4e72-9c7e-c46969437cf8",
+        "email": "jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "10:30",
+        "region": "강원",
+        "venue_detail": "대관령눈꽃축제장",
+        "registration_period": "2026년11월19일~2027년1월31일",
+        "description": "2027 평창 대관령에서 개최되는 평창 대관령 알몸마라톤입니다.",
+        "latitude": 37.6725492,
+        "longitude": 128.7110237,
+        "map_address": "강원특별자치도 평창군 대관령면 대관령로 135-9"
+    },
+    {
+        "year": "2027",
         "date": "2/13",
         "month": 2,
         "day": 13,
@@ -18233,7 +18259,7 @@
         ],
         "phone": "042- 638-1080",
         "event_id": "41931",
-        "homepage": "http://mara1080.com/event/f3c362bc-532f-4f3c-bc21-76d3023bfb3a",
+        "homepage": "http://mara1080.com/event/c0c0a4a4-eb54-4f93-a0b8-f21d9b2bd168",
         "email": " jeonmahyeop@naver.com",
         "representative": "장영기",
         "start_time": "9:00",
@@ -18434,6 +18460,37 @@
         "month": 2,
         "day": 28,
         "day_of_week": "일",
+        "event_name": "제11회 산불조심한국 서울마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "6km"
+        ],
+        "location": "수서 광평교",
+        "organizer": [
+            "한국트레일러너연맹"
+        ],
+        "phone": "02-424-2195",
+        "event_id": "41963",
+        "homepage": "http://www.nobulrun.com/",
+        "email": "komori1127@naver.com",
+        "representative": "박충규",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "수서 광평교",
+        "registration_period": "2026년11월8일~2027년1월31일",
+        "description": "산불조심 우수 단체로 제25회 산의날 대통령 표창 수상 기념으로 합니다.많은 참가로 산불예방을 하여 국가와 사회에 공헌하시기 바랍니다.",
+        "latitude": 37.4887135,
+        "longitude": 127.1050561,
+        "map_address": "서울특별시 강남구 광평로 303 (광평교)"
+    },
+    {
+        "year": "2027",
+        "date": "2/28",
+        "month": 2,
+        "day": 28,
+        "day_of_week": "일",
         "event_name": "2027 경기수원국제하프마라톤",
         "tags": [
             "하프",
@@ -18512,7 +18569,7 @@
         "start_time": "9",
         "region": "서울",
         "venue_detail": "뚝섬한강공원 수변무대",
-        "registration_period": "2026년10월6일~2026년10월12일",
+        "registration_period": "2026년10월6일~2027년3월1일",
         "description": "2027머니투데이방송 삼일절 마라톤대회",
         "latitude": 37.5315862,
         "longitude": 127.0667177,
@@ -18636,6 +18693,35 @@
     },
     {
         "year": "2027",
+        "date": "3/14",
+        "month": 3,
+        "day": 14,
+        "day_of_week": "일",
+        "event_name": "제28회 이천 도자기 마라톤",
+        "tags": [
+            "하프",
+            "10km"
+        ],
+        "location": "이천종합운동장",
+        "organizer": [
+            "이천시체육회"
+        ],
+        "phone": "042-638-1080",
+        "event_id": "41986",
+        "homepage": "http://mara1080.com/event/2b3a03c4-4fc6-4d34-8a33-2449fafcaa23",
+        "email": "jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "08:30",
+        "region": "경기",
+        "venue_detail": "이천종합운동장",
+        "registration_period": "2026년11월23일~2027년3월14일",
+        "description": "제28회 이천 도자기 마라톤대회입니다.",
+        "latitude": 37.2858859,
+        "longitude": 127.4966515,
+        "map_address": "경기도 이천시 부발읍 중부대로 1696"
+    },
+    {
+        "year": "2027",
         "date": "3/21",
         "month": 3,
         "day": 21,
@@ -18756,6 +18842,38 @@
     },
     {
         "year": "2027",
+        "date": "4/4",
+        "month": 4,
+        "day": 4,
+        "day_of_week": "일",
+        "event_name": "2027 영주소백산마라톤",
+        "tags": [
+            "풀",
+            "하프",
+            "10km",
+            "5km"
+        ],
+        "location": "영주시민운동장",
+        "organizer": [
+            "영주시",
+            "매일신문사"
+        ],
+        "phone": "031-575-7243",
+        "event_id": "41984",
+        "homepage": "http://www.sobaekmarathon.go.kr",
+        "email": "help@blueimg.co.kr",
+        "representative": "조환석",
+        "start_time": "9",
+        "region": "경북",
+        "venue_detail": "영주시민운동장",
+        "registration_period": "2026년11월23일~2026년12월31일",
+        "description": "",
+        "latitude": 36.8071141,
+        "longitude": 128.6101831,
+        "map_address": "경북 영주시 가흥동 산21-10 산21-1"
+    },
+    {
+        "year": "2027",
         "date": "4/10",
         "month": 4,
         "day": 10,
@@ -18783,6 +18901,35 @@
         "latitude": 37.5183647,
         "longitude": 126.8776954,
         "map_address": "서울특별시 양천구 안양천로 812"
+    },
+    {
+        "year": "2027",
+        "date": "4/11",
+        "month": 4,
+        "day": 11,
+        "day_of_week": "일",
+        "event_name": "제6회 산악울트라 UTMB,ITRA",
+        "tags": [
+            "90km",
+            "38km"
+        ],
+        "location": "수서역7번출구",
+        "organizer": [
+            "(사)한국산악마라톤연맹"
+        ],
+        "phone": "02-424-2195",
+        "event_id": "41930",
+        "homepage": "http://koreatrail.net",
+        "email": "komori1127@naver.com",
+        "representative": "최원희",
+        "start_time": "09:00",
+        "region": "서울",
+        "venue_detail": "수서역7번출구",
+        "registration_period": "2026년10월15일~2026년12월15일",
+        "description": "자연 그대로 산과 들을 거침없이 달리며 산불예방을 합니다.대통령 표창 기념으로 하며 청계산과 형제봉 검단산만 고도가 좀 있고 거의 야산입니다.",
+        "latitude": 37.4854187,
+        "longitude": 127.1045603,
+        "map_address": "서울 강남구 밤고개로 99"
     },
     {
         "year": "2027",
@@ -18904,6 +19051,37 @@
         "latitude": 36.0086102,
         "longitude": 129.3638275,
         "map_address": "경상북도 포항시 남구 희망대로 810"
+    },
+    {
+        "year": "2027",
+        "date": "5/16",
+        "month": 5,
+        "day": 16,
+        "day_of_week": "일",
+        "event_name": "제39회지리산UTMB INDEX 및 ITRA",
+        "tags": [
+            "48km",
+            "40km",
+            "34km",
+            "21km"
+        ],
+        "location": "화엄사주차징",
+        "organizer": [
+            "(사)한국산악마라톤전남광주연맹"
+        ],
+        "phone": "010-3631-1413",
+        "event_id": "41964",
+        "homepage": "http://koreatrail.net",
+        "email": "trail1127@daum.net",
+        "representative": "최 기",
+        "start_time": "03:00",
+        "region": "전남",
+        "venue_detail": "화엄사주차징",
+        "registration_period": "2026년11월8일~2027년4월31일",
+        "description": "제25회 산의낭 임업 및 산불예방 등 공로로 대통령 표창을 수상한 기념으로국제대회를 개최 하니 여러분의 많은 관심 바랍니다.",
+        "latitude": 35.2439343,
+        "longitude": 127.4863706,
+        "map_address": "전남광주통합특별시 구례군 마산면 화엄사로 377-24"
     },
     {
         "year": "2027",
