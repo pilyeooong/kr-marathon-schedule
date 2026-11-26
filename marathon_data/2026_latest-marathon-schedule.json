@@ -17982,6 +17982,37 @@
     },
     {
         "year": "2026",
+        "date": "12/19",
+        "month": 12,
+        "day": 19,
+        "day_of_week": "토",
+        "event_name": "2026금산 송년 무료 초청 마라톤 축제",
+        "tags": [
+            "풀",
+            "10km",
+            "4km",
+            "20km"
+        ],
+        "location": "금산세계인삼엑스포주차장",
+        "organizer": [
+            "전국마라톤협회"
+        ],
+        "phone": "042- 638-1080",
+        "event_id": "41994",
+        "homepage": "http://mara1080.com/event/6397382b-be8d-4aee-b724-68f9fad03f29",
+        "email": " jeonmahyeop@naver.com",
+        "representative": "장영기",
+        "start_time": "9:00",
+        "region": "충남",
+        "venue_detail": "금산세계인삼엑스포주차장",
+        "registration_period": "2026년11월24일~2026년12월11일",
+        "description": "2026금산 송년 무료 초청 마라톤 축제",
+        "latitude": 36.5281203,
+        "longitude": 126.8511655,
+        "map_address": "충청남도 청양군 운곡면 신대길 42"
+    },
+    {
+        "year": "2026",
         "date": "12/27",
         "month": 12,
         "day": 27,
