@@ -18933,6 +18933,36 @@
     },
     {
         "year": "2027",
+        "date": "3/20",
+        "month": 3,
+        "day": 20,
+        "day_of_week": "토",
+        "event_name": "2027 제11회 포항철강마라톤",
+        "tags": [
+            "10km",
+            "5km",
+            "5km 학생"
+        ],
+        "location": "송도해수욕장 일원",
+        "organizer": [
+            "경북매일신문"
+        ],
+        "phone": "00-1600-3949",
+        "event_id": "41995",
+        "homepage": "http://phsteelrun.com",
+        "email": "m2569109@naver.com",
+        "representative": "사무국",
+        "start_time": "09:00",
+        "region": "경북",
+        "venue_detail": "송도해수욕장 일원",
+        "registration_period": "2027년1월4일~2027년1월31일",
+        "description": "2027년 3월 20일, 가장 아름다운 해변 영일대에서 펼쳐지는2027 제11회 포항철강마라톤!!!많은 참여부탁 드립니다.",
+        "latitude": 36.0361131,
+        "longitude": 129.3786677,
+        "map_address": "경북 포항시 남구 송도동"
+    },
+    {
+        "year": "2027",
         "date": "3/21",
         "month": 3,
         "day": 21,
