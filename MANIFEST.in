@@ -1,5 +1,0 @@
-include README.md
-include requirements.txt
-include pyproject.toml
-recursive-include kr_marathon_schedule *.py
-recursive-include tests *.py
