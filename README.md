@@ -55,7 +55,7 @@ python scrap.py --no-detail  # 목록 페이지만 수집(빠름)
 }
 ```
 
-`--no-detail`로 실행하면 목록 페이지에서 얻는 `year`~`event_id`·`homepage`·`email`만 들어갑니다. `email`·`latitude`·`longitude`·`map_address`는 원문에 값이 없으면 빠집니다.
+`--no-detail`로 실행하면 목록 페이지에서 얻는 `year`~`event_id`·`homepage`·`email`만 들어갑니다. `event_id`·`homepage`·`email`과 상세 필드(`representative`부터 `map_address`까지)는 원문에 값이 없으면 빠질 수 있습니다.
 
 ## 데이터 주소
 
